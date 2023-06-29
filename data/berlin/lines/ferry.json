@@ -1,0 +1,416 @@
+{
+  "F10": {
+    "colors": {
+      "bg": "#0080BA",
+      "fg": "#FFFFFF"
+    },
+    "route_ids": [
+      "17429_1000"
+    ],
+    "transportType": "ferry",
+    "tracks": [
+      {
+        "origin": "S Wannsee Bhf (Berlin)",
+        "destination": "Alt-Kladow (Berlin)",
+        "stops": [
+          {
+            "id": "de:11000:900053301::7",
+            "name": "S Wannsee Bhf (Berlin)",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0.4829591743872683
+          },
+          {
+            "id": "de:11000:900039102::7",
+            "name": "Alt-Kladow (Berlin)",
+            "onTrackLocation": 0.4829591743872683,
+            "coordIndex": 2,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                13.17517,
+                52.422163
+              ],
+              [
+                13.169809,
+                52.434481
+              ],
+              [
+                13.167158,
+                52.437769
+              ],
+              [
+                13.148397,
+                52.451103
+              ]
+            ]
+          }
+        },
+        "id": "17429_1000__0"
+      }
+    ],
+    "origin": "Wannsee Bhf",
+    "destination": "Alt-Kladow"
+  },
+  "F11": {
+    "colors": {
+      "bg": "#0080BA",
+      "fg": "#FFFFFF"
+    },
+    "route_ids": [
+      "17430_1000"
+    ],
+    "transportType": "ferry",
+    "tracks": [
+      {
+        "origin": "Wilhelmstrand (Berlin)",
+        "destination": "Berlin, Baumschulenstr./Fähre",
+        "stops": [
+          {
+            "id": "de:11000:900181006::1",
+            "name": "Wilhelmstrand (Berlin)",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0
+          },
+          {
+            "id": "de:11000:900191513::3",
+            "name": "Berlin, Baumschulenstr./Fähre",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                13.496834,
+                52.474034
+              ],
+              [
+                13.494968,
+                52.472827
+              ]
+            ]
+          }
+        },
+        "id": "17430_1000__0"
+      }
+    ],
+    "origin": "Wilhelmstrand",
+    "destination": "Berlin, Baumschulenstr./Fähre"
+  },
+  "F12": {
+    "colors": {
+      "bg": "#0080BA",
+      "fg": "#FFFFFF"
+    },
+    "route_ids": [
+      "17431_1000"
+    ],
+    "transportType": "ferry",
+    "tracks": [
+      {
+        "origin": "Müggelbergallee (Berlin)",
+        "destination": "Berlin, Wassersportallee",
+        "stops": [
+          {
+            "id": "de:11000:900180014::3",
+            "name": "Müggelbergallee (Berlin)",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0
+          },
+          {
+            "id": "de:11000:900186002::3",
+            "name": "Berlin, Wassersportallee",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                13.586714,
+                52.418479
+              ],
+              [
+                13.583099,
+                52.417571
+              ]
+            ]
+          }
+        },
+        "id": "17431_1000__0"
+      }
+    ],
+    "origin": "Müggelbergallee",
+    "destination": "Berlin, Wassersportallee"
+  },
+  "F21": {
+    "colors": {
+      "bg": "#0080BA",
+      "fg": "#FFFFFF"
+    },
+    "route_ids": [
+      "17432_1000"
+    ],
+    "transportType": "ferry",
+    "tracks": [
+      {
+        "origin": "Berlin, Zum Seeblick",
+        "destination": "Krampenburg (Berlin)",
+        "stops": [
+          {
+            "id": "de:11000:900185501::7",
+            "name": "Berlin, Zum Seeblick",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 1
+          },
+          {
+            "id": "de:11000:900184506::1",
+            "name": "Krampenburg (Berlin)",
+            "onTrackLocation": 1,
+            "coordIndex": 4,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                13.645198,
+                52.382888
+              ],
+              [
+                13.649796,
+                52.385062
+              ],
+              [
+                13.650472,
+                52.386122
+              ],
+              [
+                13.650811,
+                52.387776
+              ],
+              [
+                13.649622,
+                52.388989
+              ]
+            ]
+          }
+        },
+        "id": "17432_1000__0"
+      }
+    ],
+    "origin": "Berlin, Zum Seeblick",
+    "destination": "Krampenburg"
+  },
+  "F23": {
+    "colors": {
+      "bg": "#0080BA",
+      "fg": "#FFFFFF"
+    },
+    "route_ids": [
+      "17433_1000"
+    ],
+    "transportType": "ferry",
+    "tracks": [
+      {
+        "origin": "Kruggasse (Berlin)",
+        "destination": "Müggelwerderweg (Berlin)",
+        "stops": [
+          {
+            "id": "de:11000:900183516::1",
+            "name": "Kruggasse (Berlin)",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0.21937560444629003
+          },
+          {
+            "id": "de:11000:900184508::1",
+            "name": "Neu Helgoland (Berlin)",
+            "onTrackLocation": 0.21937560444629003,
+            "coordIndex": 9,
+            "distanceToNextStop": 0.39082065602133065
+          },
+          {
+            "id": "de:11000:900180541::1",
+            "name": "Müggelhort (Berlin)",
+            "onTrackLocation": 0.6101962604676207,
+            "coordIndex": 21,
+            "distanceToNextStop": 0.32222385070538373
+          },
+          {
+            "id": "de:11000:900183515::1",
+            "name": "Müggelwerderweg (Berlin)",
+            "onTrackLocation": 0.9324201111730044,
+            "coordIndex": 30,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                13.68903,
+                52.429946
+              ],
+              [
+                13.688927,
+                52.429883
+              ],
+              [
+                13.688794,
+                52.429721
+              ],
+              [
+                13.688073,
+                52.429389
+              ],
+              [
+                13.687617,
+                52.429219
+              ],
+              [
+                13.686955,
+                52.429048
+              ],
+              [
+                13.686308,
+                52.428932
+              ],
+              [
+                13.685397,
+                52.428932
+              ],
+              [
+                13.684265,
+                52.42904
+              ],
+              [
+                13.683633,
+                52.429032
+              ],
+              [
+                13.68328,
+                52.428906
+              ],
+              [
+                13.68328,
+                52.428906
+              ],
+              [
+                13.683265,
+                52.429113
+              ],
+              [
+                13.68234,
+                52.429365
+              ],
+              [
+                13.680738,
+                52.429932
+              ],
+              [
+                13.679254,
+                52.430606
+              ],
+              [
+                13.678005,
+                52.431263
+              ],
+              [
+                13.677373,
+                52.431839
+              ],
+              [
+                13.676551,
+                52.432747
+              ],
+              [
+                13.676257,
+                52.43281
+              ],
+              [
+                13.676257,
+                52.43281
+              ],
+              [
+                13.676331,
+                52.433025
+              ],
+              [
+                13.675949,
+                52.43352
+              ],
+              [
+                13.676082,
+                52.43414
+              ],
+              [
+                13.676332,
+                52.434481
+              ],
+              [
+                13.676832,
+                52.434562
+              ],
+              [
+                13.677876,
+                52.434426
+              ],
+              [
+                13.679846,
+                52.434111
+              ],
+              [
+                13.680596,
+                52.434254
+              ],
+              [
+                13.681052,
+                52.434551
+              ],
+              [
+                13.681053,
+                52.435252
+              ],
+              [
+                13.680554,
+                52.43633
+              ]
+            ]
+          }
+        },
+        "id": "17433_1000__0"
+      }
+    ],
+    "origin": "Kruggasse",
+    "destination": "Müggelwerderweg"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tram": {
+    "1": { "bg": "#E08537", "fg": "#FFFFFF" },
+    "1M": { "bg": "#FFFFFF", "fg": "#E08537" },
+    "2": { "bg": "#D22E7E", "fg": "#FFFFFF" },
+    "2M": { "bg": "#FFFFFF", "fg": "#D22E7E" },
+    "3": { "bg": "#EAB5B7", "fg": "#000000" },
+    "4": { "bg": "#FFD500", "fg": "#000000" },
+    "6": { "bg": "#E18539", "fg": "#FFFFFF" },
+    "12": { "bg": "#A25082", "fg": "#FFFFFF" },
+    "14": { "bg": "#D13730", "fg": "#FFFFFF" },
+    "17": { "bg": "#439650", "fg": "#FFFFFF" },
+    "19": { "bg": "#A49FC8", "fg": "#FFFFFF" },
+    "24": { "bg": "#9E6580", "fg": "#FFFFFF" },
+    "28": { "bg": "#FFFFFF", "fg": "#43964E" },
+    "28A": { "bg": "#439650", "fg": "#FFFFFF" },
+    "37": { "bg": "#FFFFFF", "fg": "#5B678C" },
+    "37A": { "bg": "#5B678C", "fg": "#FFFFFF" },
+    "41": { "bg": "#7C71AD", "fg": "#FFFFFF" },
+    "42": { "bg": "#BCC17D", "fg": "#000000" },
+    "47": { "bg": "#A34F82", "fg": "#FFFFFF" },
+    "48": { "bg": "#FFFFFF", "fg": "#A34F82" },
+    "49": { "bg": "#383181", "fg": "#FFFFFF" },
+    "50": { "bg": "#3D8BCB", "fg": "#FFFFFF" },
+    "51": { "bg": "#847970", "fg": "#FFFFFF" },
+    "51A": { "bg": "#FFFFFF", "fg": "#847970" },
+    "52": { "bg": "#A25082", "fg": "#FFFFFF" },
+    "56": { "bg": "#847970", "fg": "#FFFFFF" },
+    "56A": { "bg": "#FFFFFF", "fg": "#847970" },
+    "59": { "bg": "#847970", "fg": "#FFFFFF" },
+    "59A": { "bg": "#FFFFFF", "fg": "#847970" },
+    "59B": { "bg": "#FFFFFF", "fg": "#847970" },
+    "60": { "bg": "#D0372F", "fg": "#FFFFFF" },
+    "61": { "bg": "#71A07A", "fg": "#FFFFFF" },
+    "62": { "bg": "#FFFFFF", "fg": "#D1354F" },
+    "62A": { "bg": "#D1354F", "fg": "#FFFFFF" },
+    "69": { "bg": "#847970", "fg": "#FFFFFF" }
+  },
+  "trolley": {
+    "70": { "bg": "#EE1250", "fg": "#FFFFFF" },
+    "72": { "bg": "#EE2E28", "fg": "#FFFFFF" },
+    "73": { "bg": "#F48465", "fg": "#FFFFFF" },
+    "74": { "bg": "#53C5CF", "fg": "#FFFFFF" },
+    "74A": { "bg": "#44A5AE", "fg": "#FFFFFF" },
+    "75": { "bg": "#6C8BC6", "fg": "#FFFFFF" },
+    "76": { "bg": "#0095D9", "fg": "#FFFFFF" },
+    "77": { "bg": "#869B8F", "fg": "#FFFFFF" },
+    "78": { "bg": "#A54586", "fg": "#FFFFFF" },
+    "79": { "bg": "#F58220", "fg": "#FFFFFF" },
+    "80": { "bg": "#A88B6B", "fg": "#FFFFFF" },
+    "81": { "bg": "#A25641", "fg": "#FFFFFF" },
+    "82": { "bg": "#EE2E28", "fg": "#FFFFFF" },
+    "82A": { "bg": "#EE2E28", "fg": "#FFFFFF" },
+    "83": { "bg": "#009053", "fg": "#FFFFFF" }
+  },
+  "bus": {
+    "100E": {
+      "bg": "#C3102E",
+      "fg": "#FFFFFF"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "underground": {
+    "name": "Underground",
+    "agency_id": "tfl",
+    "route_type": "1",
+    "colors": {
+      "bg": "#DD1E19",
+      "fg": "#FFFFFF"
+    }
+  },
+  "riverbus": {
+    "name": "River Bus",
+    "agency_id": "tfl",
+    "route_type": "4",
+    "colors": {
+      "bg": "#113B92",
+      "fg": "#FFFFFF"
+    }
+  }
+}

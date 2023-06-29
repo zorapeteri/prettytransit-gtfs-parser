@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "outDir": "build",
+    "target": "esnext",
+    "moduleResolution": "nodenext",
+    "module": "es2022",
+    "noImplicitAny": true,
+    "typeRoots": ["./node_modules/@types", "./typings"]
+  },
+  "include": ["./src/**/*", "./typings"]
+}

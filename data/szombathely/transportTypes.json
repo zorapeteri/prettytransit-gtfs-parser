@@ -1,0 +1,11 @@
+{
+  "bus": {
+    "name": "Bus",
+    "agency_id": "szombathely",
+    "route_type": "3",
+    "colors": {
+      "bg": "#E30010",
+      "fg": "#FFFFFF"
+    }
+  }
+}
