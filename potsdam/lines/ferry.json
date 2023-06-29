@@ -1,0 +1,54 @@
+{
+  "F1": {
+    "colors": {
+      "bg": "#0080BA",
+      "fg": "#FFFFFF"
+    },
+    "route_ids": [
+      "1555_1000"
+    ],
+    "transportType": "ferry",
+    "tracks": [
+      {
+        "origin": "Potsdam, Auf dem Kiewitt/Fähre",
+        "destination": "Potsdam, Hermannswerder/Fähre",
+        "stops": [
+          {
+            "id": "de:12054:900230247::1",
+            "name": "Potsdam, Auf dem Kiewitt/Fähre",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0
+          },
+          {
+            "id": "de:12054:900230248::1",
+            "name": "Potsdam, Hermannswerder/Fähre",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                13.039223,
+                52.38932
+              ],
+              [
+                13.039788,
+                52.387104
+              ]
+            ]
+          }
+        },
+        "id": "1555_1000__0"
+      }
+    ],
+    "origin": "Potsdam, Auf dem Kiewitt/Fähre",
+    "destination": "Potsdam, Hermannswerder/Fähre"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ubahn": {
+    "name": "U-Bahn",
+    "agency_id": "04",
+    "route_type": "1",
+    "colors": {
+      "bg": "#0082CB",
+      "fg": "#FFFFFF"
+    }
+  },
+  "sbahn": {
+    "name": "S-Bahn",
+    "agency_id": "01",
+    "route_type": "2",
+    "colors": {
+      "bg": "#0098DA",
+      "fg": "#FFFFFF"
+    }
+  },
+  "tram": {
+    "name": "Tram",
+    "agency_id": "04",
+    "route_type": "0",
+    "colors": {
+      "bg": "#C41219",
+      "fg": "#FFFFFF"
+    }
+  },
+  "bus": {
+    "name": "Bus",
+    "agency_id": "04",
+    "route_type": "3",
+    "colors": {
+      "bg": "#052960",
+      "fg": "#FFFFFF"
+    }
+  }
+}

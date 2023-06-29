@@ -1,0 +1,62 @@
+{
+  "D14": {
+    "colors": {
+      "bg": "#D0033F",
+      "fg": "#FFFFFF"
+    },
+    "route_ids": [
+      "8140"
+    ],
+    "transportType": "boat",
+    "tracks": [
+      {
+        "origin": "Csepel-Királyerdő",
+        "destination": "Soroksár, Molnár-sziget",
+        "stops": [
+          {
+            "id": "F04181",
+            "name": "Csepel-Királyerdő",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 1
+          },
+          {
+            "id": "F04526",
+            "name": "Soroksár, Molnár-sziget",
+            "onTrackLocation": 1,
+            "coordIndex": 3,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                19.106529,
+                47.397886
+              ],
+              [
+                19.106622,
+                47.397904
+              ],
+              [
+                19.108503,
+                47.398199
+              ],
+              [
+                19.108689,
+                47.398244
+              ]
+            ]
+          }
+        },
+        "id": "8140__0"
+      }
+    ],
+    "origin": "Csepel-Királyerdő",
+    "destination": "Soroksár, Molnár-sziget"
+  }
+}
