@@ -1,0 +1,26 @@
+{
+  "luas": {
+    "name": "Luas",
+    "route_type": "0",
+    "colors": {
+      "bg": "#522E91",
+      "fg": "#FFFFFF"
+    }
+  },
+  "rail": {
+    "name": "Rail",
+    "route_type": "2",
+    "colors": {
+      "bg": "#F7941F",
+      "fg": "#FFFFFF"
+    }
+  },
+  "bus": {
+    "name": "Bus",
+    "route_type": "3",
+    "colors": {
+      "bg": "#027DC5",
+      "fg": "#FFFFFF"
+    }
+  }
+}
