@@ -1,9 +1,15 @@
 export default [
   'berlin',
+  'london',
   'budapest',
-  'potsdam',
-  'szombathely',
   'vienna',
   'brighton',
-  'london',
+  'potsdam',
+  'szombathely',
+  'sopron',
+  'zalaegerszeg',
+  'siofok',
+  'dublin',
+  'bratislava',
+  'belgrade',
 ]

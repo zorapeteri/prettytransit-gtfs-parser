@@ -1,0 +1,11 @@
+{
+  "bus": {
+    "name": "Bus",
+    "agency_id": "21",
+    "route_type": "3",
+    "colors": {
+      "bg": "#F7BB04",
+      "fg": "#000000"
+    }
+  }
+}

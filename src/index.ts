@@ -60,9 +60,9 @@ const db = openDb(config)
 
 const colors = read('colors')[transportType]
 
-let allRoutes = (
-  await getRoutes(pick(transportTypes[transportType], 'agency_id'))
-)
+const agency_id = transportTypes[transportType].agency_id
+
+let allRoutes = (await getRoutes(agency_id ? { agency_id } : {}))
   .map((route) => ({
     ...route,
     route_type:
@@ -114,19 +114,21 @@ let allTrips = (
 
 console.log(`${allTrips.length} trips`)
 
-const allTripsWithStopSequences = await Promise.all(
-  allTrips.map(async (trip) => {
-    const stopsOnTrip = await getStoptimes(
-      pick(trip, 'trip_id'),
-      [],
-      [['stop_sequence', 'ASC']]
-    )
-    return {
-      ...trip,
-      stopSequence: stopsOnTrip.map((stop) => stop.stop_id),
-    }
-  })
-)
+const allTripsWithStopSequences = (
+  await Promise.all(
+    allTrips.map(async (trip) => {
+      const stopsOnTrip = await getStoptimes(
+        pick(trip, 'trip_id'),
+        [],
+        [['stop_sequence', 'ASC']]
+      )
+      return {
+        ...trip,
+        stopSequence: stopsOnTrip.map((stop) => stop.stop_id),
+      }
+    })
+  )
+).filter((trip) => trip.stopSequence.length)
 
 const uniqueStopSequenceTracks = _.uniqBy(allTripsWithStopSequences, (trip) =>
   trip.stopSequence.join(',')
@@ -153,7 +155,6 @@ const tracks: Track[] = (
           )
         })
         .map((nonUniqueTrip) => nonUniqueTrip.trip_id)
-
       const origin = (await getStop(track.stopSequence.at(0))).stop_name
       const destination = (await getStop(track.stopSequence.at(-1))).stop_name
 

@@ -1,0 +1,3163 @@
+{
+  "1": {
+    "colors": {
+      "bg": "#F56200",
+      "fg": "#FFFFFF"
+    },
+    "route_ids": [
+      "1010"
+    ],
+    "transportType": "tram",
+    "tracks": [
+      {
+        "origin": "Nám. Ľ. Štúra",
+        "destination": "Hlavná stanica",
+        "stops": [
+          {
+            "id": "000000009300021",
+            "name": "Hlavná stanica",
+            "onTrackLocation": 1,
+            "coordIndex": 8,
+            "distanceToNextStop": 0
+          },
+          {
+            "id": "000000030600002",
+            "name": "Pod stanicou",
+            "onTrackLocation": 0.9268601869028308,
+            "coordIndex": 7,
+            "distanceToNextStop": 0.07313981309716922
+          },
+          {
+            "id": "000000071400002",
+            "name": "Úrad vlády SR",
+            "onTrackLocation": 0.827924078825665,
+            "coordIndex": 6,
+            "distanceToNextStop": 0.0989361080771658
+          },
+          {
+            "id": "000000042200002",
+            "name": "STU",
+            "onTrackLocation": 0.6713620165347467,
+            "coordIndex": 5,
+            "distanceToNextStop": 0.1565620622909183
+          },
+          {
+            "id": "000000047300002",
+            "name": "Vysoká",
+            "onTrackLocation": 0.5156411183702652,
+            "coordIndex": 4,
+            "distanceToNextStop": 0.15572089816448154
+          },
+          {
+            "id": "000000030200002",
+            "name": "Poštová",
+            "onTrackLocation": 0.4144527198696505,
+            "coordIndex": 3,
+            "distanceToNextStop": 0.10118839850061467
+          },
+          {
+            "id": "000000013900004",
+            "name": "Centrum",
+            "onTrackLocation": 0.3266458681431561,
+            "coordIndex": 2,
+            "distanceToNextStop": 0.08780685172649438
+          },
+          {
+            "id": "000000039400001",
+            "name": "Šafárikovo nám.",
+            "onTrackLocation": 0.15578619273989694,
+            "coordIndex": 1,
+            "distanceToNextStop": 0.17085967540325916
+          },
+          {
+            "id": "000000024800001",
+            "name": "Nám. Ľ. Štúra",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0.15578619273989694
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                17.110107421875,
+                48.1401863098145
+              ],
+              [
+                17.1156730651855,
+                48.141788482666
+              ],
+              [
+                17.1115264892578,
+                48.1452560424805
+              ],
+              [
+                17.1097736358643,
+                48.1472129821777
+              ],
+              [
+                17.1129417419434,
+                48.1487731933594
+              ],
+              [
+                17.1154975891113,
+                48.1524391174316
+              ],
+              [
+                17.1103458404541,
+                48.1546096801758
+              ],
+              [
+                17.1073360443115,
+                48.1562118530273
+              ],
+              [
+                17.1071739196777,
+                48.1581077575684
+              ]
+            ]
+          }
+        },
+        "id": "1010__2"
+      },
+      {
+        "origin": "Hlavná stanica",
+        "destination": "Nám. Ľ. Štúra",
+        "stops": [
+          {
+            "id": "000000024800001",
+            "name": "Nám. Ľ. Štúra",
+            "onTrackLocation": 1,
+            "coordIndex": 8,
+            "distanceToNextStop": 0
+          },
+          {
+            "id": "000000013000002",
+            "name": "Jesenského",
+            "onTrackLocation": 0.8733766434095298,
+            "coordIndex": 7,
+            "distanceToNextStop": 0.1266233565904702
+          },
+          {
+            "id": "000000013900003",
+            "name": "Centrum",
+            "onTrackLocation": 0.7922877285035778,
+            "coordIndex": 6,
+            "distanceToNextStop": 0.08108891490595205
+          },
+          {
+            "id": "000000030200001",
+            "name": "Poštová",
+            "onTrackLocation": 0.6643440076978644,
+            "coordIndex": 5,
+            "distanceToNextStop": 0.12794372080571337
+          },
+          {
+            "id": "000000047300001",
+            "name": "Vysoká",
+            "onTrackLocation": 0.5351454709385643,
+            "coordIndex": 4,
+            "distanceToNextStop": 0.12919853675930004
+          },
+          {
+            "id": "000000042200001",
+            "name": "STU",
+            "onTrackLocation": 0.3857596495060853,
+            "coordIndex": 3,
+            "distanceToNextStop": 0.14938582143247903
+          },
+          {
+            "id": "000000071400001",
+            "name": "Úrad vlády SR",
+            "onTrackLocation": 0.19345685829375173,
+            "coordIndex": 2,
+            "distanceToNextStop": 0.1923027912123336
+          },
+          {
+            "id": "000000030600001",
+            "name": "Pod stanicou",
+            "onTrackLocation": 0.08062716032357412,
+            "coordIndex": 1,
+            "distanceToNextStop": 0.11282969797017761
+          },
+          {
+            "id": "000000009300001",
+            "name": "Hlavná stanica",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0.08062716032357412
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                17.1067714691162,
+                48.157543182373
+              ],
+              [
+                17.1075477600098,
+                48.1557006835938
+              ],
+              [
+                17.1109199523926,
+                48.1542472839355
+              ],
+              [
+                17.1158542633057,
+                48.1510848999023
+              ],
+              [
+                17.1122550964355,
+                48.1484756469727
+              ],
+              [
+                17.1085720062256,
+                48.1466407775879
+              ],
+              [
+                17.1122417449951,
+                48.1448440551758
+              ],
+              [
+                17.1119499206543,
+                48.1429290771484
+              ],
+              [
+                17.110107421875,
+                48.1401863098145
+              ]
+            ]
+          }
+        },
+        "id": "1010__0"
+      }
+    ],
+    "origin": "Nám. Ľ. Štúra",
+    "destination": "Hlavná stanica"
+  },
+  "3": {
+    "colors": {
+      "bg": "#E31E24",
+      "fg": "#FFFFFF"
+    },
+    "route_ids": [
+      "3010"
+    ],
+    "transportType": "tram",
+    "tracks": [
+      {
+        "origin": "Komisárky",
+        "destination": "Jungmannova",
+        "stops": [
+          {
+            "id": "000000015600001",
+            "name": "Komisárky",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0.0227083858398093
+          },
+          {
+            "id": "000000042500001",
+            "name": "Púchovská",
+            "onTrackLocation": 0.0227083858398093,
+            "coordIndex": 1,
+            "distanceToNextStop": 0.045481182415798085
+          },
+          {
+            "id": "000000048400001",
+            "name": "Záhumenice",
+            "onTrackLocation": 0.06818956825560739,
+            "coordIndex": 2,
+            "distanceToNextStop": 0.02368389841698472
+          },
+          {
+            "id": "000000071300001",
+            "name": "Detvianska",
+            "onTrackLocation": 0.09187346667259211,
+            "coordIndex": 3,
+            "distanceToNextStop": 0.03634484576474467
+          },
+          {
+            "id": "000000011100001",
+            "name": "Hybešova",
+            "onTrackLocation": 0.12821831243733678,
+            "coordIndex": 4,
+            "distanceToNextStop": 0.049538209102498815
+          },
+          {
+            "id": "000000009100001",
+            "name": "Hečkova",
+            "onTrackLocation": 0.1777565215398356,
+            "coordIndex": 5,
+            "distanceToNextStop": 0.0397630269881207
+          },
+          {
+            "id": "000000003600001",
+            "name": "Černockého",
+            "onTrackLocation": 0.2175195485279563,
+            "coordIndex": 6,
+            "distanceToNextStop": 0.04658164407923915
+          },
+          {
+            "id": "000000028700001",
+            "name": "Pekná cesta",
+            "onTrackLocation": 0.26410119260719545,
+            "coordIndex": 7,
+            "distanceToNextStop": 0.04605030867211679
+          },
+          {
+            "id": "000000026200001",
+            "name": "Malokrasňanská",
+            "onTrackLocation": 0.31015150127931224,
+            "coordIndex": 8,
+            "distanceToNextStop": 0.037372509914049445
+          },
+          {
+            "id": "000000046500001",
+            "name": "Depo Krasňany",
+            "onTrackLocation": 0.3475240111933617,
+            "coordIndex": 9,
+            "distanceToNextStop": 0.028419915956927777
+          },
+          {
+            "id": "000000052200001",
+            "name": "Stn. Vinohrady",
+            "onTrackLocation": 0.37594392715028946,
+            "coordIndex": 10,
+            "distanceToNextStop": 0.04113980397421724
+          },
+          {
+            "id": "000000024500001",
+            "name": "Nám. Biely kríž",
+            "onTrackLocation": 0.4170837311245067,
+            "coordIndex": 11,
+            "distanceToNextStop": 0.047618519207480614
+          },
+          {
+            "id": "000000022400001",
+            "name": "Mladá garda",
+            "onTrackLocation": 0.4647022503319873,
+            "coordIndex": 12,
+            "distanceToNextStop": 0.04126035465244571
+          },
+          {
+            "id": "000000033700001",
+            "name": "Riazanská",
+            "onTrackLocation": 0.505962604984433,
+            "coordIndex": 13,
+            "distanceToNextStop": 0.05051473687936314
+          },
+          {
+            "id": "000000029300001",
+            "name": "Pionierska",
+            "onTrackLocation": 0.5564773418637962,
+            "coordIndex": 14,
+            "distanceToNextStop": 0.061855971291792655
+          },
+          {
+            "id": "000000044600001",
+            "name": "Ursínyho",
+            "onTrackLocation": 0.6183333131555888,
+            "coordIndex": 15,
+            "distanceToNextStop": 0.04372466853183998
+          },
+          {
+            "id": "000000033200001",
+            "name": "Račianske mýto",
+            "onTrackLocation": 0.6620579816874288,
+            "coordIndex": 16,
+            "distanceToNextStop": 0.04600019531245825
+          },
+          {
+            "id": "000000008000001",
+            "name": "Blumentál",
+            "onTrackLocation": 0.708058176999887,
+            "coordIndex": 17,
+            "distanceToNextStop": 0.024762559245920523
+          },
+          {
+            "id": "000000000300001",
+            "name": "Americké nám.",
+            "onTrackLocation": 0.7328207362458076,
+            "coordIndex": 18,
+            "distanceToNextStop": 0.025817105165121368
+          },
+          {
+            "id": "000000020900001",
+            "name": "Mariánska",
+            "onTrackLocation": 0.7586378414109289,
+            "coordIndex": 19,
+            "distanceToNextStop": 0.02952857591297009
+          },
+          {
+            "id": "000000013900001",
+            "name": "Centrum",
+            "onTrackLocation": 0.788166417323899,
+            "coordIndex": 20,
+            "distanceToNextStop": 0.0473279615120219
+          },
+          {
+            "id": "000000039400002",
+            "name": "Šafárikovo nám.",
+            "onTrackLocation": 0.8354943788359209,
+            "coordIndex": 21,
+            "distanceToNextStop": 0.05765388524531978
+          },
+          {
+            "id": "000000034800002",
+            "name": "Sad Janka Kráľa",
+            "onTrackLocation": 0.8931482640812407,
+            "coordIndex": 22,
+            "distanceToNextStop": 0.078136939345675
+          },
+          {
+            "id": "000000007900002",
+            "name": "Farského",
+            "onTrackLocation": 0.9712852034269157,
+            "coordIndex": 23,
+            "distanceToNextStop": 0.02871479657308429
+          },
+          {
+            "id": "000000013200004",
+            "name": "Jungmannova",
+            "onTrackLocation": 1,
+            "coordIndex": 24,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                17.1662120819092,
+                48.2162284851074
+              ],
+              [
+                17.1634178161621,
+                48.2147827148438
+              ],
+              [
+                17.1582355499268,
+                48.2115631103516
+              ],
+              [
+                17.1546173095703,
+                48.2110824584961
+              ],
+              [
+                17.1509399414063,
+                48.2082138061523
+              ],
+              [
+                17.1495494842529,
+                48.2031555175781
+              ],
+              [
+                17.147102355957,
+                48.1993637084961
+              ],
+              [
+                17.1432857513428,
+                48.1952514648438
+              ],
+              [
+                17.13916015625,
+                48.1913414001465
+              ],
+              [
+                17.1355381011963,
+                48.188304901123
+              ],
+              [
+                17.1333179473877,
+                48.1857528686523
+              ],
+              [
+                17.1297435760498,
+                48.1822090148926
+              ],
+              [
+                17.1278533935547,
+                48.1774291992188
+              ],
+              [
+                17.1272010803223,
+                48.173168182373
+              ],
+              [
+                17.12744140625,
+                48.1679267883301
+              ],
+              [
+                17.1237831115723,
+                48.1619873046875
+              ],
+              [
+                17.1205291748047,
+                48.1580009460449
+              ],
+              [
+                17.1187610626221,
+                48.1533737182617
+              ],
+              [
+                17.1179046630859,
+                48.1508674621582
+              ],
+              [
+                17.1164817810059,
+                48.1483612060547
+              ],
+              [
+                17.1137886047363,
+                48.1458778381348
+              ],
+              [
+                17.116247177124,
+                48.1412467956543
+              ],
+              [
+                17.1169567108154,
+                48.1352806091309
+              ],
+              [
+                17.1167469024658,
+                48.1271705627441
+              ],
+              [
+                17.1149196624756,
+                48.1244506835938
+              ]
+            ]
+          }
+        },
+        "id": "3010__0"
+      }
+    ],
+    "origin": "Komisárky",
+    "destination": "Jungmannova"
+  },
+  "4": {
+    "colors": {
+      "bg": "#5071B9",
+      "fg": "#FFFFFF"
+    },
+    "route_ids": [
+      "4012"
+    ],
+    "transportType": "tram",
+    "tracks": [
+      {
+        "origin": "Pri kríži",
+        "destination": "Zlaté piesky",
+        "stops": [
+          {
+            "id": "000000031000001",
+            "name": "Pri kríži",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0.018893335556644048
+          },
+          {
+            "id": "000000026500001",
+            "name": "Podvornice",
+            "onTrackLocation": 0.018893335556644048,
+            "coordIndex": 1,
+            "distanceToNextStop": 0.02462424188013506
+          },
+          {
+            "id": "000000006800001",
+            "name": "Drobného",
+            "onTrackLocation": 0.04351757743677911,
+            "coordIndex": 2,
+            "distanceToNextStop": 0.021850726804748873
+          },
+          {
+            "id": "000000000100001",
+            "name": "Alexyho",
+            "onTrackLocation": 0.06536830424152798,
+            "coordIndex": 3,
+            "distanceToNextStop": 0.021483402272043248
+          },
+          {
+            "id": "000000041800001",
+            "name": "Švantnerova",
+            "onTrackLocation": 0.08685170651357123,
+            "coordIndex": 4,
+            "distanceToNextStop": 0.01871675834392174
+          },
+          {
+            "id": "000000005100001",
+            "name": "Záluhy",
+            "onTrackLocation": 0.10556846485749297,
+            "coordIndex": 5,
+            "distanceToNextStop": 0.04280289956502986
+          },
+          {
+            "id": "000000009800001",
+            "name": "Horné Krčace",
+            "onTrackLocation": 0.14837136442252283,
+            "coordIndex": 6,
+            "distanceToNextStop": 0.020475250997334493
+          },
+          {
+            "id": "000000006000001",
+            "name": "Dolné Krčace",
+            "onTrackLocation": 0.16884661541985732,
+            "coordIndex": 7,
+            "distanceToNextStop": 0.03843710632427716
+          },
+          {
+            "id": "000000014300001",
+            "name": "Kútiky",
+            "onTrackLocation": 0.20728372174413448,
+            "coordIndex": 8,
+            "distanceToNextStop": 0.016403715015051168
+          },
+          {
+            "id": "000000001900001",
+            "name": "Borská",
+            "onTrackLocation": 0.22368743675918565,
+            "coordIndex": 9,
+            "distanceToNextStop": 0.024890460373450024
+          },
+          {
+            "id": "000000018000001",
+            "name": "Nám. sv. Františka",
+            "onTrackLocation": 0.24857789713263567,
+            "coordIndex": 10,
+            "distanceToNextStop": 0.019063035566877107
+          },
+          {
+            "id": "000000024000001",
+            "name": "Nad lúčkami",
+            "onTrackLocation": 0.2676409326995128,
+            "coordIndex": 11,
+            "distanceToNextStop": 0.0287207963609718
+          },
+          {
+            "id": "000000035300001",
+            "name": "Segnerova",
+            "onTrackLocation": 0.2963617290604846,
+            "coordIndex": 12,
+            "distanceToNextStop": 0.02985902462762624
+          },
+          {
+            "id": "000000023000001",
+            "name": "Riviéra",
+            "onTrackLocation": 0.3262207536881108,
+            "coordIndex": 13,
+            "distanceToNextStop": 0.03783307958015231
+          },
+          {
+            "id": "000000002100001",
+            "name": "Botanická záhrada",
+            "onTrackLocation": 0.3640538332682631,
+            "coordIndex": 14,
+            "distanceToNextStop": 0.031120945380811282
+          },
+          {
+            "id": "000000018100001",
+            "name": "Lanfranconi",
+            "onTrackLocation": 0.3951747786490744,
+            "coordIndex": 15,
+            "distanceToNextStop": 0.03176966972602363
+          },
+          {
+            "id": "000000028100001",
+            "name": "Kráľovské údolie",
+            "onTrackLocation": 0.42694444837509804,
+            "coordIndex": 16,
+            "distanceToNextStop": 0.03681159324935185
+          },
+          {
+            "id": "000000043900001",
+            "name": "Chatam Sófer",
+            "onTrackLocation": 0.4637560416244499,
+            "coordIndex": 17,
+            "distanceToNextStop": 0.0531494346796722
+          },
+          {
+            "id": "000000026100001",
+            "name": "Most SNP",
+            "onTrackLocation": 0.5169054763041221,
+            "coordIndex": 18,
+            "distanceToNextStop": 0.043817947921802936
+          },
+          {
+            "id": "000000039400001",
+            "name": "Šafárikovo nám.",
+            "onTrackLocation": 0.560723424225925,
+            "coordIndex": 19,
+            "distanceToNextStop": 0.0251643571457435
+          },
+          {
+            "id": "000000013900002",
+            "name": "Centrum",
+            "onTrackLocation": 0.5858877813716685,
+            "coordIndex": 20,
+            "distanceToNextStop": 0.0141889203087191
+          },
+          {
+            "id": "000000020900002",
+            "name": "Mariánska",
+            "onTrackLocation": 0.6000767016803876,
+            "coordIndex": 21,
+            "distanceToNextStop": 0.03697438582004775
+          },
+          {
+            "id": "000000000300004",
+            "name": "Americké nám.",
+            "onTrackLocation": 0.6370510875004354,
+            "coordIndex": 22,
+            "distanceToNextStop": 0.02251943763385378
+          },
+          {
+            "id": "000000017300002",
+            "name": "Krížna",
+            "onTrackLocation": 0.6595705251342892,
+            "coordIndex": 23,
+            "distanceToNextStop": 0.022999943007429913
+          },
+          {
+            "id": "000000043700002",
+            "name": "Trnavské mýto",
+            "onTrackLocation": 0.6825704681417191,
+            "coordIndex": 24,
+            "distanceToNextStop": 0.031810110566207195
+          },
+          {
+            "id": "000000026700002",
+            "name": "Česká",
+            "onTrackLocation": 0.7143805787079263,
+            "coordIndex": 25,
+            "distanceToNextStop": 0.022493183720634247
+          },
+          {
+            "id": "000000025700002",
+            "name": "Nová doba",
+            "onTrackLocation": 0.7368737624285605,
+            "coordIndex": 26,
+            "distanceToNextStop": 0.026651966627232904
+          },
+          {
+            "id": "000000021300002",
+            "name": "MiÚ Nové Mesto",
+            "onTrackLocation": 0.7635257290557934,
+            "coordIndex": 27,
+            "distanceToNextStop": 0.025092716523404057
+          },
+          {
+            "id": "000000048800002",
+            "name": "Kuchajda",
+            "onTrackLocation": 0.7886184455791975,
+            "coordIndex": 28,
+            "distanceToNextStop": 0.0362128163312031
+          },
+          {
+            "id": "000000026800002",
+            "name": "Odborárska",
+            "onTrackLocation": 0.8248312619104006,
+            "coordIndex": 29,
+            "distanceToNextStop": 0.039495638288402524
+          },
+          {
+            "id": "000000020500002",
+            "name": "Magnetová",
+            "onTrackLocation": 0.8643269001988031,
+            "coordIndex": 30,
+            "distanceToNextStop": 0.04411649831928044
+          },
+          {
+            "id": "000000013300002",
+            "name": "Jurajov dvor",
+            "onTrackLocation": 0.9084433985180835,
+            "coordIndex": 31,
+            "distanceToNextStop": 0.03261893728223375
+          },
+          {
+            "id": "000000061600002",
+            "name": "Vajnorská",
+            "onTrackLocation": 0.9410623358003173,
+            "coordIndex": 32,
+            "distanceToNextStop": 0.03473999315537357
+          },
+          {
+            "id": "000000034100002",
+            "name": "Shopping Palace",
+            "onTrackLocation": 0.9758023289556909,
+            "coordIndex": 33,
+            "distanceToNextStop": 0.024197671044309144
+          },
+          {
+            "id": "000000049700002",
+            "name": "Zlaté piesky",
+            "onTrackLocation": 1,
+            "coordIndex": 34,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                17.0339794158936,
+                48.1945915222168
+              ],
+              [
+                17.0351276397705,
+                48.1916770935059
+              ],
+              [
+                17.0366401672363,
+                48.1878814697266
+              ],
+              [
+                17.037914276123,
+                48.1845016479492
+              ],
+              [
+                17.0407848358154,
+                48.1816596984863
+              ],
+              [
+                17.0436992645264,
+                48.1793937683105
+              ],
+              [
+                17.0491752624512,
+                48.1736259460449
+              ],
+              [
+                17.0494174957275,
+                48.1703643798828
+              ],
+              [
+                17.0468101501465,
+                48.1644859313965
+              ],
+              [
+                17.0485343933105,
+                48.1621360778809
+              ],
+              [
+                17.0515804290771,
+                48.1587257385254
+              ],
+              [
+                17.0535469055176,
+                48.1559829711914
+              ],
+              [
+                17.0591583251953,
+                48.1533432006836
+              ],
+              [
+                17.0631408691406,
+                48.1493911743164
+              ],
+              [
+                17.0719718933105,
+                48.1480903625488
+              ],
+              [
+                17.0780506134033,
+                48.1452293395996
+              ],
+              [
+                17.0847930908203,
+                48.1428985595703
+              ],
+              [
+                17.0930595397949,
+                48.1408882141113
+              ],
+              [
+                17.1056499481201,
+                48.139762878418
+              ],
+              [
+                17.1156730651855,
+                48.141788482666
+              ],
+              [
+                17.1135902404785,
+                48.1455535888672
+              ],
+              [
+                17.1155910491943,
+                48.1473808288574
+              ],
+              [
+                17.1205043792725,
+                48.1522827148438
+              ],
+              [
+                17.124059677124,
+                48.1549797058105
+              ],
+              [
+                17.1275081634521,
+                48.1578369140625
+              ],
+              [
+                17.131799697876,
+                48.1620254516602
+              ],
+              [
+                17.1347351074219,
+                48.1650314331055
+              ],
+              [
+                17.1381664276123,
+                48.1686134338379
+              ],
+              [
+                17.141450881958,
+                48.1719627380371
+              ],
+              [
+                17.1463375091553,
+                48.1767311096191
+              ],
+              [
+                17.1545238494873,
+                48.179874420166
+              ],
+              [
+                17.1639213562012,
+                48.1830749511719
+              ],
+              [
+                17.1708145141602,
+                48.1855125427246
+              ],
+              [
+                17.1778430938721,
+                48.1884689331055
+              ],
+              [
+                17.1834449768066,
+                48.1894416809082
+              ]
+            ]
+          }
+        },
+        "id": "4012__1"
+      },
+      {
+        "origin": "Zlaté piesky",
+        "destination": "Pri kríži",
+        "stops": [
+          {
+            "id": "000000049700001",
+            "name": "Zlaté piesky",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0.028324226501843967
+          },
+          {
+            "id": "000000034100001",
+            "name": "Shopping Palace",
+            "onTrackLocation": 0.028324226501843967,
+            "coordIndex": 1,
+            "distanceToNextStop": 0.035482904629531214
+          },
+          {
+            "id": "000000061600001",
+            "name": "Vajnorská",
+            "onTrackLocation": 0.06380713113137518,
+            "coordIndex": 2,
+            "distanceToNextStop": 0.035478235050777726
+          },
+          {
+            "id": "000000013300001",
+            "name": "Jurajov dvor",
+            "onTrackLocation": 0.0992853661821529,
+            "coordIndex": 3,
+            "distanceToNextStop": 0.04312233393595484
+          },
+          {
+            "id": "000000020500001",
+            "name": "Magnetová",
+            "onTrackLocation": 0.14240770011810774,
+            "coordIndex": 4,
+            "distanceToNextStop": 0.03545582592188645
+          },
+          {
+            "id": "000000026800001",
+            "name": "Odborárska",
+            "onTrackLocation": 0.1778635260399942,
+            "coordIndex": 5,
+            "distanceToNextStop": 0.03800450848777198
+          },
+          {
+            "id": "000000048800001",
+            "name": "Kuchajda",
+            "onTrackLocation": 0.21586803452776618,
+            "coordIndex": 6,
+            "distanceToNextStop": 0.02173518741818825
+          },
+          {
+            "id": "000000021300001",
+            "name": "MiÚ Nové Mesto",
+            "onTrackLocation": 0.23760322194595443,
+            "coordIndex": 7,
+            "distanceToNextStop": 0.029266419026014595
+          },
+          {
+            "id": "000000025700001",
+            "name": "Nová doba",
+            "onTrackLocation": 0.266869640971969,
+            "coordIndex": 8,
+            "distanceToNextStop": 0.022967879612045494
+          },
+          {
+            "id": "000000026700001",
+            "name": "Česká",
+            "onTrackLocation": 0.2898375205840145,
+            "coordIndex": 9,
+            "distanceToNextStop": 0.032348157686632795
+          },
+          {
+            "id": "000000043700001",
+            "name": "Trnavské mýto",
+            "onTrackLocation": 0.3221856782706473,
+            "coordIndex": 10,
+            "distanceToNextStop": 0.02267989723251601
+          },
+          {
+            "id": "000000017300001",
+            "name": "Krížna",
+            "onTrackLocation": 0.3448655755031633,
+            "coordIndex": 11,
+            "distanceToNextStop": 0.03427555823657552
+          },
+          {
+            "id": "000000000300003",
+            "name": "Americké nám.",
+            "onTrackLocation": 0.37914113373973884,
+            "coordIndex": 12,
+            "distanceToNextStop": 0.01699151706832558
+          },
+          {
+            "id": "000000020900001",
+            "name": "Mariánska",
+            "onTrackLocation": 0.3961326508080644,
+            "coordIndex": 13,
+            "distanceToNextStop": 0.019520707043428565
+          },
+          {
+            "id": "000000013900001",
+            "name": "Centrum",
+            "onTrackLocation": 0.415653357851493,
+            "coordIndex": 14,
+            "distanceToNextStop": 0.020339024079328527
+          },
+          {
+            "id": "000000013000002",
+            "name": "Jesenského",
+            "onTrackLocation": 0.4359923819308215,
+            "coordIndex": 15,
+            "distanceToNextStop": 0.02053474242097275
+          },
+          {
+            "id": "000000024800004",
+            "name": "Nám. Ľ. Štúra",
+            "onTrackLocation": 0.45652712435179427,
+            "coordIndex": 16,
+            "distanceToNextStop": 0.018725102746418976
+          },
+          {
+            "id": "000000026100002",
+            "name": "Most SNP",
+            "onTrackLocation": 0.47525222709821324,
+            "coordIndex": 17,
+            "distanceToNextStop": 0.054898225354922614
+          },
+          {
+            "id": "000000043900002",
+            "name": "Chatam Sófer",
+            "onTrackLocation": 0.5301504524531359,
+            "coordIndex": 18,
+            "distanceToNextStop": 0.03336940853943127
+          },
+          {
+            "id": "000000028100002",
+            "name": "Kráľovské údolie",
+            "onTrackLocation": 0.5635198609925671,
+            "coordIndex": 19,
+            "distanceToNextStop": 0.032413299433892706
+          },
+          {
+            "id": "000000018100002",
+            "name": "Lanfranconi",
+            "onTrackLocation": 0.5959331604264598,
+            "coordIndex": 20,
+            "distanceToNextStop": 0.03093170854116367
+          },
+          {
+            "id": "000000002100002",
+            "name": "Botanická záhrada",
+            "onTrackLocation": 0.6268648689676235,
+            "coordIndex": 21,
+            "distanceToNextStop": 0.04184529227933209
+          },
+          {
+            "id": "000000023000002",
+            "name": "Riviéra",
+            "onTrackLocation": 0.6687101612469556,
+            "coordIndex": 22,
+            "distanceToNextStop": 0.03120848625771544
+          },
+          {
+            "id": "000000035300002",
+            "name": "Segnerova",
+            "onTrackLocation": 0.699918647504671,
+            "coordIndex": 23,
+            "distanceToNextStop": 0.028100982767289562
+          },
+          {
+            "id": "000000024000002",
+            "name": "Nad lúčkami",
+            "onTrackLocation": 0.7280196302719606,
+            "coordIndex": 24,
+            "distanceToNextStop": 0.01950822798533547
+          },
+          {
+            "id": "000000018000002",
+            "name": "Nám. sv. Františka",
+            "onTrackLocation": 0.7475278582572961,
+            "coordIndex": 25,
+            "distanceToNextStop": 0.025372177771932014
+          },
+          {
+            "id": "000000001900002",
+            "name": "Borská",
+            "onTrackLocation": 0.7729000360292281,
+            "coordIndex": 26,
+            "distanceToNextStop": 0.01692977001491125
+          },
+          {
+            "id": "000000014300002",
+            "name": "Kútiky",
+            "onTrackLocation": 0.7898298060441393,
+            "coordIndex": 27,
+            "distanceToNextStop": 0.03939714444743492
+          },
+          {
+            "id": "000000006000002",
+            "name": "Dolné Krčace",
+            "onTrackLocation": 0.8292269504915742,
+            "coordIndex": 28,
+            "distanceToNextStop": 0.020579907002412745
+          },
+          {
+            "id": "000000009800002",
+            "name": "Horné Krčace",
+            "onTrackLocation": 0.849806857493987,
+            "coordIndex": 29,
+            "distanceToNextStop": 0.04433181430991029
+          },
+          {
+            "id": "000000005100002",
+            "name": "Záluhy",
+            "onTrackLocation": 0.8941386718038973,
+            "coordIndex": 30,
+            "distanceToNextStop": 0.02286560169502505
+          },
+          {
+            "id": "000000041800002",
+            "name": "Švantnerova",
+            "onTrackLocation": 0.9170042734989223,
+            "coordIndex": 31,
+            "distanceToNextStop": 0.024585763231241176
+          },
+          {
+            "id": "000000000100002",
+            "name": "Alexyho",
+            "onTrackLocation": 0.9415900367301635,
+            "coordIndex": 32,
+            "distanceToNextStop": 0.016904302421381745
+          },
+          {
+            "id": "000000006800002",
+            "name": "Drobného",
+            "onTrackLocation": 0.9584943391515452,
+            "coordIndex": 33,
+            "distanceToNextStop": 0.022917914235265457
+          },
+          {
+            "id": "000000026500002",
+            "name": "Podvornice",
+            "onTrackLocation": 0.9814122533868107,
+            "coordIndex": 34,
+            "distanceToNextStop": 0.018587746613189293
+          },
+          {
+            "id": "000000031000002",
+            "name": "Pri kríži",
+            "onTrackLocation": 1,
+            "coordIndex": 35,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                17.1825981140137,
+                48.1894912719727
+              ],
+              [
+                17.176399230957,
+                48.1878471374512
+              ],
+              [
+                17.1692142486572,
+                48.185001373291
+              ],
+              [
+                17.1618347167969,
+                48.1823883056641
+              ],
+              [
+                17.1527633666992,
+                48.1793441772461
+              ],
+              [
+                17.1456775665283,
+                48.176399230957
+              ],
+              [
+                17.1407508850098,
+                48.1714172363281
+              ],
+              [
+                17.1380596160889,
+                48.168514251709
+              ],
+              [
+                17.13427734375,
+                48.1646728515625
+              ],
+              [
+                17.131368637085,
+                48.1616325378418
+              ],
+              [
+                17.1269702911377,
+                48.1574859619141
+              ],
+              [
+                17.123685836792,
+                48.1546783447266
+              ],
+              [
+                17.1180820465088,
+                48.150806427002
+              ],
+              [
+                17.1164817810059,
+                48.1483612060547
+              ],
+              [
+                17.1137886047363,
+                48.1458778381348
+              ],
+              [
+                17.1119499206543,
+                48.1429290771484
+              ],
+              [
+                17.1095733642578,
+                48.1401214599609
+              ],
+              [
+                17.1051902770996,
+                48.139820098877
+              ],
+              [
+                17.0924606323242,
+                48.1412887573242
+              ],
+              [
+                17.0849914550781,
+                48.1429061889648
+              ],
+              [
+                17.0781898498535,
+                48.1452102661133
+              ],
+              [
+                17.0724449157715,
+                48.148193359375
+              ],
+              [
+                17.0629081726074,
+                48.1498336791992
+              ],
+              [
+                17.0582828521729,
+                48.1536407470703
+              ],
+              [
+                17.0532913208008,
+                48.1565361022949
+              ],
+              [
+                17.0513286590576,
+                48.1593055725098
+              ],
+              [
+                17.0482311248779,
+                48.162712097168
+              ],
+              [
+                17.0465393066406,
+                48.1651191711426
+              ],
+              [
+                17.0495491027832,
+                48.170970916748
+              ],
+              [
+                17.0491313934326,
+                48.1741905212402
+              ],
+              [
+                17.0431365966797,
+                48.1798896789551
+              ],
+              [
+                17.0396614074707,
+                48.1826324462891
+              ],
+              [
+                17.0373249053955,
+                48.186164855957
+              ],
+              [
+                17.0363349914551,
+                48.1887359619141
+              ],
+              [
+                17.0349979400635,
+                48.1922225952148
+              ],
+              [
+                17.033863067627,
+                48.1950416564941
+              ]
+            ]
+          }
+        },
+        "id": "4012__7"
+      },
+      {
+        "origin": "Pri kríži",
+        "destination": "Stn. Nové Mesto",
+        "stops": [
+          {
+            "id": "000000031000001",
+            "name": "Pri kríži",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0.023455498803371354
+          },
+          {
+            "id": "000000026500001",
+            "name": "Podvornice",
+            "onTrackLocation": 0.023455498803371354,
+            "coordIndex": 1,
+            "distanceToNextStop": 0.030570243894828007
+          },
+          {
+            "id": "000000006800001",
+            "name": "Drobného",
+            "onTrackLocation": 0.05402574269819936,
+            "coordIndex": 2,
+            "distanceToNextStop": 0.027127009674125444
+          },
+          {
+            "id": "000000000100001",
+            "name": "Alexyho",
+            "onTrackLocation": 0.0811527523723248,
+            "coordIndex": 3,
+            "distanceToNextStop": 0.02667098749045678
+          },
+          {
+            "id": "000000041800001",
+            "name": "Švantnerova",
+            "onTrackLocation": 0.10782373986278158,
+            "coordIndex": 4,
+            "distanceToNextStop": 0.023236283589133863
+          },
+          {
+            "id": "000000005100001",
+            "name": "Záluhy",
+            "onTrackLocation": 0.13106002345191545,
+            "coordIndex": 5,
+            "distanceToNextStop": 0.053138491957569034
+          },
+          {
+            "id": "000000009800001",
+            "name": "Horné Krčace",
+            "onTrackLocation": 0.18419851540948448,
+            "coordIndex": 6,
+            "distanceToNextStop": 0.02541939848719932
+          },
+          {
+            "id": "000000006000001",
+            "name": "Dolné Krčace",
+            "onTrackLocation": 0.2096179138966838,
+            "coordIndex": 7,
+            "distanceToNextStop": 0.047718493046988525
+          },
+          {
+            "id": "000000014300001",
+            "name": "Kútiky",
+            "onTrackLocation": 0.2573364069436723,
+            "coordIndex": 8,
+            "distanceToNextStop": 0.02036471097191056
+          },
+          {
+            "id": "000000001900001",
+            "name": "Borská",
+            "onTrackLocation": 0.2777011179155829,
+            "coordIndex": 9,
+            "distanceToNextStop": 0.03090074601991144
+          },
+          {
+            "id": "000000018000001",
+            "name": "Nám. sv. Františka",
+            "onTrackLocation": 0.3086018639354943,
+            "coordIndex": 10,
+            "distanceToNextStop": 0.023666176180852982
+          },
+          {
+            "id": "000000024000001",
+            "name": "Nad lúčkami",
+            "onTrackLocation": 0.3322680401163473,
+            "coordIndex": 11,
+            "distanceToNextStop": 0.035655991111624874
+          },
+          {
+            "id": "000000035300001",
+            "name": "Segnerova",
+            "onTrackLocation": 0.3679240312279722,
+            "coordIndex": 12,
+            "distanceToNextStop": 0.037069066725850586
+          },
+          {
+            "id": "000000023000001",
+            "name": "Riviéra",
+            "onTrackLocation": 0.40499309795382277,
+            "coordIndex": 13,
+            "distanceToNextStop": 0.04696861230033322
+          },
+          {
+            "id": "000000002100001",
+            "name": "Botanická záhrada",
+            "onTrackLocation": 0.451961710254156,
+            "coordIndex": 14,
+            "distanceToNextStop": 0.038635702782651604
+          },
+          {
+            "id": "000000018100001",
+            "name": "Lanfranconi",
+            "onTrackLocation": 0.4905974130368076,
+            "coordIndex": 15,
+            "distanceToNextStop": 0.039441074235311624
+          },
+          {
+            "id": "000000028100001",
+            "name": "Kráľovské údolie",
+            "onTrackLocation": 0.5300384872721192,
+            "coordIndex": 16,
+            "distanceToNextStop": 0.04570046823239371
+          },
+          {
+            "id": "000000043900001",
+            "name": "Chatam Sófer",
+            "onTrackLocation": 0.5757389555045129,
+            "coordIndex": 17,
+            "distanceToNextStop": 0.06598339916164342
+          },
+          {
+            "id": "000000026100001",
+            "name": "Most SNP",
+            "onTrackLocation": 0.6417223546661563,
+            "coordIndex": 18,
+            "distanceToNextStop": 0.05439864347746737
+          },
+          {
+            "id": "000000039400001",
+            "name": "Šafárikovo nám.",
+            "onTrackLocation": 0.6961209981436237,
+            "coordIndex": 19,
+            "distanceToNextStop": 0.03124078049373502
+          },
+          {
+            "id": "000000013900002",
+            "name": "Centrum",
+            "onTrackLocation": 0.7273617786373587,
+            "coordIndex": 20,
+            "distanceToNextStop": 0.017615111017559637
+          },
+          {
+            "id": "000000020900002",
+            "name": "Mariánska",
+            "onTrackLocation": 0.7449768896549184,
+            "coordIndex": 21,
+            "distanceToNextStop": 0.04590257023474831
+          },
+          {
+            "id": "000000000300004",
+            "name": "Americké nám.",
+            "onTrackLocation": 0.7908794598896667,
+            "coordIndex": 22,
+            "distanceToNextStop": 0.027957193735846486
+          },
+          {
+            "id": "000000017300002",
+            "name": "Krížna",
+            "onTrackLocation": 0.8188366536255132,
+            "coordIndex": 23,
+            "distanceToNextStop": 0.028553726475189167
+          },
+          {
+            "id": "000000043700002",
+            "name": "Trnavské mýto",
+            "onTrackLocation": 0.8473903801007023,
+            "coordIndex": 24,
+            "distanceToNextStop": 0.03949128030272042
+          },
+          {
+            "id": "000000026700002",
+            "name": "Česká",
+            "onTrackLocation": 0.8868816604034228,
+            "coordIndex": 25,
+            "distanceToNextStop": 0.027924600304778613
+          },
+          {
+            "id": "000000025700002",
+            "name": "Nová doba",
+            "onTrackLocation": 0.9148062607082014,
+            "coordIndex": 26,
+            "distanceToNextStop": 0.03308760221075513
+          },
+          {
+            "id": "000000021300002",
+            "name": "MiÚ Nové Mesto",
+            "onTrackLocation": 0.9478938629189565,
+            "coordIndex": 27,
+            "distanceToNextStop": 0.031151840850096257
+          },
+          {
+            "id": "000000048800002",
+            "name": "Kuchajda",
+            "onTrackLocation": 0.9790457037690528,
+            "coordIndex": 28,
+            "distanceToNextStop": 0.020954296230947245
+          },
+          {
+            "id": "000000051500002",
+            "name": "Stn. Nové Mesto",
+            "onTrackLocation": 1,
+            "coordIndex": 29,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                17.0339794158936,
+                48.1945915222168
+              ],
+              [
+                17.0351276397705,
+                48.1916770935059
+              ],
+              [
+                17.0366401672363,
+                48.1878814697266
+              ],
+              [
+                17.037914276123,
+                48.1845016479492
+              ],
+              [
+                17.0407848358154,
+                48.1816596984863
+              ],
+              [
+                17.0436992645264,
+                48.1793937683105
+              ],
+              [
+                17.0491752624512,
+                48.1736259460449
+              ],
+              [
+                17.0494174957275,
+                48.1703643798828
+              ],
+              [
+                17.0468101501465,
+                48.1644859313965
+              ],
+              [
+                17.0485343933105,
+                48.1621360778809
+              ],
+              [
+                17.0515804290771,
+                48.1587257385254
+              ],
+              [
+                17.0535469055176,
+                48.1559829711914
+              ],
+              [
+                17.0591583251953,
+                48.1533432006836
+              ],
+              [
+                17.0631408691406,
+                48.1493911743164
+              ],
+              [
+                17.0719718933105,
+                48.1480903625488
+              ],
+              [
+                17.0780506134033,
+                48.1452293395996
+              ],
+              [
+                17.0847930908203,
+                48.1428985595703
+              ],
+              [
+                17.0930595397949,
+                48.1408882141113
+              ],
+              [
+                17.1056499481201,
+                48.139762878418
+              ],
+              [
+                17.1156730651855,
+                48.141788482666
+              ],
+              [
+                17.1135902404785,
+                48.1455535888672
+              ],
+              [
+                17.1155910491943,
+                48.1473808288574
+              ],
+              [
+                17.1205043792725,
+                48.1522827148438
+              ],
+              [
+                17.124059677124,
+                48.1549797058105
+              ],
+              [
+                17.1275081634521,
+                48.1578369140625
+              ],
+              [
+                17.131799697876,
+                48.1620254516602
+              ],
+              [
+                17.1347351074219,
+                48.1650314331055
+              ],
+              [
+                17.1381664276123,
+                48.1686134338379
+              ],
+              [
+                17.141450881958,
+                48.1719627380371
+              ],
+              [
+                17.1454315185547,
+                48.171516418457
+              ]
+            ]
+          }
+        },
+        "id": "4012__4"
+      },
+      {
+        "origin": "Stn. Nové Mesto",
+        "destination": "Pri kríži",
+        "stops": [
+          {
+            "id": "000000051500001",
+            "name": "Stn. Nové Mesto",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0.024027484164737392
+          },
+          {
+            "id": "000000048800001",
+            "name": "Kuchajda",
+            "onTrackLocation": 0.024027484164737392,
+            "coordIndex": 1,
+            "distanceToNextStop": 0.027052774890901084
+          },
+          {
+            "id": "000000021300001",
+            "name": "MiÚ Nové Mesto",
+            "onTrackLocation": 0.051080259055638476,
+            "coordIndex": 2,
+            "distanceToNextStop": 0.03642654790779586
+          },
+          {
+            "id": "000000025700001",
+            "name": "Nová doba",
+            "onTrackLocation": 0.08750680696343434,
+            "coordIndex": 3,
+            "distanceToNextStop": 0.02858704941950653
+          },
+          {
+            "id": "000000026700001",
+            "name": "Česká",
+            "onTrackLocation": 0.11609385638294087,
+            "coordIndex": 4,
+            "distanceToNextStop": 0.0402622444055645
+          },
+          {
+            "id": "000000043700001",
+            "name": "Trnavské mýto",
+            "onTrackLocation": 0.15635610078850537,
+            "coordIndex": 5,
+            "distanceToNextStop": 0.02822861117206643
+          },
+          {
+            "id": "000000017300001",
+            "name": "Krížna",
+            "onTrackLocation": 0.1845847119605718,
+            "coordIndex": 6,
+            "distanceToNextStop": 0.04266119005066016
+          },
+          {
+            "id": "000000000300003",
+            "name": "Americké nám.",
+            "onTrackLocation": 0.22724590201123196,
+            "coordIndex": 7,
+            "distanceToNextStop": 0.02114854946774744
+          },
+          {
+            "id": "000000020900001",
+            "name": "Mariánska",
+            "onTrackLocation": 0.2483944514789794,
+            "coordIndex": 8,
+            "distanceToNextStop": 0.024296514366155736
+          },
+          {
+            "id": "000000013900001",
+            "name": "Centrum",
+            "onTrackLocation": 0.27269096584513514,
+            "coordIndex": 9,
+            "distanceToNextStop": 0.025315035446082934
+          },
+          {
+            "id": "000000013000002",
+            "name": "Jesenského",
+            "onTrackLocation": 0.29800600129121807,
+            "coordIndex": 10,
+            "distanceToNextStop": 0.025558636945193558
+          },
+          {
+            "id": "000000024800004",
+            "name": "Nám. Ľ. Štúra",
+            "onTrackLocation": 0.32356463823641163,
+            "coordIndex": 11,
+            "distanceToNextStop": 0.023306262773881814
+          },
+          {
+            "id": "000000026100002",
+            "name": "Most SNP",
+            "onTrackLocation": 0.34687090101029344,
+            "coordIndex": 12,
+            "distanceToNextStop": 0.0683292627692682
+          },
+          {
+            "id": "000000043900002",
+            "name": "Chatam Sófer",
+            "onTrackLocation": 0.41520016377956165,
+            "coordIndex": 13,
+            "distanceToNextStop": 0.041533347750400684
+          },
+          {
+            "id": "000000028100002",
+            "name": "Kráľovské údolie",
+            "onTrackLocation": 0.45673351152996233,
+            "coordIndex": 14,
+            "distanceToNextStop": 0.040343323302687306
+          },
+          {
+            "id": "000000018100002",
+            "name": "Lanfranconi",
+            "onTrackLocation": 0.49707683483264964,
+            "coordIndex": 15,
+            "distanceToNextStop": 0.03849925616260519
+          },
+          {
+            "id": "000000002100002",
+            "name": "Botanická záhrada",
+            "onTrackLocation": 0.5355760909952548,
+            "coordIndex": 16,
+            "distanceToNextStop": 0.05208288525404836
+          },
+          {
+            "id": "000000023000002",
+            "name": "Riviéra",
+            "onTrackLocation": 0.5876589762493032,
+            "coordIndex": 17,
+            "distanceToNextStop": 0.038843748488188945
+          },
+          {
+            "id": "000000035300002",
+            "name": "Segnerova",
+            "onTrackLocation": 0.6265027247374921,
+            "coordIndex": 18,
+            "distanceToNextStop": 0.03497598370743393
+          },
+          {
+            "id": "000000024000002",
+            "name": "Nad lúčkami",
+            "onTrackLocation": 0.6614787084449261,
+            "coordIndex": 19,
+            "distanceToNextStop": 0.024280982264087814
+          },
+          {
+            "id": "000000018000002",
+            "name": "Nám. sv. Františka",
+            "onTrackLocation": 0.6857596907090139,
+            "coordIndex": 20,
+            "distanceToNextStop": 0.03157956729563893
+          },
+          {
+            "id": "000000001900002",
+            "name": "Borská",
+            "onTrackLocation": 0.7173392580046528,
+            "coordIndex": 21,
+            "distanceToNextStop": 0.02107169578785706
+          },
+          {
+            "id": "000000014300002",
+            "name": "Kútiky",
+            "onTrackLocation": 0.7384109537925099,
+            "coordIndex": 22,
+            "distanceToNextStop": 0.049035789734616864
+          },
+          {
+            "id": "000000006000002",
+            "name": "Dolné Krčace",
+            "onTrackLocation": 0.7874467435271267,
+            "coordIndex": 23,
+            "distanceToNextStop": 0.025614851194982635
+          },
+          {
+            "id": "000000009800002",
+            "name": "Horné Krčace",
+            "onTrackLocation": 0.8130615947221094,
+            "coordIndex": 24,
+            "distanceToNextStop": 0.055177743350289354
+          },
+          {
+            "id": "000000005100002",
+            "name": "Záluhy",
+            "onTrackLocation": 0.8682393380723987,
+            "coordIndex": 25,
+            "distanceToNextStop": 0.028459748862477485
+          },
+          {
+            "id": "000000041800002",
+            "name": "Švantnerova",
+            "onTrackLocation": 0.8966990869348762,
+            "coordIndex": 26,
+            "distanceToNextStop": 0.03060075376479998
+          },
+          {
+            "id": "000000000100002",
+            "name": "Alexyho",
+            "onTrackLocation": 0.9272998406996762,
+            "coordIndex": 27,
+            "distanceToNextStop": 0.02103999746101437
+          },
+          {
+            "id": "000000006800002",
+            "name": "Drobného",
+            "onTrackLocation": 0.9483398381606906,
+            "coordIndex": 28,
+            "distanceToNextStop": 0.028524859843480965
+          },
+          {
+            "id": "000000026500002",
+            "name": "Podvornice",
+            "onTrackLocation": 0.9768646980041715,
+            "coordIndex": 29,
+            "distanceToNextStop": 0.023135301995828472
+          },
+          {
+            "id": "000000031000002",
+            "name": "Pri kríži",
+            "onTrackLocation": 1,
+            "coordIndex": 30,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                17.1452312469482,
+                48.1719284057617
+              ],
+              [
+                17.1407508850098,
+                48.1714172363281
+              ],
+              [
+                17.1380596160889,
+                48.168514251709
+              ],
+              [
+                17.13427734375,
+                48.1646728515625
+              ],
+              [
+                17.131368637085,
+                48.1616325378418
+              ],
+              [
+                17.1269702911377,
+                48.1574859619141
+              ],
+              [
+                17.123685836792,
+                48.1546783447266
+              ],
+              [
+                17.1180820465088,
+                48.150806427002
+              ],
+              [
+                17.1164817810059,
+                48.1483612060547
+              ],
+              [
+                17.1137886047363,
+                48.1458778381348
+              ],
+              [
+                17.1119499206543,
+                48.1429290771484
+              ],
+              [
+                17.1095733642578,
+                48.1401214599609
+              ],
+              [
+                17.1051902770996,
+                48.139820098877
+              ],
+              [
+                17.0924606323242,
+                48.1412887573242
+              ],
+              [
+                17.0849914550781,
+                48.1429061889648
+              ],
+              [
+                17.0781898498535,
+                48.1452102661133
+              ],
+              [
+                17.0724449157715,
+                48.148193359375
+              ],
+              [
+                17.0629081726074,
+                48.1498336791992
+              ],
+              [
+                17.0582828521729,
+                48.1536407470703
+              ],
+              [
+                17.0532913208008,
+                48.1565361022949
+              ],
+              [
+                17.0513286590576,
+                48.1593055725098
+              ],
+              [
+                17.0482311248779,
+                48.162712097168
+              ],
+              [
+                17.0465393066406,
+                48.1651191711426
+              ],
+              [
+                17.0495491027832,
+                48.170970916748
+              ],
+              [
+                17.0491313934326,
+                48.1741905212402
+              ],
+              [
+                17.0431365966797,
+                48.1798896789551
+              ],
+              [
+                17.0396614074707,
+                48.1826324462891
+              ],
+              [
+                17.0373249053955,
+                48.186164855957
+              ],
+              [
+                17.0363349914551,
+                48.1887359619141
+              ],
+              [
+                17.0349979400635,
+                48.1922225952148
+              ],
+              [
+                17.033863067627,
+                48.1950416564941
+              ]
+            ]
+          }
+        },
+        "id": "4012__6"
+      }
+    ],
+    "origin": "Pri kríži",
+    "destination": "Zlaté piesky"
+  },
+  "7": {
+    "colors": {
+      "bg": "#FFED00",
+      "fg": "#000000"
+    },
+    "route_ids": [
+      "7011"
+    ],
+    "transportType": "tram",
+    "tracks": [
+      {
+        "origin": "Komisárky",
+        "destination": "Hlavná stanica",
+        "stops": [
+          {
+            "id": "000000009300022",
+            "name": "Hlavná stanica",
+            "onTrackLocation": 1,
+            "coordIndex": 21,
+            "distanceToNextStop": 0
+          },
+          {
+            "id": "000000030600002",
+            "name": "Pod stanicou",
+            "onTrackLocation": 0.9780419050729116,
+            "coordIndex": 20,
+            "distanceToNextStop": 0.021958094927088445
+          },
+          {
+            "id": "000000071400002",
+            "name": "Úrad vlády SR",
+            "onTrackLocation": 0.9475911087255903,
+            "coordIndex": 19,
+            "distanceToNextStop": 0.030450796347321285
+          },
+          {
+            "id": "000000042200002",
+            "name": "STU",
+            "onTrackLocation": 0.8994040558164644,
+            "coordIndex": 18,
+            "distanceToNextStop": 0.04818705290912584
+          },
+          {
+            "id": "000000008000001",
+            "name": "Blumentál",
+            "onTrackLocation": 0.8713173254059786,
+            "coordIndex": 17,
+            "distanceToNextStop": 0.028086730410485816
+          },
+          {
+            "id": "000000033200001",
+            "name": "Račianske mýto",
+            "onTrackLocation": 0.8147107237879733,
+            "coordIndex": 16,
+            "distanceToNextStop": 0.05660660161800535
+          },
+          {
+            "id": "000000044600001",
+            "name": "Ursínyho",
+            "onTrackLocation": 0.7609043241488207,
+            "coordIndex": 15,
+            "distanceToNextStop": 0.05380639963915257
+          },
+          {
+            "id": "000000029300001",
+            "name": "Pionierska",
+            "onTrackLocation": 0.6847860315888544,
+            "coordIndex": 14,
+            "distanceToNextStop": 0.07611829255996627
+          },
+          {
+            "id": "000000033700001",
+            "name": "Riazanská",
+            "onTrackLocation": 0.6226239566901409,
+            "coordIndex": 13,
+            "distanceToNextStop": 0.062162074898713504
+          },
+          {
+            "id": "000000022400001",
+            "name": "Mladá garda",
+            "onTrackLocation": 0.5718500753497708,
+            "coordIndex": 12,
+            "distanceToNextStop": 0.050773881340370086
+          },
+          {
+            "id": "000000024500001",
+            "name": "Nám. Biely kríž",
+            "onTrackLocation": 0.5132520079261926,
+            "coordIndex": 11,
+            "distanceToNextStop": 0.058598067423578204
+          },
+          {
+            "id": "000000052200001",
+            "name": "Stn. Vinohrady",
+            "onTrackLocation": 0.46262647300415616,
+            "coordIndex": 10,
+            "distanceToNextStop": 0.050625534922036475
+          },
+          {
+            "id": "000000046500001",
+            "name": "Depo Krasňany",
+            "onTrackLocation": 0.4276536897439228,
+            "coordIndex": 9,
+            "distanceToNextStop": 0.03497278326023334
+          },
+          {
+            "id": "000000026200001",
+            "name": "Malokrasňanská",
+            "onTrackLocation": 0.3816640854433384,
+            "coordIndex": 8,
+            "distanceToNextStop": 0.04598960430058441
+          },
+          {
+            "id": "000000028700001",
+            "name": "Pekná cesta",
+            "onTrackLocation": 0.32499581567443353,
+            "coordIndex": 7,
+            "distanceToNextStop": 0.05666826976890488
+          },
+          {
+            "id": "000000003600001",
+            "name": "Černockého",
+            "onTrackLocation": 0.2676736988617887,
+            "coordIndex": 6,
+            "distanceToNextStop": 0.05732211681264482
+          },
+          {
+            "id": "000000009100001",
+            "name": "Hečkova",
+            "onTrackLocation": 0.21874238862378745,
+            "coordIndex": 5,
+            "distanceToNextStop": 0.04893131023800126
+          },
+          {
+            "id": "000000011100001",
+            "name": "Hybešova",
+            "onTrackLocation": 0.15778200251048896,
+            "coordIndex": 4,
+            "distanceToNextStop": 0.06096038611329849
+          },
+          {
+            "id": "000000071300001",
+            "name": "Detvianska",
+            "onTrackLocation": 0.11305701403819964,
+            "coordIndex": 3,
+            "distanceToNextStop": 0.044724988472289326
+          },
+          {
+            "id": "000000048400001",
+            "name": "Záhumenice",
+            "onTrackLocation": 0.08391224642699625,
+            "coordIndex": 2,
+            "distanceToNextStop": 0.02914476761120338
+          },
+          {
+            "id": "000000042500001",
+            "name": "Púchovská",
+            "onTrackLocation": 0.02794432810318748,
+            "coordIndex": 1,
+            "distanceToNextStop": 0.05596791832380878
+          },
+          {
+            "id": "000000015600001",
+            "name": "Komisárky",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0.02794432810318748
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                17.1662120819092,
+                48.2162284851074
+              ],
+              [
+                17.1634178161621,
+                48.2147827148438
+              ],
+              [
+                17.1582355499268,
+                48.2115631103516
+              ],
+              [
+                17.1546173095703,
+                48.2110824584961
+              ],
+              [
+                17.1509399414063,
+                48.2082138061523
+              ],
+              [
+                17.1495494842529,
+                48.2031555175781
+              ],
+              [
+                17.147102355957,
+                48.1993637084961
+              ],
+              [
+                17.1432857513428,
+                48.1952514648438
+              ],
+              [
+                17.13916015625,
+                48.1913414001465
+              ],
+              [
+                17.1355381011963,
+                48.188304901123
+              ],
+              [
+                17.1333179473877,
+                48.1857528686523
+              ],
+              [
+                17.1297435760498,
+                48.1822090148926
+              ],
+              [
+                17.1278533935547,
+                48.1774291992188
+              ],
+              [
+                17.1272010803223,
+                48.173168182373
+              ],
+              [
+                17.12744140625,
+                48.1679267883301
+              ],
+              [
+                17.1237831115723,
+                48.1619873046875
+              ],
+              [
+                17.1205291748047,
+                48.1580009460449
+              ],
+              [
+                17.1187610626221,
+                48.1533737182617
+              ],
+              [
+                17.1154975891113,
+                48.1524391174316
+              ],
+              [
+                17.1103458404541,
+                48.1546096801758
+              ],
+              [
+                17.1073360443115,
+                48.1562118530273
+              ],
+              [
+                17.1072006225586,
+                48.1580619812012
+              ]
+            ]
+          }
+        },
+        "id": "7011__3"
+      },
+      {
+        "origin": "Hlavná stanica",
+        "destination": "Komisárky",
+        "stops": [
+          {
+            "id": "000000015600002",
+            "name": "Komisárky",
+            "onTrackLocation": 1,
+            "coordIndex": 20,
+            "distanceToNextStop": 0
+          },
+          {
+            "id": "000000042500002",
+            "name": "Púchovská",
+            "onTrackLocation": 0.9821814865710852,
+            "coordIndex": 19,
+            "distanceToNextStop": 0.01781851342891483
+          },
+          {
+            "id": "000000048400002",
+            "name": "Záhumenice",
+            "onTrackLocation": 0.928256210736888,
+            "coordIndex": 18,
+            "distanceToNextStop": 0.05392527583419715
+          },
+          {
+            "id": "000000071300002",
+            "name": "Detvianska",
+            "onTrackLocation": 0.8874464988323517,
+            "coordIndex": 17,
+            "distanceToNextStop": 0.040809711904536305
+          },
+          {
+            "id": "000000011100002",
+            "name": "Hybešova",
+            "onTrackLocation": 0.8360557645349252,
+            "coordIndex": 16,
+            "distanceToNextStop": 0.051390734297426466
+          },
+          {
+            "id": "000000009100002",
+            "name": "Hečkova",
+            "onTrackLocation": 0.7751458801967364,
+            "coordIndex": 15,
+            "distanceToNextStop": 0.06090988433818889
+          },
+          {
+            "id": "000000003600002",
+            "name": "Černockého",
+            "onTrackLocation": 0.7317969804156415,
+            "coordIndex": 14,
+            "distanceToNextStop": 0.04334889978109491
+          },
+          {
+            "id": "000000028700002",
+            "name": "Pekná cesta",
+            "onTrackLocation": 0.6756224917319301,
+            "coordIndex": 13,
+            "distanceToNextStop": 0.05617448868371133
+          },
+          {
+            "id": "000000026200002",
+            "name": "Malokrasňanská",
+            "onTrackLocation": 0.6065791418341913,
+            "coordIndex": 12,
+            "distanceToNextStop": 0.06904334989773886
+          },
+          {
+            "id": "000000046500002",
+            "name": "Depo Krasňany",
+            "onTrackLocation": 0.572666555479281,
+            "coordIndex": 11,
+            "distanceToNextStop": 0.033912586354910235
+          },
+          {
+            "id": "000000052200002",
+            "name": "Stn. Vinohrady",
+            "onTrackLocation": 0.5309335265655636,
+            "coordIndex": 10,
+            "distanceToNextStop": 0.04173302891371744
+          },
+          {
+            "id": "000000024500002",
+            "name": "Nám. Biely kríž",
+            "onTrackLocation": 0.4822884260853976,
+            "coordIndex": 9,
+            "distanceToNextStop": 0.04864510048016596
+          },
+          {
+            "id": "000000022400002",
+            "name": "Mladá garda",
+            "onTrackLocation": 0.4232421536165335,
+            "coordIndex": 8,
+            "distanceToNextStop": 0.059046272468864125
+          },
+          {
+            "id": "000000033700002",
+            "name": "Riazanská",
+            "onTrackLocation": 0.3801808262538835,
+            "coordIndex": 7,
+            "distanceToNextStop": 0.043061327362650004
+          },
+          {
+            "id": "000000029300002",
+            "name": "Pionierska",
+            "onTrackLocation": 0.3201816649217092,
+            "coordIndex": 6,
+            "distanceToNextStop": 0.05999916133217431
+          },
+          {
+            "id": "000000044600002",
+            "name": "Ursínyho",
+            "onTrackLocation": 0.23274649050307475,
+            "coordIndex": 5,
+            "distanceToNextStop": 0.08743517441863444
+          },
+          {
+            "id": "000000033200002",
+            "name": "Račianske mýto",
+            "onTrackLocation": 0.17861445223335143,
+            "coordIndex": 4,
+            "distanceToNextStop": 0.05413203826972332
+          },
+          {
+            "id": "000000008000002",
+            "name": "Blumentál",
+            "onTrackLocation": 0.12132627851224834,
+            "coordIndex": 3,
+            "distanceToNextStop": 0.05728817372110309
+          },
+          {
+            "id": "000000071400001",
+            "name": "Úrad vlády SR",
+            "onTrackLocation": 0.056215703738852145,
+            "coordIndex": 2,
+            "distanceToNextStop": 0.06511057477339618
+          },
+          {
+            "id": "000000030600001",
+            "name": "Pod stanicou",
+            "onTrackLocation": 0.023872979859693024,
+            "coordIndex": 1,
+            "distanceToNextStop": 0.032342723879159124
+          },
+          {
+            "id": "000000009300002",
+            "name": "Hlavná stanica",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0.023872979859693024
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                17.1068344116211,
+                48.1576194763184
+              ],
+              [
+                17.1075477600098,
+                48.1557006835938
+              ],
+              [
+                17.1109199523926,
+                48.1542472839355
+              ],
+              [
+                17.1189918518066,
+                48.1539764404297
+              ],
+              [
+                17.121057510376,
+                48.1585159301758
+              ],
+              [
+                17.1242504119873,
+                48.1624603271484
+              ],
+              [
+                17.1272926330566,
+                48.1694107055664
+              ],
+              [
+                17.1274929046631,
+                48.1743774414063
+              ],
+              [
+                17.1281814575195,
+                48.1779136657715
+              ],
+              [
+                17.1303024291992,
+                48.1825942993164
+              ],
+              [
+                17.1337184906006,
+                48.1859169006348
+              ],
+              [
+                17.1363258361816,
+                48.1889038085938
+              ],
+              [
+                17.1389274597168,
+                48.1911125183105
+              ],
+              [
+                17.143949508667,
+                48.1957473754883
+              ],
+              [
+                17.1476306915283,
+                48.1996994018555
+              ],
+              [
+                17.1495685577393,
+                48.2030487060547
+              ],
+              [
+                17.1507511138916,
+                48.2080307006836
+              ],
+              [
+                17.1549072265625,
+                48.2112617492676
+              ],
+              [
+                17.1595878601074,
+                48.2125625610352
+              ],
+              [
+                17.1647758483887,
+                48.215389251709
+              ],
+              [
+                17.1665477752686,
+                48.2162742614746
+              ]
+            ]
+          }
+        },
+        "id": "7011__2"
+      }
+    ],
+    "origin": "Komisárky",
+    "destination": "Hlavná stanica"
+  },
+  "9": {
+    "colors": {
+      "bg": "#849717",
+      "fg": "#FFFFFF"
+    },
+    "route_ids": [
+      "9009"
+    ],
+    "transportType": "tram",
+    "tracks": [
+      {
+        "origin": "Kútiky",
+        "destination": "Astronomická",
+        "stops": [
+          {
+            "id": "000000014300001",
+            "name": "Kútiky",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0.0254144100824288
+          },
+          {
+            "id": "000000001900001",
+            "name": "Borská",
+            "onTrackLocation": 0.0254144100824288,
+            "coordIndex": 1,
+            "distanceToNextStop": 0.03856299420532994
+          },
+          {
+            "id": "000000018000001",
+            "name": "Nám. sv. Františka",
+            "onTrackLocation": 0.06397740428775874,
+            "coordIndex": 2,
+            "distanceToNextStop": 0.029534517203451294
+          },
+          {
+            "id": "000000024000001",
+            "name": "Nad lúčkami",
+            "onTrackLocation": 0.09351192149121003,
+            "coordIndex": 3,
+            "distanceToNextStop": 0.0444973651360029
+          },
+          {
+            "id": "000000035300001",
+            "name": "Segnerova",
+            "onTrackLocation": 0.13800928662721293,
+            "coordIndex": 4,
+            "distanceToNextStop": 0.04626083151600441
+          },
+          {
+            "id": "000000023000001",
+            "name": "Riviéra",
+            "onTrackLocation": 0.18427011814321734,
+            "coordIndex": 5,
+            "distanceToNextStop": 0.05861510019217772
+          },
+          {
+            "id": "000000002100001",
+            "name": "Botanická záhrada",
+            "onTrackLocation": 0.24288521833539506,
+            "coordIndex": 6,
+            "distanceToNextStop": 0.048215935678905586
+          },
+          {
+            "id": "000000018100001",
+            "name": "Lanfranconi",
+            "onTrackLocation": 0.29110115401430064,
+            "coordIndex": 7,
+            "distanceToNextStop": 0.04922100962249426
+          },
+          {
+            "id": "000000028100001",
+            "name": "Kráľovské údolie",
+            "onTrackLocation": 0.3403221636367949,
+            "coordIndex": 8,
+            "distanceToNextStop": 0.13528000946175206
+          },
+          {
+            "id": "000000014100001",
+            "name": "Kapucínska",
+            "onTrackLocation": 0.47560217309854697,
+            "coordIndex": 9,
+            "distanceToNextStop": 0.03501263060233889
+          },
+          {
+            "id": "000000030200002",
+            "name": "Poštová",
+            "onTrackLocation": 0.5106148037008859,
+            "coordIndex": 10,
+            "distanceToNextStop": 0.025521584007382025
+          },
+          {
+            "id": "000000047300002",
+            "name": "Vysoká",
+            "onTrackLocation": 0.5361363877082679,
+            "coordIndex": 11,
+            "distanceToNextStop": 0.06397140088379272
+          },
+          {
+            "id": "000000008000002",
+            "name": "Blumentál",
+            "onTrackLocation": 0.6001077885920606,
+            "coordIndex": 12,
+            "distanceToNextStop": 0.034258127267066785
+          },
+          {
+            "id": "000000017300002",
+            "name": "Krížna",
+            "onTrackLocation": 0.6343659158591274,
+            "coordIndex": 13,
+            "distanceToNextStop": 0.03551074599163251
+          },
+          {
+            "id": "000000043700004",
+            "name": "Trnavské mýto",
+            "onTrackLocation": 0.6698766618507599,
+            "coordIndex": 14,
+            "distanceToNextStop": 0.04844196273139034
+          },
+          {
+            "id": "000000048200002",
+            "name": "Saleziáni",
+            "onTrackLocation": 0.7183186245821502,
+            "coordIndex": 15,
+            "distanceToNextStop": 0.05650354048093509
+          },
+          {
+            "id": "000000023400002",
+            "name": "Líščie nivy",
+            "onTrackLocation": 0.7748221650630853,
+            "coordIndex": 16,
+            "distanceToNextStop": 0.06324178782338286
+          },
+          {
+            "id": "000000030800002",
+            "name": "Nemocnica Ružinov",
+            "onTrackLocation": 0.8380639528864682,
+            "coordIndex": 17,
+            "distanceToNextStop": 0.026726987375929157
+          },
+          {
+            "id": "000000009200002",
+            "name": "Herlianska",
+            "onTrackLocation": 0.8647909402623973,
+            "coordIndex": 18,
+            "distanceToNextStop": 0.03530962414358252
+          },
+          {
+            "id": "000000043200002",
+            "name": "Tomášikova",
+            "onTrackLocation": 0.9001005644059799,
+            "coordIndex": 19,
+            "distanceToNextStop": 0.049256661242909394
+          },
+          {
+            "id": "000000039100002",
+            "name": "Súmračná",
+            "onTrackLocation": 0.9493572256488892,
+            "coordIndex": 20,
+            "distanceToNextStop": 0.038027994794028186
+          },
+          {
+            "id": "000000011500002",
+            "name": "Chlumeckého",
+            "onTrackLocation": 0.9873852204429174,
+            "coordIndex": 21,
+            "distanceToNextStop": 0.012614779557082567
+          },
+          {
+            "id": "000000000600002",
+            "name": "Astronomická",
+            "onTrackLocation": 1,
+            "coordIndex": 22,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                17.0468101501465,
+                48.1644859313965
+              ],
+              [
+                17.0485343933105,
+                48.1621360778809
+              ],
+              [
+                17.0515804290771,
+                48.1587257385254
+              ],
+              [
+                17.0535469055176,
+                48.1559829711914
+              ],
+              [
+                17.0591583251953,
+                48.1533432006836
+              ],
+              [
+                17.0631408691406,
+                48.1493911743164
+              ],
+              [
+                17.0719718933105,
+                48.1480903625488
+              ],
+              [
+                17.0780506134033,
+                48.1452293395996
+              ],
+              [
+                17.0847930908203,
+                48.1428985595703
+              ],
+              [
+                17.1054019927979,
+                48.1450958251953
+              ],
+              [
+                17.1097736358643,
+                48.1472129821777
+              ],
+              [
+                17.1129417419434,
+                48.1487731933594
+              ],
+              [
+                17.1189918518066,
+                48.1539764404297
+              ],
+              [
+                17.124059677124,
+                48.1549797058105
+              ],
+              [
+                17.1275825500488,
+                48.1577796936035
+              ],
+              [
+                17.1339492797852,
+                48.1551666259766
+              ],
+              [
+                17.1425914764404,
+                48.1559371948242
+              ],
+              [
+                17.1522769927979,
+                48.1567344665527
+              ],
+              [
+                17.1563758850098,
+                48.157039642334
+              ],
+              [
+                17.161792755127,
+                48.1574325561523
+              ],
+              [
+                17.1693515777588,
+                48.1579666137695
+              ],
+              [
+                17.1751861572266,
+                48.1583862304688
+              ],
+              [
+                17.1771125793457,
+                48.1585731506348
+              ]
+            ]
+          }
+        },
+        "id": "9009__1"
+      },
+      {
+        "origin": "Astronomická",
+        "destination": "Kútiky",
+        "stops": [
+          {
+            "id": "000000000600001",
+            "name": "Astronomická",
+            "onTrackLocation": 0,
+            "coordIndex": 0,
+            "distanceToNextStop": 0.019876109850140457
+          },
+          {
+            "id": "000000011500001",
+            "name": "Chlumeckého",
+            "onTrackLocation": 0.019876109850140457,
+            "coordIndex": 1,
+            "distanceToNextStop": 0.03817077827270017
+          },
+          {
+            "id": "000000039100001",
+            "name": "Súmračná",
+            "onTrackLocation": 0.058046888122840624,
+            "coordIndex": 2,
+            "distanceToNextStop": 0.048946426602356784
+          },
+          {
+            "id": "000000043200001",
+            "name": "Tomášikova",
+            "onTrackLocation": 0.10699331472519741,
+            "coordIndex": 3,
+            "distanceToNextStop": 0.0341285610370696
+          },
+          {
+            "id": "000000009200001",
+            "name": "Herlianska",
+            "onTrackLocation": 0.141121875762267,
+            "coordIndex": 4,
+            "distanceToNextStop": 0.02279848164710785
+          },
+          {
+            "id": "000000030800001",
+            "name": "Nemocnica Ružinov",
+            "onTrackLocation": 0.16392035740937486,
+            "coordIndex": 5,
+            "distanceToNextStop": 0.07054213360711037
+          },
+          {
+            "id": "000000023400001",
+            "name": "Líščie nivy",
+            "onTrackLocation": 0.23446249101648522,
+            "coordIndex": 6,
+            "distanceToNextStop": 0.04739543224164791
+          },
+          {
+            "id": "000000048200001",
+            "name": "Saleziáni",
+            "onTrackLocation": 0.28185792325813314,
+            "coordIndex": 7,
+            "distanceToNextStop": 0.04581254426770026
+          },
+          {
+            "id": "000000043700001",
+            "name": "Trnavské mýto",
+            "onTrackLocation": 0.3276704675258334,
+            "coordIndex": 8,
+            "distanceToNextStop": 0.03486565654347479
+          },
+          {
+            "id": "000000017300001",
+            "name": "Krížna",
+            "onTrackLocation": 0.3625361240693082,
+            "coordIndex": 9,
+            "distanceToNextStop": 0.03460744823846007
+          },
+          {
+            "id": "000000008000001",
+            "name": "Blumentál",
+            "onTrackLocation": 0.39714357230776826,
+            "coordIndex": 10,
+            "distanceToNextStop": 0.029368883844552884
+          },
+          {
+            "id": "000000042200001",
+            "name": "STU",
+            "onTrackLocation": 0.42651245615232114,
+            "coordIndex": 11,
+            "distanceToNextStop": 0.034715508705426334
+          },
+          {
+            "id": "000000047300001",
+            "name": "Vysoká",
+            "onTrackLocation": 0.4612279648577475,
+            "coordIndex": 12,
+            "distanceToNextStop": 0.030024221071228596
+          },
+          {
+            "id": "000000030200001",
+            "name": "Poštová",
+            "onTrackLocation": 0.49125218592897607,
+            "coordIndex": 13,
+            "distanceToNextStop": 0.030111643115089237
+          },
+          {
+            "id": "000000014100002",
+            "name": "Kapucínska",
+            "onTrackLocation": 0.5213638290440653,
+            "coordIndex": 14,
+            "distanceToNextStop": 0.13073138392593486
+          },
+          {
+            "id": "000000028100002",
+            "name": "Kráľovské údolie",
+            "onTrackLocation": 0.6520952129700002,
+            "coordIndex": 15,
+            "distanceToNextStop": 0.04982875159957412
+          },
+          {
+            "id": "000000018100002",
+            "name": "Lanfranconi",
+            "onTrackLocation": 0.7019239645695743,
+            "coordIndex": 16,
+            "distanceToNextStop": 0.04755111168462023
+          },
+          {
+            "id": "000000002100002",
+            "name": "Botanická záhrada",
+            "onTrackLocation": 0.7494750762541945,
+            "coordIndex": 17,
+            "distanceToNextStop": 0.06432849203923219
+          },
+          {
+            "id": "000000023000002",
+            "name": "Riviéra",
+            "onTrackLocation": 0.8138035682934267,
+            "coordIndex": 18,
+            "distanceToNextStop": 0.047976600244169165
+          },
+          {
+            "id": "000000035300002",
+            "name": "Segnerova",
+            "onTrackLocation": 0.8617801685375959,
+            "coordIndex": 19,
+            "distanceToNextStop": 0.0431994556083678
+          },
+          {
+            "id": "000000024000002",
+            "name": "Nad lúčkami",
+            "onTrackLocation": 0.9049796241459637,
+            "coordIndex": 20,
+            "distanceToNextStop": 0.029989870312699507
+          },
+          {
+            "id": "000000018000002",
+            "name": "Nám. sv. Františka",
+            "onTrackLocation": 0.9349694944586632,
+            "coordIndex": 21,
+            "distanceToNextStop": 0.03900448167321935
+          },
+          {
+            "id": "000000001900002",
+            "name": "Borská",
+            "onTrackLocation": 0.9739739761318825,
+            "coordIndex": 22,
+            "distanceToNextStop": 0.026026023868117476
+          },
+          {
+            "id": "000000014300002",
+            "name": "Kútiky",
+            "onTrackLocation": 1,
+            "coordIndex": 23,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                17.1763248443604,
+                48.158561706543
+              ],
+              [
+                17.1733055114746,
+                48.1583061218262
+              ],
+              [
+                17.1674880981445,
+                48.1579284667969
+              ],
+              [
+                17.1600379943848,
+                48.1573829650879
+              ],
+              [
+                17.1548404693604,
+                48.1570205688477
+              ],
+              [
+                17.1513843536377,
+                48.1566925048828
+              ],
+              [
+                17.1406764984131,
+                48.1557464599609
+              ],
+              [
+                17.1334209442139,
+                48.155647277832
+              ],
+              [
+                17.1269702911377,
+                48.1574859619141
+              ],
+              [
+                17.123685836792,
+                48.1546783447266
+              ],
+              [
+                17.1187610626221,
+                48.1533737182617
+              ],
+              [
+                17.1158542633057,
+                48.1510848999023
+              ],
+              [
+                17.1122550964355,
+                48.1484756469727
+              ],
+              [
+                17.1085720062256,
+                48.1466407775879
+              ],
+              [
+                17.1047821044922,
+                48.144889831543
+              ],
+              [
+                17.0849914550781,
+                48.1429061889648
+              ],
+              [
+                17.0781898498535,
+                48.1452102661133
+              ],
+              [
+                17.0724449157715,
+                48.148193359375
+              ],
+              [
+                17.0629081726074,
+                48.1498336791992
+              ],
+              [
+                17.0582828521729,
+                48.1536407470703
+              ],
+              [
+                17.0532913208008,
+                48.1565361022949
+              ],
+              [
+                17.0513286590576,
+                48.1593055725098
+              ],
+              [
+                17.0482311248779,
+                48.162712097168
+              ],
+              [
+                17.0465393066406,
+                48.1651191711426
+              ]
+            ]
+          }
+        },
+        "id": "9009__3"
+      }
+    ],
+    "origin": "Kútiky",
+    "destination": "Astronomická"
+  }
+}
