@@ -8,7 +8,8 @@
         "bg": "#FCB814",
         "fg": "#231F20"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "19"
     },
     "origin": "Konjarnik",
     "destination": "Trg Slavija",
@@ -730,7 +731,8 @@
         "bg": "#FCB814",
         "fg": "#231F20"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "19"
     },
     "origin": "Trg Slavija",
     "destination": "Konjarnik",
@@ -1480,7 +1482,8 @@
         "bg": "#FCB814",
         "fg": "#231F20"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "22"
     },
     "origin": "Kruševačka",
     "destination": "Trg Slavija",
@@ -2527,7 +2530,8 @@
         "bg": "#FCB814",
         "fg": "#231F20"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "22"
     },
     "origin": "Trg Slavija",
     "destination": "Kruševačka",
@@ -3574,7 +3578,8 @@
         "bg": "#FCB814",
         "fg": "#231F20"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "28"
     },
     "origin": "Zvezdara",
     "destination": "Studentski Trg",
@@ -4837,7 +4842,8 @@
         "bg": "#FCB814",
         "fg": "#231F20"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "28"
     },
     "origin": "Studentski Trg",
     "destination": "Zvezdara",
@@ -6072,7 +6078,8 @@
         "bg": "#FCB814",
         "fg": "#231F20"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "29"
     },
     "origin": "Medaković 3",
     "destination": "Studentski Trg",
@@ -8359,7 +8366,8 @@
         "bg": "#FCB814",
         "fg": "#231F20"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "29"
     },
     "origin": "Studentski Trg",
     "destination": "Medaković 3",
@@ -10646,7 +10654,8 @@
         "bg": "#FCB814",
         "fg": "#231F20"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "40"
     },
     "origin": "Banjica 2",
     "destination": "Zvezdara",
@@ -12280,7 +12289,8 @@
         "bg": "#FCB814",
         "fg": "#231F20"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "40"
     },
     "origin": "Zvezdara",
     "destination": "Banjica 2",
@@ -13875,7 +13885,8 @@
         "bg": "#FCB814",
         "fg": "#231F20"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "41"
     },
     "origin": "Studentski Trg",
     "destination": "Banjica 2",
@@ -15854,7 +15865,8 @@
         "bg": "#FCB814",
         "fg": "#231F20"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "41"
     },
     "origin": "Banjica 2",
     "destination": "Studentski Trg",

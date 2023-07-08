@@ -8,7 +8,8 @@
         "bg": "#EE1250",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "70"
     },
     "origin": "Erzsébet királyné útja, aluljáró",
     "destination": "Kossuth Lajos tér M",
@@ -2380,7 +2381,8 @@
         "bg": "#EE1250",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "70"
     },
     "origin": "Kossuth Lajos tér M",
     "destination": "Erzsébet királyné útja, aluljáró",
@@ -4668,7 +4670,8 @@
         "bg": "#EE2E28",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "72"
     },
     "origin": "Zugló vasútállomás (Hermina út)",
     "destination": "Orczy tér",
@@ -6841,7 +6844,8 @@
         "bg": "#EE2E28",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "72"
     },
     "origin": "Orczy tér",
     "destination": "Zugló vasútállomás (Hermina út)",
@@ -8875,7 +8879,8 @@
         "bg": "#EE2E28",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "72"
     },
     "origin": "Zugló vasútállomás (Hermina út)",
     "destination": "Orczy tér",
@@ -10290,7 +10295,8 @@
         "bg": "#F48465",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "73"
     },
     "origin": "Keleti pályaudvar M",
     "destination": "Nyugati pályaudvar M (Podmaniczky utca)",
@@ -11237,7 +11243,8 @@
         "bg": "#F48465",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "73"
     },
     "origin": "Nyugati pályaudvar M (Podmaniczky utca)",
     "destination": "Keleti pályaudvar M",
@@ -12336,7 +12343,8 @@
         "bg": "#F48465",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "73"
     },
     "origin": "Nyugati pályaudvar M (Podmaniczky utca)",
     "destination": "Keleti pályaudvar M",
@@ -12948,7 +12956,8 @@
         "bg": "#53C5CF",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "74"
     },
     "origin": "Csáktornya park",
     "destination": "Károly körút (Astoria M)",
@@ -15459,7 +15468,8 @@
         "bg": "#53C5CF",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "74"
     },
     "origin": "Károly körút (Astoria M)",
     "destination": "Csáktornya park",
@@ -17896,7 +17906,8 @@
         "bg": "#53C5CF",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "74"
     },
     "origin": "Vakok Intézete",
     "destination": "Csáktornya park",
@@ -18611,7 +18622,8 @@
         "bg": "#53C5CF",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "74"
     },
     "origin": "Csáktornya park",
     "destination": "Vakok Intézete",
@@ -19399,7 +19411,8 @@
         "bg": "#53C5CF",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "74"
     },
     "origin": "Zichy Géza utca",
     "destination": "Károly körút (Astoria M)",
@@ -19843,7 +19856,8 @@
         "bg": "#6C8BC6",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "75"
     },
     "origin": "Puskás Ferenc Stadion M",
     "destination": "Jászai Mari tér",
@@ -22474,7 +22488,8 @@
         "bg": "#6C8BC6",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "75"
     },
     "origin": "Jászai Mari tér",
     "destination": "Puskás Ferenc Stadion M",
@@ -25023,7 +25038,8 @@
         "bg": "#0095D9",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "76"
     },
     "origin": "Keleti pályaudvar M",
     "destination": "Jászai Mari tér",
@@ -27402,7 +27418,8 @@
         "bg": "#0095D9",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "76"
     },
     "origin": "Jászai Mari tér",
     "destination": "Keleti pályaudvar M",
@@ -29588,7 +29605,8 @@
         "bg": "#0095D9",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "76"
     },
     "origin": "Jászai Mari tér",
     "destination": "Keleti pályaudvar M",
@@ -30340,7 +30358,8 @@
         "bg": "#869B8F",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "77"
     },
     "origin": "Puskás Ferenc Stadion M",
     "destination": "Rákosmezei tér",
@@ -31987,7 +32006,8 @@
         "bg": "#869B8F",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "77"
     },
     "origin": "Rákosmezei tér",
     "destination": "Puskás Ferenc Stadion M",
@@ -33820,7 +33840,8 @@
         "bg": "#869B8F",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "77"
     },
     "origin": "Rákosmezei tér",
     "destination": "Puskás Ferenc Stadion M",
@@ -34751,7 +34772,8 @@
         "bg": "#A54586",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "78"
     },
     "origin": "Keleti pályaudvar M (Garay utca)",
     "destination": "Kossuth Lajos tér M",
@@ -36844,7 +36866,8 @@
         "bg": "#A54586",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "78"
     },
     "origin": "Kossuth Lajos tér M",
     "destination": "Keleti pályaudvar M (Garay utca)",
@@ -38905,7 +38928,8 @@
         "bg": "#F58220",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "79"
     },
     "origin": "Keleti pályaudvar M",
     "destination": "Párkány utca",
@@ -40329,7 +40353,8 @@
         "bg": "#F58220",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "79"
     },
     "origin": "Párkány utca",
     "destination": "Keleti pályaudvar M",
@@ -42028,7 +42053,8 @@
         "bg": "#F58220",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "79"
     },
     "origin": "Damjanich utca / Dózsa György út",
     "destination": "Párkány utca",
@@ -42606,7 +42632,8 @@
         "bg": "#F58220",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "79"
     },
     "origin": "Párkány utca",
     "destination": "Dembinszky utca",
@@ -43597,7 +43624,8 @@
         "bg": "#A88B6B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "80"
     },
     "origin": "Örs vezér tere M+H",
     "destination": "Keleti pályaudvar M",
@@ -46394,7 +46422,8 @@
         "bg": "#A88B6B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "80"
     },
     "origin": "Keleti pályaudvar M",
     "destination": "Örs vezér tere M+H",
@@ -49196,7 +49225,8 @@
         "bg": "#A88B6B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "80"
     },
     "origin": "Várna utca",
     "destination": "Örs vezér tere M+H",
@@ -50164,7 +50194,8 @@
         "bg": "#A88B6B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "80"
     },
     "origin": "Várna utca",
     "destination": "Örs vezér tere M+H",
@@ -51033,7 +51064,8 @@
         "bg": "#A88B6B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "80"
     },
     "origin": "Keleti pályaudvar M",
     "destination": "Örs vezér tere M+H",
@@ -52176,7 +52208,8 @@
         "bg": "#A88B6B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "80"
     },
     "origin": "Örs vezér tere M+H",
     "destination": "Puskás Ferenc Stadion M",
@@ -53265,7 +53298,8 @@
         "bg": "#A25641",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "81"
     },
     "origin": "Fischer István utca",
     "destination": "Örs vezér tere M+H",
@@ -53891,7 +53925,8 @@
         "bg": "#A25641",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "81"
     },
     "origin": "Fischer István utca",
     "destination": "Örs vezér tere M+H",
@@ -54503,7 +54538,8 @@
         "bg": "#EE2E28",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "82"
     },
     "origin": "Mexikói út M",
     "destination": "Örs vezér tere M+H",
@@ -55994,7 +56030,8 @@
         "bg": "#EE2E28",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "82"
     },
     "origin": "Örs vezér tere M+H",
     "destination": "Mexikói út M",
@@ -57561,7 +57598,8 @@
         "bg": "#EE2E28",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "82"
     },
     "origin": "Mexikói út M",
     "destination": "Egressy út / Vezér utca",
@@ -58088,7 +58126,8 @@
         "bg": "#EE2E28",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "82"
     },
     "origin": "Egressy út / Vezér utca",
     "destination": "Mexikói út M",
@@ -58581,7 +58620,8 @@
         "bg": "#009053",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "83"
     },
     "origin": "Népliget M",
     "destination": "Fővám tér M",
@@ -59933,7 +59973,8 @@
         "bg": "#009053",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "83"
     },
     "origin": "Fővám tér M",
     "destination": "Népliget M",
@@ -61311,7 +61352,8 @@
         "bg": "#44A5AE",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "74A"
     },
     "origin": "Mexikói út M",
     "destination": "Csáktornya park",
@@ -62268,7 +62310,8 @@
         "bg": "#44A5AE",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "74A"
     },
     "origin": "Csáktornya park",
     "destination": "Mexikói út M",
@@ -63476,7 +63519,8 @@
         "bg": "#EE2E28",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "82A"
     },
     "origin": "Örs vezér tere M+H",
     "destination": "Erzsébet királyné útja / Róna utca",
@@ -64742,7 +64786,8 @@
         "bg": "#EE2E28",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "82A"
     },
     "origin": "Erzsébet királyné útja / Róna utca",
     "destination": "Uzsoki Utcai Kórház",
@@ -64868,7 +64913,8 @@
         "bg": "#EE2E28",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "82A"
     },
     "origin": "Erzsébet királyné útja / Róna utca",
     "destination": "Örs vezér tere M+H",
@@ -66033,7 +66079,8 @@
         "bg": "#EE2E28",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "82A"
     },
     "origin": "Egressy út / Vezér utca",
     "destination": "Erzsébet királyné útja / Róna utca",
@@ -66368,7 +66415,8 @@
         "bg": "#EE2E28",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolley"
+      "transportType": "trolley",
+      "route_name": "82A"
     },
     "origin": "Uzsoki Utcai Kórház",
     "destination": "Egressy út / Vezér utca",

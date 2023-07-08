@@ -8,7 +8,8 @@
         "bg": "#ED1C24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "91"
     },
     "origin": "Potsdam, Pirschheide Bhf",
     "destination": "Potsdam, Rehbrücke Bhf",
@@ -2119,7 +2120,8 @@
         "bg": "#ED1C24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "91"
     },
     "origin": "Potsdam, Platz der Einheit/Nord",
     "destination": "Potsdam, Rehbrücke Bhf",
@@ -3277,7 +3279,8 @@
         "bg": "#ED1C24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "91"
     },
     "origin": "Potsdam, Pirschheide Bhf",
     "destination": "Potsdam, Bisamkiez",
@@ -4863,7 +4866,8 @@
         "bg": "#ED1C24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "91"
     },
     "origin": "Potsdam, Rehbrücke Bhf",
     "destination": "Potsdam, Pirschheide Bhf",
@@ -7160,7 +7164,8 @@
         "bg": "#ED1C24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "91"
     },
     "origin": "Potsdam, Bisamkiez",
     "destination": "Potsdam, Pirschheide Bhf",
@@ -8985,7 +8990,8 @@
         "bg": "#ED1C24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "91"
     },
     "origin": "Potsdam, Rehbrücke Bhf",
     "destination": "Potsdam, Bisamkiez",
@@ -9434,7 +9440,8 @@
         "bg": "#ED1C24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "91"
     },
     "origin": "Potsdam, Bisamkiez",
     "destination": "Potsdam, Platz der Einheit/Nord",
@@ -10606,7 +10613,8 @@
         "bg": "#1A468E",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "92"
     },
     "origin": "Potsdam, Kirschallee",
     "destination": "Potsdam, Hauptbahnhof/Friedrich-Engels-Str.",
@@ -11690,7 +11698,8 @@
         "bg": "#1A468E",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "92"
     },
     "origin": "Potsdam, Kirschallee",
     "destination": "Potsdam, Bisamkiez",
@@ -13407,7 +13416,8 @@
         "bg": "#1A468E",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "92"
     },
     "origin": "Potsdam, Kirschallee",
     "destination": "Potsdam, Marie-Juchacz-Str.",
@@ -16296,7 +16306,8 @@
         "bg": "#1A468E",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "92"
     },
     "origin": "Potsdam, Bisamkiez",
     "destination": "Potsdam, Kirschallee",
@@ -18019,7 +18030,8 @@
         "bg": "#1A468E",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "92"
     },
     "origin": "Potsdam, Kirschallee",
     "destination": "Potsdam, Platz der Einheit/Bildungsforum",
@@ -18674,7 +18686,8 @@
         "bg": "#1A468E",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "92"
     },
     "origin": "Potsdam, Marie-Juchacz-Str.",
     "destination": "Potsdam, Kirschallee",
@@ -21551,7 +21564,8 @@
         "bg": "#1A468E",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "92"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Kirschallee",
@@ -22563,7 +22577,8 @@
         "bg": "#1A468E",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "92"
     },
     "origin": "Potsdam, Platz der Einheit/Nord",
     "destination": "Potsdam, Kirschallee",
@@ -23114,7 +23129,8 @@
         "bg": "#F36717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "93"
     },
     "origin": "Potsdam, Glienicker Brücke",
     "destination": "Potsdam, Rehbrücke Bhf",
@@ -24960,7 +24976,8 @@
         "bg": "#F36717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "93"
     },
     "origin": "Potsdam, Glienicker Brücke",
     "destination": "Potsdam, Bisamkiez",
@@ -26385,7 +26402,8 @@
         "bg": "#F36717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "93"
     },
     "origin": "Potsdam, Glienicker Brücke",
     "destination": "Potsdam, Hauptbahnhof/Friedrich-Engels-Str.",
@@ -27202,7 +27220,8 @@
         "bg": "#F36717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "93"
     },
     "origin": "Potsdam, Rehbrücke Bhf",
     "destination": "Potsdam, Glienicker Brücke",
@@ -29013,7 +29032,8 @@
         "bg": "#F36717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "93"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Glienicker Brücke",
@@ -29770,7 +29790,8 @@
         "bg": "#F36717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "93"
     },
     "origin": "Potsdam, Bisamkiez",
     "destination": "Potsdam, Glienicker Brücke",
@@ -31213,7 +31234,8 @@
         "bg": "#838A8F",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "94"
     },
     "origin": "Potsdam, Pirschheide Bhf",
     "destination": "Potsdam, Fontanestr.",
@@ -32476,7 +32498,8 @@
         "bg": "#838A8F",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "94"
     },
     "origin": "Potsdam, Schloss Charlottenhof",
     "destination": "Potsdam, Fontanestr.",
@@ -33788,7 +33811,8 @@
         "bg": "#838A8F",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "94"
     },
     "origin": "Potsdam, Pirschheide Bhf",
     "destination": "Potsdam, Platz der Einheit/Bildungsforum",
@@ -34530,7 +34554,8 @@
         "bg": "#838A8F",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "94"
     },
     "origin": "Potsdam, Fontanestr.",
     "destination": "Potsdam, Pirschheide Bhf",
@@ -36028,7 +36053,8 @@
         "bg": "#838A8F",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "94"
     },
     "origin": "Potsdam, Fontanestr.",
     "destination": "Potsdam, Schloss Charlottenhof",
@@ -37236,7 +37262,8 @@
         "bg": "#838A8F",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "94"
     },
     "origin": "Potsdam, Platz der Einheit/Nord",
     "destination": "Potsdam, Pirschheide Bhf",
@@ -38135,7 +38162,8 @@
         "bg": "#00A998",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "96"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Marie-Juchacz-Str.",
@@ -41715,7 +41743,8 @@
         "bg": "#00A998",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "96"
     },
     "origin": "Potsdam, Platz der Einheit/Nord",
     "destination": "Potsdam, Marie-Juchacz-Str.",
@@ -43941,7 +43970,8 @@
         "bg": "#00A998",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "96"
     },
     "origin": "Potsdam, Abzweig Betriebshof ViP",
     "destination": "Potsdam, Marie-Juchacz-Str.",
@@ -45103,7 +45133,8 @@
         "bg": "#00A998",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "96"
     },
     "origin": "Potsdam, Platz der Einheit/Nord",
     "destination": "Potsdam, Bisamkiez",
@@ -46126,7 +46157,8 @@
         "bg": "#00A998",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "96"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Bisamkiez",
@@ -47866,7 +47898,8 @@
         "bg": "#00A998",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "96"
     },
     "origin": "Potsdam, Marie-Juchacz-Str.",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -51462,7 +51495,8 @@
         "bg": "#00A998",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "96"
     },
     "origin": "Potsdam, Bisamkiez",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -53208,7 +53242,8 @@
         "bg": "#00A998",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "96"
     },
     "origin": "Potsdam, Marie-Juchacz-Str.",
     "destination": "Potsdam, Platz der Einheit/Nord",
@@ -55552,7 +55587,8 @@
         "bg": "#59C134",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "99"
     },
     "origin": "Potsdam, Fontanestr.",
     "destination": "Potsdam, Hauptbahnhof/Friedrich-Engels-Str.",
@@ -56689,7 +56725,8 @@
         "bg": "#59C134",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "99"
     },
     "origin": "Potsdam, Fontanestr.",
     "destination": "Potsdam, Bisamkiez",
@@ -58211,7 +58248,8 @@
         "bg": "#59C134",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "99"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Fontanestr.",
@@ -59289,7 +59327,8 @@
         "bg": "#59C134",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "99"
     },
     "origin": "Potsdam, Bisamkiez",
     "destination": "Potsdam, Fontanestr.",

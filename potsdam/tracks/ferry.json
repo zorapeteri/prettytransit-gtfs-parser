@@ -8,7 +8,8 @@
         "bg": "#0080BA",
         "fg": "#FFFFFF"
       },
-      "transportType": "ferry"
+      "transportType": "ferry",
+      "route_name": "F1"
     },
     "origin": "Potsdam, Auf dem Kiewitt/Fähre",
     "destination": "Potsdam, Hermannswerder/Fähre",
@@ -392,7 +393,8 @@
         "bg": "#0080BA",
         "fg": "#FFFFFF"
       },
-      "transportType": "ferry"
+      "transportType": "ferry",
+      "route_name": "F1"
     },
     "origin": "Potsdam, Hermannswerder/Fähre",
     "destination": "Potsdam, Auf dem Kiewitt/Fähre",

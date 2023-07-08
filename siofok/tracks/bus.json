@@ -8,7 +8,8 @@
         "bg": "#9B3178",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1"
     },
     "origin": "Siófok (Balatonszéplak), alsó vasúti megállóhely",
     "destination": "Siófok, autóbusz-állomás",
@@ -631,7 +632,8 @@
         "bg": "#9B3178",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Siófok (Balatonszéplak), alsó vasúti megállóhely",
@@ -1189,7 +1191,8 @@
         "bg": "#9B3178",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1"
     },
     "origin": "Siófok, Perczel Mór utca",
     "destination": "Siófok, autóbusz-állomás",
@@ -1499,7 +1502,8 @@
         "bg": "#9B3178",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Siófok (Balatonszéplak), alsó vasúti megállóhely",
@@ -2085,7 +2089,8 @@
         "bg": "#2C4986",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "2"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Siófok (Sóstó), kemping",
@@ -2679,7 +2684,8 @@
         "bg": "#2C4986",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "2"
     },
     "origin": "Siófok (Sóstó), kemping",
     "destination": "Siófok, autóbusz-állomás",
@@ -3279,7 +3285,8 @@
         "bg": "#564696",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "3"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Siófok, Volán-telep",
@@ -3530,7 +3537,8 @@
         "bg": "#564696",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "3"
     },
     "origin": "Siófok, Volán-telep",
     "destination": "Siófok, autóbusz-állomás",
@@ -3777,7 +3785,8 @@
         "bg": "#00A0E3",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "4"
     },
     "origin": "Siófok (Kiliti), Béke tér",
     "destination": "Siófok, autóbusz-állomás",
@@ -4716,7 +4725,8 @@
         "bg": "#00A0E3",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "4"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Siófok (Kiliti), Béke tér",
@@ -5294,7 +5304,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "5"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Siófok (Kiliti), Béke tér",
@@ -6190,7 +6201,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "5"
     },
     "origin": "Siófok (Kiliti), Béke tér",
     "destination": "Siófok, autóbusz-állomás",
@@ -7209,7 +7221,8 @@
         "bg": "#67B437",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Siófok, Somogyfok",
@@ -7633,7 +7646,8 @@
         "bg": "#67B437",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6"
     },
     "origin": "Siófok, Somogyfok",
     "destination": "Siófok, autóbusz-állomás",
@@ -7973,7 +7987,8 @@
         "bg": "#67B437",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Siófok (Töreki), alsó",
@@ -8762,7 +8777,8 @@
         "bg": "#67B437",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7"
     },
     "origin": "Siófok (Töreki), alsó",
     "destination": "Siófok, autóbusz-állomás",
@@ -9507,7 +9523,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Siófok, Somogyfok",
@@ -10006,7 +10023,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8"
     },
     "origin": "Siófok, Somogyfok",
     "destination": "Siófok, autóbusz-állomás",
@@ -10489,7 +10507,8 @@
         "bg": "#9B3178",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "14"
     },
     "origin": "Siófok (Kiliti), Szeptember 6. tér",
     "destination": "Siófok (Balatonszéplak), alsó vasúti megállóhely",
@@ -11838,7 +11857,8 @@
         "bg": "#9B3178",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "14"
     },
     "origin": "Siófok (Balatonszéplak), alsó vasúti megállóhely",
     "destination": "Siófok (Kiliti), Szeptember 6. tér",
@@ -12982,7 +13002,8 @@
         "bg": "#A8802B",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "18"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Siófok, autóbusz-állomás",
@@ -13826,7 +13847,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Siófok, Darnay Kálmán tér",
     "destination": "Siófok, Perczel Mór utca",
@@ -14273,7 +14295,8 @@
         "bg": "#00A0E3",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "24"
     },
     "origin": "Siófok (Sóstó), kemping",
     "destination": "Siófok (Kiliti), Béke tér",
@@ -15179,7 +15202,8 @@
         "bg": "#00A0E3",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "24"
     },
     "origin": "Siófok (Kiliti), Béke tér",
     "destination": "Siófok (Sóstó), kemping",
@@ -16449,7 +16473,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Tab, autóbusz-állomás",
@@ -18280,7 +18305,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Tab, autóbusz-állomás",
     "destination": "Siófok, autóbusz-állomás",
@@ -20327,7 +20353,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Tab, autóbusz-állomás",
@@ -22313,7 +22340,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Tab, autóbusz-állomás",
     "destination": "Siófok, autóbusz-állomás",
@@ -24684,7 +24712,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Tab, autóbusz-állomás",
     "destination": "Siófok, autóbusz-állomás",
@@ -26585,7 +26614,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Tab, autóbusz-állomás",
@@ -28864,7 +28894,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Balatonszabadi, alsó",
@@ -29459,7 +29490,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Siójut, autóbusz-váróterem",
@@ -30053,7 +30085,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Ádánd, autóbusz-váróterem",
@@ -31181,7 +31214,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Ádánd, autóbusz-váróterem",
     "destination": "Siófok, autóbusz-állomás",
@@ -32618,7 +32652,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Ádánd, autóbusz-váróterem",
     "destination": "Siófok, autóbusz-állomás",
@@ -33758,7 +33793,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Ádánd, autóbusz-váróterem",
     "destination": "Siófok, autóbusz-állomás",
@@ -34704,7 +34740,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Ádánd, autóbusz-váróterem",
@@ -35634,7 +35671,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Ádánd, autóbusz-váróterem",
     "destination": "Siófok, autóbusz-állomás",
@@ -36897,7 +36935,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Ádánd, autóbusz-váróterem",
     "destination": "Balatonszabadi, alsó",
@@ -37751,7 +37790,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Balatonszabadi, alsó",
     "destination": "Siófok, autóbusz-állomás",
@@ -38371,7 +38411,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Siójut, autóbusz-váróterem",
     "destination": "Siófok, autóbusz-állomás",
@@ -39138,7 +39179,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6008"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Ádánd, autóbusz-váróterem",
@@ -40396,7 +40438,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Nagyberény, Rákóczi utca",
@@ -41849,7 +41892,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Nagyberény, Rákóczi utca",
     "destination": "Siófok, autóbusz-állomás",
@@ -42987,7 +43031,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Nagyberény, Rákóczi utca",
@@ -44089,7 +44134,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Nagyberény, Rákóczi utca",
     "destination": "Siófok, autóbusz-állomás",
@@ -45554,7 +45600,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Nyim, Rákóczi Ferenc utca",
     "destination": "Siófok, autóbusz-állomás",
@@ -46390,7 +46437,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Nyim, Rákóczi Ferenc utca",
@@ -47206,7 +47254,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Nagyberény, felső",
     "destination": "Siófok, autóbusz-állomás",
@@ -48180,7 +48229,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Nagyberény, felső",
@@ -49018,7 +49068,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Nagyberény, alsó",
@@ -49804,7 +49855,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Nagyberény, alsó",
     "destination": "Siófok, autóbusz-állomás",
@@ -51086,7 +51138,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Iregszemcse, községháza",
@@ -52213,7 +52266,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Iregszemcse, községháza",
     "destination": "Siófok, autóbusz-állomás",
@@ -53352,7 +53406,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Iregszemcse, községháza",
@@ -54592,7 +54647,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Iregszemcse, községháza",
     "destination": "Siófok, autóbusz-állomás",
@@ -55826,7 +55882,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6010"
     },
     "origin": "Iregszemcse, községháza",
     "destination": "Siófok, autóbusz-állomás",
@@ -57427,7 +57484,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6040"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Fonyód, háromszög",
@@ -59434,7 +59492,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6040"
     },
     "origin": "Fonyód, vasútállomás",
     "destination": "Siófok, autóbusz-állomás",
@@ -61368,7 +61427,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6040"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Balatonlelle, vasúti megállóhely",
@@ -62693,7 +62753,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6040"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Balatonlelle, vasúti megállóhely",
@@ -63911,7 +63972,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6040"
     },
     "origin": "Balatonlelle, vasúti megállóhely",
     "destination": "Siófok, autóbusz-állomás",
@@ -65061,7 +65123,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6040"
     },
     "origin": "Fonyód, vasútállomás",
     "destination": "Siófok, autóbusz-állomás",
@@ -66875,7 +66938,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6040"
     },
     "origin": "Balatonlelle, vasúti megállóhely",
     "destination": "Siófok, autóbusz-állomás",
@@ -68211,7 +68275,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6040"
     },
     "origin": "Balatonlelle, vasúti megállóhely",
     "destination": "Siófok, autóbusz-állomás",
@@ -69493,7 +69558,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6040"
     },
     "origin": "Fonyód, vasútállomás",
     "destination": "Siófok, autóbusz-állomás",
@@ -71199,7 +71265,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7324"
     },
     "origin": "Balatonvilágos (Balatonaliga), vasúti megállóhely",
     "destination": "Siófok, autóbusz-állomás",
@@ -71901,7 +71968,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7324"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Balatonvilágos (Balatonaliga), vasúti megállóhely",
@@ -72587,7 +72655,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7324"
     },
     "origin": "Veszprém, autóbusz-állomás",
     "destination": "Siófok, autóbusz-állomás",
@@ -74898,7 +74967,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7324"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Veszprém, autóbusz-állomás",
@@ -77286,7 +77356,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Enying, vasútállomás bejárati út",
@@ -78277,7 +78348,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Enying, vasútállomás bejárati út",
     "destination": "Siófok, autóbusz-állomás",
@@ -79339,7 +79411,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Enying, vasútállomás bejárati út",
@@ -80750,7 +80823,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Enying, vasútállomás bejárati út",
     "destination": "Siófok, autóbusz-állomás",
@@ -82165,7 +82239,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Kisláng, Dózsa György utca",
@@ -83977,7 +84052,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Kisláng, Dózsa György utca",
     "destination": "Siófok, autóbusz-állomás",
@@ -85429,7 +85505,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Kisláng, Dózsa György utca",
     "destination": "Enying, Kossuth Lajos utca 6.",
@@ -85964,7 +86041,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Kisláng, Dózsa György utca",
     "destination": "Enying, Kossuth Lajos utca 6.",
@@ -86651,7 +86729,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Mátyásdomb, Fő utca",
     "destination": "Enying, Kossuth Lajos utca 61.",
@@ -86953,7 +87032,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Enying, vasútállomás bejárati út",
     "destination": "Mátyásdomb, Ágostonpuszta",
@@ -87122,7 +87202,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Mátyásdomb, Ágostonpuszta",
     "destination": "Enying, vasútállomás bejárati út",
@@ -87295,7 +87376,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Balatonbozsok, Fő utca 100.",
     "destination": "Mátyásdomb, Fő utca",
@@ -87922,7 +88004,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Enying, Kossuth Lajos utca 6.",
     "destination": "Kisláng, Dózsa György utca",
@@ -88445,7 +88528,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Enying, vasútállomás bejárati út",
     "destination": "Balatonbozsok, Fő utca 100.",
@@ -88771,7 +88855,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Enying, vasútállomás bejárati út",
     "destination": "Siófok, autóbusz-állomás",
@@ -90044,7 +90129,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Enying, vasútállomás bejárati út",
@@ -91252,7 +91338,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8325"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Kisláng, Dózsa György utca",
@@ -92623,7 +92710,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "2A"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Siófok, Gábor Áron utca",
@@ -92891,7 +92979,8 @@
         "bg": "#F7BB04",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "2A"
     },
     "origin": "Siófok, Gábor Áron utca",
     "destination": "Siófok, autóbusz-állomás",
@@ -93154,7 +93243,8 @@
         "bg": "#E62F3A",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "14A"
     },
     "origin": "Siófok (Kiliti), Szeptember 6. tér",
     "destination": "Siófok, autóbusz-állomás",
@@ -94258,7 +94348,8 @@
         "bg": "#E62F3A",
         "fg": "#FEFEFE"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "14A"
     },
     "origin": "Siófok, autóbusz-állomás",
     "destination": "Siófok (Kiliti), Szeptember 6. tér",
