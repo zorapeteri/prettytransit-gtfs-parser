@@ -7,10 +7,7 @@ declare module '@turf/turf' {
     lineString: Feature<LineString>,
     options: { units: 'meters' }
   ) => number
-  export const booleanContains: (
-    a: Feature<LineString>,
-    b: Feature<LineString>
-  ) => boolean
+  export const booleanContains: (a: Feature, b: Feature) => boolean
   export const point: (lonLat: Position) => Feature<Point>
   export const nearestPointOnLine: (
     lineString: Feature<LineString>,
@@ -20,4 +17,9 @@ declare module '@turf/turf' {
       index: number
     }
   }
+  export const distance: (
+    a: Feature<Point>,
+    b: Feature<Point>,
+    options: { units: 'meters' }
+  ) => number
 }

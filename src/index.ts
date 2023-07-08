@@ -11,7 +11,6 @@ import {
   getCalendarDates,
   Calendar,
 } from 'gtfs'
-import { readFile } from 'fs/promises'
 import pick from './helpers/pick.js'
 import omit from './helpers/omit.js'
 import _ from 'lodash'
@@ -33,6 +32,7 @@ import cities from './constants/cities.js'
 import { getConfig } from './helpers/getConfig.js'
 import { Day, isBefore, isSameDay, nextDay, parse } from 'date-fns'
 import { getForegroundColor } from './helpers/getForegroundColor.js'
+import { mapStopsToTrack } from './helpers/mapStopsToTrack.js'
 
 const [city, transportType] = process.argv.slice(2)
 
@@ -271,41 +271,10 @@ const tracks: Track[] = (
         })
       )
 
-      const lineString = turf.lineString(coords)
-      const trackLengthInMeters = turf.length(lineString, { units: 'meters' })
-
-      const length = trackLengthInMeters
-
-      const stopsWithCoordIndex = stopsWithLocation.map((stop, index) => {
-        const nearestPointIndex =
-          index &&
-          turf.nearestPointOnLine(lineString, turf.point(stop.location))
-            .properties.index
-        if (nearestPointIndex === 0) {
-          return {
-            id: stop.id,
-            name: stop.name,
-            onTrackLocation: 0,
-            coordIndex: nearestPointIndex,
-          }
-        }
-        const coordsToStop = lineString.geometry.coordinates.slice(
-          0,
-          nearestPointIndex + 1
-        )
-        const trackLineToStop = turf.lineString(coordsToStop)
-        const metersToStop = turf.length(trackLineToStop, { units: 'meters' })
-        const [onTrackLocation] = getRatios([
-          metersToStop,
-          trackLengthInMeters - metersToStop,
-        ])
-        return {
-          id: stop.id,
-          name: stop.name,
-          onTrackLocation,
-          coordIndex: nearestPointIndex,
-        }
-      })
+      const { stopsWithCoordIndex, lineString, length } = mapStopsToTrack(
+        coords,
+        stopsWithLocation
+      )
 
       const stops = stopsWithCoordIndex.map((stop, index) => {
         return {
