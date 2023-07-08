@@ -16,15 +16,23 @@
           {
             "id": "F04181",
             "name": "Csepel-Királyerdő",
-            "onTrackLocation": 0,
+            "location": [
+              19.106529,
+              47.397886
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 1
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.9112287280432955
           },
           {
             "id": "F04526",
             "name": "Soroksár, Molnár-sziget",
-            "onTrackLocation": 1,
-            "coordIndex": 3,
+            "location": [
+              19.108689,
+              47.398244
+            ],
+            "coordIndex": 2,
+            "onTrackLocation": 0.9112287280432955,
             "distanceToNextStop": 0
           }
         ],

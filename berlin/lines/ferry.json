@@ -16,15 +16,23 @@
           {
             "id": "de:11000:900053301::7",
             "name": "S Wannsee Bhf (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.175158,
+              52.422177
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.4829591743872683
+            "onTrackLocation": 0,
+            "distanceToNextStop": 1
           },
           {
             "id": "de:11000:900039102::7",
             "name": "Alt-Kladow (Berlin)",
-            "onTrackLocation": 0.4829591743872683,
-            "coordIndex": 2,
+            "location": [
+              13.14842,
+              52.451094
+            ],
+            "coordIndex": 3,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -76,15 +84,23 @@
           {
             "id": "de:11000:900181006::1",
             "name": "Wilhelmstrand (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.496751,
+              52.474093
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0
+            "onTrackLocation": 0,
+            "distanceToNextStop": 1
           },
           {
             "id": "de:11000:900191513::3",
             "name": "Berlin, Baumschulenstr./Fähre",
-            "onTrackLocation": 0,
-            "coordIndex": 0,
+            "location": [
+              13.494981,
+              52.472828
+            ],
+            "coordIndex": 1,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -128,15 +144,23 @@
           {
             "id": "de:11000:900180014::3",
             "name": "Müggelbergallee (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.586541,
+              52.418482
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0
+            "onTrackLocation": 0,
+            "distanceToNextStop": 1
           },
           {
             "id": "de:11000:900186002::3",
             "name": "Berlin, Wassersportallee",
-            "onTrackLocation": 0,
-            "coordIndex": 0,
+            "location": [
+              13.583172,
+              52.417581
+            ],
+            "coordIndex": 1,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -180,15 +204,23 @@
           {
             "id": "de:11000:900185501::7",
             "name": "Berlin, Zum Seeblick",
-            "onTrackLocation": 0,
+            "location": [
+              13.645249,
+              52.382903
+            ],
             "coordIndex": 0,
+            "onTrackLocation": 0,
             "distanceToNextStop": 1
           },
           {
             "id": "de:11000:900184506::1",
             "name": "Krampenburg (Berlin)",
-            "onTrackLocation": 1,
+            "location": [
+              13.649411,
+              52.389166
+            ],
             "coordIndex": 4,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -244,29 +276,45 @@
           {
             "id": "de:11000:900183516::1",
             "name": "Kruggasse (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.689073,
+              52.429926
+            ],
             "coordIndex": 0,
+            "onTrackLocation": 0,
             "distanceToNextStop": 0.21937560444629003
           },
           {
             "id": "de:11000:900184508::1",
             "name": "Neu Helgoland (Berlin)",
-            "onTrackLocation": 0.21937560444629003,
+            "location": [
+              13.683323,
+              52.428922
+            ],
             "coordIndex": 9,
+            "onTrackLocation": 0.21937560444629003,
             "distanceToNextStop": 0.39082065602133065
           },
           {
             "id": "de:11000:900180541::1",
             "name": "Müggelhort (Berlin)",
-            "onTrackLocation": 0.6101962604676207,
+            "location": [
+              13.675826,
+              52.433299
+            ],
             "coordIndex": 21,
-            "distanceToNextStop": 0.32222385070538373
+            "onTrackLocation": 0.6101962604676207,
+            "distanceToNextStop": 0.38980373953237935
           },
           {
             "id": "de:11000:900183515::1",
             "name": "Müggelwerderweg (Berlin)",
-            "onTrackLocation": 0.9324201111730044,
-            "coordIndex": 30,
+            "location": [
+              13.68055,
+              52.436316
+            ],
+            "coordIndex": 31,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],

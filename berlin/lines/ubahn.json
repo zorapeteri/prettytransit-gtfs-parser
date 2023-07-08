@@ -16,92 +16,144 @@
           {
             "id": "de:11000:900120004::1",
             "name": "S+U Warschauer Str. (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.448802,
+              52.504862
+            ],
             "coordIndex": 0,
+            "onTrackLocation": 0,
             "distanceToNextStop": 0.08723033900533946
           },
           {
             "id": "de:11000:900014102::1",
             "name": "U Schlesisches Tor (Berlin)",
+            "location": [
+              13.441051,
+              52.500747
+            ],
+            "coordIndex": 9,
             "onTrackLocation": 0.08723033900533946,
-            "coordIndex": 10,
-            "distanceToNextStop": 0.0877916203179639
+            "distanceToNextStop": 0.10180759498119792
           },
           {
             "id": "de:11000:900014101::1",
             "name": "U Görlitzer Bahnhof (Berlin)",
-            "onTrackLocation": 0.17502195932330336,
-            "coordIndex": 12,
-            "distanceToNextStop": 0.07962665505662189
+            "location": [
+              13.428277,
+              52.499292
+            ],
+            "coordIndex": 13,
+            "onTrackLocation": 0.18903793398653737,
+            "distanceToNextStop": 0.07618493991453881
           },
           {
             "id": "de:11000:900013102::1",
             "name": "U Kottbusser Tor (Berlin)",
-            "onTrackLocation": 0.25464861437992525,
-            "coordIndex": 16,
-            "distanceToNextStop": 0.0883906427556923
+            "location": [
+              13.418395,
+              52.499051
+            ],
+            "coordIndex": 17,
+            "onTrackLocation": 0.2652228739010762,
+            "distanceToNextStop": 0.10083529080167403
           },
           {
             "id": "de:11000:900013103::1",
             "name": "U Prinzenstr. (Berlin)",
-            "onTrackLocation": 0.34303925713561756,
-            "coordIndex": 24,
-            "distanceToNextStop": 0.13267398879602904
+            "location": [
+              13.405401,
+              52.498406
+            ],
+            "coordIndex": 25,
+            "onTrackLocation": 0.3660581647027502,
+            "distanceToNextStop": 0.11659166924216263
           },
           {
             "id": "de:11000:900012103::1",
             "name": "U Hallesches Tor (Berlin)",
-            "onTrackLocation": 0.4757132459316466,
-            "coordIndex": 31,
-            "distanceToNextStop": 0.06850752333469085
+            "location": [
+              13.390351,
+              52.497812
+            ],
+            "coordIndex": 32,
+            "onTrackLocation": 0.48264983394491284,
+            "distanceToNextStop": 0.0615709353214246
           },
           {
             "id": "de:11000:900017104::1",
             "name": "U Möckernbrücke (Berlin)",
+            "location": [
+              13.382661,
+              52.499129
+            ],
+            "coordIndex": 40,
             "onTrackLocation": 0.5442207692663374,
-            "coordIndex": 41,
             "distanceToNextStop": 0.06637158167930934
           },
           {
             "id": "de:11000:900017103::1",
             "name": "U Gleisdreieck (Berlin)",
+            "location": [
+              13.374084,
+              52.499567
+            ],
+            "coordIndex": 52,
             "onTrackLocation": 0.6105923509456468,
-            "coordIndex": 53,
-            "distanceToNextStop": 0.08637759342885676
+            "distanceToNextStop": 0.10054367740040271
           },
           {
             "id": "de:11000:900005201::1",
             "name": "U Kurfürstenstr. (Berlin)",
-            "onTrackLocation": 0.6969699443745035,
-            "coordIndex": 63,
-            "distanceToNextStop": 0.07216262573521492
+            "location": [
+              13.361504,
+              52.500152
+            ],
+            "coordIndex": 64,
+            "onTrackLocation": 0.7111360283460495,
+            "distanceToNextStop": 0.057996541763668974
           },
           {
             "id": "de:11000:900056102::1",
             "name": "U Nollendorfplatz (Berlin)",
+            "location": [
+              13.354616,
+              52.499966
+            ],
+            "coordIndex": 70,
             "onTrackLocation": 0.7691325701097185,
-            "coordIndex": 71,
-            "distanceToNextStop": 0.08901392794499374
+            "distanceToNextStop": 0.09516604048833799
           },
           {
             "id": "de:11000:900056101::1",
             "name": "U Wittenbergplatz (Berlin)",
-            "onTrackLocation": 0.8581464980547122,
-            "coordIndex": 76,
-            "distanceToNextStop": 0.08202766494648472
+            "location": [
+              13.343056,
+              52.501927
+            ],
+            "coordIndex": 77,
+            "onTrackLocation": 0.8642986105980565,
+            "distanceToNextStop": 0.0901519850218746
           },
           {
             "id": "de:11000:900023203::1",
             "name": "U Kurfürstendamm (Berlin)",
-            "onTrackLocation": 0.9401741630011969,
-            "coordIndex": 91,
-            "distanceToNextStop": 0.05982583699880306
+            "location": [
+              13.332587,
+              52.504056
+            ],
+            "coordIndex": 92,
+            "onTrackLocation": 0.9544505956199311,
+            "distanceToNextStop": 0.045549404380068936
           },
           {
             "id": "000300106001",
             "name": "U Uhlandstr. (Berlin)",
-            "onTrackLocation": 1,
+            "location": [
+              13.32693,
+              52.502832
+            ],
             "coordIndex": 94,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -517,205 +569,321 @@
           {
             "id": "de:11000:900025202::2",
             "name": "U Ruhleben (Berlin)",
-            "onTrackLocation": 0.9973797110374336,
-            "coordIndex": 239,
+            "location": [
+              13.24127,
+              52.525594
+            ],
+            "coordIndex": 240,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           },
           {
             "id": "de:11000:900025203::1",
             "name": "U Olympia-Stadion (Berlin)",
+            "location": [
+              13.250669,
+              52.516957
+            ],
+            "coordIndex": 221,
             "onTrackLocation": 0.9413806531251772,
-            "coordIndex": 222,
-            "distanceToNextStop": 0.055999057912256456
+            "distanceToNextStop": 0.05861934687482284
           },
           {
             "id": "de:11000:900026101::1",
             "name": "U Neu-Westend (Berlin)",
-            "onTrackLocation": 0.908210176975474,
-            "coordIndex": 209,
-            "distanceToNextStop": 0.03317047614970314
+            "location": [
+              13.259258,
+              52.516281
+            ],
+            "coordIndex": 210,
+            "onTrackLocation": 0.9123612556920964,
+            "distanceToNextStop": 0.029019397433080796
           },
           {
             "id": "de:11000:900026201::1",
             "name": "U Theodor-Heuss-Platz (Berlin)",
-            "onTrackLocation": 0.8496061186817063,
-            "coordIndex": 198,
-            "distanceToNextStop": 0.05860405829376769
+            "location": [
+              13.272617,
+              52.50992
+            ],
+            "coordIndex": 199,
+            "onTrackLocation": 0.8554981997138161,
+            "distanceToNextStop": 0.05686305597828023
           },
           {
             "id": "de:11000:900026202::1",
             "name": "U Kaiserdamm (Berlin)",
-            "onTrackLocation": 0.7788251491145038,
-            "coordIndex": 193,
-            "distanceToNextStop": 0.07078096956720248
+            "location": [
+              13.283103,
+              52.510113
+            ],
+            "coordIndex": 194,
+            "onTrackLocation": 0.8208304159752222,
+            "distanceToNextStop": 0.034667783738593916
           },
           {
             "id": "de:11000:900022101::1",
             "name": "U Sophie-Charlotte-Platz (Berlin)",
+            "location": [
+              13.29582,
+              52.510895
+            ],
+            "coordIndex": 192,
             "onTrackLocation": 0.7788251491145038,
-            "coordIndex": 193,
-            "distanceToNextStop": 0
+            "distanceToNextStop": 0.04200526686071837
           },
           {
             "id": "de:11000:900024201::1",
             "name": "U Bismarckstr. (Berlin)",
-            "onTrackLocation": 0.7297565654444562,
-            "coordIndex": 189,
-            "distanceToNextStop": 0.04906858367004763
+            "location": [
+              13.305122,
+              52.51154
+            ],
+            "coordIndex": 190,
+            "onTrackLocation": 0.7481985547385686,
+            "distanceToNextStop": 0.03062659437593529
           },
           {
             "id": "de:11000:900022201::1",
             "name": "U Deutsche Oper (Berlin)",
+            "location": [
+              13.31051,
+              52.511944
+            ],
+            "coordIndex": 188,
             "onTrackLocation": 0.7297565654444562,
-            "coordIndex": 189,
-            "distanceToNextStop": 0
+            "distanceToNextStop": 0.018441989294112338
           },
           {
             "id": "de:11000:900023101::1",
             "name": "U Ernst-Reuter-Platz (Berlin)",
-            "onTrackLocation": 0.6734222176071379,
-            "coordIndex": 179,
-            "distanceToNextStop": 0.05633434783731828
+            "location": [
+              13.322175,
+              52.511784
+            ],
+            "coordIndex": 180,
+            "onTrackLocation": 0.6902277977831485,
+            "distanceToNextStop": 0.03952876766130775
           },
           {
             "id": "de:11000:900023201::1",
             "name": "S+U Zoologischer Garten Bhf (Berlin)",
-            "onTrackLocation": 0.6370532911133657,
-            "coordIndex": 174,
-            "distanceToNextStop": 0.03636892649377221
+            "location": [
+              13.333055,
+              52.505941
+            ],
+            "coordIndex": 175,
+            "onTrackLocation": 0.6422319721968105,
+            "distanceToNextStop": 0.04799582558633797
           },
           {
             "id": "de:11000:900056101::3",
             "name": "U Wittenbergplatz (Berlin)",
-            "onTrackLocation": 0.5775319221817492,
-            "coordIndex": 160,
-            "distanceToNextStop": 0.059521368931616525
+            "location": [
+              13.343003,
+              52.50185
+            ],
+            "coordIndex": 161,
+            "onTrackLocation": 0.6018628755425168,
+            "distanceToNextStop": 0.04036909665429367
           },
           {
             "id": "de:11000:900056102::3",
             "name": "U Nollendorfplatz (Berlin)",
+            "location": [
+              13.35456,
+              52.499388
+            ],
+            "coordIndex": 158,
             "onTrackLocation": 0.5616206931980705,
-            "coordIndex": 159,
-            "distanceToNextStop": 0.015911228983678694
+            "distanceToNextStop": 0.04024218234444632
           },
           {
             "id": "de:11000:900056104::1",
             "name": "U Bülowstr. (Berlin)",
-            "onTrackLocation": 0.5249515203973701,
-            "coordIndex": 154,
-            "distanceToNextStop": 0.03666917280070037
+            "location": [
+              13.36317,
+              52.49762
+            ],
+            "coordIndex": 155,
+            "onTrackLocation": 0.5319332648489226,
+            "distanceToNextStop": 0.02968742834914795
           },
           {
             "id": "de:11000:900017103::3",
             "name": "U Gleisdreieck (Berlin)",
-            "onTrackLocation": 0.4843062354463891,
+            "location": [
+              13.374061,
+              52.499504
+            ],
             "coordIndex": 142,
-            "distanceToNextStop": 0.04064528495098102
+            "onTrackLocation": 0.4843062354463891,
+            "distanceToNextStop": 0.04762702940253344
           },
           {
             "id": "de:11000:900005252::1",
             "name": "U Mendelssohn-Bartholdy-Park (Berlin)",
+            "location": [
+              13.374862,
+              52.503806
+            ],
+            "coordIndex": 136,
             "onTrackLocation": 0.46251553445306787,
-            "coordIndex": 137,
             "distanceToNextStop": 0.021790700993321255
           },
           {
             "id": "000300004160",
             "name": "S+U Potsdamer Platz Bhf (Berlin)",
-            "onTrackLocation": 0.4297292261202648,
-            "coordIndex": 127,
-            "distanceToNextStop": 0.03278630833280305
+            "location": [
+              13.377905,
+              52.509072
+            ],
+            "coordIndex": 128,
+            "onTrackLocation": 0.43250219325056294,
+            "distanceToNextStop": 0.03001334120250493
           },
           {
             "id": "de:11000:900100010::1",
             "name": "U Mohrenstr. (Berlin)",
-            "onTrackLocation": 0.3997523103426631,
-            "coordIndex": 115,
-            "distanceToNextStop": 0.029976915777601698
+            "location": [
+              13.38511,
+              52.511816
+            ],
+            "coordIndex": 116,
+            "onTrackLocation": 0.4034356849424858,
+            "distanceToNextStop": 0.029066508308077166
           },
           {
             "id": "de:11000:900100701::1",
             "name": "U Stadtmitte (Berlin)",
+            "location": [
+              13.390543,
+              52.512199
+            ],
+            "coordIndex": 113,
             "onTrackLocation": 0.38505524218258275,
-            "coordIndex": 114,
-            "distanceToNextStop": 0.014697068160080373
+            "distanceToNextStop": 0.018380442759903026
           },
           {
             "id": "de:11000:900100012::1",
             "name": "U Hausvogteiplatz (Berlin)",
-            "onTrackLocation": 0.36515527589046715,
+            "location": [
+              13.395562,
+              52.513393
+            ],
             "coordIndex": 101,
+            "onTrackLocation": 0.36515527589046715,
             "distanceToNextStop": 0.0198999662921156
           },
           {
             "id": "de:11000:900100013::1",
             "name": "U Spittelmarkt (Berlin)",
+            "location": [
+              13.403697,
+              52.511348
+            ],
+            "coordIndex": 92,
             "onTrackLocation": 0.3365146764553337,
-            "coordIndex": 93,
             "distanceToNextStop": 0.028640599435133418
           },
           {
             "id": "de:11000:900100014::1",
             "name": "U Märkisches Museum (Berlin)",
-            "onTrackLocation": 0.3101809998080493,
-            "coordIndex": 84,
-            "distanceToNextStop": 0.02633367664728442
+            "location": [
+              13.410151,
+              52.512387
+            ],
+            "coordIndex": 85,
+            "onTrackLocation": 0.31419300292365077,
+            "distanceToNextStop": 0.022321673531682962
           },
           {
             "id": "de:11000:900100015::1",
             "name": "U Klosterstr. (Berlin)",
-            "onTrackLocation": 0.28541659535885505,
-            "coordIndex": 79,
-            "distanceToNextStop": 0.024764404449194255
+            "location": [
+              13.412317,
+              52.517186
+            ],
+            "coordIndex": 77,
+            "onTrackLocation": 0.2841474635103318,
+            "distanceToNextStop": 0.030045539413318945
           },
           {
             "id": "de:11000:900100003::1",
             "name": "S+U Alexanderplatz Bhf (Berlin)",
+            "location": [
+              13.414011,
+              52.521633
+            ],
+            "coordIndex": 61,
             "onTrackLocation": 0.25487968864447685,
-            "coordIndex": 62,
-            "distanceToNextStop": 0.030536906714378198
+            "distanceToNextStop": 0.029267774865854967
           },
           {
             "id": "de:11000:900100016::1",
             "name": "U Rosa-Luxemburg-Platz (Berlin)",
-            "onTrackLocation": 0.2086188800574796,
-            "coordIndex": 46,
-            "distanceToNextStop": 0.04626080858699724
+            "location": [
+              13.410374,
+              52.527701
+            ],
+            "coordIndex": 47,
+            "onTrackLocation": 0.2156446752642867,
+            "distanceToNextStop": 0.03923501338019014
           },
           {
             "id": "de:11000:900110005::1",
             "name": "U Senefelderplatz (Berlin)",
-            "onTrackLocation": 0.18287230025126036,
-            "coordIndex": 36,
-            "distanceToNextStop": 0.02574657980621925
+            "location": [
+              13.412596,
+              52.532443
+            ],
+            "coordIndex": 37,
+            "onTrackLocation": 0.18682103761586805,
+            "distanceToNextStop": 0.028823637648418665
           },
           {
             "id": "de:11000:900110006::1",
             "name": "U Eberswalder Str. (Berlin)",
-            "onTrackLocation": 0.13204981547581796,
-            "coordIndex": 26,
-            "distanceToNextStop": 0.050822484775442406
+            "location": [
+              13.412139,
+              52.541988
+            ],
+            "coordIndex": 27,
+            "onTrackLocation": 0.13529691765475482,
+            "distanceToNextStop": 0.051524119961113224
           },
           {
             "id": "de:11000:900110001::1",
             "name": "S+U Schönhauser Allee (Berlin)",
-            "onTrackLocation": 0.09307892034455083,
-            "coordIndex": 17,
-            "distanceToNextStop": 0.03897089513126713
+            "location": [
+              13.413598,
+              52.549226
+            ],
+            "coordIndex": 18,
+            "onTrackLocation": 0.09628476474064075,
+            "distanceToNextStop": 0.03901215291411407
           },
           {
             "id": "de:11000:900130011::1",
             "name": "U Vinetastr. (Berlin)",
-            "onTrackLocation": 0.029433758275380903,
-            "coordIndex": 4,
-            "distanceToNextStop": 0.06364516206916992
+            "location": [
+              13.413159,
+              52.559182
+            ],
+            "coordIndex": 5,
+            "onTrackLocation": 0.041695211169176016,
+            "distanceToNextStop": 0.054589553571464736
           },
           {
             "id": "de:11000:900130002::1",
             "name": "S+U Pankow (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.411657,
+              52.56674
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.029433758275380903
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.041695211169176016
           }
         ],
         "lineString": {
@@ -1700,184 +1868,288 @@
           {
             "id": "de:11000:900051202::1",
             "name": "U Breitenbachplatz (Berlin)",
-            "onTrackLocation": 0.9942949284813558,
-            "coordIndex": 217,
+            "location": [
+              13.308733,
+              52.467012
+            ],
+            "coordIndex": 218,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           },
           {
             "id": "de:11000:900045101::1",
             "name": "U Rüdesheimer Platz (Berlin)",
-            "onTrackLocation": 0.9463061743509503,
-            "coordIndex": 207,
-            "distanceToNextStop": 0.04798875413040549
+            "location": [
+              13.314366,
+              52.473373
+            ],
+            "coordIndex": 208,
+            "onTrackLocation": 0.9533654449422538,
+            "distanceToNextStop": 0.04663455505774616
           },
           {
             "id": "de:11000:900045102::1",
             "name": "S+U Heidelberger Platz (Berlin)",
-            "onTrackLocation": 0.9058948908384038,
+            "location": [
+              13.313117,
+              52.48025
+            ],
             "coordIndex": 199,
-            "distanceToNextStop": 0.040411283512546525
+            "onTrackLocation": 0.9058948908384038,
+            "distanceToNextStop": 0.04747055410385004
           },
           {
             "id": "de:11000:900041101::1",
             "name": "U Fehrbelliner Platz (Berlin)",
+            "location": [
+              13.315228,
+              52.490681
+            ],
+            "coordIndex": 190,
             "onTrackLocation": 0.8410376116487523,
-            "coordIndex": 191,
             "distanceToNextStop": 0.06485727918965145
           },
           {
             "id": "de:11000:900043101::1",
             "name": "U Hohenzollernplatz (Berlin)",
+            "location": [
+              13.324858,
+              52.494188
+            ],
+            "coordIndex": 186,
             "onTrackLocation": 0.7986649770073517,
-            "coordIndex": 187,
             "distanceToNextStop": 0.04237263464140062
           },
           {
             "id": "de:11000:900042101::1",
             "name": "U Spichernstr. (Berlin)",
+            "location": [
+              13.331995,
+              52.496901
+            ],
+            "coordIndex": 176,
             "onTrackLocation": 0.7644975980338518,
-            "coordIndex": 177,
             "distanceToNextStop": 0.03416737897349997
           },
           {
             "id": "de:11000:900023202::1",
             "name": "U Augsburger Str. (Berlin)",
+            "location": [
+              13.33635,
+              52.500386
+            ],
+            "coordIndex": 171,
             "onTrackLocation": 0.7368948915181347,
-            "coordIndex": 172,
             "distanceToNextStop": 0.027602706515717057
           },
           {
             "id": "de:11000:900056101::3",
             "name": "U Wittenbergplatz (Berlin)",
-            "onTrackLocation": 0.6734972618280077,
-            "coordIndex": 160,
-            "distanceToNextStop": 0.06339762969012697
+            "location": [
+              13.343003,
+              52.50185
+            ],
+            "coordIndex": 161,
+            "onTrackLocation": 0.7018711574288556,
+            "distanceToNextStop": 0.03502373408927906
           },
           {
             "id": "de:11000:900056102::3",
             "name": "U Nollendorfplatz (Berlin)",
+            "location": [
+              13.35456,
+              52.499388
+            ],
+            "coordIndex": 158,
             "onTrackLocation": 0.6549421504285489,
-            "coordIndex": 159,
-            "distanceToNextStop": 0.018555111399458868
+            "distanceToNextStop": 0.04692900700030678
           },
           {
             "id": "de:11000:900056104::1",
             "name": "U Bülowstr. (Berlin)",
-            "onTrackLocation": 0.6121798605425228,
-            "coordIndex": 154,
-            "distanceToNextStop": 0.04276228988602604
+            "location": [
+              13.36317,
+              52.49762
+            ],
+            "coordIndex": 155,
+            "onTrackLocation": 0.6203217235120014,
+            "distanceToNextStop": 0.03462042691654743
           },
           {
             "id": "de:11000:900017103::3",
             "name": "U Gleisdreieck (Berlin)",
-            "onTrackLocation": 0.5647807695670978,
+            "location": [
+              13.374061,
+              52.499504
+            ],
             "coordIndex": 142,
-            "distanceToNextStop": 0.04739909097542505
+            "onTrackLocation": 0.5647807695670978,
+            "distanceToNextStop": 0.05554095394490366
           },
           {
             "id": "de:11000:900005252::1",
             "name": "U Mendelssohn-Bartholdy-Park (Berlin)",
+            "location": [
+              13.374862,
+              52.503806
+            ],
+            "coordIndex": 136,
             "onTrackLocation": 0.5393692262590273,
-            "coordIndex": 137,
             "distanceToNextStop": 0.025411543308070494
           },
           {
             "id": "000300004160",
             "name": "S+U Potsdamer Platz Bhf (Berlin)",
-            "onTrackLocation": 0.5011349953195943,
-            "coordIndex": 127,
-            "distanceToNextStop": 0.03823423093943301
+            "location": [
+              13.377905,
+              52.509072
+            ],
+            "coordIndex": 128,
+            "onTrackLocation": 0.5043687313221682,
+            "distanceToNextStop": 0.03500049493685908
           },
           {
             "id": "de:11000:900100010::1",
             "name": "U Mohrenstr. (Berlin)",
-            "onTrackLocation": 0.46617697842246075,
-            "coordIndex": 115,
-            "distanceToNextStop": 0.034958016897133515
+            "location": [
+              13.38511,
+              52.511816
+            ],
+            "coordIndex": 116,
+            "onTrackLocation": 0.47047239935416596,
+            "distanceToNextStop": 0.033896331968002236
           },
           {
             "id": "de:11000:900100701::1",
             "name": "U Stadtmitte (Berlin)",
+            "location": [
+              13.390543,
+              52.512199
+            ],
+            "coordIndex": 113,
             "onTrackLocation": 0.44903777834964004,
-            "coordIndex": 114,
-            "distanceToNextStop": 0.017139200072820715
+            "distanceToNextStop": 0.021434621004525922
           },
           {
             "id": "de:11000:900100012::1",
             "name": "U Hausvogteiplatz (Berlin)",
-            "onTrackLocation": 0.42583114284873397,
+            "location": [
+              13.395562,
+              52.513393
+            ],
             "coordIndex": 101,
+            "onTrackLocation": 0.42583114284873397,
             "distanceToNextStop": 0.02320663550090607
           },
           {
             "id": "de:11000:900100013::1",
             "name": "U Spittelmarkt (Berlin)",
+            "location": [
+              13.403697,
+              52.511348
+            ],
+            "coordIndex": 92,
             "onTrackLocation": 0.39243149071555755,
-            "coordIndex": 93,
             "distanceToNextStop": 0.033399652133176416
           },
           {
             "id": "de:11000:900100014::1",
             "name": "U Märkisches Museum (Berlin)",
-            "onTrackLocation": 0.36172209018786033,
-            "coordIndex": 84,
-            "distanceToNextStop": 0.030709400527697217
+            "location": [
+              13.410151,
+              52.512387
+            ],
+            "coordIndex": 85,
+            "onTrackLocation": 0.36640074604915945,
+            "distanceToNextStop": 0.026030744666398098
           },
           {
             "id": "de:11000:900100015::1",
             "name": "U Klosterstr. (Berlin)",
-            "onTrackLocation": 0.33284271928776166,
-            "coordIndex": 79,
-            "distanceToNextStop": 0.028879370900098678
+            "location": [
+              13.412317,
+              52.517186
+            ],
+            "coordIndex": 77,
+            "onTrackLocation": 0.33136270269984713,
+            "distanceToNextStop": 0.03503804334931232
           },
           {
             "id": "de:11000:900100003::1",
             "name": "S+U Alexanderplatz Bhf (Berlin)",
+            "location": [
+              13.414011,
+              52.521633
+            ],
+            "coordIndex": 61,
             "onTrackLocation": 0.2972316608043853,
-            "coordIndex": 62,
-            "distanceToNextStop": 0.03561105848337637
+            "distanceToNextStop": 0.034131041895461844
           },
           {
             "id": "de:11000:900100016::1",
             "name": "U Rosa-Luxemburg-Platz (Berlin)",
-            "onTrackLocation": 0.24328394516021476,
-            "coordIndex": 46,
-            "distanceToNextStop": 0.05394771564417053
+            "location": [
+              13.410374,
+              52.527701
+            ],
+            "coordIndex": 47,
+            "onTrackLocation": 0.25147717855945845,
+            "distanceToNextStop": 0.04575448224492684
           },
           {
             "id": "de:11000:900110005::1",
             "name": "U Senefelderplatz (Berlin)",
-            "onTrackLocation": 0.2132591961637983,
-            "coordIndex": 36,
-            "distanceToNextStop": 0.030024748996416467
+            "location": [
+              13.412596,
+              52.532443
+            ],
+            "coordIndex": 37,
+            "onTrackLocation": 0.21786407374821742,
+            "distanceToNextStop": 0.033613104811241024
           },
           {
             "id": "de:11000:900110006::1",
             "name": "U Eberswalder Str. (Berlin)",
-            "onTrackLocation": 0.15399181539937318,
-            "coordIndex": 26,
-            "distanceToNextStop": 0.059267380764425115
+            "location": [
+              13.412139,
+              52.541988
+            ],
+            "coordIndex": 27,
+            "onTrackLocation": 0.15777847089389235,
+            "distanceToNextStop": 0.06008560285432507
           },
           {
             "id": "de:11000:900110001::1",
             "name": "S+U Schönhauser Allee (Berlin)",
-            "onTrackLocation": 0.10854533849686356,
-            "coordIndex": 17,
-            "distanceToNextStop": 0.04544647690250962
+            "location": [
+              13.413598,
+              52.549226
+            ],
+            "coordIndex": 18,
+            "onTrackLocation": 0.11228388062706592,
+            "distanceToNextStop": 0.04549459026682644
           },
           {
             "id": "de:11000:900130011::1",
             "name": "U Vinetastr. (Berlin)",
-            "onTrackLocation": 0.0343246058657482,
-            "coordIndex": 4,
-            "distanceToNextStop": 0.07422073263111535
+            "location": [
+              13.413159,
+              52.559182
+            ],
+            "coordIndex": 5,
+            "onTrackLocation": 0.048623477725172976,
+            "distanceToNextStop": 0.06366040290189294
           },
           {
             "id": "de:11000:900130002::1",
             "name": "S+U Pankow (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.411657,
+              52.56674
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.0343246058657482
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.048623477725172976
           }
         ],
         "lineString": {
@@ -2788,169 +3060,265 @@
           {
             "id": "de:11000:900120004::1",
             "name": "S+U Warschauer Str. (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.448802,
+              52.504862
+            ],
             "coordIndex": 0,
+            "onTrackLocation": 0,
             "distanceToNextStop": 0.04101310539908379
           },
           {
             "id": "de:11000:900014102::1",
             "name": "U Schlesisches Tor (Berlin)",
+            "location": [
+              13.441051,
+              52.500747
+            ],
+            "coordIndex": 9,
             "onTrackLocation": 0.04101310539908379,
-            "coordIndex": 10,
-            "distanceToNextStop": 0.04127700314264057
+            "distanceToNextStop": 0.0478668966669443
           },
           {
             "id": "de:11000:900014101::1",
             "name": "U Görlitzer Bahnhof (Berlin)",
-            "onTrackLocation": 0.08229010854172436,
-            "coordIndex": 12,
-            "distanceToNextStop": 0.03743807984299845
+            "location": [
+              13.428277,
+              52.499292
+            ],
+            "coordIndex": 13,
+            "onTrackLocation": 0.08888000206602809,
+            "distanceToNextStop": 0.03581988796749473
           },
           {
             "id": "de:11000:900013102::1",
             "name": "U Kottbusser Tor (Berlin)",
-            "onTrackLocation": 0.11972818838472281,
-            "coordIndex": 16,
-            "distanceToNextStop": 0.041558645638303346
+            "location": [
+              13.418395,
+              52.499051
+            ],
+            "coordIndex": 17,
+            "onTrackLocation": 0.12469989003352282,
+            "distanceToNextStop": 0.04740974822238371
           },
           {
             "id": "de:11000:900013103::1",
             "name": "U Prinzenstr. (Berlin)",
-            "onTrackLocation": 0.16128683402302615,
-            "coordIndex": 24,
-            "distanceToNextStop": 0.062379355030081074
+            "location": [
+              13.405401,
+              52.498406
+            ],
+            "coordIndex": 25,
+            "onTrackLocation": 0.17210963825590653,
+            "distanceToNextStop": 0.05481792772800337
           },
           {
             "id": "de:11000:900012103::1",
             "name": "U Hallesches Tor (Berlin)",
-            "onTrackLocation": 0.22366618905310723,
-            "coordIndex": 31,
-            "distanceToNextStop": 0.03221019552593832
+            "location": [
+              13.390351,
+              52.497812
+            ],
+            "coordIndex": 32,
+            "onTrackLocation": 0.2269275659839099,
+            "distanceToNextStop": 0.02894881859513565
           },
           {
             "id": "de:11000:900017104::1",
             "name": "U Möckernbrücke (Berlin)",
+            "location": [
+              13.382661,
+              52.499129
+            ],
+            "coordIndex": 40,
             "onTrackLocation": 0.25587638457904555,
-            "coordIndex": 41,
             "distanceToNextStop": 0.031205939423791462
           },
           {
             "id": "de:11000:900017103::1",
             "name": "U Gleisdreieck (Berlin)",
+            "location": [
+              13.374084,
+              52.499567
+            ],
+            "coordIndex": 52,
             "onTrackLocation": 0.287082324002837,
-            "coordIndex": 53,
-            "distanceToNextStop": 0.04061216984609056
+            "distanceToNextStop": 0.047272640292980894
           },
           {
             "id": "de:11000:900005201::1",
             "name": "U Kurfürstenstr. (Berlin)",
-            "onTrackLocation": 0.32769449384892757,
-            "coordIndex": 63,
-            "distanceToNextStop": 0.033928715730106807
+            "location": [
+              13.361504,
+              52.500152
+            ],
+            "coordIndex": 64,
+            "onTrackLocation": 0.3343549642958179,
+            "distanceToNextStop": 0.027268245283216475
           },
           {
             "id": "de:11000:900056102::1",
             "name": "U Nollendorfplatz (Berlin)",
+            "location": [
+              13.354616,
+              52.499966
+            ],
+            "coordIndex": 70,
             "onTrackLocation": 0.3616232095790344,
-            "coordIndex": 71,
-            "distanceToNextStop": 0.041851695756576324
+            "distanceToNextStop": 0.04474423570362107
           },
           {
             "id": "de:11000:900056101::1",
             "name": "U Wittenbergplatz (Berlin)",
-            "onTrackLocation": 0.4034749053356107,
-            "coordIndex": 76,
-            "distanceToNextStop": 0.035971271890649026
+            "location": [
+              13.343056,
+              52.501927
+            ],
+            "coordIndex": 77,
+            "onTrackLocation": 0.40636744528265545,
+            "distanceToNextStop": 0.03307873194360428
           },
           {
             "id": "de:11000:900023202::1",
             "name": "U Augsburger Str. (Berlin)",
+            "location": [
+              13.33635,
+              52.500386
+            ],
+            "coordIndex": 87,
             "onTrackLocation": 0.4394461772262597,
-            "coordIndex": 88,
             "distanceToNextStop": 0.026139826467472094
           },
           {
             "id": "de:11000:900042101::1",
             "name": "U Spichernstr. (Berlin)",
+            "location": [
+              13.331995,
+              52.496901
+            ],
+            "coordIndex": 92,
             "onTrackLocation": 0.4655860036937318,
-            "coordIndex": 93,
             "distanceToNextStop": 0.03235658636253996
           },
           {
             "id": "de:11000:900043101::1",
             "name": "U Hohenzollernplatz (Berlin)",
+            "location": [
+              13.324858,
+              52.494188
+            ],
+            "coordIndex": 102,
             "onTrackLocation": 0.4979425900562718,
-            "coordIndex": 103,
             "distanceToNextStop": 0.040126982325632776
           },
           {
             "id": "de:11000:900041101::1",
             "name": "U Fehrbelliner Platz (Berlin)",
+            "location": [
+              13.315228,
+              52.490681
+            ],
+            "coordIndex": 106,
             "onTrackLocation": 0.5380695723819046,
-            "coordIndex": 107,
             "distanceToNextStop": 0.061419992354899366
           },
           {
             "id": "de:11000:900045102::1",
             "name": "S+U Heidelberger Platz (Berlin)",
-            "onTrackLocation": 0.5994895647368039,
+            "location": [
+              13.313117,
+              52.48025
+            ],
             "coordIndex": 115,
-            "distanceToNextStop": 0.038269578301834084
+            "onTrackLocation": 0.5994895647368039,
+            "distanceToNextStop": 0.04495472376532439
           },
           {
             "id": "de:11000:900045101::1",
             "name": "U Rüdesheimer Platz (Berlin)",
-            "onTrackLocation": 0.637759143038638,
-            "coordIndex": 123,
-            "distanceToNextStop": 0.04544546038065911
+            "location": [
+              13.314366,
+              52.473373
+            ],
+            "coordIndex": 124,
+            "onTrackLocation": 0.6444442885021283,
+            "distanceToNextStop": 0.04416303074856609
           },
           {
             "id": "de:11000:900051202::1",
             "name": "U Breitenbachplatz (Berlin)",
-            "onTrackLocation": 0.6832046034192971,
-            "coordIndex": 133,
-            "distanceToNextStop": 0.05053305723209889
+            "location": [
+              13.308733,
+              52.467012
+            ],
+            "coordIndex": 134,
+            "onTrackLocation": 0.6886073192506944,
+            "distanceToNextStop": 0.052418088884844116
           },
           {
             "id": "de:11000:900051302::1",
             "name": "U Podbielskiallee (Berlin)",
-            "onTrackLocation": 0.733737660651396,
-            "coordIndex": 142,
-            "distanceToNextStop": 0.047732490534291294
+            "location": [
+              13.29548,
+              52.464067
+            ],
+            "coordIndex": 143,
+            "onTrackLocation": 0.7410254081355385,
+            "distanceToNextStop": 0.04808319458300647
           },
           {
             "id": "de:11000:900051303::1",
             "name": "U Dahlem-Dorf (Berlin)",
-            "onTrackLocation": 0.7814701511856873,
-            "coordIndex": 156,
-            "distanceToNextStop": 0.05090982373316322
+            "location": [
+              13.289407,
+              52.457164
+            ],
+            "coordIndex": 157,
+            "onTrackLocation": 0.789108602718545,
+            "distanceToNextStop": 0.04718040564597181
           },
           {
             "id": "de:11000:900051201::1",
             "name": "U Freie Universität (Thielplatz) (Berlin)",
-            "onTrackLocation": 0.8323799749188505,
-            "coordIndex": 167,
-            "distanceToNextStop": 0.04811148673067922
+            "location": [
+              13.281602,
+              52.451041
+            ],
+            "coordIndex": 168,
+            "onTrackLocation": 0.8362890083645168,
+            "distanceToNextStop": 0.0482307442964276
           },
           {
             "id": "de:11000:900051301::1",
             "name": "U Oskar-Helene-Heim (Berlin)",
-            "onTrackLocation": 0.8804914616495297,
-            "coordIndex": 179,
-            "distanceToNextStop": 0.05693717297385603
+            "location": [
+              13.268979,
+              52.450412
+            ],
+            "coordIndex": 180,
+            "onTrackLocation": 0.8845197526609444,
+            "distanceToNextStop": 0.058277429021885596
           },
           {
             "id": "de:11000:900050282::1",
             "name": "U Onkel Toms Hütte (Berlin)",
-            "onTrackLocation": 0.9374286346233858,
-            "coordIndex": 192,
-            "distanceToNextStop": 0.05890687499742786
+            "location": [
+              13.253036,
+              52.449928
+            ],
+            "coordIndex": 193,
+            "onTrackLocation": 0.94279718168283,
+            "distanceToNextStop": 0.05720281831717
           },
           {
             "id": "de:11000:900050201::2",
             "name": "U Krumme Lanke (Berlin)",
-            "onTrackLocation": 0.9963355096208136,
-            "coordIndex": 205,
+            "location": [
+              13.241613,
+              52.443519
+            ],
+            "coordIndex": 206,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -3800,85 +4168,133 @@
           {
             "id": "de:11000:900120004::3",
             "name": "S+U Warschauer Str. (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.449123,
+              52.504886
+            ],
             "coordIndex": 0,
+            "onTrackLocation": 0,
             "distanceToNextStop": 0.09220195505040042
           },
           {
             "id": "de:11000:900014102::1",
             "name": "U Schlesisches Tor (Berlin)",
+            "location": [
+              13.441051,
+              52.500747
+            ],
+            "coordIndex": 11,
             "onTrackLocation": 0.09220195505040042,
-            "coordIndex": 12,
-            "distanceToNextStop": 0.09141484624215278
+            "distanceToNextStop": 0.10600927067734316
           },
           {
             "id": "de:11000:900014101::1",
             "name": "U Görlitzer Bahnhof (Berlin)",
-            "onTrackLocation": 0.1836168012925532,
-            "coordIndex": 14,
-            "distanceToNextStop": 0.0829129067491261
+            "location": [
+              13.428277,
+              52.499292
+            ],
+            "coordIndex": 15,
+            "onTrackLocation": 0.19821122572774358,
+            "distanceToNextStop": 0.07932914944537311
           },
           {
             "id": "de:11000:900013102::1",
             "name": "U Kottbusser Tor (Berlin)",
-            "onTrackLocation": 0.2665297080416793,
-            "coordIndex": 18,
-            "distanceToNextStop": 0.09203859078453869
+            "location": [
+              13.418395,
+              52.499051
+            ],
+            "coordIndex": 19,
+            "onTrackLocation": 0.2775403751731167,
+            "distanceToNextStop": 0.10499683877609944
           },
           {
             "id": "de:11000:900013103::1",
             "name": "U Prinzenstr. (Berlin)",
-            "onTrackLocation": 0.358568298826218,
-            "coordIndex": 26,
-            "distanceToNextStop": 0.13814954368304777
+            "location": [
+              13.405401,
+              52.498406
+            ],
+            "coordIndex": 27,
+            "onTrackLocation": 0.38253721394921614,
+            "distanceToNextStop": 0.12140349475594947
           },
           {
             "id": "de:11000:900012103::1",
             "name": "U Hallesches Tor (Berlin)",
-            "onTrackLocation": 0.49671784250926576,
-            "coordIndex": 33,
-            "distanceToNextStop": 0.0713348801330872
+            "location": [
+              13.390351,
+              52.497812
+            ],
+            "coordIndex": 34,
+            "onTrackLocation": 0.5039407087051656,
+            "distanceToNextStop": 0.06411201393718735
           },
           {
             "id": "de:11000:900017104::1",
             "name": "U Möckernbrücke (Berlin)",
+            "location": [
+              13.382661,
+              52.499129
+            ],
+            "coordIndex": 42,
             "onTrackLocation": 0.568052722642353,
-            "coordIndex": 43,
             "distanceToNextStop": 0.06911078656582281
           },
           {
             "id": "de:11000:900017103::1",
             "name": "U Gleisdreieck (Berlin)",
+            "location": [
+              13.374084,
+              52.499567
+            ],
+            "coordIndex": 54,
             "onTrackLocation": 0.6371635092081758,
-            "coordIndex": 55,
-            "distanceToNextStop": 0.08994246140426243
+            "distanceToNextStop": 0.10469319027134683
           },
           {
             "id": "de:11000:900005201::1",
             "name": "U Kurfürstenstr. (Berlin)",
-            "onTrackLocation": 0.7271059706124382,
-            "coordIndex": 65,
-            "distanceToNextStop": 0.07514083134725869
+            "location": [
+              13.361504,
+              52.500152
+            ],
+            "coordIndex": 66,
+            "onTrackLocation": 0.7418566994795226,
+            "distanceToNextStop": 0.06039010248017429
           },
           {
             "id": "de:11000:900056102::1",
             "name": "U Nollendorfplatz (Berlin)",
+            "location": [
+              13.354616,
+              52.499966
+            ],
+            "coordIndex": 72,
             "onTrackLocation": 0.8022468019596969,
-            "coordIndex": 73,
-            "distanceToNextStop": 0.09268759942042715
+            "distanceToNextStop": 0.09909361425620922
           },
           {
             "id": "de:11000:900056101::1",
             "name": "U Wittenbergplatz (Berlin)",
-            "onTrackLocation": 0.894934401380124,
-            "coordIndex": 78,
-            "distanceToNextStop": 0.09239962398210844
+            "location": [
+              13.343056,
+              52.501927
+            ],
+            "coordIndex": 79,
+            "onTrackLocation": 0.9013404162159061,
+            "distanceToNextStop": 0.0986595837840939
           },
           {
             "id": "de:11000:900023201::1",
             "name": "S+U Zoologischer Garten Bhf (Berlin)",
-            "onTrackLocation": 0.9873340253622325,
-            "coordIndex": 91,
+            "location": [
+              13.333055,
+              52.505941
+            ],
+            "coordIndex": 92,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -4286,36 +4702,56 @@
           {
             "id": "de:11000:900056102::6",
             "name": "U Nollendorfplatz (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.354616,
+              52.499837
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.06999954639669227
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.2999642039435047
           },
           {
             "id": "de:11000:900055101::1",
             "name": "U Viktoria-Luise-Platz (Berlin)",
-            "onTrackLocation": 0.06999954639669227,
-            "coordIndex": 3,
-            "distanceToNextStop": 0.53325761584461
+            "location": [
+              13.34338,
+              52.496288
+            ],
+            "coordIndex": 4,
+            "onTrackLocation": 0.2999642039435047,
+            "distanceToNextStop": 0.2885398536388106
           },
           {
             "id": "de:11000:900055102::1",
             "name": "U Bayerischer Platz (Berlin)",
-            "onTrackLocation": 0.6032571622413022,
-            "coordIndex": 19,
-            "distanceToNextStop": 0.05294098791053614
+            "location": [
+              13.340214,
+              52.489145
+            ],
+            "coordIndex": 17,
+            "onTrackLocation": 0.5885040575823153,
+            "distanceToNextStop": 0.26097650104030246
           },
           {
             "id": "de:11000:900054101::1",
             "name": "U Rathaus Schöneberg (Berlin)",
-            "onTrackLocation": 0.6561981501518384,
-            "coordIndex": 21,
-            "distanceToNextStop": 0.34380184984816164
+            "location": [
+              13.341946,
+              52.483032
+            ],
+            "coordIndex": 22,
+            "onTrackLocation": 0.8494805586226177,
+            "distanceToNextStop": 0.15051944137738227
           },
           {
             "id": "de:11000:900054105::1",
             "name": "S+U Innsbrucker Platz (Berlin)",
-            "onTrackLocation": 1,
+            "location": [
+              13.343623,
+              52.479262
+            ],
             "coordIndex": 26,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -4459,183 +4895,287 @@
           {
             "id": "de:11000:900175010::1",
             "name": "U Hönow (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.633161,
+              52.538482
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.038873129025093434
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.046599020201238996
           },
           {
             "id": "de:11000:900175015::1",
             "name": "U Louis-Lewin-Str. (Berlin)",
-            "onTrackLocation": 0.038873129025093434,
-            "coordIndex": 8,
-            "distanceToNextStop": 0.04169831541305437
+            "location": [
+              13.618307,
+              52.539037
+            ],
+            "coordIndex": 9,
+            "onTrackLocation": 0.046599020201238996,
+            "distanceToNextStop": 0.03799239430357907
           },
           {
             "id": "de:11000:900175007::1",
             "name": "U Hellersdorf (Berlin)",
-            "onTrackLocation": 0.0805714444381478,
-            "coordIndex": 15,
-            "distanceToNextStop": 0.03812963757652936
+            "location": [
+              13.606564,
+              52.536737
+            ],
+            "coordIndex": 16,
+            "onTrackLocation": 0.08459141450481807,
+            "distanceToNextStop": 0.034109667509859096
           },
           {
             "id": "de:11000:900175006::1",
             "name": "U Cottbusser Platz (Berlin)",
+            "location": [
+              13.59646,
+              52.533918
+            ],
+            "coordIndex": 22,
             "onTrackLocation": 0.11870108201467716,
-            "coordIndex": 23,
-            "distanceToNextStop": 0.021086968696342467
+            "distanceToNextStop": 0.034639370680125514
           },
           {
             "id": "de:11000:900175005::1",
             "name": "U Kienberg (Gärten der Welt) (Berlin)",
-            "onTrackLocation": 0.13978805071101963,
-            "coordIndex": 30,
-            "distanceToNextStop": 0.042707722639874185
+            "location": [
+              13.590471,
+              52.528538
+            ],
+            "coordIndex": 31,
+            "onTrackLocation": 0.15334045269480268,
+            "distanceToNextStop": 0.03912128030448919
           },
           {
             "id": "de:11000:900175004::1",
             "name": "U Kaulsdorf-Nord (Berlin)",
-            "onTrackLocation": 0.18249577335089381,
-            "coordIndex": 37,
-            "distanceToNextStop": 0.07198051027823163
+            "location": [
+              13.588849,
+              52.520904
+            ],
+            "coordIndex": 38,
+            "onTrackLocation": 0.19246173299929187,
+            "distanceToNextStop": 0.06627957894572678
           },
           {
             "id": "de:11000:900175001::1",
             "name": "S+U Wuhletal (Berlin)",
-            "onTrackLocation": 0.25447628362912544,
-            "coordIndex": 52,
-            "distanceToNextStop": 0.06648254541507431
+            "location": [
+              13.575194,
+              52.512626
+            ],
+            "coordIndex": 53,
+            "onTrackLocation": 0.25874131194501865,
+            "distanceToNextStop": 0.06221751709918111
           },
           {
             "id": "de:11000:900171006::1",
             "name": "U Elsterwerdaer Platz (Berlin)",
+            "location": [
+              13.560296,
+              52.504979
+            ],
+            "coordIndex": 66,
             "onTrackLocation": 0.32095882904419976,
-            "coordIndex": 67,
             "distanceToNextStop": 0.05117936571579351
           },
           {
             "id": "de:11000:900171005::1",
             "name": "U Biesdorf-Süd (Berlin)",
+            "location": [
+              13.546365,
+              52.499662
+            ],
+            "coordIndex": 75,
             "onTrackLocation": 0.37213819475999327,
-            "coordIndex": 76,
             "distanceToNextStop": 0.08431247970747696
           },
           {
             "id": "de:11000:900161002::3",
             "name": "U Tierpark (Berlin)",
+            "location": [
+              13.523072,
+              52.49776
+            ],
+            "coordIndex": 89,
             "onTrackLocation": 0.45645067446747023,
-            "coordIndex": 90,
             "distanceToNextStop": 0.05443887109829049
           },
           {
             "id": "de:11000:900161512::1",
             "name": "U Friedrichsfelde (Berlin)",
+            "location": [
+              13.512845,
+              52.506252
+            ],
+            "coordIndex": 98,
             "onTrackLocation": 0.5108895455657607,
-            "coordIndex": 99,
             "distanceToNextStop": 0.04957764252162522
           },
           {
             "id": "de:11000:900160004::7",
             "name": "S+U Lichtenberg Bhf (Berlin)",
-            "onTrackLocation": 0.5604671880873859,
+            "location": [
+              13.498342,
+              52.511218
+            ],
             "coordIndex": 103,
+            "onTrackLocation": 0.5604671880873859,
             "distanceToNextStop": 0.037717937906762145
           },
           {
             "id": "de:11000:900160005::1",
             "name": "U Magdalenenstr. (Berlin)",
+            "location": [
+              13.486997,
+              52.512532
+            ],
+            "coordIndex": 110,
             "onTrackLocation": 0.5981851259941481,
-            "coordIndex": 111,
             "distanceToNextStop": 0.03692716293807474
           },
           {
             "id": "de:11000:900120001::1",
             "name": "S+U Frankfurter Allee (Berlin)",
+            "location": [
+              13.475215,
+              52.513761
+            ],
+            "coordIndex": 112,
             "onTrackLocation": 0.6351122889322228,
-            "coordIndex": 113,
             "distanceToNextStop": 0.03327271461890691
           },
           {
             "id": "de:11000:900120009::1",
             "name": "U Samariterstr. (Berlin)",
+            "location": [
+              13.464537,
+              52.514787
+            ],
+            "coordIndex": 114,
             "onTrackLocation": 0.6683850035511297,
-            "coordIndex": 115,
-            "distanceToNextStop": 0
+            "distanceToNextStop": 0.03323901892618819
           },
           {
             "id": "de:11000:900120008::1",
             "name": "U Frankfurter Tor (Berlin)",
-            "onTrackLocation": 0.6683850035511297,
-            "coordIndex": 115,
-            "distanceToNextStop": 0.03323901892618819
+            "location": [
+              13.453903,
+              52.515872
+            ],
+            "coordIndex": 116,
+            "onTrackLocation": 0.7016240224773179,
+            "distanceToNextStop": 0.028874447966255157
           },
           {
             "id": "de:11000:900120025::1",
             "name": "U Weberwiese (Berlin)",
-            "onTrackLocation": 0.7016240224773179,
-            "coordIndex": 117,
-            "distanceToNextStop": 0.028874447966255157
+            "location": [
+              13.444683,
+              52.516804
+            ],
+            "coordIndex": 118,
+            "onTrackLocation": 0.7304984704435731,
+            "distanceToNextStop": 0.04086272747552899
           },
           {
             "id": "de:11000:900120006::1",
             "name": "U Strausberger Platz (Berlin)",
-            "onTrackLocation": 0.7304984704435731,
-            "coordIndex": 119,
-            "distanceToNextStop": 0.07676363558431909
+            "location": [
+              13.431554,
+              52.518144
+            ],
+            "coordIndex": 120,
+            "onTrackLocation": 0.7713611979191021,
+            "distanceToNextStop": 0.0359009081087901
           },
           {
             "id": "de:11000:900100017::1",
             "name": "U Schillingstr. (Berlin)",
+            "location": [
+              13.420841,
+              52.520931
+            ],
+            "coordIndex": 125,
             "onTrackLocation": 0.8072621060278922,
-            "coordIndex": 126,
-            "distanceToNextStop": 0.019882762097265028
+            "distanceToNextStop": 0.025593030060993338
           },
           {
             "id": "de:11000:900100003::3",
             "name": "S+U Alexanderplatz Bhf (Berlin)",
-            "onTrackLocation": 0.8271448681251572,
-            "coordIndex": 135,
-            "distanceToNextStop": 0.027461772365380277
+            "location": [
+              13.413583,
+              52.521488
+            ],
+            "coordIndex": 136,
+            "onTrackLocation": 0.8328551360888855,
+            "distanceToNextStop": 0.021751504401651967
           },
           {
             "id": "de:11000:900100045::6",
             "name": "U Rotes Rathaus (Berlin)",
+            "location": [
+              13.407888,
+              52.518802
+            ],
+            "coordIndex": 138,
             "onTrackLocation": 0.8546066404905375,
-            "coordIndex": 139,
-            "distanceToNextStop": 0
+            "distanceToNextStop": 0.030989586415325454
           },
           {
             "id": "de:11000:900100537::3",
             "name": "U Museumsinsel (Berlin)",
-            "onTrackLocation": 0.8546066404905375,
-            "coordIndex": 139,
-            "distanceToNextStop": 0.030989586415325454
+            "location": [
+              13.39825,
+              52.517402
+            ],
+            "coordIndex": 140,
+            "onTrackLocation": 0.8855962269058629,
+            "distanceToNextStop": 0.02793946440840478
           },
           {
             "id": "de:11000:900100513::5",
             "name": "U Unter den Linden (Berlin)",
-            "onTrackLocation": 0.8855962269058629,
-            "coordIndex": 141,
-            "distanceToNextStop": 0.052605666706373455
+            "location": [
+              13.389059,
+              52.51704
+            ],
+            "coordIndex": 142,
+            "onTrackLocation": 0.9135356913142677,
+            "distanceToNextStop": 0.024666202297968676
           },
           {
             "id": "de:11000:900100025::1",
             "name": "S+U Brandenburger Tor (Berlin)",
+            "location": [
+              13.380981,
+              52.516644
+            ],
+            "coordIndex": 144,
             "onTrackLocation": 0.9382018936122364,
-            "coordIndex": 145,
             "distanceToNextStop": 0.03393258099728236
           },
           {
             "id": "de:11000:900003254::1",
             "name": "U Bundestag (Berlin)",
+            "location": [
+              13.373086,
+              52.520156
+            ],
+            "coordIndex": 155,
             "onTrackLocation": 0.9721344746095187,
-            "coordIndex": 156,
-            "distanceToNextStop": 0
+            "distanceToNextStop": 0.02786552539048126
           },
           {
             "id": "de:11000:900003201::10",
             "name": "S+U Berlin Hauptbahnhof",
-            "onTrackLocation": 0.9721344746095187,
-            "coordIndex": 156,
+            "location": [
+              13.37003,
+              52.525225
+            ],
+            "coordIndex": 157,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -5303,170 +5843,266 @@
           {
             "id": "de:11000:900070301::2",
             "name": "U Alt-Mariendorf (Berlin)",
-            "onTrackLocation": 1,
+            "location": [
+              13.387543,
+              52.439884
+            ],
             "coordIndex": 92,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           },
           {
             "id": "de:11000:900070101::1",
             "name": "U Westphalweg (Berlin)",
+            "location": [
+              13.385619,
+              52.446268
+            ],
+            "coordIndex": 86,
             "onTrackLocation": 0.9535142091228231,
-            "coordIndex": 87,
             "distanceToNextStop": 0.04648579087717686
           },
           {
             "id": "de:11000:900069271::1",
             "name": "U Ullsteinstr. (Berlin)",
+            "location": [
+              13.384397,
+              52.453741
+            ],
+            "coordIndex": 82,
             "onTrackLocation": 0.899367490892811,
-            "coordIndex": 83,
             "distanceToNextStop": 0.05414671823001216
           },
           {
             "id": "de:11000:900068302::1",
             "name": "U Kaiserin-Augusta-Str. (Berlin)",
+            "location": [
+              13.384567,
+              52.459982
+            ],
+            "coordIndex": 76,
             "onTrackLocation": 0.8546623627317086,
-            "coordIndex": 77,
             "distanceToNextStop": 0.04470512816110239
           },
           {
             "id": "de:11000:900068202::1",
             "name": "U Alt-Tempelhof (Berlin)",
-            "onTrackLocation": 0.7932125350123281,
-            "coordIndex": 70,
-            "distanceToNextStop": 0.061449827719380457
+            "location": [
+              13.38558,
+              52.465382
+            ],
+            "coordIndex": 71,
+            "onTrackLocation": 0.816687148992656,
+            "distanceToNextStop": 0.03797521373905255
           },
           {
             "id": "de:11000:900068201::1",
             "name": "S+U Tempelhof (Berlin)",
-            "onTrackLocation": 0.7765315615592081,
-            "coordIndex": 67,
-            "distanceToNextStop": 0.01668097345312003
+            "location": [
+              13.385515,
+              52.469814
+            ],
+            "coordIndex": 68,
+            "onTrackLocation": 0.7853827343144961,
+            "distanceToNextStop": 0.03130441467815992
           },
           {
             "id": "de:11000:900068101::1",
             "name": "U Paradestr. (Berlin)",
+            "location": [
+              13.386172,
+              52.478191
+            ],
+            "coordIndex": 62,
             "onTrackLocation": 0.7244555235158523,
-            "coordIndex": 63,
-            "distanceToNextStop": 0.05207603804335581
+            "distanceToNextStop": 0.06092721079864383
           },
           {
             "id": "de:11000:900017102::1",
             "name": "U Platz der Luftbrücke (Berlin)",
-            "onTrackLocation": 0.6620380963010907,
-            "coordIndex": 55,
-            "distanceToNextStop": 0.06241742721476162
+            "location": [
+              13.385808,
+              52.485948
+            ],
+            "coordIndex": 56,
+            "onTrackLocation": 0.6697321940373757,
+            "distanceToNextStop": 0.05472332947847658
           },
           {
             "id": "de:11000:900017101::1",
             "name": "U Mehringdamm (Berlin)",
-            "onTrackLocation": 0.6003870534878002,
-            "coordIndex": 47,
-            "distanceToNextStop": 0.06165104281329048
+            "location": [
+              13.388864,
+              52.494625
+            ],
+            "coordIndex": 48,
+            "onTrackLocation": 0.6060051284129693,
+            "distanceToNextStop": 0.06372706562440644
           },
           {
             "id": "de:11000:900012103::3",
             "name": "U Hallesches Tor (Berlin)",
-            "onTrackLocation": 0.5662014627123886,
-            "coordIndex": 40,
-            "distanceToNextStop": 0.03418559077541161
+            "location": [
+              13.391628,
+              52.498999
+            ],
+            "coordIndex": 41,
+            "onTrackLocation": 0.5709003187228796,
+            "distanceToNextStop": 0.03510480969008967
           },
           {
             "id": "de:11000:900012102::1",
             "name": "U Kochstr./Checkpoint Charlie (Berlin)",
+            "location": [
+              13.390528,
+              52.506032
+            ],
+            "coordIndex": 38,
             "onTrackLocation": 0.5202617313522226,
-            "coordIndex": 39,
-            "distanceToNextStop": 0.045939731360165936
+            "distanceToNextStop": 0.05063858737065696
           },
           {
             "id": "de:11000:900100011::1",
             "name": "U Stadtmitte (Berlin)",
+            "location": [
+              13.389841,
+              52.510236
+            ],
+            "coordIndex": 36,
             "onTrackLocation": 0.4899761562909562,
-            "coordIndex": 37,
             "distanceToNextStop": 0.030285575061266445
           },
           {
             "id": "de:11000:900100513::7",
             "name": "U Unter den Linden (Berlin)",
-            "onTrackLocation": 0.4185960693903411,
-            "coordIndex": 33,
-            "distanceToNextStop": 0.07138008690061509
+            "location": [
+              13.388825,
+              52.516662
+            ],
+            "coordIndex": 34,
+            "onTrackLocation": 0.4455834534214163,
+            "distanceToNextStop": 0.04439270286953989
           },
           {
             "id": "de:11000:900100001::1",
             "name": "S+U Friedrichstr. Bhf (Berlin)",
-            "onTrackLocation": 0.38035121170050706,
-            "coordIndex": 31,
-            "distanceToNextStop": 0.038244857689834044
+            "location": [
+              13.388196,
+              52.520265
+            ],
+            "coordIndex": 32,
+            "onTrackLocation": 0.4185960693903411,
+            "distanceToNextStop": 0.0269873840310752
           },
           {
             "id": "de:11000:900100019::1",
             "name": "U Oranienburger Tor (Berlin)",
-            "onTrackLocation": 0.38035121170050706,
+            "location": [
+              13.387314,
+              52.525545
+            ],
             "coordIndex": 30,
-            "distanceToNextStop": 0
+            "onTrackLocation": 0.38035121170050706,
+            "distanceToNextStop": 0.038244857689834044
           },
           {
             "id": "de:11000:900100009::1",
             "name": "U Naturkundemuseum (Berlin)",
+            "location": [
+              13.382101,
+              52.531269
+            ],
+            "coordIndex": 24,
             "onTrackLocation": 0.3316306617557288,
-            "coordIndex": 25,
             "distanceToNextStop": 0.04872054994477826
           },
           {
             "id": "de:11000:900100501::1",
             "name": "U Schwartzkopffstr. (Berlin)",
+            "location": [
+              13.376863,
+              52.535449
+            ],
+            "coordIndex": 22,
             "onTrackLocation": 0.29395016637414617,
-            "coordIndex": 23,
             "distanceToNextStop": 0.037680495381582635
           },
           {
             "id": "de:11000:900008102::1",
             "name": "U Reinickendorfer Str. (Berlin)",
+            "location": [
+              13.370176,
+              52.540046
+            ],
+            "coordIndex": 19,
             "onTrackLocation": 0.2505664018030673,
-            "coordIndex": 20,
             "distanceToNextStop": 0.0433837645710789
           },
           {
             "id": "de:11000:900009104::1",
             "name": "S+U Wedding (Berlin)",
+            "location": [
+              13.364987,
+              52.543028
+            ],
+            "coordIndex": 16,
             "onTrackLocation": 0.21983713758082882,
-            "coordIndex": 17,
             "distanceToNextStop": 0.030729264222238456
           },
           {
             "id": "de:11000:900009102::1",
             "name": "U Leopoldplatz (Berlin)",
+            "location": [
+              13.359121,
+              52.546389
+            ],
+            "coordIndex": 14,
             "onTrackLocation": 0.18499265308054844,
-            "coordIndex": 15,
             "distanceToNextStop": 0.03484448450028038
           },
           {
             "id": "de:11000:900009103::1",
             "name": "U Seestr. (Berlin)",
-            "onTrackLocation": 0.07793160370605136,
-            "coordIndex": 8,
-            "distanceToNextStop": 0.10706104937449708
+            "location": [
+              13.353007,
+              52.549731
+            ],
+            "coordIndex": 9,
+            "onTrackLocation": 0.1495735259517474,
+            "distanceToNextStop": 0.03541912712880105
           },
           {
             "id": "de:11000:900011101::1",
             "name": "U Rehberge (Berlin)",
-            "onTrackLocation": 0.04027256732923188,
-            "coordIndex": 6,
-            "distanceToNextStop": 0.03765903637681948
+            "location": [
+              13.34099,
+              52.556593
+            ],
+            "coordIndex": 7,
+            "onTrackLocation": 0.07793160370605136,
+            "distanceToNextStop": 0.07164192224569603
           },
           {
             "id": "de:11000:900011102::1",
             "name": "U Afrikanische Str. (Berlin)",
-            "onTrackLocation": 0.023321369277475617,
-            "coordIndex": 4,
-            "distanceToNextStop": 0.016951198051756263
+            "location": [
+              13.334557,
+              52.560199
+            ],
+            "coordIndex": 5,
+            "onTrackLocation": 0.04027256732923188,
+            "distanceToNextStop": 0.03765903637681948
           },
           {
             "id": "de:11000:900086102::1",
             "name": "U Kurt-Schumacher-Platz (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.327032,
+              52.563206
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.023321369277475617
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.04027256732923188
           }
         ],
         "lineString": {
@@ -5873,281 +6509,441 @@
           {
             "id": "de:11000:900029302::1",
             "name": "S+U Rathaus Spandau (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.199857,
+              52.535176
+            ],
             "coordIndex": 0,
+            "onTrackLocation": 0,
             "distanceToNextStop": 0.023825157733569878
           },
           {
             "id": "de:11000:900029301::1",
             "name": "U Altstadt Spandau (Berlin)",
+            "location": [
+              13.206326,
+              52.538755
+            ],
+            "coordIndex": 11,
             "onTrackLocation": 0.023825157733569878,
-            "coordIndex": 12,
-            "distanceToNextStop": 0.020920451081858804
+            "distanceToNextStop": 0.025174376610866064
           },
           {
             "id": "de:11000:900033101::1",
             "name": "U Zitadelle (Berlin)",
-            "onTrackLocation": 0.04474560881542868,
-            "coordIndex": 20,
-            "distanceToNextStop": 0.029499110214145634
+            "location": [
+              13.217515,
+              52.537627
+            ],
+            "coordIndex": 21,
+            "onTrackLocation": 0.04899953434443594,
+            "distanceToNextStop": 0.0346922616809311
           },
           {
             "id": "de:11000:900034102::1",
             "name": "U Haselhorst (Berlin)",
-            "onTrackLocation": 0.07424471902957432,
-            "coordIndex": 28,
-            "distanceToNextStop": 0.03594834900203196
+            "location": [
+              13.233127,
+              52.538635
+            ],
+            "coordIndex": 29,
+            "onTrackLocation": 0.08369179602536704,
+            "distanceToNextStop": 0.0310564866978756
           },
           {
             "id": "de:11000:900034101::1",
             "name": "U Paulsternstr. (Berlin)",
-            "onTrackLocation": 0.11019306803160628,
-            "coordIndex": 36,
-            "distanceToNextStop": 0.004555214691636361
+            "location": [
+              13.247534,
+              52.537931
+            ],
+            "coordIndex": 37,
+            "onTrackLocation": 0.11474828272324264,
+            "distanceToNextStop": 0.03210302479397792
           },
           {
             "id": "de:11000:900036101::1",
             "name": "U Rohrdamm (Berlin)",
-            "onTrackLocation": 0.11474828272324264,
-            "coordIndex": 38,
-            "distanceToNextStop": 0.05391369667189594
+            "location": [
+              13.262347,
+              52.536926
+            ],
+            "coordIndex": 39,
+            "onTrackLocation": 0.14685130751722056,
+            "distanceToNextStop": 0.02181067187791802
           },
           {
             "id": "de:11000:900035101::1",
             "name": "U Siemensdamm (Berlin)",
+            "location": [
+              13.27271,
+              52.536699
+            ],
+            "coordIndex": 44,
             "onTrackLocation": 0.16866197939513858,
-            "coordIndex": 45,
             "distanceToNextStop": 0.029009701426632006
           },
           {
             "id": "de:11000:900018102::1",
             "name": "U Halemweg (Berlin)",
+            "location": [
+              13.286271,
+              52.536571
+            ],
+            "coordIndex": 49,
             "onTrackLocation": 0.19767168082177058,
-            "coordIndex": 50,
-            "distanceToNextStop": 0.00895160103173559
+            "distanceToNextStop": 0.01597635264681571
           },
           {
             "id": "de:11000:900018101::1",
             "name": "U Jakob-Kaiser-Platz (Berlin)",
-            "onTrackLocation": 0.20662328185350617,
-            "coordIndex": 52,
-            "distanceToNextStop": 0.03453047152668623
+            "location": [
+              13.293646,
+              52.536186
+            ],
+            "coordIndex": 53,
+            "onTrackLocation": 0.2136480334685863,
+            "distanceToNextStop": 0.027505719911606108
           },
           {
             "id": "de:11000:900020201::1",
             "name": "S+U Jungfernheide Bhf (Berlin)",
+            "location": [
+              13.300631,
+              52.53079
+            ],
+            "coordIndex": 62,
             "onTrackLocation": 0.2411537533801924,
-            "coordIndex": 63,
             "distanceToNextStop": 0.01917669449697218
           },
           {
             "id": "de:11000:900019204::1",
             "name": "U Mierendorffplatz (Berlin)",
+            "location": [
+              13.30479,
+              52.526226
+            ],
+            "coordIndex": 69,
             "onTrackLocation": 0.2603304478771646,
-            "coordIndex": 70,
-            "distanceToNextStop": 0.0310487492790133
+            "distanceToNextStop": 0.03459035579919256
           },
           {
             "id": "de:11000:900022202::1",
             "name": "U Richard-Wagner-Platz (Berlin)",
-            "onTrackLocation": 0.2913791971561779,
-            "coordIndex": 82,
-            "distanceToNextStop": 0.022119239218269415
+            "location": [
+              13.306512,
+              52.516645
+            ],
+            "coordIndex": 83,
+            "onTrackLocation": 0.29492080367635715,
+            "distanceToNextStop": 0.018577632698090152
           },
           {
             "id": "de:11000:900024201::3",
             "name": "U Bismarckstr. (Berlin)",
-            "onTrackLocation": 0.3134984363744473,
+            "location": [
+              13.305095,
+              52.5115
+            ],
             "coordIndex": 92,
+            "onTrackLocation": 0.3134984363744473,
             "distanceToNextStop": 0.01760984213849065
           },
           {
             "id": "de:11000:900024202::1",
             "name": "U Wilmersdorfer Str. (Berlin)",
+            "location": [
+              13.306655,
+              52.506353
+            ],
+            "coordIndex": 94,
             "onTrackLocation": 0.33110827851293795,
-            "coordIndex": 95,
             "distanceToNextStop": 0.023272454792992836
           },
           {
             "id": "de:11000:900023302::1",
             "name": "U Adenauerplatz (Berlin)",
+            "location": [
+              13.307175,
+              52.499998
+            ],
+            "coordIndex": 100,
             "onTrackLocation": 0.3543807333059308,
-            "coordIndex": 101,
             "distanceToNextStop": 0.019581705229616553
           },
           {
             "id": "de:11000:900041201::1",
             "name": "U Konstanzer Str. (Berlin)",
+            "location": [
+              13.309008,
+              52.494524
+            ],
+            "coordIndex": 105,
             "onTrackLocation": 0.37396243853554734,
-            "coordIndex": 106,
-            "distanceToNextStop": 0.004886939015699532
+            "distanceToNextStop": 0.018491596068663296
           },
           {
             "id": "de:11000:900041101::3",
             "name": "U Fehrbelliner Platz (Berlin)",
-            "onTrackLocation": 0.37884937755124687,
-            "coordIndex": 108,
-            "distanceToNextStop": 0.034230070140931934
+            "location": [
+              13.314185,
+              52.490391
+            ],
+            "coordIndex": 109,
+            "onTrackLocation": 0.39245403460421063,
+            "distanceToNextStop": 0.022334657287578552
           },
           {
             "id": "de:11000:900041102::1",
             "name": "U Blissestr. (Berlin)",
-            "onTrackLocation": 0.4130794476921788,
-            "coordIndex": 115,
-            "distanceToNextStop": 0.02149134975244338
+            "location": [
+              13.32192,
+              52.486328
+            ],
+            "coordIndex": 116,
+            "onTrackLocation": 0.4147886918917892,
+            "distanceToNextStop": 0.019782105552832996
           },
           {
             "id": "de:11000:900044201::1",
             "name": "U Berliner Str. (Berlin)",
+            "location": [
+              13.330998,
+              52.487265
+            ],
+            "coordIndex": 120,
             "onTrackLocation": 0.4345707974446222,
-            "coordIndex": 121,
             "distanceToNextStop": 0.02302447067503538
           },
           {
             "id": "de:11000:900055102::3",
             "name": "U Bayerischer Platz (Berlin)",
+            "location": [
+              13.341516,
+              52.488621
+            ],
+            "coordIndex": 124,
             "onTrackLocation": 0.45759526811965756,
-            "coordIndex": 125,
             "distanceToNextStop": 0.019153412885163534
           },
           {
             "id": "de:11000:900054103::1",
             "name": "U Eisenacher Str. (Berlin)",
+            "location": [
+              13.350362,
+              52.489521
+            ],
+            "coordIndex": 126,
             "onTrackLocation": 0.4767486810048211,
-            "coordIndex": 127,
             "distanceToNextStop": 0.02133086282197444
           },
           {
             "id": "de:11000:900054102::1",
             "name": "U Kleistpark (Berlin)",
+            "location": [
+              13.360266,
+              52.490297
+            ],
+            "coordIndex": 130,
             "onTrackLocation": 0.49807954382679553,
-            "coordIndex": 131,
-            "distanceToNextStop": 0.0237597703392749
+            "distanceToNextStop": 0.025814665653905666
           },
           {
             "id": "de:11000:900057103::1",
             "name": "S+U Yorckstr. (Berlin)",
-            "onTrackLocation": 0.5218393141660704,
-            "coordIndex": 140,
-            "distanceToNextStop": 0.03279113344611573
+            "location": [
+              13.370841,
+              52.492922
+            ],
+            "coordIndex": 141,
+            "onTrackLocation": 0.5238942094807012,
+            "distanceToNextStop": 0.03665943359223245
           },
           {
             "id": "de:11000:900017104::3",
             "name": "U Möckernbrücke (Berlin)",
-            "onTrackLocation": 0.5546304476121862,
-            "coordIndex": 155,
-            "distanceToNextStop": 0.02680942603919123
+            "location": [
+              13.38302,
+              52.498643
+            ],
+            "coordIndex": 156,
+            "onTrackLocation": 0.5605536430729336,
+            "distanceToNextStop": 0.023666753796360185
           },
           {
             "id": "de:11000:900017101::3",
             "name": "U Mehringdamm (Berlin)",
-            "onTrackLocation": 0.5814398736513774,
-            "coordIndex": 168,
-            "distanceToNextStop": 0.026147126184773772
+            "location": [
+              13.388959,
+              52.494594
+            ],
+            "coordIndex": 169,
+            "onTrackLocation": 0.5842203968692938,
+            "distanceToNextStop": 0.02336660296685733
           },
           {
             "id": "de:11000:900016101::1",
             "name": "U Gneisenaustr. (Berlin)",
+            "location": [
+              13.3957,
+              52.491268
+            ],
+            "coordIndex": 181,
             "onTrackLocation": 0.6075869998361512,
-            "coordIndex": 182,
-            "distanceToNextStop": 0.024650916484839858
+            "distanceToNextStop": 0.02728361914744426
           },
           {
             "id": "de:11000:900016202::1",
             "name": "U Südstern (Berlin)",
-            "onTrackLocation": 0.632237916320991,
-            "coordIndex": 187,
-            "distanceToNextStop": 0.03288575583157771
+            "location": [
+              13.407672,
+              52.489216
+            ],
+            "coordIndex": 188,
+            "onTrackLocation": 0.6348706189835954,
+            "distanceToNextStop": 0.036337885873075626
           },
           {
             "id": "de:11000:900078101::1",
             "name": "U Hermannplatz (Berlin)",
-            "onTrackLocation": 0.6651236721525687,
-            "coordIndex": 192,
-            "distanceToNextStop": 0.030744894683637836
+            "location": [
+              13.424162,
+              52.486364
+            ],
+            "coordIndex": 193,
+            "onTrackLocation": 0.671208504856671,
+            "distanceToNextStop": 0.0267376461819262
           },
           {
             "id": "de:11000:900078102::1",
             "name": "U Rathaus Neukölln (Berlin)",
-            "onTrackLocation": 0.6958685668362066,
-            "coordIndex": 196,
-            "distanceToNextStop": 0.02359070563133614
+            "location": [
+              13.433958,
+              52.481765
+            ],
+            "coordIndex": 197,
+            "onTrackLocation": 0.6979461510385973,
+            "distanceToNextStop": 0.02151312142894546
           },
           {
             "id": "de:11000:900078103::1",
             "name": "U Karl-Marx-Str. (Berlin)",
+            "location": [
+              13.439167,
+              52.476514
+            ],
+            "coordIndex": 202,
             "onTrackLocation": 0.7194592724675427,
-            "coordIndex": 203,
             "distanceToNextStop": 0.028258829760748894
           },
           {
             "id": "de:11000:900078201::1",
             "name": "S+U Neukölln (Berlin)",
+            "location": [
+              13.44167,
+              52.468614
+            ],
+            "coordIndex": 207,
             "onTrackLocation": 0.7477181022282916,
-            "coordIndex": 208,
-            "distanceToNextStop": 0.018894644562245988
+            "distanceToNextStop": 0.02202654455501596
           },
           {
             "id": "de:11000:900080202::1",
             "name": "U Grenzallee (Berlin)",
-            "onTrackLocation": 0.7666127467905376,
-            "coordIndex": 213,
-            "distanceToNextStop": 0.0423364412180095
+            "location": [
+              13.444733,
+              52.462871
+            ],
+            "coordIndex": 214,
+            "onTrackLocation": 0.7697446467833076,
+            "distanceToNextStop": 0.03920454122523953
           },
           {
             "id": "de:11000:900080201::1",
             "name": "U Blaschkoallee (Berlin)",
+            "location": [
+              13.44914,
+              52.452075
+            ],
+            "coordIndex": 224,
             "onTrackLocation": 0.8089491880085471,
-            "coordIndex": 225,
-            "distanceToNextStop": 0.02415847570678409
+            "distanceToNextStop": 0.026285451490987377
           },
           {
             "id": "de:11000:900080401::1",
             "name": "U Parchimer Allee (Berlin)",
-            "onTrackLocation": 0.8331076637153312,
-            "coordIndex": 233,
-            "distanceToNextStop": 0.027798532347291682
+            "location": [
+              13.449536,
+              52.444778
+            ],
+            "coordIndex": 234,
+            "onTrackLocation": 0.8352346394995345,
+            "distanceToNextStop": 0.025671556563088394
           },
           {
             "id": "de:11000:900080402::1",
             "name": "U Britz-Süd (Berlin)",
+            "location": [
+              13.448097,
+              52.437777
+            ],
+            "coordIndex": 245,
             "onTrackLocation": 0.8609061960626229,
-            "coordIndex": 246,
-            "distanceToNextStop": 0.02916301603712046
+            "distanceToNextStop": 0.03287904215107218
           },
           {
             "id": "de:11000:900082202::1",
             "name": "U Johannisthaler Chaussee (Berlin)",
-            "onTrackLocation": 0.8900692120997433,
-            "coordIndex": 251,
-            "distanceToNextStop": 0.02839785296927677
+            "location": [
+              13.453239,
+              52.42928
+            ],
+            "coordIndex": 252,
+            "onTrackLocation": 0.893785238213695,
+            "distanceToNextStop": 0.02468182685532505
           },
           {
             "id": "de:11000:900082201::1",
             "name": "U Lipschitzallee (Berlin)",
+            "location": [
+              13.462666,
+              52.424611
+            ],
+            "coordIndex": 260,
             "onTrackLocation": 0.9184670650690201,
-            "coordIndex": 261,
-            "distanceToNextStop": 0.02330290652639877
+            "distanceToNextStop": 0.027362399209798327
           },
           {
             "id": "de:11000:900083102::1",
             "name": "U Wutzkyallee (Berlin)",
-            "onTrackLocation": 0.9417699715954189,
-            "coordIndex": 266,
-            "distanceToNextStop": 0.02343135010259967
+            "location": [
+              13.474655,
+              52.423277
+            ],
+            "coordIndex": 267,
+            "onTrackLocation": 0.9458294642788184,
+            "distanceToNextStop": 0.017997942146978585
           },
           {
             "id": "de:11000:900083101::1",
             "name": "U Zwickauer Damm (Berlin)",
-            "onTrackLocation": 0.9652013216980185,
-            "coordIndex": 273,
-            "distanceToNextStop": 0.03479867830198147
+            "location": [
+              13.483727,
+              52.423252
+            ],
+            "coordIndex": 271,
+            "onTrackLocation": 0.963827406425797,
+            "distanceToNextStop": 0.036172593574202994
           },
           {
             "id": "de:11000:900083201::1",
             "name": "U Rudow (Berlin)",
-            "onTrackLocation": 1,
+            "location": [
+              13.495085,
+              52.416279
+            ],
             "coordIndex": 280,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -7307,169 +8103,265 @@
           {
             "id": "de:11000:900096101::1",
             "name": "S+U Wittenau (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.334358,
+              52.595694
+            ],
             "coordIndex": 0,
+            "onTrackLocation": 0,
             "distanceToNextStop": 0.06133070490619513
           },
           {
             "id": "de:11000:900096410::1",
             "name": "U Rathaus Reinickendorf (Berlin)",
+            "location": [
+              13.325626,
+              52.588381
+            ],
+            "coordIndex": 16,
             "onTrackLocation": 0.06133070490619513,
-            "coordIndex": 17,
-            "distanceToNextStop": 0.044528651623639934
+            "distanceToNextStop": 0.06704693734286044
           },
           {
             "id": "de:11000:900096458::1",
             "name": "S+U Karl-Bonhoeffer-Nervenklinik (Berlin)",
-            "onTrackLocation": 0.10585935652983507,
-            "coordIndex": 26,
-            "distanceToNextStop": 0.0512559287667118
+            "location": [
+              13.333294,
+              52.57888
+            ],
+            "coordIndex": 27,
+            "onTrackLocation": 0.12837764224905557,
+            "distanceToNextStop": 0.03348246672336061
           },
           {
             "id": "de:11000:900086160::1",
             "name": "U Lindauer Allee (Berlin)",
-            "onTrackLocation": 0.15711528529654686,
-            "coordIndex": 37,
-            "distanceToNextStop": 0.042323006813119735
+            "location": [
+              13.33911,
+              52.575354
+            ],
+            "coordIndex": 38,
+            "onTrackLocation": 0.16186010897241618,
+            "distanceToNextStop": 0.03757818313725042
           },
           {
             "id": "de:11000:900085104::1",
             "name": "U Paracelsus-Bad (Berlin)",
+            "location": [
+              13.349019,
+              52.574106
+            ],
+            "coordIndex": 43,
             "onTrackLocation": 0.1994382921096666,
-            "coordIndex": 44,
-            "distanceToNextStop": 0.04616622298895698
+            "distanceToNextStop": 0.05074468651376232
           },
           {
             "id": "de:11000:900085203::1",
             "name": "U Residenzstr. (Berlin)",
-            "onTrackLocation": 0.24560451509862358,
-            "coordIndex": 53,
-            "distanceToNextStop": 0.0463536110108298
+            "location": [
+              13.360435,
+              52.571106
+            ],
+            "coordIndex": 54,
+            "onTrackLocation": 0.2501829786234289,
+            "distanceToNextStop": 0.041775147486024455
           },
           {
             "id": "de:11000:900085202::1",
             "name": "U Franz-Neumann-Platz (Berlin)",
+            "location": [
+              13.363811,
+              52.564603
+            ],
+            "coordIndex": 56,
             "onTrackLocation": 0.2919581261094534,
-            "coordIndex": 57,
-            "distanceToNextStop": 0.008146371153220255
+            "distanceToNextStop": 0.0585084546523677
           },
           {
             "id": "de:11000:900009202::1",
             "name": "U Osloer Str. (Berlin)",
-            "onTrackLocation": 0.30010449726267363,
-            "coordIndex": 60,
-            "distanceToNextStop": 0.09015818002941384
+            "location": [
+              13.373196,
+              52.557098
+            ],
+            "coordIndex": 61,
+            "onTrackLocation": 0.3504665807618211,
+            "distanceToNextStop": 0.04422038016271784
           },
           {
             "id": "de:11000:900009203::1",
             "name": "U Pankstr. (Berlin)",
-            "onTrackLocation": 0.39026267729208747,
-            "coordIndex": 68,
-            "distanceToNextStop": 0.034082371264814226
+            "location": [
+              13.381422,
+              52.55224
+            ],
+            "coordIndex": 69,
+            "onTrackLocation": 0.3946869609245389,
+            "distanceToNextStop": 0.033816646319924315
           },
           {
             "id": "de:11000:900007102::1",
             "name": "S+U Gesundbrunnen Bhf (Berlin)",
-            "onTrackLocation": 0.4243450485569017,
-            "coordIndex": 76,
-            "distanceToNextStop": 0.04932197094035584
+            "location": [
+              13.388263,
+              52.548736
+            ],
+            "coordIndex": 77,
+            "onTrackLocation": 0.42850360724446324,
+            "distanceToNextStop": 0.0451634122527943
           },
           {
             "id": "de:11000:900007103::1",
             "name": "U Voltastr. (Berlin)",
+            "location": [
+              13.392932,
+              52.542101
+            ],
+            "coordIndex": 89,
             "onTrackLocation": 0.47366701949725754,
-            "coordIndex": 90,
-            "distanceToNextStop": 0
+            "distanceToNextStop": 0.033227714077028736
           },
           {
             "id": "de:11000:900007110::1",
             "name": "U Bernauer Str. (Berlin)",
-            "onTrackLocation": 0.47366701949725754,
-            "coordIndex": 90,
-            "distanceToNextStop": 0.06618446338674977
+            "location": [
+              13.396665,
+              52.537276
+            ],
+            "coordIndex": 91,
+            "onTrackLocation": 0.5068947335742863,
+            "distanceToNextStop": 0.04567980708501762
           },
           {
             "id": "de:11000:900100023::1",
             "name": "U Rosenthaler Platz (Berlin)",
-            "onTrackLocation": 0.5398514828840073,
-            "coordIndex": 98,
-            "distanceToNextStop": 0.04292803243282317
+            "location": [
+              13.400626,
+              52.53038
+            ],
+            "coordIndex": 99,
+            "onTrackLocation": 0.5525745406593039,
+            "distanceToNextStop": 0.03522607150458812
           },
           {
             "id": "de:11000:900100051::1",
             "name": "U Weinmeisterstr. (Berlin)",
-            "onTrackLocation": 0.5827795153168305,
-            "coordIndex": 106,
-            "distanceToNextStop": 0.03901159005045973
+            "location": [
+              13.404988,
+              52.525435
+            ],
+            "coordIndex": 107,
+            "onTrackLocation": 0.587800612163892,
+            "distanceToNextStop": 0.041679343086450604
           },
           {
             "id": "de:11000:900100003::5",
             "name": "S+U Alexanderplatz Bhf (Berlin)",
-            "onTrackLocation": 0.6217911053672902,
-            "coordIndex": 121,
-            "distanceToNextStop": 0.04812240498560427
+            "location": [
+              13.412565,
+              52.52095
+            ],
+            "coordIndex": 122,
+            "onTrackLocation": 0.6294799552503426,
+            "distanceToNextStop": 0.040433555102551866
           },
           {
             "id": "de:11000:900100004::1",
             "name": "S+U Jannowitzbrücke (Berlin)",
+            "location": [
+              13.418139,
+              52.515585
+            ],
+            "coordIndex": 136,
             "onTrackLocation": 0.6699135103528945,
-            "coordIndex": 137,
             "distanceToNextStop": 0.0351666862912563
           },
           {
             "id": "de:11000:900100008::1",
             "name": "U Heinrich-Heine-Str. (Berlin)",
+            "location": [
+              13.415704,
+              52.51012
+            ],
+            "coordIndex": 141,
             "onTrackLocation": 0.7050801966441508,
-            "coordIndex": 142,
-            "distanceToNextStop": 0
+            "distanceToNextStop": 0.04438521204817791
           },
           {
             "id": "de:11000:900013101::1",
             "name": "U Moritzplatz (Berlin)",
-            "onTrackLocation": 0.7050801966441508,
-            "coordIndex": 142,
-            "distanceToNextStop": 0.09240600067526494
+            "location": [
+              13.410615,
+              52.503676
+            ],
+            "coordIndex": 143,
+            "onTrackLocation": 0.7494654086923287,
+            "distanceToNextStop": 0.04802078862708703
           },
           {
             "id": "de:11000:900013102::3",
             "name": "U Kottbusser Tor (Berlin)",
+            "location": [
+              13.4179,
+              52.498849
+            ],
+            "coordIndex": 153,
             "onTrackLocation": 0.7974861973194157,
-            "coordIndex": 154,
             "distanceToNextStop": 0.03688300708690162
           },
           {
             "id": "de:11000:900016201::1",
             "name": "U Schönleinstr. (Berlin)",
+            "location": [
+              13.421725,
+              52.493448
+            ],
+            "coordIndex": 163,
             "onTrackLocation": 0.8343692044063173,
-            "coordIndex": 164,
             "distanceToNextStop": 0.04597911454033954
           },
           {
             "id": "de:11000:900078101::3",
             "name": "U Hermannplatz (Berlin)",
+            "location": [
+              13.424303,
+              52.486466
+            ],
+            "coordIndex": 167,
             "onTrackLocation": 0.8803483189466569,
-            "coordIndex": 168,
             "distanceToNextStop": 0.03923860601832485
           },
           {
             "id": "de:11000:900079202::1",
             "name": "U Boddinstr. (Berlin)",
+            "location": [
+              13.425207,
+              52.480162
+            ],
+            "coordIndex": 177,
             "onTrackLocation": 0.9195869249649817,
-            "coordIndex": 178,
-            "distanceToNextStop": 0.031221836069823428
+            "distanceToNextStop": 0.04326629751562583
           },
           {
             "id": "de:11000:900079201::1",
             "name": "U Leinestr. (Berlin)",
-            "onTrackLocation": 0.9508087610348052,
-            "coordIndex": 180,
-            "distanceToNextStop": 0.04919123896519484
+            "location": [
+              13.428058,
+              52.473426
+            ],
+            "coordIndex": 181,
+            "onTrackLocation": 0.9628532224806076,
+            "distanceToNextStop": 0.03714677751939244
           },
           {
             "id": "de:11000:900079221::2",
             "name": "S+U Hermannstr. (Berlin)",
-            "onTrackLocation": 1,
+            "location": [
+              13.431289,
+              52.467647
+            ],
             "coordIndex": 185,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -8249,127 +9141,199 @@
           {
             "id": "de:11000:900009202::3",
             "name": "U Osloer Str. (Berlin)",
-            "onTrackLocation": 0,
+            "location": [
+              13.373128,
+              52.557207
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.038883728808671844
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.05946671349248563
           },
           {
             "id": "de:11000:900009201::1",
             "name": "U Nauener Platz (Berlin)",
-            "onTrackLocation": 0.038883728808671844,
-            "coordIndex": 4,
-            "distanceToNextStop": 0.02058298468381379
+            "location": [
+              13.367384,
+              52.551666
+            ],
+            "coordIndex": 5,
+            "onTrackLocation": 0.05946671349248563,
+            "distanceToNextStop": 0.06445794309825295
           },
           {
             "id": "de:11000:900009102::3",
             "name": "U Leopoldplatz (Berlin)",
-            "onTrackLocation": 0.05946671349248563,
-            "coordIndex": 6,
-            "distanceToNextStop": 0.12504282219409893
+            "location": [
+              13.359059,
+              52.546448
+            ],
+            "coordIndex": 7,
+            "onTrackLocation": 0.12392465659073859,
+            "distanceToNextStop": 0.06058487909584598
           },
           {
             "id": "de:11000:900009101::1",
             "name": "U Amrumer Str. (Berlin)",
+            "location": [
+              13.350099,
+              52.54237
+            ],
+            "coordIndex": 14,
             "onTrackLocation": 0.18450953568658457,
-            "coordIndex": 15,
             "distanceToNextStop": 0.06548960965700165
           },
           {
             "id": "de:11000:900001201::1",
             "name": "S+U Westhafen (Berlin)",
+            "location": [
+              13.342507,
+              52.536766
+            ],
+            "coordIndex": 21,
             "onTrackLocation": 0.24999914534358622,
-            "coordIndex": 22,
-            "distanceToNextStop": 0.03200865045632059
+            "distanceToNextStop": 0.04247243195858738
           },
           {
             "id": "de:11000:900002201::1",
             "name": "U Birkenstr. (Berlin)",
-            "onTrackLocation": 0.2820077957999068,
-            "coordIndex": 25,
-            "distanceToNextStop": 0.058052211350159866
+            "location": [
+              13.341235,
+              52.532192
+            ],
+            "coordIndex": 26,
+            "onTrackLocation": 0.2924715773021736,
+            "distanceToNextStop": 0.05383337690089102
           },
           {
             "id": "de:11000:900003104::1",
             "name": "U Turmstr. (Berlin)",
-            "onTrackLocation": 0.3400600071500667,
-            "coordIndex": 28,
-            "distanceToNextStop": 0.07987699512222018
+            "location": [
+              13.341178,
+              52.526136
+            ],
+            "coordIndex": 29,
+            "onTrackLocation": 0.3463049542030646,
+            "distanceToNextStop": 0.07363204806922224
           },
           {
             "id": "de:11000:900003101::1",
             "name": "U Hansaplatz (Berlin)",
+            "location": [
+              13.341988,
+              52.517873
+            ],
+            "coordIndex": 34,
             "onTrackLocation": 0.41993700227228686,
-            "coordIndex": 35,
-            "distanceToNextStop": 0.09185999747714307
+            "distanceToNextStop": 0.11504094156086614
           },
           {
             "id": "de:11000:900023201::3",
             "name": "S+U Zoologischer Garten Bhf (Berlin)",
-            "onTrackLocation": 0.5117969997494299,
-            "coordIndex": 48,
-            "distanceToNextStop": 0.03964004569172441
+            "location": [
+              13.332797,
+              52.506825
+            ],
+            "coordIndex": 49,
+            "onTrackLocation": 0.534977943833153,
+            "distanceToNextStop": 0.03532173511134418
           },
           {
             "id": "de:11000:900023203::3",
             "name": "U Kurfürstendamm (Berlin)",
-            "onTrackLocation": 0.5514370454411543,
-            "coordIndex": 53,
-            "distanceToNextStop": 0.05404514660008364
+            "location": [
+              13.331243,
+              52.503123
+            ],
+            "coordIndex": 54,
+            "onTrackLocation": 0.5702996789444972,
+            "distanceToNextStop": 0.05026933014817536
           },
           {
             "id": "de:11000:900042101::3",
             "name": "U Spichernstr. (Berlin)",
-            "onTrackLocation": 0.605482192041238,
-            "coordIndex": 57,
-            "distanceToNextStop": 0.034134603912890915
+            "location": [
+              13.330719,
+              52.497354
+            ],
+            "coordIndex": 58,
+            "onTrackLocation": 0.6205690090926725,
+            "distanceToNextStop": 0.04747106795598521
           },
           {
             "id": "de:11000:900043201::1",
             "name": "U Güntzelstr. (Berlin)",
-            "onTrackLocation": 0.6396167959541289,
-            "coordIndex": 61,
-            "distanceToNextStop": 0.07010661415765018
+            "location": [
+              13.330903,
+              52.492049
+            ],
+            "coordIndex": 62,
+            "onTrackLocation": 0.6680400770486578,
+            "distanceToNextStop": 0.04168333306312133
           },
           {
             "id": "de:11000:900044201::3",
             "name": "U Berliner Str. (Berlin)",
+            "location": [
+              13.330798,
+              52.487295
+            ],
+            "coordIndex": 64,
             "onTrackLocation": 0.7097234101117791,
-            "coordIndex": 65,
-            "distanceToNextStop": 0.07272371418187884
+            "distanceToNextStop": 0.08637181557169449
           },
           {
             "id": "de:11000:900044202::1",
             "name": "S+U Bundesplatz (Berlin)",
-            "onTrackLocation": 0.7824471242936579,
-            "coordIndex": 72,
-            "distanceToNextStop": 0.06480582389797862
+            "location": [
+              13.328481,
+              52.477904
+            ],
+            "coordIndex": 73,
+            "onTrackLocation": 0.7960952256834736,
+            "distanceToNextStop": 0.04851884160733311
           },
           {
             "id": "de:11000:900061102::1",
             "name": "U Friedrich-Wilhelm-Platz (Berlin)",
-            "onTrackLocation": 0.8472529481916365,
-            "coordIndex": 81,
-            "distanceToNextStop": 0.018529710904066077
+            "location": [
+              13.328639,
+              52.472131
+            ],
+            "coordIndex": 79,
+            "onTrackLocation": 0.8446140672908067,
+            "distanceToNextStop": 0.05703074126671548
           },
           {
             "id": "de:11000:900061101::1",
             "name": "U Walther-Schreiber-Platz (Berlin)",
-            "onTrackLocation": 0.8657826590957026,
-            "coordIndex": 85,
-            "distanceToNextStop": 0.05256244752610861
+            "location": [
+              13.328178,
+              52.466103
+            ],
+            "coordIndex": 86,
+            "onTrackLocation": 0.9016448085575222,
+            "distanceToNextStop": 0.05320619435876428
           },
           {
             "id": "de:11000:900062203::1",
             "name": "U Schloßstr. (Berlin)",
-            "onTrackLocation": 0.9183451066218112,
-            "coordIndex": 90,
-            "distanceToNextStop": 0.08165489337818876
+            "location": [
+              13.324477,
+              52.460629
+            ],
+            "coordIndex": 91,
+            "onTrackLocation": 0.9548510029162864,
+            "distanceToNextStop": 0.04514899708371356
           },
           {
             "id": "de:11000:900062202::1",
             "name": "S+U Rathaus Steglitz (Berlin)",
-            "onTrackLocation": 1,
+            "location": [
+              13.320478,
+              52.456166
+            ],
             "coordIndex": 95,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],

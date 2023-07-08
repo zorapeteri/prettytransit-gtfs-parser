@@ -1,0 +1,949 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.460826,
+            44.816265
+          ],
+          [
+            20.4611,
+            44.816019
+          ],
+          [
+            20.46145,
+            44.815809
+          ],
+          [
+            20.462336,
+            44.815705
+          ],
+          [
+            20.46235,
+            44.815512
+          ],
+          [
+            20.462589,
+            44.81491
+          ],
+          [
+            20.462584,
+            44.814784
+          ],
+          [
+            20.462554,
+            44.814685
+          ],
+          [
+            20.462416,
+            44.814513
+          ],
+          [
+            20.462221,
+            44.814431
+          ],
+          [
+            20.462019,
+            44.814385
+          ],
+          [
+            20.460169,
+            44.814151
+          ],
+          [
+            20.459562,
+            44.814117
+          ],
+          [
+            20.45888,
+            44.814109
+          ],
+          [
+            20.458266,
+            44.814129
+          ],
+          [
+            20.457804,
+            44.814194
+          ],
+          [
+            20.455689,
+            44.814639
+          ],
+          [
+            20.453371,
+            44.815098
+          ],
+          [
+            20.453099,
+            44.815126
+          ],
+          [
+            20.452444,
+            44.815138
+          ],
+          [
+            20.452204,
+            44.815124
+          ],
+          [
+            20.451714,
+            44.815128
+          ],
+          [
+            20.440638,
+            44.814557
+          ],
+          [
+            20.438919,
+            44.814432
+          ],
+          [
+            20.437491,
+            44.814407
+          ],
+          [
+            20.436757,
+            44.814466
+          ],
+          [
+            20.436035,
+            44.814562
+          ],
+          [
+            20.43532,
+            44.814689
+          ],
+          [
+            20.434655,
+            44.814834
+          ],
+          [
+            20.434033,
+            44.81502
+          ],
+          [
+            20.432091,
+            44.815784
+          ],
+          [
+            20.422934,
+            44.819919
+          ],
+          [
+            20.415389,
+            44.8233
+          ],
+          [
+            20.414849,
+            44.82359
+          ],
+          [
+            20.414524,
+            44.823786
+          ],
+          [
+            20.414155,
+            44.824037
+          ],
+          [
+            20.413581,
+            44.824556
+          ],
+          [
+            20.413454,
+            44.8246
+          ],
+          [
+            20.41329,
+            44.824608
+          ],
+          [
+            20.413163,
+            44.824594
+          ],
+          [
+            20.413056,
+            44.824557
+          ],
+          [
+            20.412993,
+            44.824512
+          ],
+          [
+            20.412957,
+            44.824372
+          ],
+          [
+            20.412964,
+            44.824278
+          ],
+          [
+            20.412877,
+            44.824116
+          ],
+          [
+            20.412372,
+            44.82346
+          ],
+          [
+            20.411734,
+            44.822715
+          ],
+          [
+            20.400001,
+            44.809699
+          ],
+          [
+            20.399479,
+            44.808904
+          ],
+          [
+            20.399244,
+            44.808318
+          ],
+          [
+            20.399037,
+            44.807561
+          ],
+          [
+            20.398992,
+            44.807075
+          ],
+          [
+            20.399242,
+            44.804907
+          ],
+          [
+            20.399117,
+            44.804745
+          ],
+          [
+            20.398828,
+            44.804608
+          ],
+          [
+            20.396275,
+            44.804496
+          ],
+          [
+            20.393863,
+            44.804303
+          ],
+          [
+            20.390479,
+            44.803898
+          ],
+          [
+            20.387905,
+            44.803471
+          ],
+          [
+            20.386189,
+            44.803128
+          ],
+          [
+            20.384411,
+            44.802723
+          ],
+          [
+            20.382646,
+            44.802272
+          ],
+          [
+            20.380958,
+            44.801795
+          ],
+          [
+            20.378438,
+            44.80099
+          ],
+          [
+            20.376071,
+            44.800095
+          ],
+          [
+            20.373492,
+            44.799001
+          ],
+          [
+            20.371304,
+            44.797909
+          ],
+          [
+            20.371192,
+            44.797809
+          ],
+          [
+            20.372229,
+            44.796519
+          ],
+          [
+            20.372344,
+            44.796466
+          ],
+          [
+            20.375305,
+            44.79263
+          ],
+          [
+            20.375281,
+            44.792522
+          ],
+          [
+            20.375345,
+            44.792387
+          ],
+          [
+            20.375487,
+            44.792181
+          ],
+          [
+            20.375664,
+            44.792173
+          ],
+          [
+            20.3757,
+            44.792281
+          ],
+          [
+            20.375495,
+            44.792559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 0,
+        "name": "Trg Republike",
+        "coordIndex": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.460826,
+          44.816265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 1,
+        "name": "Zeleni Venac",
+        "coordIndex": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.457804,
+          44.814194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 2,
+        "name": "Brankov Most",
+        "coordIndex": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.452444,
+          44.815138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 3,
+        "name": "Šest Kaplara",
+        "coordIndex": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.434033,
+          44.81502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 4,
+        "name": "Palata Srbija",
+        "coordIndex": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.432091,
+          44.815784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 5,
+        "name": "Španskih Boraca",
+        "coordIndex": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.422934,
+          44.819919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 6,
+        "name": "Blok 30",
+        "coordIndex": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.415389,
+          44.8233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 7,
+        "name": "Go Novi Beograd",
+        "coordIndex": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.412372,
+          44.82346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 8,
+        "name": "Bulevar Zorana Đinđića",
+        "coordIndex": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.411734,
+          44.822715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 9,
+        "name": "Milutina Milankovića",
+        "coordIndex": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.400001,
+          44.809699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 10,
+        "name": "Erport Siti",
+        "coordIndex": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.400001,
+          44.809699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 11,
+        "name": "Tehnička Škola Novi Beograd",
+        "coordIndex": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.399244,
+          44.808318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 12,
+        "name": "Omladinskih Brigada",
+        "coordIndex": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.399242,
+          44.804907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 13,
+        "name": "Blok 70",
+        "coordIndex": 56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.393863,
+          44.804303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 14,
+        "name": "Gandijeva",
+        "coordIndex": 59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.386189,
+          44.803128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 15,
+        "name": "Nehruova",
+        "coordIndex": 62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.380958,
+          44.801795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 16,
+        "name": "Oš Branko Radičević",
+        "coordIndex": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.376071,
+          44.800095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 17,
+        "name": "Dr Ivana Ribara 1",
+        "coordIndex": 68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.372229,
+          44.796519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 18,
+        "name": "Blok 45",
+        "coordIndex": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.375305,
+          44.79263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 0,
+        "name": "Trg Republike"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.461645,
+          44.815746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 1,
+        "name": "Zeleni Venac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4568568,
+          44.8145445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 2,
+        "name": "Brankov Most"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4520847,
+          44.8152343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 3,
+        "name": "Šest Kaplara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4334052,
+          44.8153352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 4,
+        "name": "Palata Srbija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4295846,
+          44.8170229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 5,
+        "name": "Španskih Boraca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4233328,
+          44.8198273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 6,
+        "name": "Blok 30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4165033,
+          44.8228957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 7,
+        "name": "Go Novi Beograd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4121917,
+          44.8233978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 8,
+        "name": "Bulevar Zorana Đinđića"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4094923,
+          44.8203822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 9,
+        "name": "Milutina Milankovića"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4055677,
+          44.816068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 10,
+        "name": "Erport Siti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4011323,
+          44.811176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 11,
+        "name": "Tehnička Škola Novi Beograd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3990389,
+          44.8081435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 12,
+        "name": "Omladinskih Brigada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3980832,
+          44.8046832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 13,
+        "name": "Blok 70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3935657,
+          44.8043798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 14,
+        "name": "Gandijeva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3866705,
+          44.8033198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 15,
+        "name": "Nehruova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3796797,
+          44.8014933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 16,
+        "name": "Oš Branko Radičević"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3749094,
+          44.7997329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 17,
+        "name": "Dr Ivana Ribara 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3720194,
+          44.7967108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 18,
+        "name": "Blok 45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.375171,
+          44.792767
+        ]
+      }
+    }
+  ]
+}

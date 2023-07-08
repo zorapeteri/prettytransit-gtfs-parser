@@ -5,11 +5,10 @@
       "id": "00002",
       "name": "2",
       "colors": {
-        "bg": "#FF0000",
+        "bg": "#EE1E23",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "2"
+      "transportType": "tram"
     },
     "origin": "Pristanište",
     "destination": "Pristanište",
@@ -17,113 +16,177 @@
       {
         "id": "6",
         "name": "Pristanište",
-        "onTrackLocation": 0,
+        "location": [
+          20.4494119,
+          44.8186623
+        ],
         "coordIndex": 0,
+        "onTrackLocation": 0,
         "distanceToNextStop": 0.046959628229962296
       },
       {
         "id": "8",
         "name": "Brankov Most",
-        "onTrackLocation": 0.046959628229962296,
+        "location": [
+          20.4507714,
+          44.814955
+        ],
         "coordIndex": 4,
+        "onTrackLocation": 0.046959628229962296,
         "distanceToNextStop": 0.11813288176024239
       },
       {
         "id": "70",
         "name": "Savski Trg",
-        "onTrackLocation": 0.1650925099902047,
+        "location": [
+          20.457861,
+          44.807161
+        ],
         "coordIndex": 9,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.1650925099902047,
+        "distanceToNextStop": 0.12161229809735857
       },
       {
         "id": "68",
         "name": "Trg Slavija /Nemanjina/",
-        "onTrackLocation": 0.1650925099902047,
-        "coordIndex": 9,
-        "distanceToNextStop": 0.22181885057610923
+        "location": [
+          20.4646244,
+          44.8029655
+        ],
+        "coordIndex": 10,
+        "onTrackLocation": 0.28670480808756327,
+        "distanceToNextStop": 0.10020655247875065
       },
       {
         "id": "66",
         "name": "Pravni Fakultet",
-        "onTrackLocation": 0.3869113605663139,
+        "location": [
+          20.4732286,
+          44.8063686
+        ],
         "coordIndex": 19,
-        "distanceToNextStop": 0.06036536187689995
+        "onTrackLocation": 0.3869113605663139,
+        "distanceToNextStop": 0.08279229759675039
       },
       {
         "id": "64",
         "name": "Vukov Spomenik",
-        "onTrackLocation": 0.44727672244321387,
-        "coordIndex": 20,
-        "distanceToNextStop": 0.022426935719850438
+        "location": [
+          20.4783626,
+          44.8056059
+        ],
+        "coordIndex": 21,
+        "onTrackLocation": 0.4697036581630643,
+        "distanceToNextStop": 0
       },
       {
         "id": "62",
         "name": "Mašinski Fakultet",
-        "onTrackLocation": 0.4697036581630643,
+        "location": [
+          20.47721,
+          44.80765
+        ],
         "coordIndex": 21,
+        "onTrackLocation": 0.4697036581630643,
         "distanceToNextStop": 0.06175719023236331
       },
       {
         "id": "61",
         "name": "Palilulska Pijaca",
-        "onTrackLocation": 0.5314608483954276,
+        "location": [
+          20.4747218,
+          44.8105114
+        ],
         "coordIndex": 22,
+        "onTrackLocation": 0.5314608483954276,
         "distanceToNextStop": 0.04275052568718196
       },
       {
         "id": "59",
         "name": "Takovska",
-        "onTrackLocation": 0.5742113740826096,
+        "location": [
+          20.4723789,
+          44.8132911
+        ],
         "coordIndex": 23,
-        "distanceToNextStop": 0.06106652070125673
+        "onTrackLocation": 0.5742113740826096,
+        "distanceToNextStop": 0.07661236478331479
       },
       {
         "id": "57",
         "name": "Bulevar Despota Stefana",
-        "onTrackLocation": 0.6352778947838663,
-        "coordIndex": 25,
-        "distanceToNextStop": 0.045445349374754196
+        "location": [
+          20.4693201,
+          44.8166332
+        ],
+        "coordIndex": 26,
+        "onTrackLocation": 0.6508237388659244,
+        "distanceToNextStop": 0.029899505292696138
       },
       {
         "id": "55",
         "name": "Pijaca Skadarlija",
-        "onTrackLocation": 0.6807232441586205,
+        "location": [
+          20.4669921,
+          44.8186002
+        ],
         "coordIndex": 27,
+        "onTrackLocation": 0.6807232441586205,
         "distanceToNextStop": 0.032793229830129556
       },
       {
         "id": "53",
         "name": "Dorćol /Kneginje Ljubice/",
-        "onTrackLocation": 0.7135164739887501,
+        "location": [
+          20.4641785,
+          44.8212927
+        ],
         "coordIndex": 31,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.7135164739887501,
+        "distanceToNextStop": 0.11242967627571276
       },
       {
         "id": "74",
         "name": "Kralja Petra",
-        "onTrackLocation": 0.7135164739887501,
-        "coordIndex": 31,
+        "location": [
+          20.4601112,
+          44.8234899
+        ],
+        "coordIndex": 32,
+        "onTrackLocation": 0.8259461502644628,
         "distanceToNextStop": 0
       },
       {
         "id": "72",
         "name": "Braće Baruh",
-        "onTrackLocation": 0.7135164739887501,
-        "coordIndex": 31,
-        "distanceToNextStop": 0.18217951378184583
+        "location": [
+          20.4570979,
+          44.825107
+        ],
+        "coordIndex": 32,
+        "onTrackLocation": 0.8259461502644628,
+        "distanceToNextStop": 0.06974983750613306
       },
       {
         "id": "4",
         "name": "Kalemegdan",
-        "onTrackLocation": 0.8956959877705959,
+        "location": [
+          20.4532518,
+          44.8203288
+        ],
         "coordIndex": 37,
+        "onTrackLocation": 0.8956959877705959,
         "distanceToNextStop": 0.09869678824857409
       },
       {
         "id": "6",
         "name": "Pristanište",
-        "onTrackLocation": 0.99439277601917,
+        "location": [
+          20.4494119,
+          44.8186623
+        ],
         "coordIndex": 53,
+        "onTrackLocation": 0.99439277601917,
         "distanceToNextStop": 0
       }
     ],
@@ -1130,11 +1193,10 @@
       "id": "00002",
       "name": "2",
       "colors": {
-        "bg": "#FF0000",
+        "bg": "#EE1E23",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "2"
+      "transportType": "tram"
     },
     "origin": "Pristanište",
     "destination": "Pristanište",
@@ -1142,120 +1204,188 @@
       {
         "id": "7",
         "name": "Pristanište",
-        "onTrackLocation": 0,
+        "location": [
+          20.4495147,
+          44.8189915
+        ],
         "coordIndex": 0,
-        "distanceToNextStop": 0.0639882042863321
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.09754960759484764
       },
       {
         "id": "5",
         "name": "Kalemegdan",
-        "onTrackLocation": 0.0639882042863321,
-        "coordIndex": 15,
-        "distanceToNextStop": 0.1032163603139654
+        "location": [
+          20.4540765,
+          44.8208843
+        ],
+        "coordIndex": 16,
+        "onTrackLocation": 0.09754960759484764,
+        "distanceToNextStop": 0.06965495700544987
       },
       {
         "id": "71",
         "name": "Braće Baruh",
-        "onTrackLocation": 0.1672045646002975,
+        "location": [
+          20.4570548,
+          44.8249325
+        ],
         "coordIndex": 22,
+        "onTrackLocation": 0.1672045646002975,
         "distanceToNextStop": 0
       },
       {
         "id": "73",
         "name": "Kralja Petra",
-        "onTrackLocation": 0.1672045646002975,
+        "location": [
+          20.46012,
+          44.8233
+        ],
         "coordIndex": 22,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.1672045646002975,
+        "distanceToNextStop": 0.11465727788446325
       },
       {
         "id": "52",
         "name": "Dorćol /Kneginje Ljubice/",
-        "onTrackLocation": 0.1672045646002975,
-        "coordIndex": 22,
-        "distanceToNextStop": 0.1487519372002534
+        "location": [
+          20.464118,
+          44.8211062
+        ],
+        "coordIndex": 23,
+        "onTrackLocation": 0.28186184248476076,
+        "distanceToNextStop": 0.03409465931579014
       },
       {
         "id": "54",
         "name": "Pijaca Skadarlija",
-        "onTrackLocation": 0.3159565018005509,
+        "location": [
+          20.4670432,
+          44.8182128
+        ],
         "coordIndex": 28,
-        "distanceToNextStop": 0.027915232326245376
+        "onTrackLocation": 0.3159565018005509,
+        "distanceToNextStop": 0.037886832219344524
       },
       {
         "id": "56",
         "name": "Bulevar Despota Stefana",
-        "onTrackLocation": 0.3438717341267963,
-        "coordIndex": 29,
-        "distanceToNextStop": 0.02267776724797327
+        "location": [
+          20.4693717,
+          44.8163458
+        ],
+        "coordIndex": 30,
+        "onTrackLocation": 0.35384333401989543,
+        "distanceToNextStop": 0.06728637211839944
       },
       {
         "id": "58",
         "name": "Takovska",
-        "onTrackLocation": 0.36654950137476955,
-        "coordIndex": 31,
-        "distanceToNextStop": 0.08059909100830281
+        "location": [
+          20.4718202,
+          44.8136364
+        ],
+        "coordIndex": 32,
+        "onTrackLocation": 0.42112970613829487,
+        "distanceToNextStop": 0.026018886244777495
       },
       {
         "id": "743",
         "name": "Palilulska Pijaca",
-        "onTrackLocation": 0.44714859238307236,
+        "location": [
+          20.474482,
+          44.810416
+        ],
         "coordIndex": 33,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.44714859238307236,
+        "distanceToNextStop": 0.07952794813393749
       },
       {
         "id": "85",
         "name": "Mašinski Fakultet",
-        "onTrackLocation": 0.44714859238307236,
-        "coordIndex": 33,
-        "distanceToNextStop": 0.07952794813393749
+        "location": [
+          20.476938,
+          44.8077358
+        ],
+        "coordIndex": 34,
+        "onTrackLocation": 0.5266765405170099,
+        "distanceToNextStop": 0
       },
       {
         "id": "63",
         "name": "Vukov Spomenik",
-        "onTrackLocation": 0.5266765405170099,
+        "location": [
+          20.4778908,
+          44.8055219
+        ],
         "coordIndex": 34,
+        "onTrackLocation": 0.5266765405170099,
         "distanceToNextStop": 0.08564921017920302
       },
       {
         "id": "65",
         "name": "Pravni Fakultet",
-        "onTrackLocation": 0.6123257506962129,
+        "location": [
+          20.4711145,
+          44.8068231
+        ],
         "coordIndex": 37,
+        "onTrackLocation": 0.6123257506962129,
         "distanceToNextStop": 0.09199301222099432
       },
       {
         "id": "67",
         "name": "Trg Slavija /Nemanjina/",
-        "onTrackLocation": 0.7043187629172072,
+        "location": [
+          20.4640694,
+          44.8035254
+        ],
         "coordIndex": 47,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.7043187629172072,
+        "distanceToNextStop": 0.12007763499471868
       },
       {
         "id": "69",
         "name": "Savski Trg",
-        "onTrackLocation": 0.7043187629172072,
-        "coordIndex": 47,
-        "distanceToNextStop": 0.1352557704671845
+        "location": [
+          20.457218,
+          44.807638
+        ],
+        "coordIndex": 48,
+        "onTrackLocation": 0.8243963979119259,
+        "distanceToNextStop": 0.07312014173529191
       },
       {
         "id": "11",
         "name": "Ekonomski Fakultet",
-        "onTrackLocation": 0.8395745333843917,
-        "coordIndex": 51,
-        "distanceToNextStop": 0.08629864917191477
+        "location": [
+          20.4533806,
+          44.8123596
+        ],
+        "coordIndex": 52,
+        "onTrackLocation": 0.8975165396472178,
+        "distanceToNextStop": 0.023345422856518305
       },
       {
         "id": "9",
         "name": "Brankov Most",
-        "onTrackLocation": 0.9258731825563065,
-        "coordIndex": 55,
-        "distanceToNextStop": 0.06769667142802749
+        "location": [
+          20.4511267,
+          44.8145626
+        ],
+        "coordIndex": 54,
+        "onTrackLocation": 0.9208619625037361,
+        "distanceToNextStop": 0.07270789148059786
       },
       {
         "id": "7",
         "name": "Pristanište",
-        "onTrackLocation": 0.993569853984334,
+        "location": [
+          20.4495147,
+          44.8189915
+        ],
         "coordIndex": 60,
+        "onTrackLocation": 0.993569853984334,
         "distanceToNextStop": 0
       }
     ],
@@ -2291,11 +2421,10 @@
       "id": "00005",
       "name": "5",
       "colors": {
-        "bg": "#FF0000",
-        "fg": "#FFFFFF"
+        "bg": "#F8B5B9",
+        "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "5"
+      "transportType": "tram"
     },
     "origin": "Tadeuša Košćuška",
     "destination": "Ustanička",
@@ -2303,148 +2432,232 @@
       {
         "id": "2",
         "name": "Tadeuša Košćuška",
-        "onTrackLocation": 0,
+        "location": [
+          20.455243,
+          44.8259171
+        ],
         "coordIndex": 0,
-        "distanceToNextStop": 0.027112533070214898
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0
       },
       {
         "id": "71",
         "name": "Braće Baruh",
-        "onTrackLocation": 0.027112533070214898,
-        "coordIndex": 11,
-        "distanceToNextStop": 0
+        "location": [
+          20.4570548,
+          44.8249325
+        ],
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.1741896310561727
       },
       {
         "id": "73",
         "name": "Kralja Petra",
-        "onTrackLocation": 0.027112533070214898,
-        "coordIndex": 11,
+        "location": [
+          20.46012,
+          44.8233
+        ],
+        "coordIndex": 12,
+        "onTrackLocation": 0.1741896310561727,
         "distanceToNextStop": 0
       },
       {
         "id": "52",
         "name": "Dorćol /Kneginje Ljubice/",
-        "onTrackLocation": 0.027112533070214898,
-        "coordIndex": 11,
-        "distanceToNextStop": 0.18229255615869855
+        "location": [
+          20.464118,
+          44.8211062
+        ],
+        "coordIndex": 12,
+        "onTrackLocation": 0.1741896310561727,
+        "distanceToNextStop": 0.03267198110300509
       },
       {
         "id": "54",
         "name": "Pijaca Skadarlija",
-        "onTrackLocation": 0.20940508922891346,
-        "coordIndex": 18,
-        "distanceToNextStop": 0.028193322942251686
+        "location": [
+          20.4670432,
+          44.8182128
+        ],
+        "coordIndex": 17,
+        "onTrackLocation": 0.20686161215917778,
+        "distanceToNextStop": 0.030736800011987364
       },
       {
         "id": "56",
         "name": "Bulevar Despota Stefana",
-        "onTrackLocation": 0.23759841217116515,
+        "location": [
+          20.4693717,
+          44.8163458
+        ],
         "coordIndex": 19,
+        "onTrackLocation": 0.23759841217116515,
         "distanceToNextStop": 0.046685981304313534
       },
       {
         "id": "58",
         "name": "Takovska",
-        "onTrackLocation": 0.2842843934754787,
+        "location": [
+          20.4718202,
+          44.8136364
+        ],
         "coordIndex": 22,
+        "onTrackLocation": 0.2842843934754787,
         "distanceToNextStop": 0.060088530836324705
       },
       {
         "id": "743",
         "name": "Palilulska Pijaca",
-        "onTrackLocation": 0.3443729243118034,
+        "location": [
+          20.474482,
+          44.810416
+        ],
         "coordIndex": 24,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.3443729243118034,
+        "distanceToNextStop": 0.07934925134074972
       },
       {
         "id": "85",
         "name": "Mašinski Fakultet",
-        "onTrackLocation": 0.3443729243118034,
-        "coordIndex": 24,
-        "distanceToNextStop": 0.07934925134074972
+        "location": [
+          20.476938,
+          44.8077358
+        ],
+        "coordIndex": 25,
+        "onTrackLocation": 0.4237221756525531,
+        "distanceToNextStop": 0
       },
       {
         "id": "63",
         "name": "Vukov Spomenik",
-        "onTrackLocation": 0.4237221756525531,
+        "location": [
+          20.4778908,
+          44.8055219
+        ],
         "coordIndex": 25,
-        "distanceToNextStop": 0.023067196955349423
+        "onTrackLocation": 0.4237221756525531,
+        "distanceToNextStop": 0.021778964418698754
       },
       {
         "id": "86",
         "name": "Vukov Spomenik /Bul.Kralja Aleksa./",
-        "onTrackLocation": 0.4467893726079025,
-        "coordIndex": 27,
-        "distanceToNextStop": 0.06339903021638194
+        "location": [
+          20.4787341,
+          44.8040306
+        ],
+        "coordIndex": 26,
+        "onTrackLocation": 0.44550114007125186,
+        "distanceToNextStop": 0.0646872627530326
       },
       {
         "id": "87",
         "name": "Go Zvezdara",
-        "onTrackLocation": 0.5101884028242845,
+        "location": [
+          20.4827651,
+          44.8023429
+        ],
         "coordIndex": 28,
+        "onTrackLocation": 0.5101884028242845,
         "distanceToNextStop": 0
       },
       {
         "id": "89",
         "name": "Pijaca Đeram",
-        "onTrackLocation": 0.5101884028242845,
+        "location": [
+          20.4873457,
+          44.8004384
+        ],
         "coordIndex": 28,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.5101884028242845,
+        "distanceToNextStop": 0.128586753197238
       },
       {
         "id": "92",
         "name": "Pop Stojanova",
-        "onTrackLocation": 0.5101884028242845,
-        "coordIndex": 28,
-        "distanceToNextStop": 0.128586753197238
+        "location": [
+          20.4916456,
+          44.798647
+        ],
+        "coordIndex": 29,
+        "onTrackLocation": 0.6387751560215225,
+        "distanceToNextStop": 0
       },
       {
         "id": "94",
         "name": "Lion",
-        "onTrackLocation": 0.6387751560215225,
+        "location": [
+          20.4955096,
+          44.7970072
+        ],
         "coordIndex": 29,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.6387751560215225,
+        "distanceToNextStop": 0.12455271962571801
       },
       {
         "id": "96",
         "name": "Batutova",
-        "onTrackLocation": 0.6387751560215225,
-        "coordIndex": 29,
-        "distanceToNextStop": 0.13230825451523243
+        "location": [
+          20.4998372,
+          44.7951453
+        ],
+        "coordIndex": 30,
+        "onTrackLocation": 0.7633278756472405,
+        "distanceToNextStop": 0.007755534889514415
       },
       {
         "id": "98",
         "name": "Pijaca Zvezdara",
-        "onTrackLocation": 0.7710834105367549,
+        "location": [
+          20.5049009,
+          44.7930769
+        ],
         "coordIndex": 32,
-        "distanceToNextStop": 0.030421760351868388
+        "onTrackLocation": 0.7710834105367549,
+        "distanceToNextStop": 0.05045941757693162
       },
       {
         "id": "100",
         "name": "Dr Velizara Kosanovića",
-        "onTrackLocation": 0.8015051708886233,
-        "coordIndex": 36,
-        "distanceToNextStop": 0.06907727048149348
+        "location": [
+          20.5090252,
+          44.7925325
+        ],
+        "coordIndex": 37,
+        "onTrackLocation": 0.8215428281136865,
+        "distanceToNextStop": 0.04903961325643025
       },
       {
         "id": "102",
         "name": "Mite Ružića",
-        "onTrackLocation": 0.8705824413701168,
+        "location": [
+          20.5136638,
+          44.7904937
+        ],
         "coordIndex": 38,
+        "onTrackLocation": 0.8705824413701168,
         "distanceToNextStop": 0.03640953634450861
       },
       {
         "id": "104",
         "name": "Koste Trifkovića",
-        "onTrackLocation": 0.9069919777146254,
+        "location": [
+          20.5162984,
+          44.7886761
+        ],
         "coordIndex": 42,
-        "distanceToNextStop": 0.04713567129697205
+        "onTrackLocation": 0.9069919777146254,
+        "distanceToNextStop": 0.06502336576360623
       },
       {
         "id": "106",
         "name": "Ustanička",
-        "onTrackLocation": 0.9541276490115974,
-        "coordIndex": 51,
+        "location": [
+          20.5176852,
+          44.7849339
+        ],
+        "coordIndex": 52,
+        "onTrackLocation": 0.9720153434782316,
         "distanceToNextStop": 0
       }
     ],
@@ -3399,11 +3612,10 @@
       "id": "00005",
       "name": "5",
       "colors": {
-        "bg": "#FF0000",
-        "fg": "#FFFFFF"
+        "bg": "#F8B5B9",
+        "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "5"
+      "transportType": "tram"
     },
     "origin": "Ustanička",
     "destination": "Kalemegdan (Donji Grad)",
@@ -3411,155 +3623,243 @@
       {
         "id": "107",
         "name": "Ustanička",
-        "onTrackLocation": 0,
+        "location": [
+          20.5185952,
+          44.7845328
+        ],
         "coordIndex": 0,
-        "distanceToNextStop": 0.08995659380017
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.1010357719912486
       },
       {
         "id": "105",
         "name": "Koste Trifkovića",
-        "onTrackLocation": 0.08995659380017,
-        "coordIndex": 19,
-        "distanceToNextStop": 0.04338773145007664
+        "location": [
+          20.5158182,
+          44.7893815
+        ],
+        "coordIndex": 20,
+        "onTrackLocation": 0.1010357719912486,
+        "distanceToNextStop": 0.03230855325899805
       },
       {
         "id": "103",
         "name": "Mite Ružića",
-        "onTrackLocation": 0.13334432525024664,
+        "location": [
+          20.512623,
+          44.79109
+        ],
         "coordIndex": 23,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.13334432525024664,
+        "distanceToNextStop": 0.04407712228011487
       },
       {
         "id": "101",
         "name": "Dr Velizara Kosanovića",
-        "onTrackLocation": 0.13334432525024664,
-        "coordIndex": 23,
-        "distanceToNextStop": 0.08733390967905805
+        "location": [
+          20.5107837,
+          44.792018
+        ],
+        "coordIndex": 24,
+        "onTrackLocation": 0.17742144753036151,
+        "distanceToNextStop": 0.05468934905445352
       },
       {
         "id": "99",
         "name": "Pijaca Zvezdara",
-        "onTrackLocation": 0.2206782349293047,
-        "coordIndex": 29,
-        "distanceToNextStop": 0.01495689856085547
+        "location": [
+          20.5047418,
+          44.7933027
+        ],
+        "coordIndex": 30,
+        "onTrackLocation": 0.23211079658481504,
+        "distanceToNextStop": 0.0035243369053451212
       },
       {
         "id": "97",
         "name": "Batutova",
-        "onTrackLocation": 0.23563513349016016,
+        "location": [
+          20.4981184,
+          44.795982
+        ],
         "coordIndex": 31,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.23563513349016016,
+        "distanceToNextStop": 0.15803286135417752
       },
       {
         "id": "95",
         "name": "Lion",
-        "onTrackLocation": 0.23563513349016016,
-        "coordIndex": 31,
-        "distanceToNextStop": 0.15803286135417752
+        "location": [
+          20.4945356,
+          44.7975106
+        ],
+        "coordIndex": 32,
+        "onTrackLocation": 0.3936679948443377,
+        "distanceToNextStop": 0
       },
       {
         "id": "93",
         "name": "Pop Stojanova",
-        "onTrackLocation": 0.3936679948443377,
+        "location": [
+          20.4898449,
+          44.7994899
+        ],
         "coordIndex": 32,
+        "onTrackLocation": 0.3936679948443377,
         "distanceToNextStop": 0
       },
       {
         "id": "90",
         "name": "Pijaca Đeram",
-        "onTrackLocation": 0.3936679948443377,
+        "location": [
+          20.4861159,
+          44.8010396
+        ],
         "coordIndex": 32,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.3936679948443377,
+        "distanceToNextStop": 0.10769339080059781
       },
       {
         "id": "88",
         "name": "Go Zvezdara",
-        "onTrackLocation": 0.3936679948443377,
-        "coordIndex": 32,
-        "distanceToNextStop": 0.10769339080059781
+        "location": [
+          20.4822055,
+          44.8026658
+        ],
+        "coordIndex": 33,
+        "onTrackLocation": 0.5013613856449355,
+        "distanceToNextStop": 0.04981951033552767
       },
       {
         "id": "108",
         "name": "Vukov Spomenik /Bul.Kralja Aleksa./",
-        "onTrackLocation": 0.5013613856449355,
-        "coordIndex": 33,
-        "distanceToNextStop": 0.05191555457973418
+        "location": [
+          20.4776526,
+          44.8045797
+        ],
+        "coordIndex": 34,
+        "onTrackLocation": 0.5511808959804632,
+        "distanceToNextStop": 0.024294331801197333
       },
       {
         "id": "64",
         "name": "Vukov Spomenik",
-        "onTrackLocation": 0.5532769402246697,
-        "coordIndex": 36,
-        "distanceToNextStop": 0.022198287556990826
+        "location": [
+          20.4783626,
+          44.8056059
+        ],
+        "coordIndex": 37,
+        "onTrackLocation": 0.5754752277816605,
+        "distanceToNextStop": 0
       },
       {
         "id": "62",
         "name": "Mašinski Fakultet",
-        "onTrackLocation": 0.5754752277816605,
+        "location": [
+          20.47721,
+          44.80765
+        ],
         "coordIndex": 37,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.5754752277816605,
+        "distanceToNextStop": 0.08563061518256843
       },
       {
         "id": "61",
         "name": "Palilulska Pijaca",
-        "onTrackLocation": 0.5754752277816605,
-        "coordIndex": 37,
-        "distanceToNextStop": 0.10777246152534214
+        "location": [
+          20.4747218,
+          44.8105114
+        ],
+        "coordIndex": 38,
+        "onTrackLocation": 0.6611058429642289,
+        "distanceToNextStop": 0.02214184634277372
       },
       {
         "id": "59",
         "name": "Takovska",
-        "onTrackLocation": 0.6832476893070026,
+        "location": [
+          20.4723789,
+          44.8132911
+        ],
         "coordIndex": 39,
-        "distanceToNextStop": 0.058210146558282716
+        "onTrackLocation": 0.6832476893070026,
+        "distanceToNextStop": 0.07884928367693145
       },
       {
         "id": "57",
         "name": "Bulevar Despota Stefana",
-        "onTrackLocation": 0.7414578358652854,
-        "coordIndex": 42,
-        "distanceToNextStop": 0.04890828356985222
+        "location": [
+          20.4693201,
+          44.8166332
+        ],
+        "coordIndex": 43,
+        "onTrackLocation": 0.7620969729839341,
+        "distanceToNextStop": 0.028269146451203486
       },
       {
         "id": "55",
         "name": "Pijaca Skadarlija",
-        "onTrackLocation": 0.7903661194351376,
+        "location": [
+          20.4669921,
+          44.8186002
+        ],
         "coordIndex": 44,
-        "distanceToNextStop": 0.036255960465039316
+        "onTrackLocation": 0.7903661194351376,
+        "distanceToNextStop": 0.03425095193412675
       },
       {
         "id": "53",
         "name": "Dorćol /Kneginje Ljubice/",
-        "onTrackLocation": 0.8266220799001769,
-        "coordIndex": 49,
+        "location": [
+          20.4641785,
+          44.8212927
+        ],
+        "coordIndex": 48,
+        "onTrackLocation": 0.8246170713692643,
         "distanceToNextStop": 0
       },
       {
         "id": "74",
         "name": "Kralja Petra",
-        "onTrackLocation": 0.8266220799001769,
-        "coordIndex": 49,
-        "distanceToNextStop": 0
+        "location": [
+          20.4601112,
+          44.8234899
+        ],
+        "coordIndex": 48,
+        "onTrackLocation": 0.8246170713692643,
+        "distanceToNextStop": 0.17282408948111583
       },
       {
         "id": "72",
         "name": "Braće Baruh",
-        "onTrackLocation": 0.8266220799001769,
-        "coordIndex": 49,
+        "location": [
+          20.4570979,
+          44.825107
+        ],
+        "coordIndex": 59,
+        "onTrackLocation": 0.9974411608503801,
         "distanceToNextStop": 0
       },
       {
         "id": "3",
         "name": "Tadeuša Košćuška",
-        "onTrackLocation": 0.8266220799001769,
-        "coordIndex": 49,
-        "distanceToNextStop": 0.1672420718176164
+        "location": [
+          20.4549667,
+          44.8262534
+        ],
+        "coordIndex": 59,
+        "onTrackLocation": 0.9974411608503801,
+        "distanceToNextStop": 0
       },
       {
         "id": "1",
         "name": "Kalemegdan (Donji Grad)",
-        "onTrackLocation": 0.9938641517177933,
-        "coordIndex": 58,
+        "location": [
+          20.4532741,
+          44.8268096
+        ],
+        "coordIndex": 59,
+        "onTrackLocation": 0.9974411608503801,
         "distanceToNextStop": 0
       }
     ],
@@ -4518,11 +4818,10 @@
       "id": "00006",
       "name": "6",
       "colors": {
-        "bg": "#FF0000",
-        "fg": "#FFFFFF"
+        "bg": "#F8B5B9",
+        "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "6"
+      "transportType": "tram"
     },
     "origin": "Ustanička",
     "destination": "Tašmajdan /Park/",
@@ -4530,92 +4829,144 @@
       {
         "id": "107",
         "name": "Ustanička",
-        "onTrackLocation": 0,
+        "location": [
+          20.5185952,
+          44.7845328
+        ],
         "coordIndex": 0,
-        "distanceToNextStop": 0.13182753007430875
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.1480736819510805
       },
       {
         "id": "105",
         "name": "Koste Trifkovića",
-        "onTrackLocation": 0.13182753007430875,
-        "coordIndex": 19,
-        "distanceToNextStop": 0.06232661418833743
+        "location": [
+          20.5158182,
+          44.7893815
+        ],
+        "coordIndex": 20,
+        "onTrackLocation": 0.1480736819510805,
+        "distanceToNextStop": 0.04608046231156568
       },
       {
         "id": "103",
         "name": "Mite Ružića",
-        "onTrackLocation": 0.19415414426264618,
+        "location": [
+          20.512623,
+          44.79109
+        ],
         "coordIndex": 23,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.19415414426264618,
+        "distanceToNextStop": 0.05224183641611338
       },
       {
         "id": "101",
         "name": "Dr Velizara Kosanovića",
-        "onTrackLocation": 0.19415414426264618,
-        "coordIndex": 23,
-        "distanceToNextStop": 0.1342911297573464
+        "location": [
+          20.5107837,
+          44.792018
+        ],
+        "coordIndex": 24,
+        "onTrackLocation": 0.24639598067875956,
+        "distanceToNextStop": 0.08204929334123301
       },
       {
         "id": "99",
         "name": "Pijaca Zvezdara",
-        "onTrackLocation": 0.3284452740199926,
+        "location": [
+          20.5047418,
+          44.7933027
+        ],
         "coordIndex": 30,
+        "onTrackLocation": 0.3284452740199926,
         "distanceToNextStop": 0.09922433426358446
       },
       {
         "id": "97",
         "name": "Batutova",
-        "onTrackLocation": 0.42766960828357703,
+        "location": [
+          20.4981184,
+          44.795982
+        ],
         "coordIndex": 33,
+        "onTrackLocation": 0.42766960828357703,
         "distanceToNextStop": 0.05615181328710639
       },
       {
         "id": "95",
         "name": "Lion",
-        "onTrackLocation": 0.4838214215706834,
+        "location": [
+          20.4945356,
+          44.7975106
+        ],
         "coordIndex": 34,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.4838214215706834,
+        "distanceToNextStop": 0.2048594465776551
       },
       {
         "id": "93",
         "name": "Pop Stojanova",
-        "onTrackLocation": 0.4838214215706834,
-        "coordIndex": 34,
+        "location": [
+          20.4898449,
+          44.7994899
+        ],
+        "coordIndex": 35,
+        "onTrackLocation": 0.6886808681483385,
         "distanceToNextStop": 0
       },
       {
         "id": "90",
         "name": "Pijaca Đeram",
-        "onTrackLocation": 0.4838214215706834,
-        "coordIndex": 34,
-        "distanceToNextStop": 0.2048594465776551
+        "location": [
+          20.4861159,
+          44.8010396
+        ],
+        "coordIndex": 35,
+        "onTrackLocation": 0.6886808681483385,
+        "distanceToNextStop": 0
       },
       {
         "id": "88",
         "name": "Go Zvezdara",
-        "onTrackLocation": 0.6886808681483385,
+        "location": [
+          20.4822055,
+          44.8026658
+        ],
         "coordIndex": 35,
+        "onTrackLocation": 0.6886808681483385,
         "distanceToNextStop": 0
       },
       {
         "id": "108",
         "name": "Vukov Spomenik /Bul.Kralja Aleksa./",
-        "onTrackLocation": 0.6886808681483385,
+        "location": [
+          20.4776526,
+          44.8045797
+        ],
         "coordIndex": 35,
+        "onTrackLocation": 0.6886808681483385,
         "distanceToNextStop": 0.21792947789541262
       },
       {
         "id": "109",
         "name": "Pravni Fakultet",
-        "onTrackLocation": 0.9066103460437511,
+        "location": [
+          20.4708758,
+          44.8075868
+        ],
         "coordIndex": 36,
-        "distanceToNextStop": 0.08559504203807378
+        "onTrackLocation": 0.9066103460437511,
+        "distanceToNextStop": 0.07924318008455078
       },
       {
         "id": "84",
         "name": "Tašmajdan /Park/",
-        "onTrackLocation": 0.9922053880818249,
-        "coordIndex": 47,
+        "location": [
+          20.4679937,
+          44.8095925
+        ],
+        "coordIndex": 45,
+        "onTrackLocation": 0.9858535261283019,
         "distanceToNextStop": 0
       }
     ],
@@ -5186,11 +5537,10 @@
       "id": "00006",
       "name": "6",
       "colors": {
-        "bg": "#FF0000",
-        "fg": "#FFFFFF"
+        "bg": "#F8B5B9",
+        "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "6"
+      "transportType": "tram"
     },
     "origin": "Tašmajdan /Park/",
     "destination": "Ustanička",
@@ -5198,92 +5548,144 @@
       {
         "id": "84",
         "name": "Tašmajdan /Park/",
-        "onTrackLocation": 0,
+        "location": [
+          20.4679937,
+          44.8095925
+        ],
         "coordIndex": 0,
+        "onTrackLocation": 0,
         "distanceToNextStop": 0.10896305230651059
       },
       {
         "id": "66",
         "name": "Pravni Fakultet",
-        "onTrackLocation": 0.10896305230651059,
+        "location": [
+          20.4732286,
+          44.8063686
+        ],
         "coordIndex": 14,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.10896305230651059,
+        "distanceToNextStop": 0.14286061940177863
       },
       {
         "id": "86",
         "name": "Vukov Spomenik /Bul.Kralja Aleksa./",
-        "onTrackLocation": 0.10896305230651059,
-        "coordIndex": 14,
-        "distanceToNextStop": 0.14286061940177863
+        "location": [
+          20.4787341,
+          44.8040306
+        ],
+        "coordIndex": 15,
+        "onTrackLocation": 0.25182367170828923,
+        "distanceToNextStop": 0
       },
       {
         "id": "87",
         "name": "Go Zvezdara",
-        "onTrackLocation": 0.25182367170828923,
+        "location": [
+          20.4827651,
+          44.8023429
+        ],
         "coordIndex": 15,
+        "onTrackLocation": 0.25182367170828923,
         "distanceToNextStop": 0
       },
       {
         "id": "89",
         "name": "Pijaca Đeram",
-        "onTrackLocation": 0.25182367170828923,
+        "location": [
+          20.4873457,
+          44.8004384
+        ],
         "coordIndex": 15,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.25182367170828923,
+        "distanceToNextStop": 0.2790229654623445
       },
       {
         "id": "92",
         "name": "Pop Stojanova",
-        "onTrackLocation": 0.25182367170828923,
-        "coordIndex": 15,
+        "location": [
+          20.4916456,
+          44.798647
+        ],
+        "coordIndex": 16,
+        "onTrackLocation": 0.5308466371706337,
         "distanceToNextStop": 0
       },
       {
         "id": "94",
         "name": "Lion",
-        "onTrackLocation": 0.25182367170828923,
-        "coordIndex": 15,
-        "distanceToNextStop": 0.32513221650025226
+        "location": [
+          20.4955096,
+          44.7970072
+        ],
+        "coordIndex": 16,
+        "onTrackLocation": 0.5308466371706337,
+        "distanceToNextStop": 0.04610925103790775
       },
       {
         "id": "96",
         "name": "Batutova",
-        "onTrackLocation": 0.5769558882085415,
+        "location": [
+          20.4998372,
+          44.7951453
+        ],
         "coordIndex": 17,
+        "onTrackLocation": 0.5769558882085415,
         "distanceToNextStop": 0.09311730574779908
       },
       {
         "id": "98",
         "name": "Pijaca Zvezdara",
-        "onTrackLocation": 0.6700731939563406,
+        "location": [
+          20.5049009,
+          44.7930769
+        ],
         "coordIndex": 19,
-        "distanceToNextStop": 0.03415447725263032
+        "onTrackLocation": 0.6700731939563406,
+        "distanceToNextStop": 0.0716869948690847
       },
       {
         "id": "100",
         "name": "Dr Velizara Kosanovića",
-        "onTrackLocation": 0.7042276712089709,
-        "coordIndex": 23,
-        "distanceToNextStop": 0.11040435712393759
+        "location": [
+          20.5090252,
+          44.7925325
+        ],
+        "coordIndex": 24,
+        "onTrackLocation": 0.7417601888254253,
+        "distanceToNextStop": 0.07287183950748322
       },
       {
         "id": "102",
         "name": "Mite Ružića",
-        "onTrackLocation": 0.8146320283329085,
+        "location": [
+          20.5136638,
+          44.7904937
+        ],
         "coordIndex": 26,
+        "onTrackLocation": 0.8146320283329085,
         "distanceToNextStop": 0.05278937584696608
       },
       {
         "id": "104",
         "name": "Koste Trifkovića",
-        "onTrackLocation": 0.8674214041798746,
+        "location": [
+          20.5162984,
+          44.7886761
+        ],
         "coordIndex": 29,
+        "onTrackLocation": 0.8674214041798746,
         "distanceToNextStop": 0.08789714706250218
       },
       {
         "id": "106",
         "name": "Ustanička",
-        "onTrackLocation": 0.9553185512423767,
+        "location": [
+          20.5176852,
+          44.7849339
+        ],
         "coordIndex": 39,
+        "onTrackLocation": 0.9553185512423767,
         "distanceToNextStop": 0
       }
     ],
@@ -5845,11 +6247,10 @@
       "id": "00007",
       "name": "7",
       "colors": {
-        "bg": "#FF0000",
+        "bg": "#EE1E23",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "7"
+      "transportType": "tram"
     },
     "origin": "Blok 45",
     "destination": "Ustanička",
@@ -5857,225 +6258,353 @@
       {
         "id": "145",
         "name": "Blok 45",
-        "onTrackLocation": 0,
+        "location": [
+          20.374307,
+          44.79375
+        ],
         "coordIndex": 0,
-        "distanceToNextStop": 0.054655018635272945
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.05159260505571349
       },
       {
         "id": "143",
         "name": "Dr Ivana Ribara",
-        "onTrackLocation": 0.054655018635272945,
-        "coordIndex": 20,
-        "distanceToNextStop": 0.02852669285771027
+        "location": [
+          20.3720192,
+          44.7981796
+        ],
+        "coordIndex": 16,
+        "onTrackLocation": 0.05159260505571349,
+        "distanceToNextStop": 0.031589106437269726
       },
       {
         "id": "141",
         "name": "Oš Branko Radičević",
-        "onTrackLocation": 0.08318171149298322,
+        "location": [
+          20.3769767,
+          44.8003212
+        ],
         "coordIndex": 23,
+        "onTrackLocation": 0.08318171149298322,
         "distanceToNextStop": 0.029649036277527713
       },
       {
         "id": "139",
         "name": "Nehruova",
-        "onTrackLocation": 0.11283074777051093,
+        "location": [
+          20.3818127,
+          44.8019202
+        ],
         "coordIndex": 26,
+        "onTrackLocation": 0.11283074777051093,
         "distanceToNextStop": 0.039283134725409105
       },
       {
         "id": "137",
         "name": "Gandijeva",
-        "onTrackLocation": 0.15211388249592003,
+        "location": [
+          20.3888872,
+          44.8035326
+        ],
         "coordIndex": 30,
+        "onTrackLocation": 0.15211388249592003,
         "distanceToNextStop": 0.021008872931098543
       },
       {
         "id": "135",
         "name": "Blok 70",
-        "onTrackLocation": 0.17312275542701858,
+        "location": [
+          20.3938915,
+          44.8042017
+        ],
         "coordIndex": 32,
+        "onTrackLocation": 0.17312275542701858,
         "distanceToNextStop": 0.03294195148788043
       },
       {
         "id": "133",
         "name": "Omladinskih Brigada",
-        "onTrackLocation": 0.206064706914899,
+        "location": [
+          20.4002405,
+          44.8045221
+        ],
         "coordIndex": 35,
-        "distanceToNextStop": 0.01525071178653492
+        "onTrackLocation": 0.206064706914899,
+        "distanceToNextStop": 0.02956419281228606
       },
       {
         "id": "131",
         "name": "Agostina Neta",
-        "onTrackLocation": 0.22131541870143392,
-        "coordIndex": 37,
-        "distanceToNextStop": 0.01431348102575114
+        "location": [
+          20.404725,
+          44.8044091
+        ],
+        "coordIndex": 38,
+        "onTrackLocation": 0.23562889972718506,
+        "distanceToNextStop": 0
       },
       {
         "id": "1936",
         "name": "Naselje Belvil",
-        "onTrackLocation": 0.23562889972718506,
+        "location": [
+          20.41077,
+          44.80411
+        ],
         "coordIndex": 38,
-        "distanceToNextStop": 0.06220235689877354
+        "onTrackLocation": 0.23562889972718506,
+        "distanceToNextStop": 0.06683297816656072
       },
       {
         "id": "129",
         "name": "Blok 42",
-        "onTrackLocation": 0.2978312566259586,
-        "coordIndex": 42,
-        "distanceToNextStop": 0.017228563853822376
+        "location": [
+          20.4173261,
+          44.8046742
+        ],
+        "coordIndex": 43,
+        "onTrackLocation": 0.3024618778937458,
+        "distanceToNextStop": 0.012597942586035193
       },
       {
         "id": "127",
         "name": "Železnička Stanica Novi Beograd",
-        "onTrackLocation": 0.315059820479781,
+        "location": [
+          20.4184967,
+          44.8068986
+        ],
         "coordIndex": 47,
+        "onTrackLocation": 0.315059820479781,
         "distanceToNextStop": 0.015730092193349365
       },
       {
         "id": "125",
         "name": "Milutina Milankovića",
-        "onTrackLocation": 0.33078991267313035,
+        "location": [
+          20.422518,
+          44.8068631
+        ],
         "coordIndex": 48,
+        "onTrackLocation": 0.33078991267313035,
         "distanceToNextStop": 0.03998757881606385
       },
       {
         "id": "123",
         "name": "Blok 23",
-        "onTrackLocation": 0.3707774914891942,
+        "location": [
+          20.4276701,
+          44.8068669
+        ],
         "coordIndex": 51,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.3707774914891942,
+        "distanceToNextStop": 0.07593141017694144
       },
       {
         "id": "121",
         "name": "Sava Centar",
-        "onTrackLocation": 0.3707774914891942,
-        "coordIndex": 51,
+        "location": [
+          20.430628,
+          44.8101307
+        ],
+        "coordIndex": 52,
+        "onTrackLocation": 0.44670890166613564,
         "distanceToNextStop": 0
       },
       {
         "id": "119",
         "name": "Blok 21",
-        "onTrackLocation": 0.3707774914891942,
-        "coordIndex": 51,
-        "distanceToNextStop": 0.1034775343139428
+        "location": [
+          20.4340516,
+          44.813911
+        ],
+        "coordIndex": 52,
+        "onTrackLocation": 0.44670890166613564,
+        "distanceToNextStop": 0.02754612413700136
       },
       {
         "id": "117",
         "name": "Staro Sajmište",
-        "onTrackLocation": 0.474255025803137,
+        "location": [
+          20.4389698,
+          44.8119131
+        ],
         "coordIndex": 60,
+        "onTrackLocation": 0.474255025803137,
         "distanceToNextStop": 0.07791630179099546
       },
       {
         "id": "10",
         "name": "Ekonomski Fakultet",
-        "onTrackLocation": 0.5521713275941325,
+        "location": [
+          20.4541239,
+          44.8108839
+        ],
         "coordIndex": 69,
-        "distanceToNextStop": 0.02956235925130457
+        "onTrackLocation": 0.5521713275941325,
+        "distanceToNextStop": 0.025742094503724333
       },
       {
         "id": "70",
         "name": "Savski Trg",
-        "onTrackLocation": 0.581733686845437,
-        "coordIndex": 75,
-        "distanceToNextStop": 0.03840057111104911
+        "location": [
+          20.457861,
+          44.807161
+        ],
+        "coordIndex": 74,
+        "onTrackLocation": 0.5779134220978568,
+        "distanceToNextStop": 0.042220835858629346
       },
       {
         "id": "114",
         "name": "Rk Beograđanka",
-        "onTrackLocation": 0.6201342579564861,
+        "location": [
+          20.4642308,
+          44.806534
+        ],
         "coordIndex": 76,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.6201342579564861,
+        "distanceToNextStop": 0.04443092504499346
       },
       {
         "id": "112",
         "name": "Tašmajdan",
-        "onTrackLocation": 0.6201342579564861,
-        "coordIndex": 76,
-        "distanceToNextStop": 0.07157482648237634
+        "location": [
+          20.4675287,
+          44.8093014
+        ],
+        "coordIndex": 77,
+        "onTrackLocation": 0.6645651830014796,
+        "distanceToNextStop": 0.027143901437382878
       },
       {
         "id": "66",
         "name": "Pravni Fakultet",
-        "onTrackLocation": 0.6917090844388625,
+        "location": [
+          20.4732286,
+          44.8063686
+        ],
         "coordIndex": 80,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.6917090844388625,
+        "distanceToNextStop": 0.06329743899251161
       },
       {
         "id": "86",
         "name": "Vukov Spomenik /Bul.Kralja Aleksa./",
-        "onTrackLocation": 0.6917090844388625,
-        "coordIndex": 80,
-        "distanceToNextStop": 0.06329743899251161
+        "location": [
+          20.4787341,
+          44.8040306
+        ],
+        "coordIndex": 81,
+        "onTrackLocation": 0.7550065234313741,
+        "distanceToNextStop": 0
       },
       {
         "id": "87",
         "name": "Go Zvezdara",
-        "onTrackLocation": 0.7550065234313741,
+        "location": [
+          20.4827651,
+          44.8023429
+        ],
         "coordIndex": 81,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.7550065234313741,
+        "distanceToNextStop": 0.03706647564387355
       },
       {
         "id": "89",
         "name": "Pijaca Đeram",
-        "onTrackLocation": 0.7550065234313741,
-        "coordIndex": 81,
-        "distanceToNextStop": 0.03706647564387355
+        "location": [
+          20.4873457,
+          44.8004384
+        ],
+        "coordIndex": 82,
+        "onTrackLocation": 0.7920729990752476,
+        "distanceToNextStop": 0
       },
       {
         "id": "92",
         "name": "Pop Stojanova",
-        "onTrackLocation": 0.7920729990752476,
+        "location": [
+          20.4916456,
+          44.798647
+        ],
         "coordIndex": 82,
+        "onTrackLocation": 0.7920729990752476,
         "distanceToNextStop": 0
       },
       {
         "id": "94",
         "name": "Lion",
-        "onTrackLocation": 0.7920729990752476,
+        "location": [
+          20.4955096,
+          44.7970072
+        ],
         "coordIndex": 82,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.7920729990752476,
+        "distanceToNextStop": 0.08914804303301893
       },
       {
         "id": "96",
         "name": "Batutova",
-        "onTrackLocation": 0.7920729990752476,
-        "coordIndex": 82,
-        "distanceToNextStop": 0.09056756765715446
+        "location": [
+          20.4998372,
+          44.7951453
+        ],
+        "coordIndex": 83,
+        "onTrackLocation": 0.8812210421082666,
+        "distanceToNextStop": 0.008704956277951315
       },
       {
         "id": "98",
         "name": "Pijaca Zvezdara",
-        "onTrackLocation": 0.8826405667324021,
-        "coordIndex": 84,
-        "distanceToNextStop": 0.014184552985119225
+        "location": [
+          20.5049009,
+          44.7930769
+        ],
+        "coordIndex": 85,
+        "onTrackLocation": 0.8899259983862179,
+        "distanceToNextStop": 0.02041389414828576
       },
       {
         "id": "100",
         "name": "Dr Velizara Kosanovića",
-        "onTrackLocation": 0.8968251197175213,
-        "coordIndex": 88,
-        "distanceToNextStop": 0.03813841147730035
+        "location": [
+          20.5090252,
+          44.7925325
+        ],
+        "coordIndex": 89,
+        "onTrackLocation": 0.9103398925345036,
+        "distanceToNextStop": 0.024623638660318026
       },
       {
         "id": "102",
         "name": "Mite Ružića",
-        "onTrackLocation": 0.9349635311948217,
+        "location": [
+          20.5136638,
+          44.7904937
+        ],
         "coordIndex": 90,
+        "onTrackLocation": 0.9349635311948217,
         "distanceToNextStop": 0.018375928498600258
       },
       {
         "id": "104",
         "name": "Koste Trifkovića",
-        "onTrackLocation": 0.9533394596934219,
+        "location": [
+          20.5162984,
+          44.7886761
+        ],
         "coordIndex": 93,
-        "distanceToNextStop": 0.026642717286571305
+        "onTrackLocation": 0.9533394596934219,
+        "distanceToNextStop": 0.04172560438942241
       },
       {
         "id": "106",
         "name": "Ustanička",
-        "onTrackLocation": 0.9799821769799932,
-        "coordIndex": 102,
+        "location": [
+          20.5176852,
+          44.7849339
+        ],
+        "coordIndex": 110,
+        "onTrackLocation": 0.9950650640828443,
         "distanceToNextStop": 0
       }
     ],
@@ -7470,11 +7999,10 @@
       "id": "00007",
       "name": "7",
       "colors": {
-        "bg": "#FF0000",
+        "bg": "#EE1E23",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "7"
+      "transportType": "tram"
     },
     "origin": "Ustanička",
     "destination": "Blok 45",
@@ -7482,225 +8010,353 @@
       {
         "id": "107",
         "name": "Ustanička",
-        "onTrackLocation": 0,
+        "location": [
+          20.5185952,
+          44.7845328
+        ],
         "coordIndex": 0,
+        "onTrackLocation": 0,
         "distanceToNextStop": 0.048275593545324805
       },
       {
         "id": "105",
         "name": "Koste Trifkovića",
-        "onTrackLocation": 0.048275593545324805,
+        "location": [
+          20.5158182,
+          44.7893815
+        ],
         "coordIndex": 21,
+        "onTrackLocation": 0.048275593545324805,
         "distanceToNextStop": 0.018872087392880946
       },
       {
         "id": "103",
         "name": "Mite Ružića",
-        "onTrackLocation": 0.06714768093820575,
+        "location": [
+          20.512623,
+          44.79109
+        ],
         "coordIndex": 25,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.06714768093820575,
+        "distanceToNextStop": 0.017230328799166347
       },
       {
         "id": "101",
         "name": "Dr Velizara Kosanovića",
-        "onTrackLocation": 0.06714768093820575,
-        "coordIndex": 25,
-        "distanceToNextStop": 0.044879636153446534
+        "location": [
+          20.5107837,
+          44.792018
+        ],
+        "coordIndex": 26,
+        "onTrackLocation": 0.0843780097373721,
+        "distanceToNextStop": 0.027649307354280186
       },
       {
         "id": "99",
         "name": "Pijaca Zvezdara",
-        "onTrackLocation": 0.11202731709165228,
+        "location": [
+          20.5047418,
+          44.7933027
+        ],
         "coordIndex": 32,
-        "distanceToNextStop": 0.00643863551972855
+        "onTrackLocation": 0.11202731709165228,
+        "distanceToNextStop": 0.04200768402256164
       },
       {
         "id": "97",
         "name": "Batutova",
-        "onTrackLocation": 0.11846595261138083,
-        "coordIndex": 34,
-        "distanceToNextStop": 0.04707941884630261
+        "location": [
+          20.4981184,
+          44.795982
+        ],
+        "coordIndex": 35,
+        "onTrackLocation": 0.15403500111421392,
+        "distanceToNextStop": 0.011510370343469523
       },
       {
         "id": "95",
         "name": "Lion",
-        "onTrackLocation": 0.16554537145768344,
+        "location": [
+          20.4945356,
+          44.7975106
+        ],
         "coordIndex": 36,
+        "onTrackLocation": 0.16554537145768344,
         "distanceToNextStop": 0
       },
       {
         "id": "93",
         "name": "Pop Stojanova",
-        "onTrackLocation": 0.16554537145768344,
+        "location": [
+          20.4898449,
+          44.7994899
+        ],
         "coordIndex": 36,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.16554537145768344,
+        "distanceToNextStop": 0.08175797358235368
       },
       {
         "id": "90",
         "name": "Pijaca Đeram",
-        "onTrackLocation": 0.16554537145768344,
-        "coordIndex": 36,
+        "location": [
+          20.4861159,
+          44.8010396
+        ],
+        "coordIndex": 37,
+        "onTrackLocation": 0.24730334504003712,
         "distanceToNextStop": 0
       },
       {
         "id": "88",
         "name": "Go Zvezdara",
-        "onTrackLocation": 0.16554537145768344,
-        "coordIndex": 36,
-        "distanceToNextStop": 0.08175797358235368
+        "location": [
+          20.4822055,
+          44.8026658
+        ],
+        "coordIndex": 37,
+        "onTrackLocation": 0.24730334504003712,
+        "distanceToNextStop": 0
       },
       {
         "id": "108",
         "name": "Vukov Spomenik /Bul.Kralja Aleksa./",
-        "onTrackLocation": 0.24730334504003712,
+        "location": [
+          20.4776526,
+          44.8045797
+        ],
         "coordIndex": 37,
+        "onTrackLocation": 0.24730334504003712,
         "distanceToNextStop": 0.06293315030421134
       },
       {
         "id": "109",
         "name": "Pravni Fakultet",
-        "onTrackLocation": 0.31023649534424846,
+        "location": [
+          20.4708758,
+          44.8075868
+        ],
         "coordIndex": 39,
+        "onTrackLocation": 0.31023649534424846,
         "distanceToNextStop": 0.024764338131428976
       },
       {
         "id": "111",
         "name": "Tašmajdan",
-        "onTrackLocation": 0.33500083347567744,
+        "location": [
+          20.4667588,
+          44.8087623
+        ],
         "coordIndex": 42,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.33500083347567744,
+        "distanceToNextStop": 0.04417451493083224
       },
       {
         "id": "113",
         "name": "Rk Beograđanka",
-        "onTrackLocation": 0.33500083347567744,
-        "coordIndex": 42,
-        "distanceToNextStop": 0.04417451493083224
+        "location": [
+          20.4637085,
+          44.8062283
+        ],
+        "coordIndex": 43,
+        "onTrackLocation": 0.3791753484065097,
+        "distanceToNextStop": 0.033873816963155834
       },
       {
         "id": "69",
         "name": "Savski Trg",
-        "onTrackLocation": 0.3791753484065097,
-        "coordIndex": 43,
-        "distanceToNextStop": 0.0676551142188811
+        "location": [
+          20.457218,
+          44.807638
+        ],
+        "coordIndex": 44,
+        "onTrackLocation": 0.4130491653696655,
+        "distanceToNextStop": 0.03378129725572526
       },
       {
         "id": "115",
         "name": "Ekonomski Fakultet",
-        "onTrackLocation": 0.4468304626253908,
+        "location": [
+          20.4532522,
+          44.8107837
+        ],
         "coordIndex": 52,
-        "distanceToNextStop": 0.06765564655405815
+        "onTrackLocation": 0.4468304626253908,
+        "distanceToNextStop": 0.07208672337708805
       },
       {
         "id": "116",
         "name": "Staro Sajmište",
-        "onTrackLocation": 0.5144861091794489,
-        "coordIndex": 58,
-        "distanceToNextStop": 0.03895721562465582
+        "location": [
+          20.43994,
+          44.811749
+        ],
+        "coordIndex": 59,
+        "onTrackLocation": 0.5189171860024788,
+        "distanceToNextStop": 0.03238363086827567
       },
       {
         "id": "118",
         "name": "Blok 21",
-        "onTrackLocation": 0.5534433248041047,
-        "coordIndex": 70,
-        "distanceToNextStop": 0
+        "location": [
+          20.4334929,
+          44.8137528
+        ],
+        "coordIndex": 68,
+        "onTrackLocation": 0.5513008168707545,
+        "distanceToNextStop": 0.06294164222513443
       },
       {
         "id": "120",
         "name": "Sava Centar",
-        "onTrackLocation": 0.5534433248041047,
-        "coordIndex": 70,
-        "distanceToNextStop": 0.060799134291784185
+        "location": [
+          20.4293322,
+          44.8091587
+        ],
+        "coordIndex": 71,
+        "onTrackLocation": 0.6142424590958889,
+        "distanceToNextStop": 0
       },
       {
         "id": "122",
         "name": "Blok 23",
-        "onTrackLocation": 0.6142424590958889,
+        "location": [
+          20.4271201,
+          44.8067164
+        ],
         "coordIndex": 71,
-        "distanceToNextStop": 0.019813105507807682
+        "onTrackLocation": 0.6142424590958889,
+        "distanceToNextStop": 0.05571817141678237
       },
       {
         "id": "124",
         "name": "Milutina Milankovića",
-        "onTrackLocation": 0.6340555646036966,
-        "coordIndex": 76,
-        "distanceToNextStop": 0.03590506590897469
+        "location": [
+          20.4221298,
+          44.8071314
+        ],
+        "coordIndex": 77,
+        "onTrackLocation": 0.6699606305126713,
+        "distanceToNextStop": 0.016361797579677373
       },
       {
         "id": "126",
         "name": "Železnička Stanica Novi Beograd",
-        "onTrackLocation": 0.6699606305126713,
-        "coordIndex": 77,
-        "distanceToNextStop": 0.034541573225586264
+        "location": [
+          20.4181675,
+          44.8066685
+        ],
+        "coordIndex": 78,
+        "onTrackLocation": 0.6863224280923487,
+        "distanceToNextStop": 0.01730349216117799
       },
       {
         "id": "128",
         "name": "Blok 42",
-        "onTrackLocation": 0.7045022037382576,
-        "coordIndex": 84,
-        "distanceToNextStop": 0
+        "location": [
+          20.416257,
+          44.8039679
+        ],
+        "coordIndex": 83,
+        "onTrackLocation": 0.7036259202535267,
+        "distanceToNextStop": 0.07156583765611424
       },
       {
         "id": "1935",
         "name": "Naselje Belvil",
-        "onTrackLocation": 0.7045022037382576,
-        "coordIndex": 84,
-        "distanceToNextStop": 0.07068955417138334
+        "location": [
+          20.40974,
+          44.80423
+        ],
+        "coordIndex": 85,
+        "onTrackLocation": 0.7751917579096409,
+        "distanceToNextStop": 0
       },
       {
         "id": "130",
         "name": "Agostina Neta",
-        "onTrackLocation": 0.7751917579096409,
+        "location": [
+          20.4027607,
+          44.8045794
+        ],
         "coordIndex": 85,
+        "onTrackLocation": 0.7751917579096409,
         "distanceToNextStop": 0.019930983231062127
       },
       {
         "id": "132",
         "name": "Omladinskih Brigada",
-        "onTrackLocation": 0.795122741140703,
+        "location": [
+          20.3984026,
+          44.8045678
+        ],
         "coordIndex": 87,
+        "onTrackLocation": 0.795122741140703,
         "distanceToNextStop": 0.02911195881046369
       },
       {
         "id": "134",
         "name": "Blok 70",
-        "onTrackLocation": 0.8242346999511667,
+        "location": [
+          20.393378,
+          44.8042263
+        ],
         "coordIndex": 90,
-        "distanceToNextStop": 0.022656773487205184
+        "onTrackLocation": 0.8242346999511667,
+        "distanceToNextStop": 0.03606935334917227
       },
       {
         "id": "136",
         "name": "Gandijeva",
-        "onTrackLocation": 0.8468914734383719,
-        "coordIndex": 92,
-        "distanceToNextStop": 0.045916262349335324
+        "location": [
+          20.3871984,
+          44.803299
+        ],
+        "coordIndex": 93,
+        "onTrackLocation": 0.860304053300339,
+        "distanceToNextStop": 0.032503682487368235
       },
       {
         "id": "138",
         "name": "Nehruova",
-        "onTrackLocation": 0.8928077357877072,
+        "location": [
+          20.3801801,
+          44.8015162
+        ],
         "coordIndex": 96,
+        "onTrackLocation": 0.8928077357877072,
         "distanceToNextStop": 0.02873531392625317
       },
       {
         "id": "140",
         "name": "Oš Branko Radičević",
-        "onTrackLocation": 0.9215430497139604,
+        "location": [
+          20.3754264,
+          44.7997959
+        ],
         "coordIndex": 99,
-        "distanceToNextStop": 0.02810001176784771
+        "onTrackLocation": 0.9215430497139604,
+        "distanceToNextStop": 0.025825954821493413
       },
       {
         "id": "142",
         "name": "Dr Ivana Ribara",
-        "onTrackLocation": 0.9496430614818081,
-        "coordIndex": 105,
-        "distanceToNextStop": 0.023713092630349042
+        "location": [
+          20.3716298,
+          44.7969497
+        ],
+        "coordIndex": 102,
+        "onTrackLocation": 0.9473690045354538,
+        "distanceToNextStop": 0.03216495639380912
       },
       {
         "id": "144",
         "name": "Blok 45",
-        "onTrackLocation": 0.9733561541121571,
-        "coordIndex": 106,
+        "location": [
+          20.374039,
+          44.793903
+        ],
+        "coordIndex": 107,
+        "onTrackLocation": 0.9795339609292629,
         "distanceToNextStop": 0
       }
     ],
@@ -9103,11 +9759,10 @@
       "id": "00009",
       "name": "9",
       "colors": {
-        "bg": "#FF0000",
+        "bg": "#EE1E23",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Banjica",
     "destination": "Blok 45",
@@ -9115,232 +9770,364 @@
       {
         "id": "170",
         "name": "Banjica",
-        "onTrackLocation": 0,
+        "location": [
+          20.4780857,
+          44.756943
+        ],
         "coordIndex": 0,
-        "distanceToNextStop": 0.02366602858556474
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.03162980653074039
       },
       {
         "id": "172",
         "name": "Vračarska",
-        "onTrackLocation": 0.02366602858556474,
-        "coordIndex": 14,
-        "distanceToNextStop": 0.019133473542715183
+        "location": [
+          20.4812971,
+          44.7570279
+        ],
+        "coordIndex": 15,
+        "onTrackLocation": 0.03162980653074039,
+        "distanceToNextStop": 0.011169695597539532
       },
       {
         "id": "542",
         "name": "Bebelova",
-        "onTrackLocation": 0.042799502128279925,
+        "location": [
+          20.4835177,
+          44.7589284
+        ],
         "coordIndex": 19,
+        "onTrackLocation": 0.042799502128279925,
         "distanceToNextStop": 0.025108624800751315
       },
       {
         "id": "174",
         "name": "Voždovac",
-        "onTrackLocation": 0.06790812692903124,
+        "location": [
+          20.484245,
+          44.7614246
+        ],
         "coordIndex": 21,
+        "onTrackLocation": 0.06790812692903124,
         "distanceToNextStop": 0.03269278147663257
       },
       {
         "id": "168",
         "name": "Saobraćajni Fakultet",
-        "onTrackLocation": 0.10060090840566381,
+        "location": [
+          20.4822,
+          44.765949
+        ],
         "coordIndex": 26,
+        "onTrackLocation": 0.10060090840566381,
         "distanceToNextStop": 0.0254476109702209
       },
       {
         "id": "166",
         "name": "Visoka Škola Elektrotehnike",
-        "onTrackLocation": 0.1260485193758847,
+        "location": [
+          20.479081,
+          44.769197
+        ],
         "coordIndex": 33,
-        "distanceToNextStop": 0.024991804548813168
+        "onTrackLocation": 0.1260485193758847,
+        "distanceToNextStop": 0.03132648663077206
       },
       {
         "id": "164",
         "name": "Nikšićka",
-        "onTrackLocation": 0.15104032392469788,
-        "coordIndex": 37,
-        "distanceToNextStop": 0.036047379452640166
+        "location": [
+          20.477096,
+          44.773073
+        ],
+        "coordIndex": 38,
+        "onTrackLocation": 0.15737500600665677,
+        "distanceToNextStop": 0.029712697370681274
       },
       {
         "id": "160",
         "name": "Vitanovačka",
-        "onTrackLocation": 0.18708770337733804,
+        "location": [
+          20.474586,
+          44.777145
+        ],
         "coordIndex": 43,
-        "distanceToNextStop": 0.009858377602223828
+        "onTrackLocation": 0.18708770337733804,
+        "distanceToNextStop": 0.04457248599323371
       },
       {
         "id": "158",
         "name": "Kralja Vladimira",
-        "onTrackLocation": 0.19694608097956187,
-        "coordIndex": 45,
-        "distanceToNextStop": 0.034714108391009885
+        "location": [
+          20.471786,
+          44.781635
+        ],
+        "coordIndex": 46,
+        "onTrackLocation": 0.23166018937057176,
+        "distanceToNextStop": 0.005604348737440312
       },
       {
         "id": "156",
         "name": "Bože Jankovića",
-        "onTrackLocation": 0.23166018937057176,
-        "coordIndex": 46,
-        "distanceToNextStop": 0.02144841665981362
+        "location": [
+          20.470226,
+          44.783634
+        ],
+        "coordIndex": 47,
+        "onTrackLocation": 0.23726453810801207,
+        "distanceToNextStop": 0.03252465052736947
       },
       {
         "id": "153",
         "name": "Trg Oslobođenja",
-        "onTrackLocation": 0.2531086060303854,
-        "coordIndex": 48,
-        "distanceToNextStop": 0.05475196195662857
+        "location": [
+          20.466259,
+          44.787253
+        ],
+        "coordIndex": 49,
+        "onTrackLocation": 0.26978918863538154,
+        "distanceToNextStop": 0.038071379351632406
       },
       {
         "id": "151",
         "name": "Franše Deperea",
-        "onTrackLocation": 0.30786056798701394,
+        "location": [
+          20.4661949,
+          44.7931005
+        ],
         "coordIndex": 59,
+        "onTrackLocation": 0.30786056798701394,
         "distanceToNextStop": 0.02722657623779401
       },
       {
         "id": "149",
         "name": "Karađorđev Park",
-        "onTrackLocation": 0.33508714422480795,
+        "location": [
+          20.465707,
+          44.798345
+        ],
         "coordIndex": 65,
+        "onTrackLocation": 0.33508714422480795,
         "distanceToNextStop": 0.030339633351281703
       },
       {
         "id": "147",
         "name": "Trg Slavija /Bulevar Oslobođenja/",
-        "onTrackLocation": 0.36542677757608966,
+        "location": [
+          20.4662564,
+          44.8014387
+        ],
         "coordIndex": 67,
+        "onTrackLocation": 0.36542677757608966,
         "distanceToNextStop": 0.019696716774440792
       },
       {
         "id": "67",
         "name": "Trg Slavija /Nemanjina/",
-        "onTrackLocation": 0.38512349435053045,
+        "location": [
+          20.4640694,
+          44.8035254
+        ],
         "coordIndex": 78,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.38512349435053045,
+        "distanceToNextStop": 0.05878970180847054
       },
       {
         "id": "69",
         "name": "Savski Trg",
-        "onTrackLocation": 0.38512349435053045,
-        "coordIndex": 78,
-        "distanceToNextStop": 0.0859015836115895
+        "location": [
+          20.457218,
+          44.807638
+        ],
+        "coordIndex": 79,
+        "onTrackLocation": 0.443913196159001,
+        "distanceToNextStop": 0.03048425326223564
       },
       {
         "id": "115",
         "name": "Ekonomski Fakultet",
-        "onTrackLocation": 0.47102507796211995,
-        "coordIndex": 84,
-        "distanceToNextStop": 0.065158983014932
+        "location": [
+          20.4532522,
+          44.8107837
+        ],
+        "coordIndex": 85,
+        "onTrackLocation": 0.4743974494212366,
+        "distanceToNextStop": 0.06605540288536349
       },
       {
         "id": "116",
         "name": "Staro Sajmište",
-        "onTrackLocation": 0.536184060977052,
-        "coordIndex": 90,
-        "distanceToNextStop": 0.043575874994018826
+        "location": [
+          20.43994,
+          44.811749
+        ],
+        "coordIndex": 91,
+        "onTrackLocation": 0.5404528523066001,
+        "distanceToNextStop": 0.039307083664470666
       },
       {
         "id": "118",
         "name": "Blok 21",
-        "onTrackLocation": 0.5797599359710708,
+        "location": [
+          20.4334929,
+          44.8137528
+        ],
         "coordIndex": 100,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.5797599359710708,
+        "distanceToNextStop": 0.05175502279317057
       },
       {
         "id": "120",
         "name": "Sava Centar",
-        "onTrackLocation": 0.5797599359710708,
-        "coordIndex": 100,
-        "distanceToNextStop": 0.05175502279317057
+        "location": [
+          20.4293322,
+          44.8091587
+        ],
+        "coordIndex": 101,
+        "onTrackLocation": 0.6315149587642414,
+        "distanceToNextStop": 0
       },
       {
         "id": "122",
         "name": "Blok 23",
-        "onTrackLocation": 0.6315149587642414,
+        "location": [
+          20.4271201,
+          44.8067164
+        ],
         "coordIndex": 101,
-        "distanceToNextStop": 0.018074512170505597
+        "onTrackLocation": 0.6315149587642414,
+        "distanceToNextStop": 0.05241183278954431
       },
       {
         "id": "124",
         "name": "Milutina Milankovića",
-        "onTrackLocation": 0.649589470934747,
-        "coordIndex": 106,
-        "distanceToNextStop": 0.034337320619038714
+        "location": [
+          20.4221298,
+          44.8071314
+        ],
+        "coordIndex": 107,
+        "onTrackLocation": 0.6839267915537857,
+        "distanceToNextStop": 0.01837584092983935
       },
       {
         "id": "126",
         "name": "Železnička Stanica Novi Beograd",
-        "onTrackLocation": 0.6839267915537857,
-        "coordIndex": 107,
-        "distanceToNextStop": 0.033415645016088624
+        "location": [
+          20.4181675,
+          44.8066685
+        ],
+        "coordIndex": 108,
+        "onTrackLocation": 0.702302632483625,
+        "distanceToNextStop": 0.013506250890029214
       },
       {
         "id": "128",
         "name": "Blok 42",
-        "onTrackLocation": 0.7173424365698743,
-        "coordIndex": 114,
-        "distanceToNextStop": 0.035542117483451485
+        "location": [
+          20.416257,
+          44.8039679
+        ],
+        "coordIndex": 112,
+        "onTrackLocation": 0.7158088833736542,
+        "distanceToNextStop": 0.037075670679671546
       },
       {
         "id": "1935",
         "name": "Naselje Belvil",
-        "onTrackLocation": 0.7528845540533258,
+        "location": [
+          20.40974,
+          44.80423
+        ],
         "coordIndex": 115,
+        "onTrackLocation": 0.7528845540533258,
         "distanceToNextStop": 0.031689813519737986
       },
       {
         "id": "130",
         "name": "Agostina Neta",
-        "onTrackLocation": 0.7845743675730638,
+        "location": [
+          20.4027607,
+          44.8045794
+        ],
         "coordIndex": 116,
-        "distanceToNextStop": 0.01250600664461854
+        "onTrackLocation": 0.7845743675730638,
+        "distanceToNextStop": 0.025620151922468026
       },
       {
         "id": "132",
         "name": "Omladinskih Brigada",
-        "onTrackLocation": 0.7970803742176823,
-        "coordIndex": 117,
-        "distanceToNextStop": 0.03452799789492722
+        "location": [
+          20.3984026,
+          44.8045678
+        ],
+        "coordIndex": 118,
+        "onTrackLocation": 0.8101945194955318,
+        "distanceToNextStop": 0.021413852617077733
       },
       {
         "id": "134",
         "name": "Blok 70",
-        "onTrackLocation": 0.8316083721126095,
+        "location": [
+          20.393378,
+          44.8042263
+        ],
         "coordIndex": 121,
-        "distanceToNextStop": 0.02153680301629124
+        "onTrackLocation": 0.8316083721126095,
+        "distanceToNextStop": 0.03424183040346418
       },
       {
         "id": "136",
         "name": "Gandijeva",
-        "onTrackLocation": 0.8531451751289008,
-        "coordIndex": 123,
-        "distanceToNextStop": 0.04391100178757035
+        "location": [
+          20.3871984,
+          44.803299
+        ],
+        "coordIndex": 124,
+        "onTrackLocation": 0.8658502025160737,
+        "distanceToNextStop": 0.031205974400397407
       },
       {
         "id": "138",
         "name": "Nehruova",
-        "onTrackLocation": 0.8970561769164711,
+        "location": [
+          20.3801801,
+          44.8015162
+        ],
         "coordIndex": 127,
+        "onTrackLocation": 0.8970561769164711,
         "distanceToNextStop": 0.027483188192010233
       },
       {
         "id": "140",
         "name": "Oš Branko Radičević",
-        "onTrackLocation": 0.9245393651084813,
+        "location": [
+          20.3754264,
+          44.7997959
+        ],
         "coordIndex": 130,
-        "distanceToNextStop": 0.026254256397315823
+        "onTrackLocation": 0.9245393651084813,
+        "distanceToNextStop": 0.02472827048840065
       },
       {
         "id": "142",
         "name": "Dr Ivana Ribara",
-        "onTrackLocation": 0.9507936215057972,
-        "coordIndex": 135,
-        "distanceToNextStop": 0.028363578278875257
+        "location": [
+          20.3716298,
+          44.7969497
+        ],
+        "coordIndex": 133,
+        "onTrackLocation": 0.949267635596882,
+        "distanceToNextStop": 0.02988956418779043
       },
       {
         "id": "144",
         "name": "Blok 45",
-        "onTrackLocation": 0.9791571997846724,
+        "location": [
+          20.374039,
+          44.793903
+        ],
         "coordIndex": 136,
+        "onTrackLocation": 0.9791571997846724,
         "distanceToNextStop": 0
       }
     ],
@@ -10806,11 +11593,10 @@
       "id": "00009",
       "name": "9",
       "colors": {
-        "bg": "#FF0000",
+        "bg": "#EE1E23",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Blok 45",
     "destination": "Banjica",
@@ -10818,239 +11604,375 @@
       {
         "id": "145",
         "name": "Blok 45",
-        "onTrackLocation": 0,
+        "location": [
+          20.374307,
+          44.79375
+        ],
         "coordIndex": 0,
-        "distanceToNextStop": 0.05216821392450722
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.0498423291815514
       },
       {
         "id": "143",
         "name": "Dr Ivana Ribara",
-        "onTrackLocation": 0.05216821392450722,
-        "coordIndex": 18,
-        "distanceToNextStop": 0.0274620076987137
+        "location": [
+          20.3720192,
+          44.7981796
+        ],
+        "coordIndex": 16,
+        "onTrackLocation": 0.0498423291815514,
+        "distanceToNextStop": 0.029787892441669524
       },
       {
         "id": "141",
         "name": "Oš Branko Radičević",
-        "onTrackLocation": 0.07963022162322092,
+        "location": [
+          20.3769767,
+          44.8003212
+        ],
         "coordIndex": 20,
+        "onTrackLocation": 0.07963022162322092,
         "distanceToNextStop": 0.028540255773602793
       },
       {
         "id": "139",
         "name": "Nehruova",
-        "onTrackLocation": 0.10817047739682371,
+        "location": [
+          20.3818127,
+          44.8019202
+        ],
         "coordIndex": 23,
-        "distanceToNextStop": 0.03047478564029897
+        "onTrackLocation": 0.10817047739682371,
+        "distanceToNextStop": 0.038392246540518996
       },
       {
         "id": "137",
         "name": "Gandijeva",
-        "onTrackLocation": 0.13864526303712268,
-        "coordIndex": 26,
-        "distanceToNextStop": 0.02757457173319064
+        "location": [
+          20.3888872,
+          44.8035326
+        ],
+        "coordIndex": 27,
+        "onTrackLocation": 0.1465627239373427,
+        "distanceToNextStop": 0.019657110832970615
       },
       {
         "id": "135",
         "name": "Blok 70",
-        "onTrackLocation": 0.16621983477031332,
+        "location": [
+          20.3938915,
+          44.8042017
+        ],
         "coordIndex": 29,
-        "distanceToNextStop": 0.03171230486551008
+        "onTrackLocation": 0.16621983477031332,
+        "distanceToNextStop": 0.03886730750828504
       },
       {
         "id": "133",
         "name": "Omladinskih Brigada",
-        "onTrackLocation": 0.1979321396358234,
-        "coordIndex": 32,
-        "distanceToNextStop": 0.01498977962261791
+        "location": [
+          20.4002405,
+          44.8045221
+        ],
+        "coordIndex": 33,
+        "onTrackLocation": 0.20508714227859837,
+        "distanceToNextStop": 0.021346436386136314
       },
       {
         "id": "131",
         "name": "Agostina Neta",
-        "onTrackLocation": 0.2129219192584413,
-        "coordIndex": 34,
-        "distanceToNextStop": 0.023380600663103907
+        "location": [
+          20.404725,
+          44.8044091
+        ],
+        "coordIndex": 35,
+        "onTrackLocation": 0.22643357866473468,
+        "distanceToNextStop": 0.009868941256810537
       },
       {
         "id": "1936",
         "name": "Naselje Belvil",
-        "onTrackLocation": 0.23630251992154522,
+        "location": [
+          20.41077,
+          44.80411
+        ],
         "coordIndex": 36,
-        "distanceToNextStop": 0.04979554534100972
+        "onTrackLocation": 0.23630251992154522,
+        "distanceToNextStop": 0.04847902406631538
       },
       {
         "id": "129",
         "name": "Blok 42",
-        "onTrackLocation": 0.28609806526255493,
-        "coordIndex": 39,
-        "distanceToNextStop": 0.016760152681534857
+        "location": [
+          20.4173261,
+          44.8046742
+        ],
+        "coordIndex": 37,
+        "onTrackLocation": 0.2847815439878606,
+        "distanceToNextStop": 0.018076673956229194
       },
       {
         "id": "127",
         "name": "Železnička Stanica Novi Beograd",
-        "onTrackLocation": 0.3028582179440898,
+        "location": [
+          20.4184967,
+          44.8068986
+        ],
         "coordIndex": 43,
+        "onTrackLocation": 0.3028582179440898,
         "distanceToNextStop": 0.01514475506809515
       },
       {
         "id": "125",
         "name": "Milutina Milankovića",
-        "onTrackLocation": 0.31800297301218494,
+        "location": [
+          20.422518,
+          44.8068631
+        ],
         "coordIndex": 44,
+        "onTrackLocation": 0.31800297301218494,
         "distanceToNextStop": 0.03822788323616433
       },
       {
         "id": "123",
         "name": "Blok 23",
-        "onTrackLocation": 0.35623085624834927,
+        "location": [
+          20.4276701,
+          44.8068669
+        ],
         "coordIndex": 47,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.35623085624834927,
+        "distanceToNextStop": 0.07332810364511805
       },
       {
         "id": "121",
         "name": "Sava Centar",
-        "onTrackLocation": 0.35623085624834927,
-        "coordIndex": 47,
+        "location": [
+          20.430628,
+          44.8101307
+        ],
+        "coordIndex": 48,
+        "onTrackLocation": 0.4295589598934673,
         "distanceToNextStop": 0
       },
       {
         "id": "119",
         "name": "Blok 21",
-        "onTrackLocation": 0.35623085624834927,
-        "coordIndex": 47,
-        "distanceToNextStop": 0.09986025866461412
+        "location": [
+          20.4340516,
+          44.813911
+        ],
+        "coordIndex": 48,
+        "onTrackLocation": 0.4295589598934673,
+        "distanceToNextStop": 0.026532155019496073
       },
       {
         "id": "117",
         "name": "Staro Sajmište",
-        "onTrackLocation": 0.4560911149129634,
+        "location": [
+          20.4389698,
+          44.8119131
+        ],
         "coordIndex": 55,
+        "onTrackLocation": 0.4560911149129634,
         "distanceToNextStop": 0.07458691490329628
       },
       {
         "id": "10",
         "name": "Ekonomski Fakultet",
-        "onTrackLocation": 0.5306780298162597,
+        "location": [
+          20.4541239,
+          44.8108839
+        ],
         "coordIndex": 65,
-        "distanceToNextStop": 0.02791267036300893
+        "onTrackLocation": 0.5306780298162597,
+        "distanceToNextStop": 0.02405018022642147
       },
       {
         "id": "70",
         "name": "Savski Trg",
-        "onTrackLocation": 0.5585907001792686,
-        "coordIndex": 75,
-        "distanceToNextStop": 0
+        "location": [
+          20.457861,
+          44.807161
+        ],
+        "coordIndex": 74,
+        "onTrackLocation": 0.5547282100426811,
+        "distanceToNextStop": 0.06413056623425495
       },
       {
         "id": "68",
         "name": "Trg Slavija /Nemanjina/",
-        "onTrackLocation": 0.5585907001792686,
-        "coordIndex": 75,
-        "distanceToNextStop": 0.06811666302143682
+        "location": [
+          20.4646244,
+          44.8029655
+        ],
+        "coordIndex": 76,
+        "onTrackLocation": 0.6188587762769361,
+        "distanceToNextStop": 0.00784858692376933
       },
       {
         "id": "146",
         "name": "Trg Slavija /Bulevar Oslobođenja/",
-        "onTrackLocation": 0.6267073632007054,
+        "location": [
+          20.4660143,
+          44.8013366
+        ],
         "coordIndex": 79,
+        "onTrackLocation": 0.6267073632007054,
         "distanceToNextStop": 0.029802853291831077
       },
       {
         "id": "148",
         "name": "Karađorđev Park",
-        "onTrackLocation": 0.6565102164925365,
+        "location": [
+          20.4652072,
+          44.7969751
+        ],
         "coordIndex": 80,
+        "onTrackLocation": 0.6565102164925365,
         "distanceToNextStop": 0.031489746472338376
       },
       {
         "id": "150",
         "name": "Franše Deperea",
-        "onTrackLocation": 0.6879999629648749,
+        "location": [
+          20.4662868,
+          44.7926003
+        ],
         "coordIndex": 88,
-        "distanceToNextStop": 0.012466462462031869
+        "onTrackLocation": 0.6879999629648749,
+        "distanceToNextStop": 0.031232358455774323
       },
       {
         "id": "152",
         "name": "Zvečanska",
-        "onTrackLocation": 0.7004664254269067,
-        "coordIndex": 92,
-        "distanceToNextStop": 0.03038999600507797
+        "location": [
+          20.4656455,
+          44.7884554
+        ],
+        "coordIndex": 93,
+        "onTrackLocation": 0.7192323214206492,
+        "distanceToNextStop": 0.011624100011335514
       },
       {
         "id": "154",
         "name": "Trg Oslobođenja",
-        "onTrackLocation": 0.7308564214319847,
+        "location": [
+          20.46728,
+          44.786299
+        ],
         "coordIndex": 101,
+        "onTrackLocation": 0.7308564214319847,
         "distanceToNextStop": 0.03874268123766278
       },
       {
         "id": "157",
         "name": "Kralja Vladimira",
-        "onTrackLocation": 0.7695991026696475,
+        "location": [
+          20.471461,
+          44.782021
+        ],
         "coordIndex": 104,
+        "onTrackLocation": 0.7695991026696475,
         "distanceToNextStop": 0.02941482612085955
       },
       {
         "id": "159",
         "name": "Vitanovačka",
-        "onTrackLocation": 0.799013928790507,
+        "location": [
+          20.473901,
+          44.778531
+        ],
         "coordIndex": 105,
+        "onTrackLocation": 0.799013928790507,
         "distanceToNextStop": 0.02269974045206047
       },
       {
         "id": "161",
         "name": "Petrovačka",
-        "onTrackLocation": 0.8217136692425675,
+        "location": [
+          20.475421,
+          44.775239
+        ],
         "coordIndex": 109,
+        "onTrackLocation": 0.8217136692425675,
         "distanceToNextStop": 0.026690859812025236
       },
       {
         "id": "163",
         "name": "Nikšićka",
-        "onTrackLocation": 0.8484045290545927,
+        "location": [
+          20.477933,
+          44.771439
+        ],
         "coordIndex": 112,
+        "onTrackLocation": 0.8484045290545927,
         "distanceToNextStop": 0.028521770249177902
       },
       {
         "id": "165",
         "name": "Visoka Škola Elektrotehnike",
-        "onTrackLocation": 0.8769262993037706,
+        "location": [
+          20.479632,
+          44.768393
+        ],
         "coordIndex": 117,
-        "distanceToNextStop": 0.020313644745682757
+        "onTrackLocation": 0.8769262993037706,
+        "distanceToNextStop": 0.028517496862091818
       },
       {
         "id": "167",
         "name": "Saobraćajni Fakultet",
-        "onTrackLocation": 0.8972399440494534,
-        "coordIndex": 123,
-        "distanceToNextStop": 0.033153079843043276
+        "location": [
+          20.482517,
+          44.765218
+        ],
+        "coordIndex": 124,
+        "onTrackLocation": 0.9054437961658625,
+        "distanceToNextStop": 0.024949227726634216
       },
       {
         "id": "175",
         "name": "Voždovac",
-        "onTrackLocation": 0.9303930238924967,
+        "location": [
+          20.4840499,
+          44.7611691
+        ],
         "coordIndex": 127,
+        "onTrackLocation": 0.9303930238924967,
         "distanceToNextStop": 0.016713053171585668
       },
       {
         "id": "543",
         "name": "Bebelova",
-        "onTrackLocation": 0.9471060770640823,
+        "location": [
+          20.4833145,
+          44.758677
+        ],
         "coordIndex": 129,
+        "onTrackLocation": 0.9471060770640823,
         "distanceToNextStop": 0.023832785662930123
       },
       {
         "id": "173",
         "name": "Vračarska",
-        "onTrackLocation": 0.9709388627270125,
+        "location": [
+          20.4808123,
+          44.7572317
+        ],
         "coordIndex": 137,
-        "distanceToNextStop": 0.02086573020957727
+        "onTrackLocation": 0.9709388627270125,
+        "distanceToNextStop": 0.018611889967160455
       },
       {
         "id": "171",
         "name": "Banjica",
-        "onTrackLocation": 0.9918045929365897,
-        "coordIndex": 144,
+        "location": [
+          20.4772965,
+          44.7569169
+        ],
+        "coordIndex": 142,
+        "onTrackLocation": 0.9895507526941729,
         "distanceToNextStop": 0
       }
     ],
@@ -12514,11 +13436,10 @@
       "id": "00010",
       "name": "10",
       "colors": {
-        "bg": "#FF0000",
-        "fg": "#FFFFFF"
+        "bg": "#F8B5B9",
+        "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "10"
+      "transportType": "tram"
     },
     "origin": "Tadeuša Košćuška",
     "destination": "Banjica",
@@ -12526,169 +13447,265 @@
       {
         "id": "2",
         "name": "Tadeuša Košćuška",
-        "onTrackLocation": 0,
+        "location": [
+          20.455243,
+          44.8259171
+        ],
         "coordIndex": 0,
+        "onTrackLocation": 0,
         "distanceToNextStop": 0.03379394416007751
       },
       {
         "id": "71",
         "name": "Braće Baruh",
-        "onTrackLocation": 0.03379394416007751,
+        "location": [
+          20.4570548,
+          44.8249325
+        ],
         "coordIndex": 9,
+        "onTrackLocation": 0.03379394416007751,
         "distanceToNextStop": 0
       },
       {
         "id": "73",
         "name": "Kralja Petra",
-        "onTrackLocation": 0.03379394416007751,
+        "location": [
+          20.46012,
+          44.8233
+        ],
         "coordIndex": 9,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.03379394416007751,
+        "distanceToNextStop": 0.0996122833922005
       },
       {
         "id": "52",
         "name": "Dorćol /Kneginje Ljubice/",
-        "onTrackLocation": 0.03379394416007751,
-        "coordIndex": 9,
-        "distanceToNextStop": 0.1271943015826712
+        "location": [
+          20.464118,
+          44.8211062
+        ],
+        "coordIndex": 10,
+        "onTrackLocation": 0.13340622755227802,
+        "distanceToNextStop": 0.02758201819047068
       },
       {
         "id": "54",
         "name": "Pijaca Skadarlija",
-        "onTrackLocation": 0.1609882457427487,
+        "location": [
+          20.4670432,
+          44.8182128
+        ],
         "coordIndex": 14,
+        "onTrackLocation": 0.1609882457427487,
         "distanceToNextStop": 0.021867777240748842
       },
       {
         "id": "56",
         "name": "Bulevar Despota Stefana",
-        "onTrackLocation": 0.18285602298349754,
+        "location": [
+          20.4693717,
+          44.8163458
+        ],
         "coordIndex": 15,
+        "onTrackLocation": 0.18285602298349754,
         "distanceToNextStop": 0.035530135253481115
       },
       {
         "id": "58",
         "name": "Takovska",
-        "onTrackLocation": 0.21838615823697866,
+        "location": [
+          20.4718202,
+          44.8136364
+        ],
         "coordIndex": 18,
-        "distanceToNextStop": 0.02606609607868937
+        "onTrackLocation": 0.21838615823697866,
+        "distanceToNextStop": 0.06028539776334785
       },
       {
         "id": "743",
         "name": "Palilulska Pijaca",
-        "onTrackLocation": 0.24445225431566803,
-        "coordIndex": 19,
-        "distanceToNextStop": 0.07896981357680682
+        "location": [
+          20.474482,
+          44.810416
+        ],
+        "coordIndex": 20,
+        "onTrackLocation": 0.2786715560003265,
+        "distanceToNextStop": 0.04475051189214835
       },
       {
         "id": "65",
         "name": "Pravni Fakultet",
-        "onTrackLocation": 0.32342206789247485,
+        "location": [
+          20.4711145,
+          44.8068231
+        ],
         "coordIndex": 23,
+        "onTrackLocation": 0.32342206789247485,
         "distanceToNextStop": 0.07782640815223457
       },
       {
         "id": "146",
         "name": "Trg Slavija /Bulevar Oslobođenja/",
-        "onTrackLocation": 0.4012484760447094,
+        "location": [
+          20.4660143,
+          44.8013366
+        ],
         "coordIndex": 33,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.4012484760447094,
+        "distanceToNextStop": 0.05701446352767969
       },
       {
         "id": "148",
         "name": "Karađorđev Park",
-        "onTrackLocation": 0.4012484760447094,
-        "coordIndex": 33,
-        "distanceToNextStop": 0.09009349725108601
+        "location": [
+          20.4652072,
+          44.7969751
+        ],
+        "coordIndex": 34,
+        "onTrackLocation": 0.4582629395723891,
+        "distanceToNextStop": 0.0514695035130614
       },
       {
         "id": "150",
         "name": "Franše Deperea",
-        "onTrackLocation": 0.49134197329579543,
-        "coordIndex": 40,
-        "distanceToNextStop": 0.033611369104060373
+        "location": [
+          20.4662868,
+          44.7926003
+        ],
+        "coordIndex": 41,
+        "onTrackLocation": 0.5097324430854505,
+        "distanceToNextStop": 0.04166506966518235
       },
       {
         "id": "152",
         "name": "Zvečanska",
-        "onTrackLocation": 0.5249533423998558,
-        "coordIndex": 43,
-        "distanceToNextStop": 0.03794656942118757
+        "location": [
+          20.4656455,
+          44.7884554
+        ],
+        "coordIndex": 44,
+        "onTrackLocation": 0.5513975127506329,
+        "distanceToNextStop": 0.011502399070410507
       },
       {
         "id": "154",
         "name": "Trg Oslobođenja",
-        "onTrackLocation": 0.5628999118210434,
+        "location": [
+          20.46728,
+          44.786299
+        ],
         "coordIndex": 47,
+        "onTrackLocation": 0.5628999118210434,
         "distanceToNextStop": 0.06757383662988337
       },
       {
         "id": "157",
         "name": "Kralja Vladimira",
-        "onTrackLocation": 0.6304737484509267,
+        "location": [
+          20.471461,
+          44.782021
+        ],
         "coordIndex": 50,
+        "onTrackLocation": 0.6304737484509267,
         "distanceToNextStop": 0.04599446820048114
       },
       {
         "id": "159",
         "name": "Vitanovačka",
-        "onTrackLocation": 0.6764682166514079,
+        "location": [
+          20.473901,
+          44.778531
+        ],
         "coordIndex": 51,
-        "distanceToNextStop": 0.03265403751203222
+        "onTrackLocation": 0.6764682166514079,
+        "distanceToNextStop": 0.04314597191149272
       },
       {
         "id": "161",
         "name": "Petrovačka",
-        "onTrackLocation": 0.7091222541634401,
-        "coordIndex": 54,
-        "distanceToNextStop": 0.05302179518914141
+        "location": [
+          20.475421,
+          44.775239
+        ],
+        "coordIndex": 55,
+        "onTrackLocation": 0.7196141885629006,
+        "distanceToNextStop": 0.04252986078968091
       },
       {
         "id": "163",
         "name": "Nikšićka",
-        "onTrackLocation": 0.7621440493525815,
+        "location": [
+          20.477933,
+          44.771439
+        ],
         "coordIndex": 57,
-        "distanceToNextStop": 0.03423697517791213
+        "onTrackLocation": 0.7621440493525815,
+        "distanceToNextStop": 0.042189730937027714
       },
       {
         "id": "165",
         "name": "Visoka Škola Elektrotehnike",
-        "onTrackLocation": 0.7963810245304936,
-        "coordIndex": 60,
-        "distanceToNextStop": 0.04624613202898242
+        "location": [
+          20.479632,
+          44.768393
+        ],
+        "coordIndex": 61,
+        "onTrackLocation": 0.8043337802896092,
+        "distanceToNextStop": 0.03829337626986684
       },
       {
         "id": "167",
         "name": "Saobraćajni Fakultet",
-        "onTrackLocation": 0.8426271565594761,
+        "location": [
+          20.482517,
+          44.765218
+        ],
         "coordIndex": 67,
+        "onTrackLocation": 0.8426271565594761,
         "distanceToNextStop": 0.046517837282915475
       },
       {
         "id": "175",
         "name": "Voždovac",
-        "onTrackLocation": 0.8891449938423915,
+        "location": [
+          20.4840499,
+          44.7611691
+        ],
         "coordIndex": 69,
+        "onTrackLocation": 0.8891449938423915,
         "distanceToNextStop": 0.02705127552746578
       },
       {
         "id": "543",
         "name": "Bebelova",
-        "onTrackLocation": 0.9161962693698573,
+        "location": [
+          20.4833145,
+          44.758677
+        ],
         "coordIndex": 71,
+        "onTrackLocation": 0.9161962693698573,
         "distanceToNextStop": 0.037461206082291865
       },
       {
         "id": "173",
         "name": "Vračarska",
-        "onTrackLocation": 0.9536574754521492,
+        "location": [
+          20.4808123,
+          44.7572317
+        ],
         "coordIndex": 75,
-        "distanceToNextStop": 0.03505038369991942
+        "onTrackLocation": 0.9536574754521492,
+        "distanceToNextStop": 0.029805942710021238
       },
       {
         "id": "171",
         "name": "Banjica",
-        "onTrackLocation": 0.9887078591520686,
-        "coordIndex": 84,
+        "location": [
+          20.4772965,
+          44.7569169
+        ],
+        "coordIndex": 81,
+        "onTrackLocation": 0.9834634181621704,
         "distanceToNextStop": 0
       }
     ],
@@ -13627,11 +14644,10 @@
       "id": "00010",
       "name": "10",
       "colors": {
-        "bg": "#FF0000",
-        "fg": "#FFFFFF"
+        "bg": "#F8B5B9",
+        "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "10"
+      "transportType": "tram"
     },
     "origin": "Banjica",
     "destination": "Kalemegdan (Donji Grad)",
@@ -13639,169 +14655,265 @@
       {
         "id": "170",
         "name": "Banjica",
-        "onTrackLocation": 0,
+        "location": [
+          20.4780857,
+          44.756943
+        ],
         "coordIndex": 0,
-        "distanceToNextStop": 0.03855614491418873
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.047836346627048505
       },
       {
         "id": "172",
         "name": "Vračarska",
-        "onTrackLocation": 0.03855614491418873,
-        "coordIndex": 15,
-        "distanceToNextStop": 0.03431549182231256
+        "location": [
+          20.4812971,
+          44.7570279
+        ],
+        "coordIndex": 16,
+        "onTrackLocation": 0.047836346627048505,
+        "distanceToNextStop": 0.02503529010945279
       },
       {
         "id": "542",
         "name": "Bebelova",
-        "onTrackLocation": 0.0728716367365013,
+        "location": [
+          20.4835177,
+          44.7589284
+        ],
         "coordIndex": 21,
+        "onTrackLocation": 0.0728716367365013,
         "distanceToNextStop": 0.03509226775085701
       },
       {
         "id": "174",
         "name": "Voždovac",
-        "onTrackLocation": 0.1079639044873583,
+        "location": [
+          20.484245,
+          44.7614246
+        ],
         "coordIndex": 23,
+        "onTrackLocation": 0.1079639044873583,
         "distanceToNextStop": 0.0533153959177798
       },
       {
         "id": "168",
         "name": "Saobraćajni Fakultet",
-        "onTrackLocation": 0.1612793004051381,
+        "location": [
+          20.4822,
+          44.765949
+        ],
         "coordIndex": 26,
-        "distanceToNextStop": 0.037951917963593346
+        "onTrackLocation": 0.1612793004051381,
+        "distanceToNextStop": 0.050339724400569996
       },
       {
         "id": "166",
         "name": "Visoka Škola Elektrotehnike",
-        "onTrackLocation": 0.19923121836873145,
-        "coordIndex": 32,
-        "distanceToNextStop": 0.044280776490284224
+        "location": [
+          20.479081,
+          44.769197
+        ],
+        "coordIndex": 33,
+        "onTrackLocation": 0.2116190248057081,
+        "distanceToNextStop": 0.0420981393091876
       },
       {
         "id": "164",
         "name": "Nikšićka",
-        "onTrackLocation": 0.24351199485901567,
-        "coordIndex": 35,
-        "distanceToNextStop": 0.05487464718244925
+        "location": [
+          20.477096,
+          44.773073
+        ],
+        "coordIndex": 36,
+        "onTrackLocation": 0.2537171641148957,
+        "distanceToNextStop": 0.04466947792656922
       },
       {
         "id": "160",
         "name": "Vitanovačka",
-        "onTrackLocation": 0.2983866420414649,
+        "location": [
+          20.474586,
+          44.777145
+        ],
         "coordIndex": 40,
-        "distanceToNextStop": 0.04445872001217177
+        "onTrackLocation": 0.2983866420414649,
+        "distanceToNextStop": 0.062417728501635183
       },
       {
         "id": "158",
         "name": "Kralja Vladimira",
-        "onTrackLocation": 0.3428453620536367,
-        "coordIndex": 44,
-        "distanceToNextStop": 0.03731722417411243
+        "location": [
+          20.471786,
+          44.781635
+        ],
+        "coordIndex": 45,
+        "onTrackLocation": 0.3608043705431001,
+        "distanceToNextStop": 0.019358215684649016
       },
       {
         "id": "156",
         "name": "Bože Jankovića",
-        "onTrackLocation": 0.3801625862277491,
+        "location": [
+          20.470226,
+          44.783634
+        ],
         "coordIndex": 47,
-        "distanceToNextStop": 0.0055221805192549045
+        "onTrackLocation": 0.3801625862277491,
+        "distanceToNextStop": 0.05971381080950494
       },
       {
         "id": "153",
         "name": "Trg Oslobođenja",
-        "onTrackLocation": 0.385684766747004,
-        "coordIndex": 48,
-        "distanceToNextStop": 0.11220873416925359
+        "location": [
+          20.466259,
+          44.787253
+        ],
+        "coordIndex": 49,
+        "onTrackLocation": 0.43987639703725406,
+        "distanceToNextStop": 0.05801710387900355
       },
       {
         "id": "151",
         "name": "Franše Deperea",
-        "onTrackLocation": 0.4978935009162576,
+        "location": [
+          20.4661949,
+          44.7931005
+        ],
         "coordIndex": 56,
+        "onTrackLocation": 0.4978935009162576,
         "distanceToNextStop": 0.04105783355350112
       },
       {
         "id": "149",
         "name": "Karađorđev Park",
-        "onTrackLocation": 0.5389513344697587,
+        "location": [
+          20.465707,
+          44.798345
+        ],
         "coordIndex": 63,
+        "onTrackLocation": 0.5389513344697587,
         "distanceToNextStop": 0.05460381298875305
       },
       {
         "id": "147",
         "name": "Trg Slavija /Bulevar Oslobođenja/",
-        "onTrackLocation": 0.5935551474585118,
+        "location": [
+          20.4662564,
+          44.8014387
+        ],
         "coordIndex": 65,
+        "onTrackLocation": 0.5935551474585118,
         "distanceToNextStop": 0.08871837062221355
       },
       {
         "id": "176",
         "name": "Pravni Fakultet",
-        "onTrackLocation": 0.6822735180807253,
+        "location": [
+          20.4721073,
+          44.8075599
+        ],
         "coordIndex": 74,
+        "onTrackLocation": 0.6822735180807253,
         "distanceToNextStop": 0.03770287612850365
       },
       {
         "id": "61",
         "name": "Palilulska Pijaca",
-        "onTrackLocation": 0.719976394209229,
+        "location": [
+          20.4747218,
+          44.8105114
+        ],
         "coordIndex": 77,
+        "onTrackLocation": 0.719976394209229,
         "distanceToNextStop": 0.03427149668020091
       },
       {
         "id": "59",
         "name": "Takovska",
-        "onTrackLocation": 0.7542478908894299,
+        "location": [
+          20.4723789,
+          44.8132911
+        ],
         "coordIndex": 78,
-        "distanceToNextStop": 0.04919265880952206
+        "onTrackLocation": 0.7542478908894299,
+        "distanceToNextStop": 0.06168131016475786
       },
       {
         "id": "57",
         "name": "Bulevar Despota Stefana",
-        "onTrackLocation": 0.803440549698952,
-        "coordIndex": 81,
-        "distanceToNextStop": 0.035642269897209755
+        "location": [
+          20.4693201,
+          44.8166332
+        ],
+        "coordIndex": 82,
+        "onTrackLocation": 0.8159292010541878,
+        "distanceToNextStop": 0.02090911088947567
       },
       {
         "id": "55",
         "name": "Pijaca Skadarlija",
-        "onTrackLocation": 0.8390828195961617,
-        "coordIndex": 84,
-        "distanceToNextStop": 0.02702571271137222
+        "location": [
+          20.4669921,
+          44.8186002
+        ],
+        "coordIndex": 83,
+        "onTrackLocation": 0.8368383119436634,
+        "distanceToNextStop": 0.029270220363870503
       },
       {
         "id": "53",
         "name": "Dorćol /Kneginje Ljubice/",
-        "onTrackLocation": 0.8661085323075339,
+        "location": [
+          20.4641785,
+          44.8212927
+        ],
         "coordIndex": 89,
+        "onTrackLocation": 0.8661085323075339,
         "distanceToNextStop": 0
       },
       {
         "id": "74",
         "name": "Kralja Petra",
-        "onTrackLocation": 0.8661085323075339,
+        "location": [
+          20.4601112,
+          44.8234899
+        ],
         "coordIndex": 89,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.8661085323075339,
+        "distanceToNextStop": 0.13269350954494785
       },
       {
         "id": "72",
         "name": "Braće Baruh",
-        "onTrackLocation": 0.8661085323075339,
-        "coordIndex": 89,
+        "location": [
+          20.4570979,
+          44.825107
+        ],
+        "coordIndex": 97,
+        "onTrackLocation": 0.9988020418524818,
         "distanceToNextStop": 0
       },
       {
         "id": "3",
         "name": "Tadeuša Košćuška",
-        "onTrackLocation": 0.8661085323075339,
-        "coordIndex": 89,
-        "distanceToNextStop": 0.13084880284684508
+        "location": [
+          20.4549667,
+          44.8262534
+        ],
+        "coordIndex": 97,
+        "onTrackLocation": 0.9988020418524818,
+        "distanceToNextStop": 0
       },
       {
         "id": "1",
         "name": "Kalemegdan (Donji Grad)",
-        "onTrackLocation": 0.996957335154379,
-        "coordIndex": 96,
+        "location": [
+          20.4532741,
+          44.8268096
+        ],
+        "coordIndex": 97,
+        "onTrackLocation": 0.9988020418524818,
         "distanceToNextStop": 0
       }
     ],
@@ -14764,11 +15876,10 @@
       "id": "00011",
       "name": "11",
       "colors": {
-        "bg": "#FF0000",
-        "fg": "#FFFFFF"
+        "bg": "#F8B5B9",
+        "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "11"
+      "transportType": "tram"
     },
     "origin": "Blok 45",
     "destination": "Kalemegdan (Donji Grad)",
@@ -14776,169 +15887,265 @@
       {
         "id": "145",
         "name": "Blok 45",
-        "onTrackLocation": 0,
+        "location": [
+          20.374307,
+          44.79375
+        ],
         "coordIndex": 0,
-        "distanceToNextStop": 0.056793642155473424
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.05353008617725238
       },
       {
         "id": "143",
         "name": "Dr Ivana Ribara",
-        "onTrackLocation": 0.056793642155473424,
-        "coordIndex": 19,
-        "distanceToNextStop": 0.029624075353986055
+        "location": [
+          20.3720192,
+          44.7981796
+        ],
+        "coordIndex": 15,
+        "onTrackLocation": 0.05353008617725238,
+        "distanceToNextStop": 0.0328876313322071
       },
       {
         "id": "141",
         "name": "Oš Branko Radičević",
-        "onTrackLocation": 0.08641771750945948,
+        "location": [
+          20.3769767,
+          44.8003212
+        ],
         "coordIndex": 21,
+        "onTrackLocation": 0.08641771750945948,
         "distanceToNextStop": 0.030788347971049415
       },
       {
         "id": "139",
         "name": "Nehruova",
-        "onTrackLocation": 0.1172060654805089,
+        "location": [
+          20.3818127,
+          44.8019202
+        ],
         "coordIndex": 24,
-        "distanceToNextStop": 0.032858896938280105
+        "onTrackLocation": 0.1172060654805089,
+        "distanceToNextStop": 0.04158078511107778
       },
       {
         "id": "137",
         "name": "Gandijeva",
-        "onTrackLocation": 0.150064962418789,
-        "coordIndex": 28,
-        "distanceToNextStop": 0.02975843757105015
+        "location": [
+          20.3888872,
+          44.8035326
+        ],
+        "coordIndex": 29,
+        "onTrackLocation": 0.15878685059158668,
+        "distanceToNextStop": 0.021036549398252474
       },
       {
         "id": "135",
         "name": "Blok 70",
-        "onTrackLocation": 0.17982339998983915,
+        "location": [
+          20.3938915,
+          44.8042017
+        ],
         "coordIndex": 31,
+        "onTrackLocation": 0.17982339998983915,
         "distanceToNextStop": 0.03420998489219157
       },
       {
         "id": "133",
         "name": "Omladinskih Brigada",
-        "onTrackLocation": 0.21403338488203072,
+        "location": [
+          20.4002405,
+          44.8045221
+        ],
         "coordIndex": 34,
-        "distanceToNextStop": 0.015706024015076175
+        "onTrackLocation": 0.21403338488203072,
+        "distanceToNextStop": 0.030780160658247152
       },
       {
         "id": "131",
         "name": "Agostina Neta",
-        "onTrackLocation": 0.2297394088971069,
-        "coordIndex": 35,
-        "distanceToNextStop": 0.015074136643170977
+        "location": [
+          20.404725,
+          44.8044091
+        ],
+        "coordIndex": 36,
+        "onTrackLocation": 0.24481354554027787,
+        "distanceToNextStop": 0
       },
       {
         "id": "1936",
         "name": "Naselje Belvil",
-        "onTrackLocation": 0.24481354554027787,
+        "location": [
+          20.41077,
+          44.80411
+        ],
         "coordIndex": 36,
-        "distanceToNextStop": 0.06425022574635617
+        "onTrackLocation": 0.24481354554027787,
+        "distanceToNextStop": 0.069511813904198
       },
       {
         "id": "129",
         "name": "Blok 42",
-        "onTrackLocation": 0.30906377128663404,
-        "coordIndex": 39,
-        "distanceToNextStop": 0.01819068603977325
+        "location": [
+          20.4173261,
+          44.8046742
+        ],
+        "coordIndex": 40,
+        "onTrackLocation": 0.31432535944447587,
+        "distanceToNextStop": 0.012929097881931417
       },
       {
         "id": "127",
         "name": "Železnička Stanica Novi Beograd",
-        "onTrackLocation": 0.3272544573264073,
+        "location": [
+          20.4184967,
+          44.8068986
+        ],
         "coordIndex": 44,
+        "onTrackLocation": 0.3272544573264073,
         "distanceToNextStop": 0.07362878657038763
       },
       {
         "id": "3028",
         "name": "Đorđa Stanojevića",
-        "onTrackLocation": 0.4008832438967949,
+        "location": [
+          20.415841,
+          44.806892
+        ],
         "coordIndex": 51,
+        "onTrackLocation": 0.4008832438967949,
         "distanceToNextStop": 0.13507595349993645
       },
       {
         "id": "3030",
         "name": "Petlja Radnička",
-        "onTrackLocation": 0.5359591973967314,
+        "location": [
+          20.426947,
+          44.791959
+        ],
         "coordIndex": 62,
+        "onTrackLocation": 0.5359591973967314,
         "distanceToNextStop": 0.07032324722024297
       },
       {
         "id": "23",
         "name": "Gospodarska Mehana",
-        "onTrackLocation": 0.6062824446169743,
+        "location": [
+          20.431366,
+          44.7937709
+        ],
         "coordIndex": 90,
+        "onTrackLocation": 0.6062824446169743,
         "distanceToNextStop": 0.037760746542883306
       },
       {
         "id": "21",
         "name": "Ruska",
-        "onTrackLocation": 0.6440431911598576,
+        "location": [
+          20.4373957,
+          44.795162
+        ],
         "coordIndex": 94,
-        "distanceToNextStop": 0.010044411342576165
+        "onTrackLocation": 0.6440431911598576,
+        "distanceToNextStop": 0.041907269993791796
       },
       {
         "id": "19",
         "name": "Sajam",
-        "onTrackLocation": 0.6540876025024338,
-        "coordIndex": 95,
-        "distanceToNextStop": 0.05567337229267577
+        "location": [
+          20.4426205,
+          44.7965425
+        ],
+        "coordIndex": 96,
+        "onTrackLocation": 0.6859504611536494,
+        "distanceToNextStop": 0.02381051364146014
       },
       {
         "id": "17",
         "name": "Mostar",
-        "onTrackLocation": 0.7097609747951096,
+        "location": [
+          20.4488534,
+          44.7987781
+        ],
         "coordIndex": 101,
-        "distanceToNextStop": 0.017802847876365213
+        "onTrackLocation": 0.7097609747951096,
+        "distanceToNextStop": 0.06507260992114727
       },
       {
         "id": "15",
         "name": "Palata Pravde",
-        "onTrackLocation": 0.7275638226714748,
-        "coordIndex": 104,
-        "distanceToNextStop": 0.092195693577512
+        "location": [
+          20.4533204,
+          44.8046468
+        ],
+        "coordIndex": 105,
+        "onTrackLocation": 0.7748335847162569,
+        "distanceToNextStop": 0.044925931532729946
       },
       {
         "id": "11",
         "name": "Ekonomski Fakultet",
-        "onTrackLocation": 0.8197595162489868,
+        "location": [
+          20.4533806,
+          44.8123596
+        ],
         "coordIndex": 109,
+        "onTrackLocation": 0.8197595162489868,
         "distanceToNextStop": 0.026558026759060716
       },
       {
         "id": "9",
         "name": "Brankov Most",
-        "onTrackLocation": 0.8463175430080475,
+        "location": [
+          20.4511267,
+          44.8145626
+        ],
         "coordIndex": 114,
-        "distanceToNextStop": 0.0366394930687266
+        "onTrackLocation": 0.8463175430080475,
+        "distanceToNextStop": 0.033899767788148294
       },
       {
         "id": "7",
         "name": "Pristanište",
-        "onTrackLocation": 0.8829570360767741,
-        "coordIndex": 121,
-        "distanceToNextStop": 0.03465582220906349
+        "location": [
+          20.4495147,
+          44.8189915
+        ],
+        "coordIndex": 120,
+        "onTrackLocation": 0.8802173107961958,
+        "distanceToNextStop": 0.056372851170022664
       },
       {
         "id": "5",
         "name": "Kalemegdan",
-        "onTrackLocation": 0.9176128582858376,
-        "coordIndex": 141,
-        "distanceToNextStop": 0.05582951897324018
+        "location": [
+          20.4540765,
+          44.8208843
+        ],
+        "coordIndex": 142,
+        "onTrackLocation": 0.9365901619662185,
+        "distanceToNextStop": 0.036852215292859314
       },
       {
         "id": "3",
         "name": "Tadeuša Košćuška",
-        "onTrackLocation": 0.9734423772590778,
+        "location": [
+          20.4549667,
+          44.8262534
+        ],
         "coordIndex": 147,
-        "distanceToNextStop": 0.023655598655538346
+        "onTrackLocation": 0.9734423772590778,
+        "distanceToNextStop": 0.017821942148111947
       },
       {
         "id": "1",
         "name": "Kalemegdan (Donji Grad)",
-        "onTrackLocation": 0.9970979759146161,
-        "coordIndex": 156,
+        "location": [
+          20.4532741,
+          44.8268096
+        ],
+        "coordIndex": 148,
+        "onTrackLocation": 0.9912643194071897,
         "distanceToNextStop": 0
       }
     ],
@@ -15954,11 +17161,10 @@
       "id": "00011",
       "name": "11",
       "colors": {
-        "bg": "#FF0000",
-        "fg": "#FFFFFF"
+        "bg": "#F8B5B9",
+        "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "11"
+      "transportType": "tram"
     },
     "origin": "Tadeuša Košćuška",
     "destination": "Blok 45",
@@ -15966,155 +17172,243 @@
       {
         "id": "2",
         "name": "Tadeuša Košćuška",
-        "onTrackLocation": 0,
+        "location": [
+          20.455243,
+          44.8259171
+        ],
         "coordIndex": 0,
+        "onTrackLocation": 0,
         "distanceToNextStop": 0.06338025582511014
       },
       {
         "id": "4",
         "name": "Kalemegdan",
-        "onTrackLocation": 0.06338025582511014,
+        "location": [
+          20.4532518,
+          44.8203288
+        ],
         "coordIndex": 17,
-        "distanceToNextStop": 0.04897372415167407
+        "onTrackLocation": 0.06338025582511014,
+        "distanceToNextStop": 0.05573667481422981
       },
       {
         "id": "6",
         "name": "Pristanište",
-        "onTrackLocation": 0.11235397997678422,
-        "coordIndex": 35,
-        "distanceToNextStop": 0.02655596288430158
+        "location": [
+          20.4494119,
+          44.8186623
+        ],
+        "coordIndex": 36,
+        "onTrackLocation": 0.11911693063933995,
+        "distanceToNextStop": 0.030002054440107395
       },
       {
         "id": "8",
         "name": "Brankov Most",
-        "onTrackLocation": 0.1389099428610858,
-        "coordIndex": 41,
-        "distanceToNextStop": 0.08617708588600423
+        "location": [
+          20.4507714,
+          44.814955
+        ],
+        "coordIndex": 42,
+        "onTrackLocation": 0.14911898507944735,
+        "distanceToNextStop": 0.07596804366764268
       },
       {
         "id": "14",
         "name": "Palata Pravde",
-        "onTrackLocation": 0.22508702874709002,
+        "location": [
+          20.4529576,
+          44.8043401
+        ],
         "coordIndex": 51,
+        "onTrackLocation": 0.22508702874709002,
         "distanceToNextStop": 0.06284885711689314
       },
       {
         "id": "16",
         "name": "Mostar",
-        "onTrackLocation": 0.28793588586398317,
+        "location": [
+          20.4485459,
+          44.7986157
+        ],
         "coordIndex": 55,
+        "onTrackLocation": 0.28793588586398317,
         "distanceToNextStop": 0.03016016238533409
       },
       {
         "id": "18",
         "name": "Sajam",
-        "onTrackLocation": 0.31809604824931725,
+        "location": [
+          20.4428016,
+          44.7965092
+        ],
         "coordIndex": 60,
-        "distanceToNextStop": 0.028264717925051086
+        "onTrackLocation": 0.31809604824931725,
+        "distanceToNextStop": 0.037023480088362815
       },
       {
         "id": "20",
         "name": "Ruska",
-        "onTrackLocation": 0.34636076617436834,
-        "coordIndex": 61,
-        "distanceToNextStop": 0.03687906671972924
+        "location": [
+          20.4377435,
+          44.7951516
+        ],
+        "coordIndex": 62,
+        "onTrackLocation": 0.35511952833768007,
+        "distanceToNextStop": 0.04085058620752652
       },
       {
         "id": "22",
         "name": "Gospodarska Mehana",
-        "onTrackLocation": 0.3832398328940976,
-        "coordIndex": 65,
-        "distanceToNextStop": 0.08019707495787626
+        "location": [
+          20.4309756,
+          44.7937116
+        ],
+        "coordIndex": 66,
+        "onTrackLocation": 0.3959701145452066,
+        "distanceToNextStop": 0.06746679330676725
       },
       {
         "id": "3029",
         "name": "Petlja Radnička",
-        "onTrackLocation": 0.46343690785197383,
+        "location": [
+          20.426967,
+          44.79249
+        ],
         "coordIndex": 94,
-        "distanceToNextStop": 0.11485508257816673
+        "onTrackLocation": 0.46343690785197383,
+        "distanceToNextStop": 0.14930156064113703
       },
       {
         "id": "3027",
         "name": "Đorđa Stanojevića",
-        "onTrackLocation": 0.5782919904301406,
-        "coordIndex": 101,
-        "distanceToNextStop": 0.09167475876232256
+        "location": [
+          20.415297,
+          44.807294
+        ],
+        "coordIndex": 102,
+        "onTrackLocation": 0.6127384684931109,
+        "distanceToNextStop": 0.05722828069935226
       },
       {
         "id": "126",
         "name": "Železnička Stanica Novi Beograd",
-        "onTrackLocation": 0.6699667491924631,
+        "location": [
+          20.4181675,
+          44.8066685
+        ],
         "coordIndex": 109,
-        "distanceToNextStop": 0.021956190522626096
+        "onTrackLocation": 0.6699667491924631,
+        "distanceToNextStop": 0.020487362267128106
       },
       {
         "id": "128",
         "name": "Blok 42",
-        "onTrackLocation": 0.6919229397150892,
-        "coordIndex": 116,
-        "distanceToNextStop": 0
+        "location": [
+          20.416257,
+          44.8039679
+        ],
+        "coordIndex": 115,
+        "onTrackLocation": 0.6904541114595912,
+        "distanceToNextStop": 0.07544521912646096
       },
       {
         "id": "1935",
         "name": "Naselje Belvil",
-        "onTrackLocation": 0.6919229397150892,
-        "coordIndex": 116,
-        "distanceToNextStop": 0.07397639087096297
+        "location": [
+          20.40974,
+          44.80423
+        ],
+        "coordIndex": 117,
+        "onTrackLocation": 0.7658993305860522,
+        "distanceToNextStop": 0
       },
       {
         "id": "130",
         "name": "Agostina Neta",
-        "onTrackLocation": 0.7658993305860522,
+        "location": [
+          20.4027607,
+          44.8045794
+        ],
         "coordIndex": 117,
-        "distanceToNextStop": 0.013591546049830816
+        "onTrackLocation": 0.7658993305860522,
+        "distanceToNextStop": 0.02784401804294001
       },
       {
         "id": "132",
         "name": "Omladinskih Brigada",
-        "onTrackLocation": 0.779490876635883,
-        "coordIndex": 118,
-        "distanceToNextStop": 0.029870581391669093
+        "location": [
+          20.3984026,
+          44.8045678
+        ],
+        "coordIndex": 119,
+        "onTrackLocation": 0.7937433486289922,
+        "distanceToNextStop": 0.030608211356508708
       },
       {
         "id": "134",
         "name": "Blok 70",
-        "onTrackLocation": 0.8093614580275521,
-        "coordIndex": 120,
-        "distanceToNextStop": 0.030987224709638883
+        "location": [
+          20.393378,
+          44.8042263
+        ],
+        "coordIndex": 121,
+        "onTrackLocation": 0.8243515599855009,
+        "distanceToNextStop": 0.029936005926501585
       },
       {
         "id": "136",
         "name": "Gandijeva",
-        "onTrackLocation": 0.840348682737191,
-        "coordIndex": 122,
-        "distanceToNextStop": 0.04779893127784529
+        "location": [
+          20.3871984,
+          44.803299
+        ],
+        "coordIndex": 123,
+        "onTrackLocation": 0.8542875659120025,
+        "distanceToNextStop": 0.03386004810303378
       },
       {
         "id": "138",
         "name": "Nehruova",
-        "onTrackLocation": 0.8881476140150363,
+        "location": [
+          20.3801801,
+          44.8015162
+        ],
         "coordIndex": 125,
+        "onTrackLocation": 0.8881476140150363,
         "distanceToNextStop": 0.02987441640875732
       },
       {
         "id": "140",
         "name": "Oš Branko Radičević",
-        "onTrackLocation": 0.9180220304237936,
+        "location": [
+          20.3754264,
+          44.7997959
+        ],
         "coordIndex": 127,
+        "onTrackLocation": 0.9180220304237936,
         "distanceToNextStop": 0.03161563960410174
       },
       {
         "id": "142",
         "name": "Dr Ivana Ribara",
-        "onTrackLocation": 0.9496376700278953,
+        "location": [
+          20.3716298,
+          44.7969497
+        ],
         "coordIndex": 133,
-        "distanceToNextStop": 0.003573322706483806
+        "onTrackLocation": 0.9496376700278953,
+        "distanceToNextStop": 0.028539171652407713
       },
       {
         "id": "144",
         "name": "Blok 45",
-        "onTrackLocation": 0.9532109927343791,
-        "coordIndex": 134,
+        "location": [
+          20.374039,
+          44.793903
+        ],
+        "coordIndex": 135,
+        "onTrackLocation": 0.978176841680303,
         "distanceToNextStop": 0
       }
     ],
@@ -17099,11 +18393,10 @@
       "id": "00012",
       "name": "12",
       "colors": {
-        "bg": "#FF0000",
+        "bg": "#EE1E23",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "12"
+      "transportType": "tram"
     },
     "origin": "Omladinski Stadion",
     "destination": "Banovo Brdo Ok",
@@ -17111,148 +18404,232 @@
       {
         "id": "550",
         "name": "Omladinski Stadion",
-        "onTrackLocation": 0,
+        "location": [
+          20.4901399,
+          44.8140512
+        ],
         "coordIndex": 0,
-        "distanceToNextStop": 0.03809539620536758
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.06552767246375334
       },
       {
         "id": "77",
         "name": "Vatrogasna Komanda",
-        "onTrackLocation": 0.03809539620536758,
-        "coordIndex": 9,
-        "distanceToNextStop": 0.0407110778601197
+        "location": [
+          20.4878232,
+          44.812013
+        ],
+        "coordIndex": 10,
+        "onTrackLocation": 0.06552767246375334,
+        "distanceToNextStop": 0.013278801601733947
       },
       {
         "id": "79",
         "name": "Novo Groblje",
-        "onTrackLocation": 0.07880647406548728,
+        "location": [
+          20.4847429,
+          44.8098633
+        ],
         "coordIndex": 12,
+        "onTrackLocation": 0.07880647406548728,
         "distanceToNextStop": 0.03720344113069171
       },
       {
         "id": "551",
         "name": "Dalmatinska",
-        "onTrackLocation": 0.116009915196179,
+        "location": [
+          20.4805108,
+          44.8071789
+        ],
         "coordIndex": 14,
+        "onTrackLocation": 0.116009915196179,
         "distanceToNextStop": 0.038348523048228514
       },
       {
         "id": "63",
         "name": "Vukov Spomenik",
-        "onTrackLocation": 0.1543584382444075,
+        "location": [
+          20.4778908,
+          44.8055219
+        ],
         "coordIndex": 15,
+        "onTrackLocation": 0.1543584382444075,
         "distanceToNextStop": 0.059362949228484896
       },
       {
         "id": "109",
         "name": "Pravni Fakultet",
-        "onTrackLocation": 0.2137213874728924,
+        "location": [
+          20.4708758,
+          44.8075868
+        ],
         "coordIndex": 18,
-        "distanceToNextStop": 0.03837941208789028
+        "onTrackLocation": 0.2137213874728924,
+        "distanceToNextStop": 0.05632154624203492
       },
       {
         "id": "111",
         "name": "Tašmajdan",
-        "onTrackLocation": 0.2521007995607827,
-        "coordIndex": 21,
-        "distanceToNextStop": 0.01794213415414464
+        "location": [
+          20.4667588,
+          44.8087623
+        ],
+        "coordIndex": 22,
+        "onTrackLocation": 0.2700429337149273,
+        "distanceToNextStop": 0.02910406387694431
       },
       {
         "id": "113",
         "name": "Rk Beograđanka",
-        "onTrackLocation": 0.2700429337149273,
-        "coordIndex": 22,
-        "distanceToNextStop": 0.04748970224721283
+        "location": [
+          20.4637085,
+          44.8062283
+        ],
+        "coordIndex": 23,
+        "onTrackLocation": 0.29914699759187163,
+        "distanceToNextStop": 0.07500389829279897
       },
       {
         "id": "69",
         "name": "Savski Trg",
-        "onTrackLocation": 0.31753263596214015,
-        "coordIndex": 24,
-        "distanceToNextStop": 0.09897637689085476
+        "location": [
+          20.457218,
+          44.807638
+        ],
+        "coordIndex": 25,
+        "onTrackLocation": 0.3741508958846706,
+        "distanceToNextStop": 0.04235811696832431
       },
       {
         "id": "14",
         "name": "Palata Pravde",
-        "onTrackLocation": 0.4165090128529949,
+        "location": [
+          20.4529576,
+          44.8043401
+        ],
         "coordIndex": 27,
+        "onTrackLocation": 0.4165090128529949,
         "distanceToNextStop": 0.07164827568611193
       },
       {
         "id": "16",
         "name": "Mostar",
-        "onTrackLocation": 0.48815728853910684,
+        "location": [
+          20.4485459,
+          44.7986157
+        ],
         "coordIndex": 32,
+        "onTrackLocation": 0.48815728853910684,
         "distanceToNextStop": 0.042243981967147126
       },
       {
         "id": "18",
         "name": "Sajam",
-        "onTrackLocation": 0.530401270506254,
+        "location": [
+          20.4428016,
+          44.7965092
+        ],
         "coordIndex": 38,
+        "onTrackLocation": 0.530401270506254,
         "distanceToNextStop": 0.045325551170673384
       },
       {
         "id": "20",
         "name": "Ruska",
-        "onTrackLocation": 0.5757268216769273,
+        "location": [
+          20.4377435,
+          44.7951516
+        ],
         "coordIndex": 40,
+        "onTrackLocation": 0.5757268216769273,
         "distanceToNextStop": 0.056683254327117405
       },
       {
         "id": "22",
         "name": "Gospodarska Mehana",
-        "onTrackLocation": 0.6324100760040448,
+        "location": [
+          20.4309756,
+          44.7937116
+        ],
         "coordIndex": 45,
-        "distanceToNextStop": 0.045360461868373836
+        "onTrackLocation": 0.6324100760040448,
+        "distanceToNextStop": 0.09579738210390165
       },
       {
         "id": "177",
         "name": "Hipodrom",
-        "onTrackLocation": 0.6777705378724186,
-        "coordIndex": 59,
-        "distanceToNextStop": 0.1009786774895376
+        "location": [
+          20.4239284,
+          44.7876828
+        ],
+        "coordIndex": 60,
+        "onTrackLocation": 0.7282074581079464,
+        "distanceToNextStop": 0.028532097865275108
       },
       {
         "id": "179",
         "name": "Kneza Višeslava",
-        "onTrackLocation": 0.7787492153619562,
-        "coordIndex": 78,
-        "distanceToNextStop": 0.047217680765218484
+        "location": [
+          20.4210402,
+          44.7830859
+        ],
+        "coordIndex": 68,
+        "onTrackLocation": 0.7567395559732215,
+        "distanceToNextStop": 0.065943242185449
       },
       {
         "id": "181",
         "name": "Škola Josif Pančić",
-        "onTrackLocation": 0.8259668961271747,
-        "coordIndex": 81,
-        "distanceToNextStop": 0.04856968743643786
+        "location": [
+          20.4171353,
+          44.7810389
+        ],
+        "coordIndex": 80,
+        "onTrackLocation": 0.8226827981586705,
+        "distanceToNextStop": 0.05185378540494201
       },
       {
         "id": "183",
         "name": "Dom Zdravlja",
-        "onTrackLocation": 0.8745365835636125,
+        "location": [
+          20.4144755,
+          44.7777676
+        ],
         "coordIndex": 83,
+        "onTrackLocation": 0.8745365835636125,
         "distanceToNextStop": 0.021996957782247195
       },
       {
         "id": "185",
         "name": "Kijevska",
-        "onTrackLocation": 0.8965335413458597,
+        "location": [
+          20.4135524,
+          44.7753902
+        ],
         "coordIndex": 85,
-        "distanceToNextStop": 0.041243976132131044
+        "onTrackLocation": 0.8965335413458597,
+        "distanceToNextStop": 0.04911288787926815
       },
       {
         "id": "187",
         "name": "Trebevićka",
-        "onTrackLocation": 0.9377775174779908,
-        "coordIndex": 88,
-        "distanceToNextStop": 0.049931436200975066
+        "location": [
+          20.4140971,
+          44.7712774
+        ],
+        "coordIndex": 89,
+        "onTrackLocation": 0.9456464292251279,
+        "distanceToNextStop": 0.04104382258077277
       },
       {
         "id": "110",
         "name": "Banovo Brdo Ok",
-        "onTrackLocation": 0.9877089536789658,
-        "coordIndex": 97,
+        "location": [
+          20.4137999,
+          44.768053
+        ],
+        "coordIndex": 96,
+        "onTrackLocation": 0.9866902518059006,
         "distanceToNextStop": 0
       }
     ],
@@ -18358,11 +19735,10 @@
       "id": "00012",
       "name": "12",
       "colors": {
-        "bg": "#FF0000",
+        "bg": "#EE1E23",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "12"
+      "transportType": "tram"
     },
     "origin": "Banovo Brdo",
     "destination": "Omladinski Stadion",
@@ -18370,148 +19746,232 @@
       {
         "id": "189",
         "name": "Banovo Brdo",
-        "onTrackLocation": 0,
+        "location": [
+          20.4130055,
+          44.7685282
+        ],
         "coordIndex": 0,
+        "onTrackLocation": 0,
         "distanceToNextStop": 0.05088845696370943
       },
       {
         "id": "188",
         "name": "Trebevićka",
-        "onTrackLocation": 0.05088845696370943,
+        "location": [
+          20.4142866,
+          44.7715863
+        ],
         "coordIndex": 10,
+        "onTrackLocation": 0.05088845696370943,
         "distanceToNextStop": 0.04730207645909944
       },
       {
         "id": "186",
         "name": "Kijevska",
-        "onTrackLocation": 0.09819053342280887,
+        "location": [
+          20.4137819,
+          44.7759249
+        ],
         "coordIndex": 16,
+        "onTrackLocation": 0.09819053342280887,
         "distanceToNextStop": 0.03893274741902217
       },
       {
         "id": "184",
         "name": "Dom Zdravlja",
-        "onTrackLocation": 0.13712328084183104,
+        "location": [
+          20.4159022,
+          44.779142
+        ],
         "coordIndex": 21,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.13712328084183104,
+        "distanceToNextStop": 0.035433976888282925
       },
       {
         "id": "182",
         "name": "Škola Josif Pančić",
-        "onTrackLocation": 0.13712328084183104,
-        "coordIndex": 21,
-        "distanceToNextStop": 0.03778042195712261
+        "location": [
+          20.4177667,
+          44.7815428
+        ],
+        "coordIndex": 22,
+        "onTrackLocation": 0.17255725773011396,
+        "distanceToNextStop": 0.04785740805402505
       },
       {
         "id": "180",
         "name": "Kneza Višeslava",
-        "onTrackLocation": 0.17490370279895365,
-        "coordIndex": 23,
-        "distanceToNextStop": 0.10236368329731513
+        "location": [
+          20.4226731,
+          44.7834846
+        ],
+        "coordIndex": 24,
+        "onTrackLocation": 0.220414665784139,
+        "distanceToNextStop": 0.05685272031212976
       },
       {
         "id": "178",
         "name": "Hipodrom",
-        "onTrackLocation": 0.2772673860962688,
+        "location": [
+          20.4243942,
+          44.7878619
+        ],
         "coordIndex": 41,
+        "onTrackLocation": 0.2772673860962688,
         "distanceToNextStop": 0.08268781020317423
       },
       {
         "id": "23",
         "name": "Gospodarska Mehana",
-        "onTrackLocation": 0.359955196299443,
+        "location": [
+          20.431366,
+          44.7937709
+        ],
         "coordIndex": 55,
-        "distanceToNextStop": 0.024710898547459392
+        "onTrackLocation": 0.359955196299443,
+        "distanceToNextStop": 0.0626700909224906
       },
       {
         "id": "21",
         "name": "Ruska",
-        "onTrackLocation": 0.3846660948469024,
-        "coordIndex": 57,
-        "distanceToNextStop": 0.0574005081937084
+        "location": [
+          20.4373957,
+          44.795162
+        ],
+        "coordIndex": 58,
+        "onTrackLocation": 0.4226252872219336,
+        "distanceToNextStop": 0.04037376949057864
       },
       {
         "id": "19",
         "name": "Sajam",
-        "onTrackLocation": 0.4420666030406108,
-        "coordIndex": 59,
-        "distanceToNextStop": 0.063472435298569
+        "location": [
+          20.4426205,
+          44.7965425
+        ],
+        "coordIndex": 60,
+        "onTrackLocation": 0.46299905671251224,
+        "distanceToNextStop": 0.04941331941542776
       },
       {
         "id": "17",
         "name": "Mostar",
-        "onTrackLocation": 0.5055390383391798,
-        "coordIndex": 64,
-        "distanceToNextStop": 0.03296502487152764
+        "location": [
+          20.4488534,
+          44.7987781
+        ],
+        "coordIndex": 65,
+        "onTrackLocation": 0.51241237612794,
+        "distanceToNextStop": 0.08630527771379726
       },
       {
         "id": "15",
         "name": "Palata Pravde",
-        "onTrackLocation": 0.5385040632107074,
-        "coordIndex": 68,
-        "distanceToNextStop": 0.087428413698875
+        "location": [
+          20.4533204,
+          44.8046468
+        ],
+        "coordIndex": 69,
+        "onTrackLocation": 0.5987176538417373,
+        "distanceToNextStop": 0.027214823067845173
       },
       {
         "id": "70",
         "name": "Savski Trg",
-        "onTrackLocation": 0.6259324769095824,
+        "location": [
+          20.457861,
+          44.807161
+        ],
         "coordIndex": 70,
+        "onTrackLocation": 0.6259324769095824,
         "distanceToNextStop": 0.05678996829721017
       },
       {
         "id": "114",
         "name": "Rk Beograđanka",
-        "onTrackLocation": 0.6827224452067926,
+        "location": [
+          20.4642308,
+          44.806534
+        ],
         "coordIndex": 71,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.6827224452067926,
+        "distanceToNextStop": 0.06550129633233537
       },
       {
         "id": "112",
         "name": "Tašmajdan",
-        "onTrackLocation": 0.6827224452067926,
-        "coordIndex": 71,
-        "distanceToNextStop": 0.10567229178141535
+        "location": [
+          20.4675287,
+          44.8093014
+        ],
+        "coordIndex": 72,
+        "onTrackLocation": 0.748223741539128,
+        "distanceToNextStop": 0.04017099544907998
       },
       {
         "id": "66",
         "name": "Pravni Fakultet",
-        "onTrackLocation": 0.788394736988208,
+        "location": [
+          20.4732286,
+          44.8063686
+        ],
         "coordIndex": 76,
-        "distanceToNextStop": 0.04590162512269291
+        "onTrackLocation": 0.788394736988208,
+        "distanceToNextStop": 0.06738220276586004
       },
       {
         "id": "64",
         "name": "Vukov Spomenik",
-        "onTrackLocation": 0.8342963621109009,
-        "coordIndex": 77,
-        "distanceToNextStop": 0.02148057764316713
+        "location": [
+          20.4783626,
+          44.8056059
+        ],
+        "coordIndex": 78,
+        "onTrackLocation": 0.855776939754068,
+        "distanceToNextStop": 0
       },
       {
         "id": "553",
         "name": "Dalmatinska",
-        "onTrackLocation": 0.855776939754068,
+        "location": [
+          20.4802449,
+          44.8068004
+        ],
         "coordIndex": 78,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.855776939754068,
+        "distanceToNextStop": 0.07698419331029116
       },
       {
         "id": "80",
         "name": "Novo Groblje",
-        "onTrackLocation": 0.855776939754068,
-        "coordIndex": 78,
-        "distanceToNextStop": 0.09016181657213795
+        "location": [
+          20.4866457,
+          44.8108813
+        ],
+        "coordIndex": 79,
+        "onTrackLocation": 0.9327611330643591,
+        "distanceToNextStop": 0.026407383426316766
       },
       {
         "id": "78",
         "name": "Vatrogasna Komanda",
-        "onTrackLocation": 0.9459387563262059,
-        "coordIndex": 80,
-        "distanceToNextStop": 0.026421813962803076
+        "location": [
+          20.4889325,
+          44.8127674
+        ],
+        "coordIndex": 81,
+        "onTrackLocation": 0.9591685164906759,
+        "distanceToNextStop": 0.02606833419472243
       },
       {
         "id": "76",
         "name": "Omladinski Stadion",
-        "onTrackLocation": 0.972360570289009,
-        "coordIndex": 82,
+        "location": [
+          20.4911811,
+          44.8147182
+        ],
+        "coordIndex": 83,
+        "onTrackLocation": 0.9852368506853983,
         "distanceToNextStop": 0
       }
     ],
@@ -19573,11 +21033,10 @@
       "id": "10013",
       "name": "13",
       "colors": {
-        "bg": "#FF0000",
-        "fg": "#FFFFFF"
+        "bg": "#F8B5B9",
+        "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "13"
+      "transportType": "tram"
     },
     "origin": "Banovo Brdo",
     "destination": "Blok 45",
@@ -19585,141 +21044,221 @@
       {
         "id": "189",
         "name": "Banovo Brdo",
-        "onTrackLocation": 0,
+        "location": [
+          20.4130055,
+          44.7685282
+        ],
         "coordIndex": 0,
+        "onTrackLocation": 0,
         "distanceToNextStop": 0.045867028883808114
       },
       {
         "id": "188",
         "name": "Trebevićka",
-        "onTrackLocation": 0.045867028883808114,
+        "location": [
+          20.4142866,
+          44.7715863
+        ],
         "coordIndex": 9,
+        "onTrackLocation": 0.045867028883808114,
         "distanceToNextStop": 0.04299504967772641
       },
       {
         "id": "186",
         "name": "Kijevska",
-        "onTrackLocation": 0.08886207856153452,
+        "location": [
+          20.4137819,
+          44.7759249
+        ],
         "coordIndex": 14,
+        "onTrackLocation": 0.08886207856153452,
         "distanceToNextStop": 0.035327607663688226
       },
       {
         "id": "184",
         "name": "Dom Zdravlja",
-        "onTrackLocation": 0.12418968622522275,
+        "location": [
+          20.4159022,
+          44.779142
+        ],
         "coordIndex": 19,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.12418968622522275,
+        "distanceToNextStop": 0.027979801733060472
       },
       {
         "id": "182",
         "name": "Škola Josif Pančić",
-        "onTrackLocation": 0.12418968622522275,
-        "coordIndex": 19,
-        "distanceToNextStop": 0.0633629812811353
+        "location": [
+          20.4177667,
+          44.7815428
+        ],
+        "coordIndex": 20,
+        "onTrackLocation": 0.15216948795828322,
+        "distanceToNextStop": 0.03538317954807482
       },
       {
         "id": "180",
         "name": "Kneza Višeslava",
-        "onTrackLocation": 0.18755266750635805,
+        "location": [
+          20.4226731,
+          44.7834846
+        ],
         "coordIndex": 25,
+        "onTrackLocation": 0.18755266750635805,
         "distanceToNextStop": 0.059628948586787855
       },
       {
         "id": "178",
         "name": "Hipodrom",
-        "onTrackLocation": 0.2471816160931459,
+        "location": [
+          20.4243942,
+          44.7878619
+        ],
         "coordIndex": 43,
+        "onTrackLocation": 0.2471816160931459,
         "distanceToNextStop": 0.06434341290179621
       },
       {
         "id": "3029",
         "name": "Petlja Radnička",
-        "onTrackLocation": 0.3115250289949421,
+        "location": [
+          20.426967,
+          44.79249
+        ],
         "coordIndex": 53,
-        "distanceToNextStop": 0.16290572912861034
+        "onTrackLocation": 0.3115250289949421,
+        "distanceToNextStop": 0.18695036810249605
       },
       {
         "id": "3027",
         "name": "Đorđa Stanojevića",
-        "onTrackLocation": 0.47443075812355245,
-        "coordIndex": 58,
-        "distanceToNextStop": 0.08828091827960732
+        "location": [
+          20.415297,
+          44.807294
+        ],
+        "coordIndex": 59,
+        "onTrackLocation": 0.49847539709743816,
+        "distanceToNextStop": 0.08414910898459238
       },
       {
         "id": "126",
         "name": "Železnička Stanica Novi Beograd",
-        "onTrackLocation": 0.5627116764031598,
-        "coordIndex": 68,
-        "distanceToNextStop": 0.04676795583188054
+        "location": [
+          20.4181675,
+          44.8066685
+        ],
+        "coordIndex": 69,
+        "onTrackLocation": 0.5826245060820305,
+        "distanceToNextStop": 0.021813550637653112
       },
       {
         "id": "128",
         "name": "Blok 42",
-        "onTrackLocation": 0.6094796322350403,
-        "coordIndex": 77,
-        "distanceToNextStop": 0
+        "location": [
+          20.416257,
+          44.8039679
+        ],
+        "coordIndex": 74,
+        "onTrackLocation": 0.6044380567196836,
+        "distanceToNextStop": 0.06845301803623605
       },
       {
         "id": "1935",
         "name": "Naselje Belvil",
-        "onTrackLocation": 0.6094796322350403,
-        "coordIndex": 77,
-        "distanceToNextStop": 0.06341144252087938
+        "location": [
+          20.40974,
+          44.80423
+        ],
+        "coordIndex": 78,
+        "onTrackLocation": 0.6728910747559197,
+        "distanceToNextStop": 0.036916329177864804
       },
       {
         "id": "130",
         "name": "Agostina Neta",
-        "onTrackLocation": 0.6728910747559197,
-        "coordIndex": 78,
-        "distanceToNextStop": 0.05986332524868798
+        "location": [
+          20.4027607,
+          44.8045794
+        ],
+        "coordIndex": 79,
+        "onTrackLocation": 0.7098074039337845,
+        "distanceToNextStop": 0.022946996070823178
       },
       {
         "id": "132",
         "name": "Omladinskih Brigada",
-        "onTrackLocation": 0.7327544000046077,
+        "location": [
+          20.3984026,
+          44.8045678
+        ],
         "coordIndex": 81,
-        "distanceToNextStop": 0.018582479811706687
+        "onTrackLocation": 0.7327544000046077,
+        "distanceToNextStop": 0.03822222917133877
       },
       {
         "id": "134",
         "name": "Blok 70",
-        "onTrackLocation": 0.7513368798163144,
-        "coordIndex": 82,
-        "distanceToNextStop": 0.04791632080210295
+        "location": [
+          20.393378,
+          44.8042263
+        ],
+        "coordIndex": 83,
+        "onTrackLocation": 0.7709766291759464,
+        "distanceToNextStop": 0.04263457157197281
       },
       {
         "id": "136",
         "name": "Gandijeva",
-        "onTrackLocation": 0.7992532006184173,
-        "coordIndex": 85,
-        "distanceToNextStop": 0.05995714164250954
+        "location": [
+          20.3871984,
+          44.803299
+        ],
+        "coordIndex": 86,
+        "onTrackLocation": 0.8136112007479193,
+        "distanceToNextStop": 0.04559914151300759
       },
       {
         "id": "138",
         "name": "Nehruova",
-        "onTrackLocation": 0.8592103422609269,
+        "location": [
+          20.3801801,
+          44.8015162
+        ],
         "coordIndex": 90,
+        "onTrackLocation": 0.8592103422609269,
         "distanceToNextStop": 0.0386680394591965
       },
       {
         "id": "140",
         "name": "Oš Branko Radičević",
-        "onTrackLocation": 0.8978783817201234,
+        "location": [
+          20.3754264,
+          44.7997959
+        ],
         "coordIndex": 92,
-        "distanceToNextStop": 0.039472280161540696
+        "onTrackLocation": 0.8978783817201234,
+        "distanceToNextStop": 0.03612719305169554
       },
       {
         "id": "142",
         "name": "Dr Ivana Ribara",
-        "onTrackLocation": 0.937350661881664,
-        "coordIndex": 99,
-        "distanceToNextStop": 0
+        "location": [
+          20.3716298,
+          44.7969497
+        ],
+        "coordIndex": 96,
+        "onTrackLocation": 0.9340055747718189,
+        "distanceToNextStop": 0.04263485967130276
       },
       {
         "id": "144",
         "name": "Blok 45",
-        "onTrackLocation": 0.937350661881664,
-        "coordIndex": 99,
+        "location": [
+          20.374039,
+          44.793903
+        ],
+        "coordIndex": 100,
+        "onTrackLocation": 0.9766404344431217,
         "distanceToNextStop": 0
       }
     ],
@@ -20851,11 +22390,10 @@
       "id": "10013",
       "name": "13",
       "colors": {
-        "bg": "#FF0000",
-        "fg": "#FFFFFF"
+        "bg": "#F8B5B9",
+        "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "13"
+      "transportType": "tram"
     },
     "origin": "Blok 45",
     "destination": "Banovo Brdo Ok",
@@ -20863,141 +22401,221 @@
       {
         "id": "145",
         "name": "Blok 45",
-        "onTrackLocation": 0,
+        "location": [
+          20.374307,
+          44.79375
+        ],
         "coordIndex": 0,
+        "onTrackLocation": 0,
         "distanceToNextStop": 0.0723975089603706
       },
       {
         "id": "143",
         "name": "Dr Ivana Ribara",
-        "onTrackLocation": 0.0723975089603706,
+        "location": [
+          20.3720192,
+          44.7981796
+        ],
         "coordIndex": 17,
-        "distanceToNextStop": 0.030013120784098693
+        "onTrackLocation": 0.0723975089603706,
+        "distanceToNextStop": 0.04667212496558995
       },
       {
         "id": "141",
         "name": "Oš Branko Radičević",
-        "onTrackLocation": 0.1024106297444693,
-        "coordIndex": 19,
-        "distanceToNextStop": 0.03402606021487048
+        "location": [
+          20.3769767,
+          44.8003212
+        ],
+        "coordIndex": 20,
+        "onTrackLocation": 0.11906963392596055,
+        "distanceToNextStop": 0.03323489890106569
       },
       {
         "id": "139",
         "name": "Nehruova",
-        "onTrackLocation": 0.13643668995933977,
-        "coordIndex": 21,
-        "distanceToNextStop": 0.0636979085889261
+        "location": [
+          20.3818127,
+          44.8019202
+        ],
+        "coordIndex": 22,
+        "onTrackLocation": 0.15230453282702625,
+        "distanceToNextStop": 0.04783006572123963
       },
       {
         "id": "137",
         "name": "Gandijeva",
-        "onTrackLocation": 0.20013459854826587,
+        "location": [
+          20.3888872,
+          44.8035326
+        ],
         "coordIndex": 27,
+        "onTrackLocation": 0.20013459854826587,
         "distanceToNextStop": 0.03248309818512288
       },
       {
         "id": "135",
         "name": "Blok 70",
-        "onTrackLocation": 0.23261769673338875,
+        "location": [
+          20.3938915,
+          44.8042017
+        ],
         "coordIndex": 29,
-        "distanceToNextStop": 0.030963678628029317
+        "onTrackLocation": 0.23261769673338875,
+        "distanceToNextStop": 0.04597144803513356
       },
       {
         "id": "133",
         "name": "Omladinskih Brigada",
-        "onTrackLocation": 0.26358137536141807,
-        "coordIndex": 32,
-        "distanceToNextStop": 0.028146146930993377
+        "location": [
+          20.4002405,
+          44.8045221
+        ],
+        "coordIndex": 33,
+        "onTrackLocation": 0.2785891447685223,
+        "distanceToNextStop": 0.013138377523889133
       },
       {
         "id": "131",
         "name": "Agostina Neta",
-        "onTrackLocation": 0.29172752229241145,
+        "location": [
+          20.404725,
+          44.8044091
+        ],
         "coordIndex": 34,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.29172752229241145,
+        "distanceToNextStop": 0.20200434534832662
       },
       {
         "id": "1936",
         "name": "Naselje Belvil",
-        "onTrackLocation": 0.29172752229241145,
-        "coordIndex": 34,
-        "distanceToNextStop": 0.10365644905976873
+        "location": [
+          20.41077,
+          44.80411
+        ],
+        "coordIndex": 50,
+        "onTrackLocation": 0.49373186764073806,
+        "distanceToNextStop": 0.00757041476693443
       },
       {
         "id": "129",
         "name": "Blok 42",
-        "onTrackLocation": 0.3953839713521802,
-        "coordIndex": 38,
-        "distanceToNextStop": 0.019925078107866423
+        "location": [
+          20.4173261,
+          44.8046742
+        ],
+        "coordIndex": 52,
+        "onTrackLocation": 0.5013022824076725,
+        "distanceToNextStop": 0
       },
       {
         "id": "127",
         "name": "Železnička Stanica Novi Beograd",
-        "onTrackLocation": 0.4153090494600466,
-        "coordIndex": 43,
-        "distanceToNextStop": 0.0859932329476259
+        "location": [
+          20.4184967,
+          44.8068986
+        ],
+        "coordIndex": 52,
+        "onTrackLocation": 0.5013022824076725,
+        "distanceToNextStop": 0
       },
       {
         "id": "3028",
         "name": "Đorđa Stanojevića",
-        "onTrackLocation": 0.5013022824076725,
+        "location": [
+          20.415841,
+          44.806892
+        ],
         "coordIndex": 52,
-        "distanceToNextStop": 0.17087795692768104
+        "onTrackLocation": 0.5013022824076725,
+        "distanceToNextStop": 0.18536545948620575
       },
       {
         "id": "3030",
         "name": "Petlja Radnička",
-        "onTrackLocation": 0.6721802393353535,
-        "coordIndex": 59,
-        "distanceToNextStop": 0.08017790125983393
+        "location": [
+          20.426947,
+          44.791959
+        ],
+        "coordIndex": 60,
+        "onTrackLocation": 0.6866677418938782,
+        "distanceToNextStop": 0.06569039870130922
       },
       {
         "id": "177",
         "name": "Hipodrom",
-        "onTrackLocation": 0.7523581405951875,
+        "location": [
+          20.4239284,
+          44.7876828
+        ],
         "coordIndex": 70,
-        "distanceToNextStop": 0.049185119714949876
+        "onTrackLocation": 0.7523581405951875,
+        "distanceToNextStop": 0.06778971286781199
       },
       {
         "id": "179",
         "name": "Kneza Višeslava",
-        "onTrackLocation": 0.8015432603101373,
-        "coordIndex": 86,
-        "distanceToNextStop": 0.04379316288134061
+        "location": [
+          20.4210402,
+          44.7830859
+        ],
+        "coordIndex": 87,
+        "onTrackLocation": 0.8201478534629995,
+        "distanceToNextStop": 0.025188569728478494
       },
       {
         "id": "181",
         "name": "Škola Josif Pančić",
-        "onTrackLocation": 0.845336423191478,
+        "location": [
+          20.4171353,
+          44.7810389
+        ],
         "coordIndex": 90,
-        "distanceToNextStop": 0.03454576624080252
+        "onTrackLocation": 0.845336423191478,
+        "distanceToNextStop": 0.044716638755885385
       },
       {
         "id": "183",
         "name": "Dom Zdravlja",
-        "onTrackLocation": 0.8798821894322805,
-        "coordIndex": 92,
-        "distanceToNextStop": 0.03137374964089068
+        "location": [
+          20.4144755,
+          44.7777676
+        ],
+        "coordIndex": 93,
+        "onTrackLocation": 0.8900530619473633,
+        "distanceToNextStop": 0.021202877125807817
       },
       {
         "id": "185",
         "name": "Kijevska",
-        "onTrackLocation": 0.9112559390731712,
+        "location": [
+          20.4135524,
+          44.7753902
+        ],
         "coordIndex": 98,
+        "onTrackLocation": 0.9112559390731712,
         "distanceToNextStop": 0.039431209901912845
       },
       {
         "id": "187",
         "name": "Trebevićka",
-        "onTrackLocation": 0.950687148975084,
+        "location": [
+          20.4140971,
+          44.7712774
+        ],
         "coordIndex": 104,
+        "onTrackLocation": 0.950687148975084,
         "distanceToNextStop": 0.033190608759071094
       },
       {
         "id": "110",
         "name": "Banovo Brdo Ok",
-        "onTrackLocation": 0.9838777577341551,
+        "location": [
+          20.4137999,
+          44.768053
+        ],
         "coordIndex": 110,
+        "onTrackLocation": 0.9838777577341551,
         "distanceToNextStop": 0
       }
     ],
@@ -22140,11 +23758,10 @@
       "id": "00014",
       "name": "14",
       "colors": {
-        "bg": "#FF0000",
-        "fg": "#FFFFFF"
+        "bg": "#F8B5B9",
+        "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "14"
+      "transportType": "tram"
     },
     "origin": "Banjica",
     "destination": "Ustanička",
@@ -22152,183 +23769,287 @@
       {
         "id": "170",
         "name": "Banjica",
-        "onTrackLocation": 0,
+        "location": [
+          20.4780857,
+          44.756943
+        ],
         "coordIndex": 0,
-        "distanceToNextStop": 0.03317295644120659
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.04049148628871655
       },
       {
         "id": "172",
         "name": "Vračarska",
-        "onTrackLocation": 0.03317295644120659,
-        "coordIndex": 14,
-        "distanceToNextStop": 0.023523879773028784
+        "location": [
+          20.4812971,
+          44.7570279
+        ],
+        "coordIndex": 15,
+        "onTrackLocation": 0.04049148628871655,
+        "distanceToNextStop": 0.016205349925518822
       },
       {
         "id": "542",
         "name": "Bebelova",
-        "onTrackLocation": 0.05669683621423537,
+        "location": [
+          20.4835177,
+          44.7589284
+        ],
         "coordIndex": 21,
+        "onTrackLocation": 0.05669683621423537,
         "distanceToNextStop": 0.03570366980231927
       },
       {
         "id": "174",
         "name": "Voždovac",
-        "onTrackLocation": 0.09240050601655464,
+        "location": [
+          20.484245,
+          44.7614246
+        ],
         "coordIndex": 23,
+        "onTrackLocation": 0.09240050601655464,
         "distanceToNextStop": 0.046369551254973024
       },
       {
         "id": "168",
         "name": "Saobraćajni Fakultet",
-        "onTrackLocation": 0.13877005727152766,
+        "location": [
+          20.4822,
+          44.765949
+        ],
         "coordIndex": 28,
+        "onTrackLocation": 0.13877005727152766,
         "distanceToNextStop": 0.04013199144253421
       },
       {
         "id": "166",
         "name": "Visoka Škola Elektrotehnike",
-        "onTrackLocation": 0.17890204871406187,
+        "location": [
+          20.479081,
+          44.769197
+        ],
         "coordIndex": 35,
-        "distanceToNextStop": 0.029512474639416197
+        "onTrackLocation": 0.17890204871406187,
+        "distanceToNextStop": 0.04038438766499647
       },
       {
         "id": "164",
         "name": "Nikšićka",
-        "onTrackLocation": 0.20841452335347807,
-        "coordIndex": 39,
-        "distanceToNextStop": 0.04946368132217091
+        "location": [
+          20.477096,
+          44.773073
+        ],
+        "coordIndex": 40,
+        "onTrackLocation": 0.21928643637905834,
+        "distanceToNextStop": 0.04708012814554588
       },
       {
         "id": "160",
         "name": "Vitanovačka",
-        "onTrackLocation": 0.257878204675649,
-        "coordIndex": 45,
-        "distanceToNextStop": 0.03794004634769915
+        "location": [
+          20.474586,
+          44.777145
+        ],
+        "coordIndex": 46,
+        "onTrackLocation": 0.2663665645246042,
+        "distanceToNextStop": 0.051683378499292
       },
       {
         "id": "158",
         "name": "Kralja Vladimira",
-        "onTrackLocation": 0.29581825102334813,
-        "coordIndex": 50,
-        "distanceToNextStop": 0.03389119375332578
+        "location": [
+          20.471786,
+          44.781635
+        ],
+        "coordIndex": 51,
+        "onTrackLocation": 0.3180499430238962,
+        "distanceToNextStop": 0.01165950175277769
       },
       {
         "id": "156",
         "name": "Bože Jankovića",
-        "onTrackLocation": 0.3297094447766739,
+        "location": [
+          20.470226,
+          44.783634
+        ],
         "coordIndex": 53,
-        "distanceToNextStop": 0.024729207047302804
+        "onTrackLocation": 0.3297094447766739,
+        "distanceToNextStop": 0.05139758373217257
       },
       {
         "id": "153",
         "name": "Trg Oslobođenja",
-        "onTrackLocation": 0.3544386518239767,
-        "coordIndex": 55,
-        "distanceToNextStop": 0.07554054499847312
+        "location": [
+          20.466259,
+          44.787253
+        ],
+        "coordIndex": 56,
+        "onTrackLocation": 0.3811070285088465,
+        "distanceToNextStop": 0.04668963423577793
       },
       {
         "id": "151",
         "name": "Franše Deperea",
-        "onTrackLocation": 0.42997919682244984,
-        "coordIndex": 63,
-        "distanceToNextStop": 0.04191016540290693
+        "location": [
+          20.4661949,
+          44.7931005
+        ],
+        "coordIndex": 62,
+        "onTrackLocation": 0.4277966627446244,
+        "distanceToNextStop": 0.044092699480732356
       },
       {
         "id": "149",
         "name": "Karađorđev Park",
-        "onTrackLocation": 0.47188936222535677,
+        "location": [
+          20.465707,
+          44.798345
+        ],
         "coordIndex": 71,
+        "onTrackLocation": 0.47188936222535677,
         "distanceToNextStop": 0.0431422153720315
       },
       {
         "id": "147",
         "name": "Trg Slavija /Bulevar Oslobođenja/",
-        "onTrackLocation": 0.5150315775973883,
+        "location": [
+          20.4662564,
+          44.8014387
+        ],
         "coordIndex": 73,
+        "onTrackLocation": 0.5150315775973883,
         "distanceToNextStop": 0.07571799785962308
       },
       {
         "id": "66",
         "name": "Pravni Fakultet",
-        "onTrackLocation": 0.5907495754570113,
+        "location": [
+          20.4732286,
+          44.8063686
+        ],
         "coordIndex": 83,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.5907495754570113,
+        "distanceToNextStop": 0.06689808814338594
       },
       {
         "id": "86",
         "name": "Vukov Spomenik /Bul.Kralja Aleksa./",
-        "onTrackLocation": 0.5907495754570113,
-        "coordIndex": 83,
-        "distanceToNextStop": 0.06689808814338594
+        "location": [
+          20.4787341,
+          44.8040306
+        ],
+        "coordIndex": 84,
+        "onTrackLocation": 0.6576476636003973,
+        "distanceToNextStop": 0
       },
       {
         "id": "87",
         "name": "Go Zvezdara",
-        "onTrackLocation": 0.6576476636003973,
+        "location": [
+          20.4827651,
+          44.8023429
+        ],
         "coordIndex": 84,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.6576476636003973,
+        "distanceToNextStop": 0.06147797811739586
       },
       {
         "id": "89",
         "name": "Pijaca Đeram",
-        "onTrackLocation": 0.6576476636003973,
-        "coordIndex": 84,
-        "distanceToNextStop": 0.06928580371017212
+        "location": [
+          20.4873457,
+          44.8004384
+        ],
+        "coordIndex": 85,
+        "onTrackLocation": 0.7191256417177931,
+        "distanceToNextStop": 0.007807825592776263
       },
       {
         "id": "92",
         "name": "Pop Stojanova",
-        "onTrackLocation": 0.7269334673105694,
+        "location": [
+          20.4916456,
+          44.798647
+        ],
         "coordIndex": 86,
+        "onTrackLocation": 0.7269334673105694,
         "distanceToNextStop": 0
       },
       {
         "id": "94",
         "name": "Lion",
-        "onTrackLocation": 0.7269334673105694,
+        "location": [
+          20.4955096,
+          44.7970072
+        ],
         "coordIndex": 86,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.7269334673105694,
+        "distanceToNextStop": 0.12133238816843483
       },
       {
         "id": "96",
         "name": "Batutova",
-        "onTrackLocation": 0.7269334673105694,
-        "coordIndex": 86,
-        "distanceToNextStop": 0.12378163696874944
+        "location": [
+          20.4998372,
+          44.7951453
+        ],
+        "coordIndex": 87,
+        "onTrackLocation": 0.8482658554790042,
+        "distanceToNextStop": 0.012022432374579006
       },
       {
         "id": "98",
         "name": "Pijaca Zvezdara",
-        "onTrackLocation": 0.8507151042793188,
-        "coordIndex": 89,
-        "distanceToNextStop": 0.03128045070561214
+        "location": [
+          20.5049009,
+          44.7930769
+        ],
+        "coordIndex": 90,
+        "onTrackLocation": 0.8602882878535832,
+        "distanceToNextStop": 0.02170726713134774
       },
       {
         "id": "100",
         "name": "Dr Velizara Kosanovića",
-        "onTrackLocation": 0.881995554984931,
+        "location": [
+          20.5090252,
+          44.7925325
+        ],
         "coordIndex": 93,
+        "onTrackLocation": 0.881995554984931,
         "distanceToNextStop": 0.03932992333976981
       },
       {
         "id": "102",
         "name": "Mite Ružića",
-        "onTrackLocation": 0.9213254783247008,
+        "location": [
+          20.5136638,
+          44.7904937
+        ],
         "coordIndex": 96,
+        "onTrackLocation": 0.9213254783247008,
         "distanceToNextStop": 0.025458078678280538
       },
       {
         "id": "104",
         "name": "Koste Trifkovića",
-        "onTrackLocation": 0.9467835570029813,
+        "location": [
+          20.5162984,
+          44.7886761
+        ],
         "coordIndex": 99,
+        "onTrackLocation": 0.9467835570029813,
         "distanceToNextStop": 0.0357983239459726
       },
       {
         "id": "106",
         "name": "Ustanička",
-        "onTrackLocation": 0.9825818809489539,
+        "location": [
+          20.5176852,
+          44.7849339
+        ],
         "coordIndex": 107,
+        "onTrackLocation": 0.9825818809489539,
         "distanceToNextStop": 0
       }
     ],
@@ -23265,11 +24986,10 @@
       "id": "00014",
       "name": "14",
       "colors": {
-        "bg": "#FF0000",
-        "fg": "#FFFFFF"
+        "bg": "#F8B5B9",
+        "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "14"
+      "transportType": "tram"
     },
     "origin": "Ustanička",
     "destination": "Banjica",
@@ -23277,190 +24997,298 @@
       {
         "id": "107",
         "name": "Ustanička",
-        "onTrackLocation": 0,
+        "location": [
+          20.5185952,
+          44.7845328
+        ],
         "coordIndex": 0,
-        "distanceToNextStop": 0.05965152817211343
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.06711712619177376
       },
       {
         "id": "105",
         "name": "Koste Trifkovića",
-        "onTrackLocation": 0.05965152817211343,
-        "coordIndex": 20,
-        "distanceToNextStop": 0.02911249610810611
+        "location": [
+          20.5158182,
+          44.7893815
+        ],
+        "coordIndex": 21,
+        "onTrackLocation": 0.06711712619177376,
+        "distanceToNextStop": 0.021646898088445776
       },
       {
         "id": "103",
         "name": "Mite Ružića",
-        "onTrackLocation": 0.08876402428021954,
+        "location": [
+          20.512623,
+          44.79109
+        ],
         "coordIndex": 23,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.08876402428021954,
+        "distanceToNextStop": 0.029778595366901958
       },
       {
         "id": "101",
         "name": "Dr Velizara Kosanovića",
-        "onTrackLocation": 0.08876402428021954,
-        "coordIndex": 23,
-        "distanceToNextStop": 0.05888292981948279
+        "location": [
+          20.5107837,
+          44.792018
+        ],
+        "coordIndex": 24,
+        "onTrackLocation": 0.1185426196471215,
+        "distanceToNextStop": 0.02910433445258083
       },
       {
         "id": "99",
         "name": "Pijaca Zvezdara",
-        "onTrackLocation": 0.14764695409970233,
+        "location": [
+          20.5047418,
+          44.7933027
+        ],
         "coordIndex": 28,
-        "distanceToNextStop": 0.04941180216556498
+        "onTrackLocation": 0.14764695409970233,
+        "distanceToNextStop": 0.05680451579949869
       },
       {
         "id": "97",
         "name": "Batutova",
-        "onTrackLocation": 0.1970587562652673,
-        "coordIndex": 31,
-        "distanceToNextStop": 0.007392713633933706
+        "location": [
+          20.4981184,
+          44.795982
+        ],
+        "coordIndex": 32,
+        "onTrackLocation": 0.20445146989920102,
+        "distanceToNextStop": 0
       },
       {
         "id": "95",
         "name": "Lion",
-        "onTrackLocation": 0.20445146989920102,
+        "location": [
+          20.4945356,
+          44.7975106
+        ],
         "coordIndex": 32,
+        "onTrackLocation": 0.20445146989920102,
         "distanceToNextStop": 0
       },
       {
         "id": "93",
         "name": "Pop Stojanova",
-        "onTrackLocation": 0.20445146989920102,
+        "location": [
+          20.4898449,
+          44.7994899
+        ],
         "coordIndex": 32,
-        "distanceToNextStop": 0
+        "onTrackLocation": 0.20445146989920102,
+        "distanceToNextStop": 0.131314314563256
       },
       {
         "id": "90",
         "name": "Pijaca Đeram",
-        "onTrackLocation": 0.20445146989920102,
-        "coordIndex": 32,
+        "location": [
+          20.4861159,
+          44.8010396
+        ],
+        "coordIndex": 33,
+        "onTrackLocation": 0.33576578446245703,
         "distanceToNextStop": 0
       },
       {
         "id": "88",
         "name": "Go Zvezdara",
-        "onTrackLocation": 0.20445146989920102,
-        "coordIndex": 32,
-        "distanceToNextStop": 0.131314314563256
+        "location": [
+          20.4822055,
+          44.8026658
+        ],
+        "coordIndex": 33,
+        "onTrackLocation": 0.33576578446245703,
+        "distanceToNextStop": 0
       },
       {
         "id": "108",
         "name": "Vukov Spomenik /Bul.Kralja Aleksa./",
-        "onTrackLocation": 0.33576578446245703,
+        "location": [
+          20.4776526,
+          44.8045797
+        ],
         "coordIndex": 33,
-        "distanceToNextStop": 0.07834218835766088
+        "onTrackLocation": 0.33576578446245703,
+        "distanceToNextStop": 0.07766824152745261
       },
       {
         "id": "65",
         "name": "Pravni Fakultet",
-        "onTrackLocation": 0.4141079728201179,
-        "coordIndex": 35,
-        "distanceToNextStop": 0.06475731289868641
+        "location": [
+          20.4711145,
+          44.8068231
+        ],
+        "coordIndex": 34,
+        "onTrackLocation": 0.41343402598990964,
+        "distanceToNextStop": 0.06378963428486506
       },
       {
         "id": "146",
         "name": "Trg Slavija /Bulevar Oslobođenja/",
-        "onTrackLocation": 0.4788652857188043,
-        "coordIndex": 48,
-        "distanceToNextStop": 0.046981447438010526
+        "location": [
+          20.4660143,
+          44.8013366
+        ],
+        "coordIndex": 47,
+        "onTrackLocation": 0.4772236602747747,
+        "distanceToNextStop": 0.04862307288204015
       },
       {
         "id": "148",
         "name": "Karađorđev Park",
-        "onTrackLocation": 0.5258467331568148,
+        "location": [
+          20.4652072,
+          44.7969751
+        ],
         "coordIndex": 49,
-        "distanceToNextStop": 0.03581085898979908
+        "onTrackLocation": 0.5258467331568148,
+        "distanceToNextStop": 0.04923082446896776
       },
       {
         "id": "150",
         "name": "Franše Deperea",
-        "onTrackLocation": 0.5616575921466139,
-        "coordIndex": 58,
-        "distanceToNextStop": 0.024507569817987185
+        "location": [
+          20.4662868,
+          44.7926003
+        ],
+        "coordIndex": 59,
+        "onTrackLocation": 0.5750775576257826,
+        "distanceToNextStop": 0.03893213316689004
       },
       {
         "id": "152",
         "name": "Zvečanska",
-        "onTrackLocation": 0.5861651619646011,
-        "coordIndex": 62,
-        "distanceToNextStop": 0.03460903920876701
+        "location": [
+          20.4656455,
+          44.7884554
+        ],
+        "coordIndex": 63,
+        "onTrackLocation": 0.6140096907926726,
+        "distanceToNextStop": 0.0067645103806954765
       },
       {
         "id": "154",
         "name": "Trg Oslobođenja",
-        "onTrackLocation": 0.6207742011733681,
+        "location": [
+          20.46728,
+          44.786299
+        ],
         "coordIndex": 66,
-        "distanceToNextStop": 0.05911882039099381
+        "onTrackLocation": 0.6207742011733681,
+        "distanceToNextStop": 0.06854832834879576
       },
       {
         "id": "157",
         "name": "Kralja Vladimira",
-        "onTrackLocation": 0.6798930215643619,
-        "coordIndex": 69,
-        "distanceToNextStop": 0.04148033022540121
+        "location": [
+          20.471461,
+          44.782021
+        ],
+        "coordIndex": 70,
+        "onTrackLocation": 0.6893225295221639,
+        "distanceToNextStop": 0.032050822267599255
       },
       {
         "id": "159",
         "name": "Vitanovačka",
-        "onTrackLocation": 0.7213733517897631,
+        "location": [
+          20.473901,
+          44.778531
+        ],
         "coordIndex": 72,
-        "distanceToNextStop": 0.03225906722699323
+        "onTrackLocation": 0.7213733517897631,
+        "distanceToNextStop": 0.03677585565756869
       },
       {
         "id": "161",
         "name": "Petrovačka",
-        "onTrackLocation": 0.7536324190167564,
-        "coordIndex": 78,
-        "distanceToNextStop": 0.037809667344336884
+        "location": [
+          20.475421,
+          44.775239
+        ],
+        "coordIndex": 79,
+        "onTrackLocation": 0.7581492074473318,
+        "distanceToNextStop": 0.033292878913761426
       },
       {
         "id": "163",
         "name": "Nikšićka",
-        "onTrackLocation": 0.7914420863610933,
+        "location": [
+          20.477933,
+          44.771439
+        ],
         "coordIndex": 83,
+        "onTrackLocation": 0.7914420863610933,
         "distanceToNextStop": 0.03658587674105185
       },
       {
         "id": "165",
         "name": "Visoka Škola Elektrotehnike",
-        "onTrackLocation": 0.8280279631021451,
+        "location": [
+          20.479632,
+          44.768393
+        ],
         "coordIndex": 87,
+        "onTrackLocation": 0.8280279631021451,
         "distanceToNextStop": 0.0387451037427784
       },
       {
         "id": "167",
         "name": "Saobraćajni Fakultet",
-        "onTrackLocation": 0.8667730668449235,
+        "location": [
+          20.482517,
+          44.765218
+        ],
         "coordIndex": 94,
+        "onTrackLocation": 0.8667730668449235,
         "distanceToNextStop": 0.03782152413079787
       },
       {
         "id": "175",
         "name": "Voždovac",
-        "onTrackLocation": 0.9045945909757214,
+        "location": [
+          20.4840499,
+          44.7611691
+        ],
         "coordIndex": 97,
+        "onTrackLocation": 0.9045945909757214,
         "distanceToNextStop": 0.02330673001188599
       },
       {
         "id": "543",
         "name": "Bebelova",
-        "onTrackLocation": 0.9279013209876074,
+        "location": [
+          20.4833145,
+          44.758677
+        ],
         "coordIndex": 99,
-        "distanceToNextStop": 0.029960266836959404
+        "onTrackLocation": 0.9279013209876074,
+        "distanceToNextStop": 0.03940578442187059
       },
       {
         "id": "173",
         "name": "Vračarska",
-        "onTrackLocation": 0.9578615878245668,
-        "coordIndex": 104,
-        "distanceToNextStop": 0.03176499693751056
+        "location": [
+          20.4808123,
+          44.7572317
+        ],
+        "coordIndex": 105,
+        "onTrackLocation": 0.967307105409478,
+        "distanceToNextStop": 0.018293040011540862
       },
       {
         "id": "171",
         "name": "Banjica",
-        "onTrackLocation": 0.9896265847620773,
-        "coordIndex": 113,
+        "location": [
+          20.4772965,
+          44.7569169
+        ],
+        "coordIndex": 109,
+        "onTrackLocation": 0.9856001454210188,
         "distanceToNextStop": 0
       }
     ],

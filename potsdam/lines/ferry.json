@@ -16,15 +16,23 @@
           {
             "id": "de:12054:900230247::1",
             "name": "Potsdam, Auf dem Kiewitt/Fähre",
-            "onTrackLocation": 0,
+            "location": [
+              13.039221,
+              52.389319
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0
+            "onTrackLocation": 0,
+            "distanceToNextStop": 1
           },
           {
             "id": "de:12054:900230248::1",
             "name": "Potsdam, Hermannswerder/Fähre",
-            "onTrackLocation": 0,
-            "coordIndex": 0,
+            "location": [
+              13.039709,
+              52.387135
+            ],
+            "coordIndex": 1,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
