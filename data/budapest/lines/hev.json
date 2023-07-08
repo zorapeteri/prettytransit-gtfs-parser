@@ -16,120 +16,188 @@
           {
             "id": "09001188",
             "name": "Batthyány tér",
-            "onTrackLocation": 0,
+            "location": [
+              19.039318,
+              47.506776
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.04629246299314503
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.04434840740629225
           },
           {
             "id": "09019190",
             "name": "Margit híd, budai hídfő",
-            "onTrackLocation": 0.04629246299314503,
-            "coordIndex": 36,
-            "distanceToNextStop": 0.06494109259730584
+            "location": [
+              19.03938,
+              47.515376
+            ],
+            "coordIndex": 31,
+            "onTrackLocation": 0.04434840740629225,
+            "distanceToNextStop": 0.06491926035266068
           },
           {
             "id": "09043192",
             "name": "Szépvölgyi út",
-            "onTrackLocation": 0.11123355559045087,
-            "coordIndex": 111,
-            "distanceToNextStop": 0.03924892992505491
+            "location": [
+              19.040168,
+              47.527303
+            ],
+            "coordIndex": 107,
+            "onTrackLocation": 0.10926766775895294,
+            "distanceToNextStop": 0.03968828940654576
           },
           {
             "id": "09050194",
             "name": "Tímár utca",
-            "onTrackLocation": 0.15048248551550578,
-            "coordIndex": 156,
-            "distanceToNextStop": 0.02901643726144218
+            "location": [
+              19.044643,
+              47.533964
+            ],
+            "coordIndex": 152,
+            "onTrackLocation": 0.1489559571654987,
+            "distanceToNextStop": 0.03501758726174181
           },
           {
             "id": "09068196",
             "name": "Szentlélek tér",
-            "onTrackLocation": 0.17949892277694796,
-            "coordIndex": 198,
-            "distanceToNextStop": 0.07097755124293065
+            "location": [
+              19.047161,
+              47.539636
+            ],
+            "coordIndex": 199,
+            "onTrackLocation": 0.1839735444272405,
+            "distanceToNextStop": 0.06451985987064623
           },
           {
             "id": "09118198",
             "name": "Filatorigát",
-            "onTrackLocation": 0.2504764740198786,
-            "coordIndex": 300,
-            "distanceToNextStop": 0.026144567084580406
+            "location": [
+              19.046243,
+              47.551903
+            ],
+            "coordIndex": 295,
+            "onTrackLocation": 0.24849340429788674,
+            "distanceToNextStop": 0.025844942579724695
           },
           {
             "id": "09084200",
             "name": "Kaszásdűlő",
-            "onTrackLocation": 0.276621041104459,
-            "coordIndex": 336,
-            "distanceToNextStop": 0.05906927456755334
+            "location": [
+              19.045133,
+              47.556508
+            ],
+            "coordIndex": 332,
+            "onTrackLocation": 0.27433834687761144,
+            "distanceToNextStop": 0.059582356151754834
           },
           {
             "id": "09100202",
             "name": "Aquincum",
-            "onTrackLocation": 0.33569031567201235,
-            "coordIndex": 423,
-            "distanceToNextStop": 0.04561972634520961
+            "location": [
+              19.048728,
+              47.567255
+            ],
+            "coordIndex": 420,
+            "onTrackLocation": 0.3339207030293663,
+            "distanceToNextStop": 0.045709439400011986
           },
           {
             "id": "09159204",
             "name": "Rómaifürdő",
-            "onTrackLocation": 0.38131004201722196,
-            "coordIndex": 493,
-            "distanceToNextStop": 0.0592247314238773
+            "location": [
+              19.048568,
+              47.575685
+            ],
+            "coordIndex": 490,
+            "onTrackLocation": 0.37963014242937826,
+            "distanceToNextStop": 0.058787645686998236
           },
           {
             "id": "09175206",
             "name": "Csillaghegy",
-            "onTrackLocation": 0.44053477344109926,
-            "coordIndex": 584,
-            "distanceToNextStop": 0.07395549522149136
+            "location": [
+              19.044932,
+              47.585948
+            ],
+            "coordIndex": 580,
+            "onTrackLocation": 0.4384177881163765,
+            "distanceToNextStop": 0.0742446474070026
           },
           {
             "id": "09183208",
             "name": "Békásmegyer",
-            "onTrackLocation": 0.5144902686625906,
-            "coordIndex": 701,
-            "distanceToNextStop": 0.10232271358523604
+            "location": [
+              19.054599,
+              47.598091
+            ],
+            "coordIndex": 698,
+            "onTrackLocation": 0.5126624355233791,
+            "distanceToNextStop": 0.10415054672444757
           },
           {
             "id": "09126211",
             "name": "Budakalász",
+            "location": [
+              19.05492,
+              47.616165
+            ],
+            "coordIndex": 841,
             "onTrackLocation": 0.6168129822478267,
-            "coordIndex": 844,
-            "distanceToNextStop": 0.0414353491036229
+            "distanceToNextStop": 0.03952456260580717
           },
           {
             "id": "09191212",
             "name": "Budakalász, Lenfonó",
-            "onTrackLocation": 0.6582483313514496,
-            "coordIndex": 894,
-            "distanceToNextStop": 0.04034887921070274
+            "location": [
+              19.046912,
+              47.621692
+            ],
+            "coordIndex": 891,
+            "onTrackLocation": 0.6563375448536338,
+            "distanceToNextStop": 0.04040219582421578
           },
           {
             "id": "09209214",
             "name": "Szentistvántelep",
-            "onTrackLocation": 0.6985972105621523,
-            "coordIndex": 954,
-            "distanceToNextStop": 0.08607364802571604
+            "location": [
+              19.043332,
+              47.628802
+            ],
+            "coordIndex": 950,
+            "onTrackLocation": 0.6967397406778496,
+            "distanceToNextStop": 0.08625509000930942
           },
           {
             "id": "09134217",
             "name": "Pomáz",
-            "onTrackLocation": 0.7846708585878683,
-            "coordIndex": 1076,
-            "distanceToNextStop": 0.153467074167279
+            "location": [
+              19.032657,
+              47.642749
+            ],
+            "coordIndex": 1073,
+            "onTrackLocation": 0.782994830687159,
+            "distanceToNextStop": 0.15354679955591122
           },
           {
             "id": "09217220",
             "name": "Pannóniatelep",
-            "onTrackLocation": 0.9381379327551473,
-            "coordIndex": 1286,
-            "distanceToNextStop": 0.058444335204756115
+            "location": [
+              19.064901,
+              47.652191
+            ],
+            "coordIndex": 1284,
+            "onTrackLocation": 0.9365416302430702,
+            "distanceToNextStop": 0.06345836975692976
           },
           {
             "id": "09142223",
             "name": "Szentendre",
-            "onTrackLocation": 0.9965822679599035,
-            "coordIndex": 1357,
+            "location": [
+              19.075607,
+              47.661038
+            ],
+            "coordIndex": 1358,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -5601,127 +5669,199 @@
           {
             "id": "19786277",
             "name": "Ráckeve",
-            "onTrackLocation": 0,
+            "location": [
+              18.941796,
+              47.175605
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.15137294100521026
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.1505714296945387
           },
           {
             "id": "19778273",
             "name": "Szigetszentmárton-Szigetújfalu",
-            "onTrackLocation": 0.15137294100521026,
-            "coordIndex": 196,
-            "distanceToNextStop": 0.12343316982097735
+            "location": [
+              18.946067,
+              47.227924
+            ],
+            "coordIndex": 193,
+            "onTrackLocation": 0.1505714296945387,
+            "distanceToNextStop": 0.12360959100476429
           },
           {
             "id": "19760272",
             "name": "Szigetcsép",
-            "onTrackLocation": 0.2748061108261876,
-            "coordIndex": 392,
-            "distanceToNextStop": 0.1257759737703386
+            "location": [
+              18.956263,
+              47.270231
+            ],
+            "coordIndex": 391,
+            "onTrackLocation": 0.274181020699303,
+            "distanceToNextStop": 0.1254038921121876
           },
           {
             "id": "19752270",
             "name": "Tököl",
-            "onTrackLocation": 0.4005820845965262,
-            "coordIndex": 549,
-            "distanceToNextStop": 0.02787029428754162
+            "location": [
+              18.974254,
+              47.313477
+            ],
+            "coordIndex": 546,
+            "onTrackLocation": 0.3995849128114906,
+            "distanceToNextStop": 0.02793134451997953
           },
           {
             "id": "19751268",
             "name": "Szigethalom alsó",
-            "onTrackLocation": 0.42845237888406784,
-            "coordIndex": 627,
-            "distanceToNextStop": 0.030586793832362236
+            "location": [
+              18.983529,
+              47.321368
+            ],
+            "coordIndex": 624,
+            "onTrackLocation": 0.42751625733147014,
+            "distanceToNextStop": 0.030814730342373753
           },
           {
             "id": "19750266",
             "name": "Szigethalom",
-            "onTrackLocation": 0.4590391727164301,
-            "coordIndex": 711,
-            "distanceToNextStop": 0.022166532489437174
+            "location": [
+              18.993868,
+              47.330041
+            ],
+            "coordIndex": 709,
+            "onTrackLocation": 0.4583309876738439,
+            "distanceToNextStop": 0.022019991187010646
           },
           {
             "id": "19745263",
             "name": "Szigetszentmiklós-Gyártelep",
-            "onTrackLocation": 0.48120570520586725,
-            "coordIndex": 766,
-            "distanceToNextStop": 0.05822775183917939
+            "location": [
+              19.003776,
+              47.333635
+            ],
+            "coordIndex": 764,
+            "onTrackLocation": 0.48035097886085454,
+            "distanceToNextStop": 0.058430934547871405
           },
           {
             "id": "19742260",
             "name": "József Attila-telep",
-            "onTrackLocation": 0.5394334570450466,
-            "coordIndex": 902,
-            "distanceToNextStop": 0.039690710200664725
+            "location": [
+              19.034336,
+              47.337095
+            ],
+            "coordIndex": 900,
+            "onTrackLocation": 0.5387819134087259,
+            "distanceToNextStop": 0.03953145066099628
           },
           {
             "id": "19737258",
             "name": "Szigetszentmiklós",
-            "onTrackLocation": 0.5791241672457114,
-            "coordIndex": 990,
-            "distanceToNextStop": 0.09423279816897345
+            "location": [
+              19.050242,
+              47.344207
+            ],
+            "coordIndex": 988,
+            "onTrackLocation": 0.5783133640697222,
+            "distanceToNextStop": 0.09423913042026777
           },
           {
             "id": "19739256",
             "name": "Dunaharaszti külső",
-            "onTrackLocation": 0.6733569654146848,
-            "coordIndex": 1228,
-            "distanceToNextStop": 0.02219558927505816
+            "location": [
+              19.08613,
+              47.359892
+            ],
+            "coordIndex": 1226,
+            "onTrackLocation": 0.67255249448999,
+            "distanceToNextStop": 0.02197922027078547
           },
           {
             "id": "19736254",
             "name": "Dunaharaszti felső",
-            "onTrackLocation": 0.695552554689743,
-            "coordIndex": 1296,
-            "distanceToNextStop": 0.04305011703290207
+            "location": [
+              19.092656,
+              47.366371
+            ],
+            "coordIndex": 1292,
+            "onTrackLocation": 0.6945317147607755,
+            "distanceToNextStop": 0.04321259582763326
           },
           {
             "id": "19735252",
             "name": "Millenniumtelep",
-            "onTrackLocation": 0.738602671722645,
-            "coordIndex": 1404,
-            "distanceToNextStop": 0.03805618355389684
+            "location": [
+              19.104817,
+              47.379584
+            ],
+            "coordIndex": 1401,
+            "onTrackLocation": 0.7377443105884087,
+            "distanceToNextStop": 0.038186325847485714
           },
           {
             "id": "19734250",
             "name": "Szent István utca",
-            "onTrackLocation": 0.7766588552765419,
-            "coordIndex": 1518,
-            "distanceToNextStop": 0.02188898338410572
+            "location": [
+              19.114857,
+              47.391533
+            ],
+            "coordIndex": 1516,
+            "onTrackLocation": 0.7759306364358944,
+            "distanceToNextStop": 0.02167531457945615
           },
           {
             "id": "19733248",
             "name": "Soroksár, Hősök tere",
-            "onTrackLocation": 0.7985478386606476,
-            "coordIndex": 1582,
-            "distanceToNextStop": 0.029011648858702332
+            "location": [
+              19.114906,
+              47.39908
+            ],
+            "coordIndex": 1579,
+            "onTrackLocation": 0.7976059510153506,
+            "distanceToNextStop": 0.028991110061437397
           },
           {
             "id": "19731246",
             "name": "Soroksár felső",
-            "onTrackLocation": 0.8275594875193499,
-            "coordIndex": 1670,
-            "distanceToNextStop": 0.04068135656611438
+            "location": [
+              19.112017,
+              47.40938
+            ],
+            "coordIndex": 1667,
+            "onTrackLocation": 0.826597061076788,
+            "distanceToNextStop": 0.04060864275863074
           },
           {
             "id": "19730244",
             "name": "Torontál utca",
-            "onTrackLocation": 0.8682408440854643,
-            "coordIndex": 1790,
-            "distanceToNextStop": 0.04869835931659139
+            "location": [
+              19.10538,
+              47.423002
+            ],
+            "coordIndex": 1787,
+            "onTrackLocation": 0.8672057038354187,
+            "distanceToNextStop": 0.04907661751805914
           },
           {
             "id": "19729240",
             "name": "Pesterzsébet felső",
-            "onTrackLocation": 0.9169392034020557,
-            "coordIndex": 1923,
-            "distanceToNextStop": 0.0830607965979443
+            "location": [
+              19.093425,
+              47.438416
+            ],
+            "coordIndex": 1921,
+            "onTrackLocation": 0.9162823213534779,
+            "distanceToNextStop": 0.08263555378424137
           },
           {
             "id": "19720237",
             "name": "Közvágóhíd",
-            "onTrackLocation": 1,
-            "coordIndex": 2175,
+            "location": [
+              19.07717,
+              47.466285
+            ],
+            "coordIndex": 2174,
+            "onTrackLocation": 0.9989178751377192,
             "distanceToNextStop": 0
           }
         ],
@@ -14451,155 +14591,243 @@
           {
             "id": "19786277",
             "name": "Ráckeve",
-            "onTrackLocation": 0,
+            "location": [
+              18.941796,
+              47.175605
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.0674675194347242
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.06689692444007304
           },
           {
             "id": "19785275",
             "name": "Angyalisziget",
-            "onTrackLocation": 0.0674675194347242,
-            "coordIndex": 86,
-            "distanceToNextStop": 0.04144814712162226
+            "location": [
+              18.945066,
+              47.199808
+            ],
+            "coordIndex": 83,
+            "onTrackLocation": 0.06689692444007304,
+            "distanceToNextStop": 0.04121296264170188
           },
           {
             "id": "19784274",
             "name": "Horgásztanyák",
-            "onTrackLocation": 0.10891566655634646,
-            "coordIndex": 142,
-            "distanceToNextStop": 0.0424572744488638
+            "location": [
+              18.952953,
+              47.213582
+            ],
+            "coordIndex": 141,
+            "onTrackLocation": 0.10810988708177492,
+            "distanceToNextStop": 0.04246154261276379
           },
           {
             "id": "19778273",
             "name": "Szigetszentmárton-Szigetújfalu",
-            "onTrackLocation": 0.15137294100521026,
-            "coordIndex": 196,
-            "distanceToNextStop": 0.12343316982097735
+            "location": [
+              18.946067,
+              47.227924
+            ],
+            "coordIndex": 193,
+            "onTrackLocation": 0.1505714296945387,
+            "distanceToNextStop": 0.12360959100476429
           },
           {
             "id": "19760272",
             "name": "Szigetcsép",
-            "onTrackLocation": 0.2748061108261876,
-            "coordIndex": 392,
-            "distanceToNextStop": 0.1257759737703386
+            "location": [
+              18.956263,
+              47.270231
+            ],
+            "coordIndex": 391,
+            "onTrackLocation": 0.274181020699303,
+            "distanceToNextStop": 0.1254038921121876
           },
           {
             "id": "19752270",
             "name": "Tököl",
-            "onTrackLocation": 0.4005820845965262,
-            "coordIndex": 549,
-            "distanceToNextStop": 0.02787029428754162
+            "location": [
+              18.974254,
+              47.313477
+            ],
+            "coordIndex": 546,
+            "onTrackLocation": 0.3995849128114906,
+            "distanceToNextStop": 0.02793134451997953
           },
           {
             "id": "19751268",
             "name": "Szigethalom alsó",
-            "onTrackLocation": 0.42845237888406784,
-            "coordIndex": 627,
-            "distanceToNextStop": 0.030586793832362236
+            "location": [
+              18.983529,
+              47.321368
+            ],
+            "coordIndex": 624,
+            "onTrackLocation": 0.42751625733147014,
+            "distanceToNextStop": 0.030814730342373753
           },
           {
             "id": "19750266",
             "name": "Szigethalom",
-            "onTrackLocation": 0.4590391727164301,
-            "coordIndex": 711,
-            "distanceToNextStop": 0.022166532489437174
+            "location": [
+              18.993868,
+              47.330041
+            ],
+            "coordIndex": 709,
+            "onTrackLocation": 0.4583309876738439,
+            "distanceToNextStop": 0.022019991187010646
           },
           {
             "id": "19745263",
             "name": "Szigetszentmiklós-Gyártelep",
-            "onTrackLocation": 0.48120570520586725,
-            "coordIndex": 766,
-            "distanceToNextStop": 0.030622855523826042
+            "location": [
+              19.003776,
+              47.333635
+            ],
+            "coordIndex": 764,
+            "onTrackLocation": 0.48035097886085454,
+            "distanceToNextStop": 0.030599864197652593
           },
           {
             "id": "19743262",
             "name": "Szigetszentmiklós alsó",
-            "onTrackLocation": 0.5118285607296933,
-            "coordIndex": 838,
-            "distanceToNextStop": 0.027604896315353344
+            "location": [
+              19.019615,
+              47.336444
+            ],
+            "coordIndex": 836,
+            "onTrackLocation": 0.5109508430585071,
+            "distanceToNextStop": 0.02783107035021881
           },
           {
             "id": "19742260",
             "name": "József Attila-telep",
-            "onTrackLocation": 0.5394334570450466,
-            "coordIndex": 902,
-            "distanceToNextStop": 0.039690710200664725
+            "location": [
+              19.034336,
+              47.337095
+            ],
+            "coordIndex": 900,
+            "onTrackLocation": 0.5387819134087259,
+            "distanceToNextStop": 0.03953145066099628
           },
           {
             "id": "19737258",
             "name": "Szigetszentmiklós",
-            "onTrackLocation": 0.5791241672457114,
-            "coordIndex": 990,
-            "distanceToNextStop": 0.09423279816897345
+            "location": [
+              19.050242,
+              47.344207
+            ],
+            "coordIndex": 988,
+            "onTrackLocation": 0.5783133640697222,
+            "distanceToNextStop": 0.09423913042026777
           },
           {
             "id": "19739256",
             "name": "Dunaharaszti külső",
-            "onTrackLocation": 0.6733569654146848,
-            "coordIndex": 1228,
-            "distanceToNextStop": 0.02219558927505816
+            "location": [
+              19.08613,
+              47.359892
+            ],
+            "coordIndex": 1226,
+            "onTrackLocation": 0.67255249448999,
+            "distanceToNextStop": 0.02197922027078547
           },
           {
             "id": "19736254",
             "name": "Dunaharaszti felső",
-            "onTrackLocation": 0.695552554689743,
-            "coordIndex": 1296,
-            "distanceToNextStop": 0.04305011703290207
+            "location": [
+              19.092656,
+              47.366371
+            ],
+            "coordIndex": 1292,
+            "onTrackLocation": 0.6945317147607755,
+            "distanceToNextStop": 0.04321259582763326
           },
           {
             "id": "19735252",
             "name": "Millenniumtelep",
-            "onTrackLocation": 0.738602671722645,
-            "coordIndex": 1404,
-            "distanceToNextStop": 0.03805618355389684
+            "location": [
+              19.104817,
+              47.379584
+            ],
+            "coordIndex": 1401,
+            "onTrackLocation": 0.7377443105884087,
+            "distanceToNextStop": 0.038186325847485714
           },
           {
             "id": "19734250",
             "name": "Szent István utca",
-            "onTrackLocation": 0.7766588552765419,
-            "coordIndex": 1518,
-            "distanceToNextStop": 0.02188898338410572
+            "location": [
+              19.114857,
+              47.391533
+            ],
+            "coordIndex": 1516,
+            "onTrackLocation": 0.7759306364358944,
+            "distanceToNextStop": 0.02167531457945615
           },
           {
             "id": "19733248",
             "name": "Soroksár, Hősök tere",
-            "onTrackLocation": 0.7985478386606476,
-            "coordIndex": 1582,
-            "distanceToNextStop": 0.029011648858702332
+            "location": [
+              19.114906,
+              47.39908
+            ],
+            "coordIndex": 1579,
+            "onTrackLocation": 0.7976059510153506,
+            "distanceToNextStop": 0.028991110061437397
           },
           {
             "id": "19731246",
             "name": "Soroksár felső",
-            "onTrackLocation": 0.8275594875193499,
-            "coordIndex": 1670,
-            "distanceToNextStop": 0.04068135656611438
+            "location": [
+              19.112017,
+              47.40938
+            ],
+            "coordIndex": 1667,
+            "onTrackLocation": 0.826597061076788,
+            "distanceToNextStop": 0.04060864275863074
           },
           {
             "id": "19730244",
             "name": "Torontál utca",
-            "onTrackLocation": 0.8682408440854643,
-            "coordIndex": 1790,
-            "distanceToNextStop": 0.04869835931659139
+            "location": [
+              19.10538,
+              47.423002
+            ],
+            "coordIndex": 1787,
+            "onTrackLocation": 0.8672057038354187,
+            "distanceToNextStop": 0.04907661751805914
           },
           {
             "id": "19729240",
             "name": "Pesterzsébet felső",
-            "onTrackLocation": 0.9169392034020557,
-            "coordIndex": 1923,
-            "distanceToNextStop": 0.04798512774408603
+            "location": [
+              19.093425,
+              47.438416
+            ],
+            "coordIndex": 1921,
+            "onTrackLocation": 0.9162823213534779,
+            "distanceToNextStop": 0.047608565562049066
           },
           {
             "id": "19726239",
             "name": "Kén utca",
-            "onTrackLocation": 0.9649243311461417,
-            "coordIndex": 2072,
-            "distanceToNextStop": 0.035075668853858266
+            "location": [
+              19.086556,
+              47.454906
+            ],
+            "coordIndex": 2069,
+            "onTrackLocation": 0.9638908869155269,
+            "distanceToNextStop": 0.0350269882221923
           },
           {
             "id": "19720236",
             "name": "Közvágóhíd",
-            "onTrackLocation": 1,
-            "coordIndex": 2175,
+            "location": [
+              19.07717,
+              47.466285
+            ],
+            "coordIndex": 2174,
+            "onTrackLocation": 0.9989178751377192,
             "distanceToNextStop": 0
           }
         ],
@@ -23329,148 +23557,232 @@
           {
             "id": "19786277",
             "name": "Ráckeve",
-            "onTrackLocation": 0,
+            "location": [
+              18.941796,
+              47.175605
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.0674675194347242
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.06689692444007304
           },
           {
             "id": "19785275",
             "name": "Angyalisziget",
-            "onTrackLocation": 0.0674675194347242,
-            "coordIndex": 86,
-            "distanceToNextStop": 0.04144814712162226
+            "location": [
+              18.945066,
+              47.199808
+            ],
+            "coordIndex": 83,
+            "onTrackLocation": 0.06689692444007304,
+            "distanceToNextStop": 0.04121296264170188
           },
           {
             "id": "19784274",
             "name": "Horgásztanyák",
-            "onTrackLocation": 0.10891566655634646,
-            "coordIndex": 142,
-            "distanceToNextStop": 0.0424572744488638
+            "location": [
+              18.952953,
+              47.213582
+            ],
+            "coordIndex": 141,
+            "onTrackLocation": 0.10810988708177492,
+            "distanceToNextStop": 0.04246154261276379
           },
           {
             "id": "19778273",
             "name": "Szigetszentmárton-Szigetújfalu",
-            "onTrackLocation": 0.15137294100521026,
-            "coordIndex": 196,
-            "distanceToNextStop": 0.12343316982097735
+            "location": [
+              18.946067,
+              47.227924
+            ],
+            "coordIndex": 193,
+            "onTrackLocation": 0.1505714296945387,
+            "distanceToNextStop": 0.12360959100476429
           },
           {
             "id": "19760272",
             "name": "Szigetcsép",
-            "onTrackLocation": 0.2748061108261876,
-            "coordIndex": 392,
-            "distanceToNextStop": 0.1257759737703386
+            "location": [
+              18.956263,
+              47.270231
+            ],
+            "coordIndex": 391,
+            "onTrackLocation": 0.274181020699303,
+            "distanceToNextStop": 0.1254038921121876
           },
           {
             "id": "19752270",
             "name": "Tököl",
-            "onTrackLocation": 0.4005820845965262,
-            "coordIndex": 549,
-            "distanceToNextStop": 0.02787029428754162
+            "location": [
+              18.974254,
+              47.313477
+            ],
+            "coordIndex": 546,
+            "onTrackLocation": 0.3995849128114906,
+            "distanceToNextStop": 0.02793134451997953
           },
           {
             "id": "19751268",
             "name": "Szigethalom alsó",
-            "onTrackLocation": 0.42845237888406784,
-            "coordIndex": 627,
-            "distanceToNextStop": 0.030586793832362236
+            "location": [
+              18.983529,
+              47.321368
+            ],
+            "coordIndex": 624,
+            "onTrackLocation": 0.42751625733147014,
+            "distanceToNextStop": 0.030814730342373753
           },
           {
             "id": "19750266",
             "name": "Szigethalom",
-            "onTrackLocation": 0.4590391727164301,
-            "coordIndex": 711,
-            "distanceToNextStop": 0.022166532489437174
+            "location": [
+              18.993868,
+              47.330041
+            ],
+            "coordIndex": 709,
+            "onTrackLocation": 0.4583309876738439,
+            "distanceToNextStop": 0.022019991187010646
           },
           {
             "id": "19745263",
             "name": "Szigetszentmiklós-Gyártelep",
-            "onTrackLocation": 0.48120570520586725,
-            "coordIndex": 766,
-            "distanceToNextStop": 0.030622855523826042
+            "location": [
+              19.003776,
+              47.333635
+            ],
+            "coordIndex": 764,
+            "onTrackLocation": 0.48035097886085454,
+            "distanceToNextStop": 0.030599864197652593
           },
           {
             "id": "19743262",
             "name": "Szigetszentmiklós alsó",
-            "onTrackLocation": 0.5118285607296933,
-            "coordIndex": 838,
-            "distanceToNextStop": 0.027604896315353344
+            "location": [
+              19.019615,
+              47.336444
+            ],
+            "coordIndex": 836,
+            "onTrackLocation": 0.5109508430585071,
+            "distanceToNextStop": 0.02783107035021881
           },
           {
             "id": "19742260",
             "name": "József Attila-telep",
-            "onTrackLocation": 0.5394334570450466,
-            "coordIndex": 902,
-            "distanceToNextStop": 0.039690710200664725
+            "location": [
+              19.034336,
+              47.337095
+            ],
+            "coordIndex": 900,
+            "onTrackLocation": 0.5387819134087259,
+            "distanceToNextStop": 0.03953145066099628
           },
           {
             "id": "19737258",
             "name": "Szigetszentmiklós",
-            "onTrackLocation": 0.5791241672457114,
-            "coordIndex": 990,
-            "distanceToNextStop": 0.09423279816897345
+            "location": [
+              19.050242,
+              47.344207
+            ],
+            "coordIndex": 988,
+            "onTrackLocation": 0.5783133640697222,
+            "distanceToNextStop": 0.09423913042026777
           },
           {
             "id": "19739256",
             "name": "Dunaharaszti külső",
-            "onTrackLocation": 0.6733569654146848,
-            "coordIndex": 1228,
-            "distanceToNextStop": 0.02219558927505816
+            "location": [
+              19.08613,
+              47.359892
+            ],
+            "coordIndex": 1226,
+            "onTrackLocation": 0.67255249448999,
+            "distanceToNextStop": 0.02197922027078547
           },
           {
             "id": "19736254",
             "name": "Dunaharaszti felső",
-            "onTrackLocation": 0.695552554689743,
-            "coordIndex": 1296,
-            "distanceToNextStop": 0.04305011703290207
+            "location": [
+              19.092656,
+              47.366371
+            ],
+            "coordIndex": 1292,
+            "onTrackLocation": 0.6945317147607755,
+            "distanceToNextStop": 0.04321259582763326
           },
           {
             "id": "19735252",
             "name": "Millenniumtelep",
-            "onTrackLocation": 0.738602671722645,
-            "coordIndex": 1404,
-            "distanceToNextStop": 0.03805618355389684
+            "location": [
+              19.104817,
+              47.379584
+            ],
+            "coordIndex": 1401,
+            "onTrackLocation": 0.7377443105884087,
+            "distanceToNextStop": 0.038186325847485714
           },
           {
             "id": "19734250",
             "name": "Szent István utca",
-            "onTrackLocation": 0.7766588552765419,
-            "coordIndex": 1518,
-            "distanceToNextStop": 0.02188898338410572
+            "location": [
+              19.114857,
+              47.391533
+            ],
+            "coordIndex": 1516,
+            "onTrackLocation": 0.7759306364358944,
+            "distanceToNextStop": 0.02167531457945615
           },
           {
             "id": "19733248",
             "name": "Soroksár, Hősök tere",
-            "onTrackLocation": 0.7985478386606476,
-            "coordIndex": 1582,
-            "distanceToNextStop": 0.029011648858702332
+            "location": [
+              19.114906,
+              47.39908
+            ],
+            "coordIndex": 1579,
+            "onTrackLocation": 0.7976059510153506,
+            "distanceToNextStop": 0.028991110061437397
           },
           {
             "id": "19731246",
             "name": "Soroksár felső",
-            "onTrackLocation": 0.8275594875193499,
-            "coordIndex": 1670,
-            "distanceToNextStop": 0.04068135656611438
+            "location": [
+              19.112017,
+              47.40938
+            ],
+            "coordIndex": 1667,
+            "onTrackLocation": 0.826597061076788,
+            "distanceToNextStop": 0.04060864275863074
           },
           {
             "id": "19730244",
             "name": "Torontál utca",
-            "onTrackLocation": 0.8682408440854643,
-            "coordIndex": 1790,
-            "distanceToNextStop": 0.04869835931659139
+            "location": [
+              19.10538,
+              47.423002
+            ],
+            "coordIndex": 1787,
+            "onTrackLocation": 0.8672057038354187,
+            "distanceToNextStop": 0.04907661751805914
           },
           {
             "id": "19729240",
             "name": "Pesterzsébet felső",
-            "onTrackLocation": 0.9169392034020557,
-            "coordIndex": 1923,
-            "distanceToNextStop": 0.0830607965979443
+            "location": [
+              19.093425,
+              47.438416
+            ],
+            "coordIndex": 1921,
+            "onTrackLocation": 0.9162823213534779,
+            "distanceToNextStop": 0.08263555378424137
           },
           {
             "id": "19720237",
             "name": "Közvágóhíd",
-            "onTrackLocation": 1,
-            "coordIndex": 2175,
+            "location": [
+              19.07717,
+              47.466285
+            ],
+            "coordIndex": 2174,
+            "onTrackLocation": 0.9989178751377192,
             "distanceToNextStop": 0
           }
         ],
@@ -32200,134 +32512,210 @@
           {
             "id": "19786277",
             "name": "Ráckeve",
-            "onTrackLocation": 0,
+            "location": [
+              18.941796,
+              47.175605
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.15137294100521026
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.1505714296945387
           },
           {
             "id": "19778273",
             "name": "Szigetszentmárton-Szigetújfalu",
-            "onTrackLocation": 0.15137294100521026,
-            "coordIndex": 196,
-            "distanceToNextStop": 0.12343316982097735
+            "location": [
+              18.946067,
+              47.227924
+            ],
+            "coordIndex": 193,
+            "onTrackLocation": 0.1505714296945387,
+            "distanceToNextStop": 0.12360959100476429
           },
           {
             "id": "19760272",
             "name": "Szigetcsép",
-            "onTrackLocation": 0.2748061108261876,
-            "coordIndex": 392,
-            "distanceToNextStop": 0.1257759737703386
+            "location": [
+              18.956263,
+              47.270231
+            ],
+            "coordIndex": 391,
+            "onTrackLocation": 0.274181020699303,
+            "distanceToNextStop": 0.1254038921121876
           },
           {
             "id": "19752270",
             "name": "Tököl",
-            "onTrackLocation": 0.4005820845965262,
-            "coordIndex": 549,
-            "distanceToNextStop": 0.02787029428754162
+            "location": [
+              18.974254,
+              47.313477
+            ],
+            "coordIndex": 546,
+            "onTrackLocation": 0.3995849128114906,
+            "distanceToNextStop": 0.02793134451997953
           },
           {
             "id": "19751268",
             "name": "Szigethalom alsó",
-            "onTrackLocation": 0.42845237888406784,
-            "coordIndex": 627,
-            "distanceToNextStop": 0.030586793832362236
+            "location": [
+              18.983529,
+              47.321368
+            ],
+            "coordIndex": 624,
+            "onTrackLocation": 0.42751625733147014,
+            "distanceToNextStop": 0.030814730342373753
           },
           {
             "id": "19750266",
             "name": "Szigethalom",
-            "onTrackLocation": 0.4590391727164301,
-            "coordIndex": 711,
-            "distanceToNextStop": 0.022166532489437174
+            "location": [
+              18.993868,
+              47.330041
+            ],
+            "coordIndex": 709,
+            "onTrackLocation": 0.4583309876738439,
+            "distanceToNextStop": 0.022019991187010646
           },
           {
             "id": "19745263",
             "name": "Szigetszentmiklós-Gyártelep",
-            "onTrackLocation": 0.48120570520586725,
-            "coordIndex": 766,
-            "distanceToNextStop": 0.05822775183917939
+            "location": [
+              19.003776,
+              47.333635
+            ],
+            "coordIndex": 764,
+            "onTrackLocation": 0.48035097886085454,
+            "distanceToNextStop": 0.058430934547871405
           },
           {
             "id": "19742260",
             "name": "József Attila-telep",
-            "onTrackLocation": 0.5394334570450466,
-            "coordIndex": 902,
-            "distanceToNextStop": 0.039690710200664725
+            "location": [
+              19.034336,
+              47.337095
+            ],
+            "coordIndex": 900,
+            "onTrackLocation": 0.5387819134087259,
+            "distanceToNextStop": 0.03953145066099628
           },
           {
             "id": "19737258",
             "name": "Szigetszentmiklós",
-            "onTrackLocation": 0.5791241672457114,
-            "coordIndex": 990,
-            "distanceToNextStop": 0.09423279816897345
+            "location": [
+              19.050242,
+              47.344207
+            ],
+            "coordIndex": 988,
+            "onTrackLocation": 0.5783133640697222,
+            "distanceToNextStop": 0.09423913042026777
           },
           {
             "id": "19739256",
             "name": "Dunaharaszti külső",
-            "onTrackLocation": 0.6733569654146848,
-            "coordIndex": 1228,
-            "distanceToNextStop": 0.02219558927505816
+            "location": [
+              19.08613,
+              47.359892
+            ],
+            "coordIndex": 1226,
+            "onTrackLocation": 0.67255249448999,
+            "distanceToNextStop": 0.02197922027078547
           },
           {
             "id": "19736254",
             "name": "Dunaharaszti felső",
-            "onTrackLocation": 0.695552554689743,
-            "coordIndex": 1296,
-            "distanceToNextStop": 0.04305011703290207
+            "location": [
+              19.092656,
+              47.366371
+            ],
+            "coordIndex": 1292,
+            "onTrackLocation": 0.6945317147607755,
+            "distanceToNextStop": 0.04321259582763326
           },
           {
             "id": "19735252",
             "name": "Millenniumtelep",
-            "onTrackLocation": 0.738602671722645,
-            "coordIndex": 1404,
-            "distanceToNextStop": 0.03805618355389684
+            "location": [
+              19.104817,
+              47.379584
+            ],
+            "coordIndex": 1401,
+            "onTrackLocation": 0.7377443105884087,
+            "distanceToNextStop": 0.038186325847485714
           },
           {
             "id": "19734250",
             "name": "Szent István utca",
-            "onTrackLocation": 0.7766588552765419,
-            "coordIndex": 1518,
-            "distanceToNextStop": 0.02188898338410572
+            "location": [
+              19.114857,
+              47.391533
+            ],
+            "coordIndex": 1516,
+            "onTrackLocation": 0.7759306364358944,
+            "distanceToNextStop": 0.02167531457945615
           },
           {
             "id": "19733248",
             "name": "Soroksár, Hősök tere",
-            "onTrackLocation": 0.7985478386606476,
-            "coordIndex": 1582,
-            "distanceToNextStop": 0.029011648858702332
+            "location": [
+              19.114906,
+              47.39908
+            ],
+            "coordIndex": 1579,
+            "onTrackLocation": 0.7976059510153506,
+            "distanceToNextStop": 0.028991110061437397
           },
           {
             "id": "19731246",
             "name": "Soroksár felső",
-            "onTrackLocation": 0.8275594875193499,
-            "coordIndex": 1670,
-            "distanceToNextStop": 0.04068135656611438
+            "location": [
+              19.112017,
+              47.40938
+            ],
+            "coordIndex": 1667,
+            "onTrackLocation": 0.826597061076788,
+            "distanceToNextStop": 0.04060864275863074
           },
           {
             "id": "19730244",
             "name": "Torontál utca",
-            "onTrackLocation": 0.8682408440854643,
-            "coordIndex": 1790,
-            "distanceToNextStop": 0.04869835931659139
+            "location": [
+              19.10538,
+              47.423002
+            ],
+            "coordIndex": 1787,
+            "onTrackLocation": 0.8672057038354187,
+            "distanceToNextStop": 0.04907661751805914
           },
           {
             "id": "19729240",
             "name": "Pesterzsébet felső",
-            "onTrackLocation": 0.9169392034020557,
-            "coordIndex": 1923,
-            "distanceToNextStop": 0.04798512774408603
+            "location": [
+              19.093425,
+              47.438416
+            ],
+            "coordIndex": 1921,
+            "onTrackLocation": 0.9162823213534779,
+            "distanceToNextStop": 0.047608565562049066
           },
           {
             "id": "19726239",
             "name": "Kén utca",
-            "onTrackLocation": 0.9649243311461417,
-            "coordIndex": 2072,
-            "distanceToNextStop": 0.035075668853858266
+            "location": [
+              19.086556,
+              47.454906
+            ],
+            "coordIndex": 2069,
+            "onTrackLocation": 0.9638908869155269,
+            "distanceToNextStop": 0.0350269882221923
           },
           {
             "id": "19720236",
             "name": "Közvágóhíd",
-            "onTrackLocation": 1,
-            "coordIndex": 2175,
+            "location": [
+              19.07717,
+              47.466285
+            ],
+            "coordIndex": 2174,
+            "onTrackLocation": 0.9989178751377192,
             "distanceToNextStop": 0
           }
         ],
@@ -41057,134 +41445,210 @@
           {
             "id": "19720236",
             "name": "Közvágóhíd",
-            "onTrackLocation": 0,
+            "location": [
+              19.07717,
+              47.466285
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.08274476426695208
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.08181933765581074
           },
           {
             "id": "19729241",
             "name": "Pesterzsébet felső",
-            "onTrackLocation": 0.08274476426695208,
-            "coordIndex": 252,
-            "distanceToNextStop": 0.04764387504540708
+            "location": [
+              19.093425,
+              47.438416
+            ],
+            "coordIndex": 249,
+            "onTrackLocation": 0.08181933765581074,
+            "distanceToNextStop": 0.047572728287631885
           },
           {
             "id": "19730243",
             "name": "Torontál utca",
-            "onTrackLocation": 0.13038863931235917,
-            "coordIndex": 381,
-            "distanceToNextStop": 0.03995406924695674
+            "location": [
+              19.105036,
+              47.42338
+            ],
+            "coordIndex": 378,
+            "onTrackLocation": 0.12939206594344263,
+            "distanceToNextStop": 0.040209146447515
           },
           {
             "id": "19731245",
             "name": "Soroksár felső",
-            "onTrackLocation": 0.1703427085593159,
-            "coordIndex": 497,
-            "distanceToNextStop": 0.029434362103642753
+            "location": [
+              19.111832,
+              47.409938
+            ],
+            "coordIndex": 495,
+            "onTrackLocation": 0.16960121239095763,
+            "distanceToNextStop": 0.02951589122781409
           },
           {
             "id": "19733247",
             "name": "Soroksár, Hősök tere",
-            "onTrackLocation": 0.19977707066295866,
-            "coordIndex": 588,
-            "distanceToNextStop": 0.02242416544046344
+            "location": [
+              19.114655,
+              47.399538
+            ],
+            "coordIndex": 586,
+            "onTrackLocation": 0.19911710361877172,
+            "distanceToNextStop": 0.021952941710109697
           },
           {
             "id": "19734249",
             "name": "Szent István utca",
-            "onTrackLocation": 0.2222012361034221,
-            "coordIndex": 652,
-            "distanceToNextStop": 0.03791311048631743
+            "location": [
+              19.114963,
+              47.391812
+            ],
+            "coordIndex": 648,
+            "onTrackLocation": 0.22107004532888141,
+            "distanceToNextStop": 0.038013500064102146
           },
           {
             "id": "19735251",
             "name": "Millenniumtelep",
-            "onTrackLocation": 0.26011434658973953,
-            "coordIndex": 767,
-            "distanceToNextStop": 0.043983432583765525
+            "location": [
+              19.104976,
+              47.379898
+            ],
+            "coordIndex": 764,
+            "onTrackLocation": 0.25908354539298356,
+            "distanceToNextStop": 0.0443005462476635
           },
           {
             "id": "19736253",
             "name": "Dunaharaszti felső",
-            "onTrackLocation": 0.30409777917350506,
-            "coordIndex": 879,
-            "distanceToNextStop": 0.022075304953229513
+            "location": [
+              19.092656,
+              47.366371
+            ],
+            "coordIndex": 877,
+            "onTrackLocation": 0.30338409164064706,
+            "distanceToNextStop": 0.02185491924644939
           },
           {
             "id": "19739255",
             "name": "Dunaharaszti külső",
-            "onTrackLocation": 0.32617308412673457,
-            "coordIndex": 947,
-            "distanceToNextStop": 0.09421479348071188
+            "location": [
+              19.08613,
+              47.359892
+            ],
+            "coordIndex": 944,
+            "onTrackLocation": 0.32523901088709645,
+            "distanceToNextStop": 0.09425095175484399
           },
           {
             "id": "19737257",
             "name": "Szigetszentmiklós",
-            "onTrackLocation": 0.42038787760744645,
-            "coordIndex": 1185,
-            "distanceToNextStop": 0.03971337159559246
+            "location": [
+              19.050242,
+              47.344207
+            ],
+            "coordIndex": 1181,
+            "onTrackLocation": 0.41948996264194044,
+            "distanceToNextStop": 0.03970168566335991
           },
           {
             "id": "19742259",
             "name": "József Attila-telep",
-            "onTrackLocation": 0.4601012492030389,
-            "coordIndex": 1273,
-            "distanceToNextStop": 0.027710473125707846
+            "location": [
+              19.034336,
+              47.337095
+            ],
+            "coordIndex": 1271,
+            "onTrackLocation": 0.45919164830530035,
+            "distanceToNextStop": 0.027714215145319188
           },
           {
             "id": "19743261",
             "name": "Szigetszentmiklós alsó",
-            "onTrackLocation": 0.48781172232874676,
-            "coordIndex": 1337,
-            "distanceToNextStop": 0.030725294292764105
+            "location": [
+              19.019615,
+              47.336444
+            ],
+            "coordIndex": 1334,
+            "onTrackLocation": 0.48690586345061954,
+            "distanceToNextStop": 0.030622413085369893
           },
           {
             "id": "19745264",
             "name": "Szigetszentmiklós-Gyártelep",
-            "onTrackLocation": 0.5185370166215109,
-            "coordIndex": 1409,
-            "distanceToNextStop": 0.021821706857468204
+            "location": [
+              19.003776,
+              47.333635
+            ],
+            "coordIndex": 1406,
+            "onTrackLocation": 0.5175282765359894,
+            "distanceToNextStop": 0.022171374998668614
           },
           {
             "id": "19750265",
             "name": "Szigethalom",
-            "onTrackLocation": 0.5403587234789791,
-            "coordIndex": 1464,
-            "distanceToNextStop": 0.031032517077664745
+            "location": [
+              18.993868,
+              47.330041
+            ],
+            "coordIndex": 1462,
+            "onTrackLocation": 0.539699651534658,
+            "distanceToNextStop": 0.03079337969346363
           },
           {
             "id": "19751267",
             "name": "Szigethalom alsó",
-            "onTrackLocation": 0.5713912405566438,
-            "coordIndex": 1548,
-            "distanceToNextStop": 0.027643703850899093
+            "location": [
+              18.983529,
+              47.321368
+            ],
+            "coordIndex": 1544,
+            "onTrackLocation": 0.5704930312281217,
+            "distanceToNextStop": 0.027777000856974654
           },
           {
             "id": "19752269",
             "name": "Tököl",
-            "onTrackLocation": 0.5990349444075429,
-            "coordIndex": 1626,
-            "distanceToNextStop": 0.12550472912849742
+            "location": [
+              18.974254,
+              47.313477
+            ],
+            "coordIndex": 1624,
+            "onTrackLocation": 0.5982700320850963,
+            "distanceToNextStop": 0.12559065539475034
           },
           {
             "id": "19760271",
             "name": "Szigetcsép",
-            "onTrackLocation": 0.7245396735360403,
-            "coordIndex": 1783,
-            "distanceToNextStop": 0.12370504862588783
+            "location": [
+              18.956263,
+              47.270231
+            ],
+            "coordIndex": 1781,
+            "onTrackLocation": 0.7238606874798467,
+            "distanceToNextStop": 0.12380898062836143
           },
           {
             "id": "19778273",
             "name": "Szigetszentmárton-Szigetújfalu",
-            "onTrackLocation": 0.8482447221619281,
-            "coordIndex": 1979,
-            "distanceToNextStop": 0.15175527783807186
+            "location": [
+              18.946067,
+              47.227924
+            ],
+            "coordIndex": 1978,
+            "onTrackLocation": 0.8476696681082081,
+            "distanceToNextStop": 0.1523303318917919
           },
           {
             "id": "19786277",
             "name": "Ráckeve",
-            "onTrackLocation": 1,
+            "location": [
+              18.941796,
+              47.175605
+            ],
             "coordIndex": 2176,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -49914,141 +50378,221 @@
           {
             "id": "19720237",
             "name": "Közvágóhíd",
-            "onTrackLocation": 0,
+            "location": [
+              19.07717,
+              47.466285
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.08274476426695208
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.08181933765581074
           },
           {
             "id": "19729241",
             "name": "Pesterzsébet felső",
-            "onTrackLocation": 0.08274476426695208,
-            "coordIndex": 252,
-            "distanceToNextStop": 0.04764387504540708
+            "location": [
+              19.093425,
+              47.438416
+            ],
+            "coordIndex": 249,
+            "onTrackLocation": 0.08181933765581074,
+            "distanceToNextStop": 0.047572728287631885
           },
           {
             "id": "19730243",
             "name": "Torontál utca",
-            "onTrackLocation": 0.13038863931235917,
-            "coordIndex": 381,
-            "distanceToNextStop": 0.03995406924695674
+            "location": [
+              19.105036,
+              47.42338
+            ],
+            "coordIndex": 378,
+            "onTrackLocation": 0.12939206594344263,
+            "distanceToNextStop": 0.040209146447515
           },
           {
             "id": "19731245",
             "name": "Soroksár felső",
-            "onTrackLocation": 0.1703427085593159,
-            "coordIndex": 497,
-            "distanceToNextStop": 0.029434362103642753
+            "location": [
+              19.111832,
+              47.409938
+            ],
+            "coordIndex": 495,
+            "onTrackLocation": 0.16960121239095763,
+            "distanceToNextStop": 0.02951589122781409
           },
           {
             "id": "19733247",
             "name": "Soroksár, Hősök tere",
-            "onTrackLocation": 0.19977707066295866,
-            "coordIndex": 588,
-            "distanceToNextStop": 0.02242416544046344
+            "location": [
+              19.114655,
+              47.399538
+            ],
+            "coordIndex": 586,
+            "onTrackLocation": 0.19911710361877172,
+            "distanceToNextStop": 0.021952941710109697
           },
           {
             "id": "19734249",
             "name": "Szent István utca",
-            "onTrackLocation": 0.2222012361034221,
-            "coordIndex": 652,
-            "distanceToNextStop": 0.03791311048631743
+            "location": [
+              19.114963,
+              47.391812
+            ],
+            "coordIndex": 648,
+            "onTrackLocation": 0.22107004532888141,
+            "distanceToNextStop": 0.038013500064102146
           },
           {
             "id": "19735251",
             "name": "Millenniumtelep",
-            "onTrackLocation": 0.26011434658973953,
-            "coordIndex": 767,
-            "distanceToNextStop": 0.043983432583765525
+            "location": [
+              19.104976,
+              47.379898
+            ],
+            "coordIndex": 764,
+            "onTrackLocation": 0.25908354539298356,
+            "distanceToNextStop": 0.0443005462476635
           },
           {
             "id": "19736253",
             "name": "Dunaharaszti felső",
-            "onTrackLocation": 0.30409777917350506,
-            "coordIndex": 879,
-            "distanceToNextStop": 0.022075304953229513
+            "location": [
+              19.092656,
+              47.366371
+            ],
+            "coordIndex": 877,
+            "onTrackLocation": 0.30338409164064706,
+            "distanceToNextStop": 0.02185491924644939
           },
           {
             "id": "19739255",
             "name": "Dunaharaszti külső",
-            "onTrackLocation": 0.32617308412673457,
-            "coordIndex": 947,
-            "distanceToNextStop": 0.09421479348071188
+            "location": [
+              19.08613,
+              47.359892
+            ],
+            "coordIndex": 944,
+            "onTrackLocation": 0.32523901088709645,
+            "distanceToNextStop": 0.09425095175484399
           },
           {
             "id": "19737257",
             "name": "Szigetszentmiklós",
-            "onTrackLocation": 0.42038787760744645,
-            "coordIndex": 1185,
-            "distanceToNextStop": 0.03971337159559246
+            "location": [
+              19.050242,
+              47.344207
+            ],
+            "coordIndex": 1181,
+            "onTrackLocation": 0.41948996264194044,
+            "distanceToNextStop": 0.03970168566335991
           },
           {
             "id": "19742259",
             "name": "József Attila-telep",
-            "onTrackLocation": 0.4601012492030389,
-            "coordIndex": 1273,
-            "distanceToNextStop": 0.05843576741847195
+            "location": [
+              19.034336,
+              47.337095
+            ],
+            "coordIndex": 1271,
+            "onTrackLocation": 0.45919164830530035,
+            "distanceToNextStop": 0.05833662823068908
           },
           {
             "id": "19745264",
             "name": "Szigetszentmiklós-Gyártelep",
-            "onTrackLocation": 0.5185370166215109,
-            "coordIndex": 1409,
-            "distanceToNextStop": 0.021821706857468204
+            "location": [
+              19.003776,
+              47.333635
+            ],
+            "coordIndex": 1406,
+            "onTrackLocation": 0.5175282765359894,
+            "distanceToNextStop": 0.022171374998668614
           },
           {
             "id": "19750265",
             "name": "Szigethalom",
-            "onTrackLocation": 0.5403587234789791,
-            "coordIndex": 1464,
-            "distanceToNextStop": 0.031032517077664745
+            "location": [
+              18.993868,
+              47.330041
+            ],
+            "coordIndex": 1462,
+            "onTrackLocation": 0.539699651534658,
+            "distanceToNextStop": 0.03079337969346363
           },
           {
             "id": "19751267",
             "name": "Szigethalom alsó",
-            "onTrackLocation": 0.5713912405566438,
-            "coordIndex": 1548,
-            "distanceToNextStop": 0.027643703850899093
+            "location": [
+              18.983529,
+              47.321368
+            ],
+            "coordIndex": 1544,
+            "onTrackLocation": 0.5704930312281217,
+            "distanceToNextStop": 0.027777000856974654
           },
           {
             "id": "19752269",
             "name": "Tököl",
-            "onTrackLocation": 0.5990349444075429,
-            "coordIndex": 1626,
-            "distanceToNextStop": 0.12550472912849742
+            "location": [
+              18.974254,
+              47.313477
+            ],
+            "coordIndex": 1624,
+            "onTrackLocation": 0.5982700320850963,
+            "distanceToNextStop": 0.12559065539475034
           },
           {
             "id": "19760271",
             "name": "Szigetcsép",
-            "onTrackLocation": 0.7245396735360403,
-            "coordIndex": 1783,
-            "distanceToNextStop": 0.12370504862588783
+            "location": [
+              18.956263,
+              47.270231
+            ],
+            "coordIndex": 1781,
+            "onTrackLocation": 0.7238606874798467,
+            "distanceToNextStop": 0.12380898062836143
           },
           {
             "id": "19778273",
             "name": "Szigetszentmárton-Szigetújfalu",
-            "onTrackLocation": 0.8482447221619281,
-            "coordIndex": 1979,
-            "distanceToNextStop": 0.04264391006868329
+            "location": [
+              18.946067,
+              47.227924
+            ],
+            "coordIndex": 1978,
+            "onTrackLocation": 0.8476696681082081,
+            "distanceToNextStop": 0.04260708508857325
           },
           {
             "id": "19784274",
             "name": "Horgásztanyák",
-            "onTrackLocation": 0.8908886322306114,
-            "coordIndex": 2033,
-            "distanceToNextStop": 0.04108596078544102
+            "location": [
+              18.952953,
+              47.213582
+            ],
+            "coordIndex": 2031,
+            "onTrackLocation": 0.8902767531967813,
+            "distanceToNextStop": 0.041152469052273766
           },
           {
             "id": "19785275",
             "name": "Angyalisziget",
-            "onTrackLocation": 0.9319745930160525,
-            "coordIndex": 2089,
-            "distanceToNextStop": 0.06802540698394755
+            "location": [
+              18.945066,
+              47.199808
+            ],
+            "coordIndex": 2088,
+            "onTrackLocation": 0.9314292222490551,
+            "distanceToNextStop": 0.06857077775094489
           },
           {
             "id": "19786277",
             "name": "Ráckeve",
-            "onTrackLocation": 1,
+            "location": [
+              18.941796,
+              47.175605
+            ],
             "coordIndex": 2176,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -58778,141 +59322,221 @@
           {
             "id": "19720236",
             "name": "Közvágóhíd",
-            "onTrackLocation": 0,
+            "location": [
+              19.07717,
+              47.466285
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.03472045817808237
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.03365543273132112
           },
           {
             "id": "19726238",
             "name": "Kén utca",
-            "onTrackLocation": 0.03472045817808237,
-            "coordIndex": 103,
-            "distanceToNextStop": 0.04802430608886971
+            "location": [
+              19.086556,
+              47.454906
+            ],
+            "coordIndex": 99,
+            "onTrackLocation": 0.03365543273132112,
+            "distanceToNextStop": 0.048163904924489624
           },
           {
             "id": "19729241",
             "name": "Pesterzsébet felső",
-            "onTrackLocation": 0.08274476426695208,
-            "coordIndex": 252,
-            "distanceToNextStop": 0.04764387504540708
+            "location": [
+              19.093425,
+              47.438416
+            ],
+            "coordIndex": 249,
+            "onTrackLocation": 0.08181933765581074,
+            "distanceToNextStop": 0.047572728287631885
           },
           {
             "id": "19730243",
             "name": "Torontál utca",
-            "onTrackLocation": 0.13038863931235917,
-            "coordIndex": 381,
-            "distanceToNextStop": 0.03995406924695674
+            "location": [
+              19.105036,
+              47.42338
+            ],
+            "coordIndex": 378,
+            "onTrackLocation": 0.12939206594344263,
+            "distanceToNextStop": 0.040209146447515
           },
           {
             "id": "19731245",
             "name": "Soroksár felső",
-            "onTrackLocation": 0.1703427085593159,
-            "coordIndex": 497,
-            "distanceToNextStop": 0.029434362103642753
+            "location": [
+              19.111832,
+              47.409938
+            ],
+            "coordIndex": 495,
+            "onTrackLocation": 0.16960121239095763,
+            "distanceToNextStop": 0.02951589122781409
           },
           {
             "id": "19733247",
             "name": "Soroksár, Hősök tere",
-            "onTrackLocation": 0.19977707066295866,
-            "coordIndex": 588,
-            "distanceToNextStop": 0.02242416544046344
+            "location": [
+              19.114655,
+              47.399538
+            ],
+            "coordIndex": 586,
+            "onTrackLocation": 0.19911710361877172,
+            "distanceToNextStop": 0.021952941710109697
           },
           {
             "id": "19734249",
             "name": "Szent István utca",
-            "onTrackLocation": 0.2222012361034221,
-            "coordIndex": 652,
-            "distanceToNextStop": 0.03791311048631743
+            "location": [
+              19.114963,
+              47.391812
+            ],
+            "coordIndex": 648,
+            "onTrackLocation": 0.22107004532888141,
+            "distanceToNextStop": 0.038013500064102146
           },
           {
             "id": "19735251",
             "name": "Millenniumtelep",
-            "onTrackLocation": 0.26011434658973953,
-            "coordIndex": 767,
-            "distanceToNextStop": 0.043983432583765525
+            "location": [
+              19.104976,
+              47.379898
+            ],
+            "coordIndex": 764,
+            "onTrackLocation": 0.25908354539298356,
+            "distanceToNextStop": 0.0443005462476635
           },
           {
             "id": "19736253",
             "name": "Dunaharaszti felső",
-            "onTrackLocation": 0.30409777917350506,
-            "coordIndex": 879,
-            "distanceToNextStop": 0.022075304953229513
+            "location": [
+              19.092656,
+              47.366371
+            ],
+            "coordIndex": 877,
+            "onTrackLocation": 0.30338409164064706,
+            "distanceToNextStop": 0.02185491924644939
           },
           {
             "id": "19739255",
             "name": "Dunaharaszti külső",
-            "onTrackLocation": 0.32617308412673457,
-            "coordIndex": 947,
-            "distanceToNextStop": 0.09421479348071188
+            "location": [
+              19.08613,
+              47.359892
+            ],
+            "coordIndex": 944,
+            "onTrackLocation": 0.32523901088709645,
+            "distanceToNextStop": 0.09425095175484399
           },
           {
             "id": "19737257",
             "name": "Szigetszentmiklós",
-            "onTrackLocation": 0.42038787760744645,
-            "coordIndex": 1185,
-            "distanceToNextStop": 0.03971337159559246
+            "location": [
+              19.050242,
+              47.344207
+            ],
+            "coordIndex": 1181,
+            "onTrackLocation": 0.41948996264194044,
+            "distanceToNextStop": 0.03970168566335991
           },
           {
             "id": "19742259",
             "name": "József Attila-telep",
-            "onTrackLocation": 0.4601012492030389,
-            "coordIndex": 1273,
-            "distanceToNextStop": 0.027710473125707846
+            "location": [
+              19.034336,
+              47.337095
+            ],
+            "coordIndex": 1271,
+            "onTrackLocation": 0.45919164830530035,
+            "distanceToNextStop": 0.027714215145319188
           },
           {
             "id": "19743261",
             "name": "Szigetszentmiklós alsó",
-            "onTrackLocation": 0.48781172232874676,
-            "coordIndex": 1337,
-            "distanceToNextStop": 0.030725294292764105
+            "location": [
+              19.019615,
+              47.336444
+            ],
+            "coordIndex": 1334,
+            "onTrackLocation": 0.48690586345061954,
+            "distanceToNextStop": 0.030622413085369893
           },
           {
             "id": "19745264",
             "name": "Szigetszentmiklós-Gyártelep",
-            "onTrackLocation": 0.5185370166215109,
-            "coordIndex": 1409,
-            "distanceToNextStop": 0.021821706857468204
+            "location": [
+              19.003776,
+              47.333635
+            ],
+            "coordIndex": 1406,
+            "onTrackLocation": 0.5175282765359894,
+            "distanceToNextStop": 0.022171374998668614
           },
           {
             "id": "19750265",
             "name": "Szigethalom",
-            "onTrackLocation": 0.5403587234789791,
-            "coordIndex": 1464,
-            "distanceToNextStop": 0.031032517077664745
+            "location": [
+              18.993868,
+              47.330041
+            ],
+            "coordIndex": 1462,
+            "onTrackLocation": 0.539699651534658,
+            "distanceToNextStop": 0.03079337969346363
           },
           {
             "id": "19751267",
             "name": "Szigethalom alsó",
-            "onTrackLocation": 0.5713912405566438,
-            "coordIndex": 1548,
-            "distanceToNextStop": 0.027643703850899093
+            "location": [
+              18.983529,
+              47.321368
+            ],
+            "coordIndex": 1544,
+            "onTrackLocation": 0.5704930312281217,
+            "distanceToNextStop": 0.027777000856974654
           },
           {
             "id": "19752269",
             "name": "Tököl",
-            "onTrackLocation": 0.5990349444075429,
-            "coordIndex": 1626,
-            "distanceToNextStop": 0.12550472912849742
+            "location": [
+              18.974254,
+              47.313477
+            ],
+            "coordIndex": 1624,
+            "onTrackLocation": 0.5982700320850963,
+            "distanceToNextStop": 0.12559065539475034
           },
           {
             "id": "19760271",
             "name": "Szigetcsép",
-            "onTrackLocation": 0.7245396735360403,
-            "coordIndex": 1783,
-            "distanceToNextStop": 0.12370504862588783
+            "location": [
+              18.956263,
+              47.270231
+            ],
+            "coordIndex": 1781,
+            "onTrackLocation": 0.7238606874798467,
+            "distanceToNextStop": 0.12380898062836143
           },
           {
             "id": "19778273",
             "name": "Szigetszentmárton-Szigetújfalu",
-            "onTrackLocation": 0.8482447221619281,
-            "coordIndex": 1979,
-            "distanceToNextStop": 0.15175527783807186
+            "location": [
+              18.946067,
+              47.227924
+            ],
+            "coordIndex": 1978,
+            "onTrackLocation": 0.8476696681082081,
+            "distanceToNextStop": 0.1523303318917919
           },
           {
             "id": "19786277",
             "name": "Ráckeve",
-            "onTrackLocation": 1,
+            "location": [
+              18.941796,
+              47.175605
+            ],
             "coordIndex": 2176,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -67656,44 +68280,68 @@
           {
             "id": "09220224",
             "name": "Boráros tér",
-            "onTrackLocation": 1,
-            "coordIndex": 354,
+            "location": [
+              19.066433,
+              47.479179
+            ],
+            "coordIndex": 352,
+            "onTrackLocation": 0.9977901817963921,
             "distanceToNextStop": 0
           },
           {
             "id": "09221227",
             "name": "Müpa - Nemzeti Színház",
-            "onTrackLocation": 0.8459215587209492,
-            "coordIndex": 302,
-            "distanceToNextStop": 0.1540784412790508
+            "location": [
+              19.070098,
+              47.469554
+            ],
+            "coordIndex": 299,
+            "onTrackLocation": 0.8404736811180099,
+            "distanceToNextStop": 0.1573165006783822
           },
           {
             "id": "09223228",
             "name": "Szabadkikötő",
-            "onTrackLocation": 0.40338087556282476,
-            "coordIndex": 150,
-            "distanceToNextStop": 0.44254068315812445
+            "location": [
+              19.071612,
+              47.444476
+            ],
+            "coordIndex": 148,
+            "onTrackLocation": 0.3978266497233067,
+            "distanceToNextStop": 0.4426470313947032
           },
           {
             "id": "09224230",
             "name": "Szent Imre tér",
-            "onTrackLocation": 0.16104923009221994,
-            "coordIndex": 58,
-            "distanceToNextStop": 0.24233164547060482
+            "location": [
+              19.067656,
+              47.431322
+            ],
+            "coordIndex": 54,
+            "onTrackLocation": 0.15447952561803532,
+            "distanceToNextStop": 0.2433471241052714
           },
           {
             "id": "09225232",
             "name": "Karácsony Sándor utca",
-            "onTrackLocation": 0.0809899311043384,
-            "coordIndex": 29,
-            "distanceToNextStop": 0.08005929898788154
+            "location": [
+              19.067283,
+              47.426802
+            ],
+            "coordIndex": 28,
+            "onTrackLocation": 0.0781675645548477,
+            "distanceToNextStop": 0.07631196106318762
           },
           {
             "id": "09226543",
             "name": "Csepel",
-            "onTrackLocation": 0,
+            "location": [
+              19.065803,
+              47.421171
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.0809899311043384
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.0781675645548477
           }
         ],
         "lineString": {
@@ -69134,37 +69782,57 @@
           {
             "id": "09226543",
             "name": "Csepel",
-            "onTrackLocation": 1,
-            "coordIndex": 354,
+            "location": [
+              19.065803,
+              47.421171
+            ],
+            "coordIndex": 352,
+            "onTrackLocation": 0.9950135174803646,
             "distanceToNextStop": 0
           },
           {
             "id": "09225233",
             "name": "Karácsony Sándor utca",
-            "onTrackLocation": 0.9160841122486955,
-            "coordIndex": 324,
-            "distanceToNextStop": 0.08391588775130454
+            "location": [
+              19.067283,
+              47.426802
+            ],
+            "coordIndex": 322,
+            "onTrackLocation": 0.9097161556424671,
+            "distanceToNextStop": 0.08529736183789749
           },
           {
             "id": "09224231",
             "name": "Szent Imre tér",
-            "onTrackLocation": 0.8372469288819075,
-            "coordIndex": 295,
-            "distanceToNextStop": 0.07883718336678791
+            "location": [
+              19.067656,
+              47.431322
+            ],
+            "coordIndex": 293,
+            "onTrackLocation": 0.8325484965342919,
+            "distanceToNextStop": 0.07716765910817525
           },
           {
             "id": "09221226",
             "name": "Müpa - Nemzeti Színház",
-            "onTrackLocation": 0.15144851643552826,
-            "coordIndex": 51,
-            "distanceToNextStop": 0.6857984124463793
+            "location": [
+              19.070098,
+              47.469554
+            ],
+            "coordIndex": 48,
+            "onTrackLocation": 0.14553386021130135,
+            "distanceToNextStop": 0.6870146363229905
           },
           {
             "id": "09220224",
             "name": "Boráros tér",
-            "onTrackLocation": 0,
+            "location": [
+              19.066433,
+              47.479179
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.15144851643552826
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.14553386021130135
           }
         ],
         "lineString": {
@@ -70619,142 +71287,222 @@
           {
             "id": "19870325",
             "name": "Gödöllő",
-            "onTrackLocation": 1,
-            "coordIndex": 1704,
+            "location": [
+              19.357787,
+              47.593341
+            ],
+            "coordIndex": 1703,
+            "onTrackLocation": 0.9990144579352757,
             "distanceToNextStop": 0
           },
           {
             "id": "19869324",
             "name": "Gödöllő, Palotakert",
-            "onTrackLocation": 0.9770295989042949,
+            "location": [
+              19.356661,
+              47.598525
+            ],
             "coordIndex": 1675,
-            "distanceToNextStop": 0.02297040109570514
+            "onTrackLocation": 0.9770295989042949,
+            "distanceToNextStop": 0.021984859030980797
           },
           {
             "id": "19868321",
             "name": "Gödöllő, Szabadság tér",
-            "onTrackLocation": 0.9428009249942101,
-            "coordIndex": 1605,
-            "distanceToNextStop": 0.03422867391008477
+            "location": [
+              19.347599,
+              47.597505
+            ],
+            "coordIndex": 1602,
+            "onTrackLocation": 0.9413122590204934,
+            "distanceToNextStop": 0.035717339883801436
           },
           {
             "id": "19867319",
             "name": "Gödöllő, Erzsébet park",
-            "onTrackLocation": 0.9189141136543383,
-            "coordIndex": 1560,
-            "distanceToNextStop": 0.023886811339871805
+            "location": [
+              19.340771,
+              47.595072
+            ],
+            "coordIndex": 1557,
+            "onTrackLocation": 0.9176971857692524,
+            "distanceToNextStop": 0.023615073251241014
           },
           {
             "id": "19865317",
             "name": "Szentjakab",
-            "onTrackLocation": 0.7522106891951965,
-            "coordIndex": 1276,
-            "distanceToNextStop": 0.16670342445914177
+            "location": [
+              19.290352,
+              47.597338
+            ],
+            "coordIndex": 1273,
+            "onTrackLocation": 0.7504902650965085,
+            "distanceToNextStop": 0.1672069206727439
           },
           {
             "id": "19851314",
             "name": "Mogyoród",
-            "onTrackLocation": 0.6916798384910222,
-            "coordIndex": 1165,
-            "distanceToNextStop": 0.0605308507041743
+            "location": [
+              19.271853,
+              47.597029
+            ],
+            "coordIndex": 1162,
+            "onTrackLocation": 0.6901759213769095,
+            "distanceToNextStop": 0.060314343719598984
           },
           {
             "id": "19849312",
             "name": "Szilasliget",
-            "onTrackLocation": 0.5571746277994386,
-            "coordIndex": 958,
-            "distanceToNextStop": 0.1345052106915836
+            "location": [
+              19.275036,
+              47.568488
+            ],
+            "coordIndex": 954,
+            "onTrackLocation": 0.5552924150509436,
+            "distanceToNextStop": 0.1348835063259659
           },
           {
             "id": "19848311",
             "name": "Kerepes",
-            "onTrackLocation": 0.4808431989914088,
-            "coordIndex": 853,
-            "distanceToNextStop": 0.07633142880802979
+            "location": [
+              19.271377,
+              47.553433
+            ],
+            "coordIndex": 849,
+            "onTrackLocation": 0.47901321191917284,
+            "distanceToNextStop": 0.07627920313177078
           },
           {
             "id": "19847308",
             "name": "Zsófialiget",
-            "onTrackLocation": 0.44856455648849314,
-            "coordIndex": 790,
-            "distanceToNextStop": 0.03227864250291568
+            "location": [
+              19.264069,
+              47.548442
+            ],
+            "coordIndex": 788,
+            "onTrackLocation": 0.4473815542258883,
+            "distanceToNextStop": 0.03163165769328452
           },
           {
             "id": "19845306",
             "name": "Kistarcsa",
-            "onTrackLocation": 0.4310812939972949,
-            "coordIndex": 761,
-            "distanceToNextStop": 0.017483262491198248
+            "location": [
+              19.259801,
+              47.545832
+            ],
+            "coordIndex": 758,
+            "onTrackLocation": 0.4293302828830243,
+            "distanceToNextStop": 0.01805127134286405
           },
           {
             "id": "19843304",
             "name": "Kistarcsa, kórház",
-            "onTrackLocation": 0.38593034241138974,
-            "coordIndex": 679,
-            "distanceToNextStop": 0.04515095158590515
+            "location": [
+              19.249034,
+              47.539065
+            ],
+            "coordIndex": 677,
+            "onTrackLocation": 0.3853737745203333,
+            "distanceToNextStop": 0.043956508362690994
           },
           {
             "id": "19841302",
             "name": "Ilonatelep",
-            "onTrackLocation": 0.3031089744819021,
-            "coordIndex": 537,
-            "distanceToNextStop": 0.08282136792948763
+            "location": [
+              19.229403,
+              47.526627
+            ],
+            "coordIndex": 534,
+            "onTrackLocation": 0.30166285189860165,
+            "distanceToNextStop": 0.08371092262173163
           },
           {
             "id": "19828293",
             "name": "Cinkota",
-            "onTrackLocation": 0.25330458612324896,
-            "coordIndex": 441,
-            "distanceToNextStop": 0.04980438835865314
+            "location": [
+              19.217338,
+              47.519435
+            ],
+            "coordIndex": 439,
+            "onTrackLocation": 0.25218076887600377,
+            "distanceToNextStop": 0.04948208302259788
           },
           {
             "id": "19826291",
             "name": "Mátyásföld alsó",
-            "onTrackLocation": 0.2193335317462801,
-            "coordIndex": 379,
-            "distanceToNextStop": 0.03397105437696887
+            "location": [
+              19.207456,
+              47.515986
+            ],
+            "coordIndex": 375,
+            "onTrackLocation": 0.21785151061084934,
+            "distanceToNextStop": 0.03432925826515443
           },
           {
             "id": "19825289",
             "name": "Mátyásföld, Imre utca",
-            "onTrackLocation": 0.19244102583735997,
-            "coordIndex": 332,
-            "distanceToNextStop": 0.026892505908920117
+            "location": [
+              19.199582,
+              47.513546
+            ],
+            "coordIndex": 330,
+            "onTrackLocation": 0.19129532669504404,
+            "distanceToNextStop": 0.026556183915805304
           },
           {
             "id": "19824287",
             "name": "Mátyásföld, repülőtér",
-            "onTrackLocation": 0.17383671479579577,
-            "coordIndex": 296,
-            "distanceToNextStop": 0.01860431104156421
+            "location": [
+              19.194054,
+              47.511857
+            ],
+            "coordIndex": 293,
+            "onTrackLocation": 0.17224905711598706,
+            "distanceToNextStop": 0.019046269579056974
           },
           {
             "id": "19823285",
             "name": "Sashalom",
-            "onTrackLocation": 0.12449342762954707,
-            "coordIndex": 208,
-            "distanceToNextStop": 0.049343287166248695
+            "location": [
+              19.178647,
+              47.508952
+            ],
+            "coordIndex": 206,
+            "onTrackLocation": 0.12338387889423802,
+            "distanceToNextStop": 0.048865178221749045
           },
           {
             "id": "19810283",
             "name": "Nagyicce",
-            "onTrackLocation": 0.08977051072529733,
-            "coordIndex": 147,
-            "distanceToNextStop": 0.03472291690424974
+            "location": [
+              19.16769,
+              47.507017
+            ],
+            "coordIndex": 144,
+            "onTrackLocation": 0.08824060228849324,
+            "distanceToNextStop": 0.035143276605744775
           },
           {
             "id": "19798281",
             "name": "Rákosfalva",
-            "onTrackLocation": 0.03889117775902685,
-            "coordIndex": 68,
-            "distanceToNextStop": 0.05087933296627049
+            "location": [
+              19.151378,
+              47.505067
+            ],
+            "coordIndex": 64,
+            "onTrackLocation": 0.03757071133019794,
+            "distanceToNextStop": 0.050669890958295306
           },
           {
             "id": "19795278",
             "name": "Örs vezér tere",
-            "onTrackLocation": 0,
+            "location": [
+              19.137192,
+              47.503585
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.03889117775902685
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.03757071133019794
           }
         ],
         "lineString": {
@@ -77613,86 +78361,134 @@
           {
             "id": "19795279",
             "name": "Örs vezér tere",
-            "onTrackLocation": 1,
+            "location": [
+              19.137192,
+              47.503585
+            ],
             "coordIndex": 629,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           },
           {
             "id": "19798282",
             "name": "Rákosfalva",
-            "onTrackLocation": 0.9093441416106975,
-            "coordIndex": 560,
-            "distanceToNextStop": 0.09065585838930246
+            "location": [
+              19.151378,
+              47.505067
+            ],
+            "coordIndex": 557,
+            "onTrackLocation": 0.9054170788728091,
+            "distanceToNextStop": 0.09458292112719091
           },
           {
             "id": "19810284",
             "name": "Nagyicce",
-            "onTrackLocation": 0.7914813859542119,
-            "coordIndex": 481,
-            "distanceToNextStop": 0.11786275565648563
+            "location": [
+              19.16769,
+              47.507017
+            ],
+            "coordIndex": 477,
+            "onTrackLocation": 0.7879271017823767,
+            "distanceToNextStop": 0.11748997709043241
           },
           {
             "id": "19823286",
             "name": "Sashalom",
-            "onTrackLocation": 0.7111796616948647,
-            "coordIndex": 420,
-            "distanceToNextStop": 0.08030172425934723
+            "location": [
+              19.178647,
+              47.508952
+            ],
+            "coordIndex": 416,
+            "onTrackLocation": 0.7073448585555497,
+            "distanceToNextStop": 0.08058224322682694
           },
           {
             "id": "19824288",
             "name": "Mátyásföld, repülőtér",
-            "onTrackLocation": 0.597512335649363,
-            "coordIndex": 332,
-            "distanceToNextStop": 0.11366732604550167
+            "location": [
+              19.194054,
+              47.511857
+            ],
+            "coordIndex": 328,
+            "onTrackLocation": 0.5937437756696626,
+            "distanceToNextStop": 0.1136010828858871
           },
           {
             "id": "19825290",
             "name": "Mátyásföld, Imre utca",
-            "onTrackLocation": 0.5545134898087072,
-            "coordIndex": 296,
-            "distanceToNextStop": 0.04299884584065583
+            "location": [
+              19.199582,
+              47.513546
+            ],
+            "coordIndex": 292,
+            "onTrackLocation": 0.5503391861233978,
+            "distanceToNextStop": 0.043404589546264805
           },
           {
             "id": "19826292",
             "name": "Mátyásföld alsó",
-            "onTrackLocation": 0.4924274620938064,
-            "coordIndex": 249,
-            "distanceToNextStop": 0.06208602771490079
+            "location": [
+              19.207456,
+              47.515986
+            ],
+            "coordIndex": 246,
+            "onTrackLocation": 0.489183558071301,
+            "distanceToNextStop": 0.061155628052096844
           },
           {
             "id": "19828641",
             "name": "Cinkota",
-            "onTrackLocation": 0.41363013672509835,
-            "coordIndex": 187,
-            "distanceToNextStop": 0.07879732536870804
+            "location": [
+              19.217338,
+              47.519435
+            ],
+            "coordIndex": 185,
+            "onTrackLocation": 0.4123527252447228,
+            "distanceToNextStop": 0.07683083282657821
           },
           {
             "id": "19829297",
             "name": "Cinkota alsó",
-            "onTrackLocation": 0.32703568467866806,
-            "coordIndex": 157,
-            "distanceToNextStop": 0.08659445204643029
+            "location": [
+              19.220986,
+              47.526364
+            ],
+            "coordIndex": 155,
+            "onTrackLocation": 0.32479724534027093,
+            "distanceToNextStop": 0.08755547990445184
           },
           {
             "id": "19830298",
             "name": "Árpádföld",
-            "onTrackLocation": 0.2325151409519205,
-            "coordIndex": 126,
-            "distanceToNextStop": 0.09452054372674756
+            "location": [
+              19.212554,
+              47.532979
+            ],
+            "coordIndex": 124,
+            "onTrackLocation": 0.2292021971722068,
+            "distanceToNextStop": 0.09559504816806413
           },
           {
             "id": "19831299",
             "name": "Szabadságtelep",
-            "onTrackLocation": 0.1647626644537155,
-            "coordIndex": 88,
-            "distanceToNextStop": 0.06775247649820498
+            "location": [
+              19.206185,
+              47.537404
+            ],
+            "coordIndex": 85,
+            "onTrackLocation": 0.1609720292678014,
+            "distanceToNextStop": 0.06823016790440539
           },
           {
             "id": "19836301",
             "name": "Csömör",
-            "onTrackLocation": 0,
+            "location": [
+              19.225058,
+              47.545049
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.1647626644537155
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.1609720292678014
           }
         ],
         "lineString": {

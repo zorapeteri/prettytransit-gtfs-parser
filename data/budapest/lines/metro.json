@@ -16,78 +16,122 @@
           {
             "id": "F00965",
             "name": "Vörösmarty tér",
-            "onTrackLocation": 0,
+            "location": [
+              19.050593,
+              47.496737
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.07478515383493413
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.06922076986662568
           },
           {
             "id": "F00963",
             "name": "Deák Ferenc tér",
-            "onTrackLocation": 0.07478515383493413,
-            "coordIndex": 18,
-            "distanceToNextStop": 0.07242431531615008
+            "location": [
+              19.054142,
+              47.497728
+            ],
+            "coordIndex": 15,
+            "onTrackLocation": 0.06922076986662568,
+            "distanceToNextStop": 0.07668277386535738
           },
           {
             "id": "F00997",
             "name": "Bajcsy-Zsilinszky út",
-            "onTrackLocation": 0.1472094691510842,
-            "coordIndex": 34,
-            "distanceToNextStop": 0.08956127652265067
+            "location": [
+              19.055655,
+              47.499937
+            ],
+            "coordIndex": 33,
+            "onTrackLocation": 0.14590354373198305,
+            "distanceToNextStop": 0.09022142785053577
           },
           {
             "id": "F01080",
             "name": "Opera",
-            "onTrackLocation": 0.23677074567373488,
-            "coordIndex": 38,
-            "distanceToNextStop": 0.10273987264459991
+            "location": [
+              19.059161,
+              47.502305
+            ],
+            "coordIndex": 37,
+            "onTrackLocation": 0.23612497158251883,
+            "distanceToNextStop": 0.10203743673319426
           },
           {
             "id": "F01086",
             "name": "Oktogon",
-            "onTrackLocation": 0.3395106183183348,
-            "coordIndex": 43,
-            "distanceToNextStop": 0.08319272309816916
+            "location": [
+              19.063233,
+              47.505023
+            ],
+            "coordIndex": 41,
+            "onTrackLocation": 0.3381624083157131,
+            "distanceToNextStop": 0.08415511802198306
           },
           {
             "id": "F01093",
             "name": "Vörösmarty utca",
-            "onTrackLocation": 0.42270334141650395,
-            "coordIndex": 47,
-            "distanceToNextStop": 0.07572643373331828
+            "location": [
+              19.066529,
+              47.507238
+            ],
+            "coordIndex": 46,
+            "onTrackLocation": 0.42231752633769615,
+            "distanceToNextStop": 0.07407871915999609
           },
           {
             "id": "F01096",
             "name": "Kodály körönd",
-            "onTrackLocation": 0.49842977514982223,
-            "coordIndex": 52,
-            "distanceToNextStop": 0.07798705155426688
+            "location": [
+              19.069544,
+              47.509261
+            ],
+            "coordIndex": 50,
+            "onTrackLocation": 0.49639624549769223,
+            "distanceToNextStop": 0.07968463808226522
           },
           {
             "id": "F01101",
             "name": "Bajza utca",
-            "onTrackLocation": 0.5764168267040891,
-            "coordIndex": 55,
-            "distanceToNextStop": 0.10632944888018847
+            "location": [
+              19.072662,
+              47.511342
+            ],
+            "coordIndex": 54,
+            "onTrackLocation": 0.5760808835799575,
+            "distanceToNextStop": 0.10473682916905092
           },
           {
             "id": "F01103",
             "name": "Hősök tere",
-            "onTrackLocation": 0.6827462755842776,
-            "coordIndex": 59,
-            "distanceToNextStop": 0.13282587205121543
+            "location": [
+              19.076883,
+              47.51411
+            ],
+            "coordIndex": 58,
+            "onTrackLocation": 0.6808177127490084,
+            "distanceToNextStop": 0.12613549005370206
           },
           {
             "id": "F02697",
             "name": "Széchenyi fürdő",
-            "onTrackLocation": 0.815572147635493,
-            "coordIndex": 87,
-            "distanceToNextStop": 0.18442785236450698
+            "location": [
+              19.081481,
+              47.517407
+            ],
+            "coordIndex": 84,
+            "onTrackLocation": 0.8069532028027104,
+            "distanceToNextStop": 0.18990634401940343
           },
           {
             "id": "F02888",
             "name": "Mexikói út",
-            "onTrackLocation": 1,
-            "coordIndex": 107,
+            "location": [
+              19.091037,
+              47.519513
+            ],
+            "coordIndex": 105,
+            "onTrackLocation": 0.9968595468221139,
             "distanceToNextStop": 0
           }
         ],
@@ -555,78 +599,122 @@
           {
             "id": "F00094",
             "name": "Déli pályaudvar",
-            "onTrackLocation": 0,
+            "location": [
+              19.024604,
+              47.50045
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.08488427623293121
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.08264038935776111
           },
           {
             "id": "F02481",
             "name": "Széll Kálmán tér",
-            "onTrackLocation": 0.08488427623293121,
-            "coordIndex": 24,
-            "distanceToNextStop": 0.09874432826385329
+            "location": [
+              19.026097,
+              47.507533
+            ],
+            "coordIndex": 22,
+            "onTrackLocation": 0.08264038935776111,
+            "distanceToNextStop": 0.10070439387967572
           },
           {
             "id": "F00063",
             "name": "Batthyány tér",
-            "onTrackLocation": 0.1836286044967845,
-            "coordIndex": 46,
-            "distanceToNextStop": 0.05960286065205364
+            "location": [
+              19.038103,
+              47.506826
+            ],
+            "coordIndex": 45,
+            "onTrackLocation": 0.18334478323743683,
+            "distanceToNextStop": 0.05974188076190429
           },
           {
             "id": "F00959",
             "name": "Kossuth Lajos tér",
-            "onTrackLocation": 0.24323146514883814,
-            "coordIndex": 53,
-            "distanceToNextStop": 0.11412642547787105
+            "location": [
+              19.045769,
+              47.505511
+            ],
+            "coordIndex": 52,
+            "onTrackLocation": 0.24308666399934112,
+            "distanceToNextStop": 0.11405406428305473
           },
           {
             "id": "F00961",
             "name": "Deák Ferenc tér",
-            "onTrackLocation": 0.3573578906267092,
-            "coordIndex": 75,
-            "distanceToNextStop": 0.08327397779441287
+            "location": [
+              19.053857,
+              47.497593
+            ],
+            "coordIndex": 74,
+            "onTrackLocation": 0.35714072828239585,
+            "distanceToNextStop": 0.08338253554932484
           },
           {
             "id": "F01019",
             "name": "Astoria",
-            "onTrackLocation": 0.44063186842112206,
-            "coordIndex": 99,
-            "distanceToNextStop": 0.0631919501834351
+            "location": [
+              19.062457,
+              47.494825
+            ],
+            "coordIndex": 98,
+            "onTrackLocation": 0.4405232638317207,
+            "distanceToNextStop": 0.0631621922409108
           },
           {
             "id": "F01292",
             "name": "Blaha Lujza tér",
-            "onTrackLocation": 0.5038238186045572,
-            "coordIndex": 105,
-            "distanceToNextStop": 0.09941658854835012
+            "location": [
+              19.070274,
+              47.497006
+            ],
+            "coordIndex": 104,
+            "onTrackLocation": 0.5036854560726315,
+            "distanceToNextStop": 0.09889694179562847
           },
           {
             "id": "F01336",
             "name": "Keleti pályaudvar",
-            "onTrackLocation": 0.6032404071529073,
-            "coordIndex": 122,
-            "distanceToNextStop": 0.17543027939330025
+            "location": [
+              19.082881,
+              47.499683
+            ],
+            "coordIndex": 120,
+            "onTrackLocation": 0.60258239786826,
+            "distanceToNextStop": 0.17592983319068112
           },
           {
             "id": "F01325",
             "name": "Puskás Ferenc Stadion",
-            "onTrackLocation": 0.7786706865462075,
-            "coordIndex": 140,
-            "distanceToNextStop": 0.10640181613914812
+            "location": [
+              19.106381,
+              47.500174
+            ],
+            "coordIndex": 139,
+            "onTrackLocation": 0.7785122310589411,
+            "distanceToNextStop": 0.10643185548936318
           },
           {
             "id": "F01743",
             "name": "Pillangó utca",
-            "onTrackLocation": 0.8850725026853556,
-            "coordIndex": 171,
-            "distanceToNextStop": 0.11444206956736303
+            "location": [
+              19.120417,
+              47.501204
+            ],
+            "coordIndex": 170,
+            "onTrackLocation": 0.8849440865483043,
+            "distanceToNextStop": 0.11457048570441442
           },
           {
             "id": "F01749",
             "name": "Örs vezér tere",
-            "onTrackLocation": 0.9995145722527187,
+            "location": [
+              19.135963,
+              47.502922
+            ],
             "coordIndex": 186,
+            "onTrackLocation": 0.9995145722527187,
             "distanceToNextStop": 0
           }
         ],
@@ -1414,141 +1502,221 @@
           {
             "id": "F00913",
             "name": "Újpest-központ",
-            "onTrackLocation": 0,
+            "location": [
+              19.08976,
+              47.560437
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.04880182817563497
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.04866344936713192
           },
           {
             "id": "F00898",
             "name": "Újpest-városkapu",
-            "onTrackLocation": 0.04880182817563497,
-            "coordIndex": 24,
-            "distanceToNextStop": 0.08152861533473743
+            "location": [
+              19.079567,
+              47.559146
+            ],
+            "coordIndex": 23,
+            "onTrackLocation": 0.04866344936713192,
+            "distanceToNextStop": 0.07972345350417522
           },
           {
             "id": "F02685",
             "name": "Gyöngyösi utca",
-            "onTrackLocation": 0.1303304435103724,
-            "coordIndex": 49,
-            "distanceToNextStop": 0.07150324120611334
+            "location": [
+              19.073019,
+              47.548374
+            ],
+            "coordIndex": 47,
+            "onTrackLocation": 0.12838690287130713,
+            "distanceToNextStop": 0.07327428318046647
           },
           {
             "id": "F02683",
             "name": "Forgách utca",
-            "onTrackLocation": 0.20183368471648575,
-            "coordIndex": 56,
-            "distanceToNextStop": 0.04232004081531213
+            "location": [
+              19.069055,
+              47.538163
+            ],
+            "coordIndex": 55,
+            "onTrackLocation": 0.2016611860517736,
+            "distanceToNextStop": 0.042359634118359274
           },
           {
             "id": "F02638",
             "name": "Göncz Árpád városközpont",
-            "onTrackLocation": 0.24415372553179787,
-            "coordIndex": 61,
-            "distanceToNextStop": 0.054925549177286814
+            "location": [
+              19.066471,
+              47.532171
+            ],
+            "coordIndex": 60,
+            "onTrackLocation": 0.24402082017013288,
+            "distanceToNextStop": 0.05487378325095643
           },
           {
             "id": "F02681",
             "name": "Dózsa György út",
-            "onTrackLocation": 0.2990792747090847,
-            "coordIndex": 68,
-            "distanceToNextStop": 0.04768999148252895
+            "location": [
+              19.063088,
+              47.524358
+            ],
+            "coordIndex": 67,
+            "onTrackLocation": 0.2988946034210893,
+            "distanceToNextStop": 0.04714250825481525
           },
           {
             "id": "F02614",
             "name": "Lehel tér",
-            "onTrackLocation": 0.34676926619161363,
-            "coordIndex": 77,
-            "distanceToNextStop": 0.04997209155394633
+            "location": [
+              19.060285,
+              47.517595
+            ],
+            "coordIndex": 75,
+            "onTrackLocation": 0.34603711167590456,
+            "distanceToNextStop": 0.05022658605451796
           },
           {
             "id": "F00937",
             "name": "Nyugati pályaudvar",
-            "onTrackLocation": 0.39674135774555996,
-            "coordIndex": 92,
-            "distanceToNextStop": 0.04934486850580394
+            "location": [
+              19.055952,
+              47.510828
+            ],
+            "coordIndex": 90,
+            "onTrackLocation": 0.3962636977304225,
+            "distanceToNextStop": 0.04765034097393628
           },
           {
             "id": "F00957",
             "name": "Arany János utca",
-            "onTrackLocation": 0.4460862262513639,
-            "coordIndex": 103,
-            "distanceToNextStop": 0.04123124716708815
+            "location": [
+              19.054513,
+              47.50367
+            ],
+            "coordIndex": 101,
+            "onTrackLocation": 0.4439140387043588,
+            "distanceToNextStop": 0.04330026867410808
           },
           {
             "id": "F00955",
             "name": "Deák Ferenc tér",
-            "onTrackLocation": 0.48731747341845205,
-            "coordIndex": 113,
-            "distanceToNextStop": 0.04093796075193351
+            "location": [
+              19.054525,
+              47.497591
+            ],
+            "coordIndex": 112,
+            "onTrackLocation": 0.4872143073784669,
+            "distanceToNextStop": 0.03987878303387854
           },
           {
             "id": "F00953",
             "name": "Ferenciek tere",
-            "onTrackLocation": 0.5282554341703856,
-            "coordIndex": 125,
-            "distanceToNextStop": 0.02865073460839096
+            "location": [
+              19.056789,
+              47.49182
+            ],
+            "coordIndex": 123,
+            "onTrackLocation": 0.5270930904123454,
+            "distanceToNextStop": 0.029728441491508772
           },
           {
             "id": "F01290",
             "name": "Kálvin tér",
-            "onTrackLocation": 0.5569061687787765,
-            "coordIndex": 134,
-            "distanceToNextStop": 0.05687243443387313
+            "location": [
+              19.06192,
+              47.48949
+            ],
+            "coordIndex": 133,
+            "onTrackLocation": 0.5568215319038542,
+            "distanceToNextStop": 0.055302558969701376
           },
           {
             "id": "F01189",
             "name": "Corvin-negyed",
-            "onTrackLocation": 0.6137786032126497,
-            "coordIndex": 148,
-            "distanceToNextStop": 0.03156541311435124
+            "location": [
+              19.072242,
+              47.484862
+            ],
+            "coordIndex": 146,
+            "onTrackLocation": 0.6121240908735556,
+            "distanceToNextStop": 0.0330192586710385
           },
           {
             "id": "F01233",
             "name": "Semmelweis Klinikák",
-            "onTrackLocation": 0.6453440163270009,
-            "coordIndex": 153,
-            "distanceToNextStop": 0.06553514103063574
+            "location": [
+              19.078425,
+              47.482872
+            ],
+            "coordIndex": 152,
+            "onTrackLocation": 0.6451433495445941,
+            "distanceToNextStop": 0.06561812365144726
           },
           {
             "id": "F01253",
             "name": "Nagyvárad tér",
-            "onTrackLocation": 0.7108791573576366,
-            "coordIndex": 162,
-            "distanceToNextStop": 0.0496964243517698
+            "location": [
+              19.091071,
+              47.478365
+            ],
+            "coordIndex": 161,
+            "onTrackLocation": 0.7107614731960413,
+            "distanceToNextStop": 0.049201848971881956
           },
           {
             "id": "F01283",
             "name": "Népliget",
-            "onTrackLocation": 0.7605755817094064,
-            "coordIndex": 171,
-            "distanceToNextStop": 0.05833167001299311
+            "location": [
+              19.100672,
+              47.474913
+            ],
+            "coordIndex": 169,
+            "onTrackLocation": 0.7599633221679233,
+            "distanceToNextStop": 0.05711508128318887
           },
           {
             "id": "F01494",
             "name": "Ecseri út",
-            "onTrackLocation": 0.8189072517223995,
-            "coordIndex": 183,
-            "distanceToNextStop": 0.03737638794801568
+            "location": [
+              19.111646,
+              47.470529
+            ],
+            "coordIndex": 181,
+            "onTrackLocation": 0.8170784034511122,
+            "distanceToNextStop": 0.03787846991276056
           },
           {
             "id": "F01879",
             "name": "Pöttyös utca",
-            "onTrackLocation": 0.8562836396704152,
-            "coordIndex": 187,
-            "distanceToNextStop": 0.03693648789668069
+            "location": [
+              19.118838,
+              47.467939
+            ],
+            "coordIndex": 185,
+            "onTrackLocation": 0.8549568733638727,
+            "distanceToNextStop": 0.03816510591102218
           },
           {
             "id": "F01542",
             "name": "Határ út",
-            "onTrackLocation": 0.8932201275670959,
-            "coordIndex": 194,
-            "distanceToNextStop": 0.1067798724329041
+            "location": [
+              19.126228,
+              47.465749
+            ],
+            "coordIndex": 193,
+            "onTrackLocation": 0.8931219792748949,
+            "distanceToNextStop": 0.10660622776161044
           },
           {
             "id": "F01544",
             "name": "Kőbánya-Kispest",
-            "onTrackLocation": 1,
-            "coordIndex": 240,
+            "location": [
+              19.148764,
+              47.463443
+            ],
+            "coordIndex": 239,
+            "onTrackLocation": 0.9997282070365053,
             "distanceToNextStop": 0
           }
         ],
@@ -2548,71 +2716,111 @@
           {
             "id": "056216",
             "name": "Kelenföld vasútállomás",
-            "onTrackLocation": 0,
+            "location": [
+              19.020587,
+              47.464255
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.14608974271195202
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.1455428374389657
           },
           {
             "id": "056218",
             "name": "Bikás park",
-            "onTrackLocation": 0.14608974271195202,
-            "coordIndex": 13,
-            "distanceToNextStop": 0.2200999584298327
+            "location": [
+              19.033386,
+              47.465022
+            ],
+            "coordIndex": 12,
+            "onTrackLocation": 0.1455428374389657,
+            "distanceToNextStop": 0.21990304948591247
           },
           {
             "id": "056220",
             "name": "Újbuda-központ",
-            "onTrackLocation": 0.36618970114178473,
-            "coordIndex": 29,
-            "distanceToNextStop": 0.0647707565870771
+            "location": [
+              19.046266,
+              47.473559
+            ],
+            "coordIndex": 28,
+            "onTrackLocation": 0.36544588692487817,
+            "distanceToNextStop": 0.06486114779972363
           },
           {
             "id": "056222",
             "name": "Móricz Zsigmond körtér",
-            "onTrackLocation": 0.4309604577288618,
-            "coordIndex": 34,
-            "distanceToNextStop": 0.1287249461860821
+            "location": [
+              19.047645,
+              47.47731
+            ],
+            "coordIndex": 33,
+            "onTrackLocation": 0.4303070347246018,
+            "distanceToNextStop": 0.12859824571625517
           },
           {
             "id": "056224",
             "name": "Szent Gellért tér - Műegyetem",
-            "onTrackLocation": 0.5596854039149439,
-            "coordIndex": 45,
-            "distanceToNextStop": 0.06331124041300273
+            "location": [
+              19.055036,
+              47.483039
+            ],
+            "coordIndex": 44,
+            "onTrackLocation": 0.558905280440857,
+            "distanceToNextStop": 0.06334763360949647
           },
           {
             "id": "056226",
             "name": "Fővám tér",
-            "onTrackLocation": 0.6229966443279467,
-            "coordIndex": 53,
-            "distanceToNextStop": 0.06950593273564143
+            "location": [
+              19.058009,
+              47.486169
+            ],
+            "coordIndex": 52,
+            "onTrackLocation": 0.6222529140503534,
+            "distanceToNextStop": 0.06952917685169246
           },
           {
             "id": "056228",
             "name": "Kálvin tér",
-            "onTrackLocation": 0.6925025770635881,
-            "coordIndex": 61,
-            "distanceToNextStop": 0.13268617525365278
+            "location": [
+              19.061938,
+              47.489245
+            ],
+            "coordIndex": 60,
+            "onTrackLocation": 0.6917820909020459,
+            "distanceToNextStop": 0.13271329340115912
           },
           {
             "id": "056230",
             "name": "Rákóczi tér",
-            "onTrackLocation": 0.8251887523172409,
-            "coordIndex": 71,
-            "distanceToNextStop": 0.08666259083436134
+            "location": [
+              19.072489,
+              47.49276
+            ],
+            "coordIndex": 70,
+            "onTrackLocation": 0.824495384303205,
+            "distanceToNextStop": 0.08640601568768203
           },
           {
             "id": "056232",
             "name": "II. János Pál pápa tér",
-            "onTrackLocation": 0.9118513431516022,
-            "coordIndex": 84,
-            "distanceToNextStop": 0.08814865684839779
+            "location": [
+              19.077707,
+              47.496078
+            ],
+            "coordIndex": 83,
+            "onTrackLocation": 0.910901399990887,
+            "distanceToNextStop": 0.08831853351662444
           },
           {
             "id": "056234",
             "name": "Keleti pályaudvar",
-            "onTrackLocation": 1,
-            "coordIndex": 95,
+            "location": [
+              19.081704,
+              47.500485
+            ],
+            "coordIndex": 94,
+            "onTrackLocation": 0.9992199335075115,
             "distanceToNextStop": 0
           }
         ],

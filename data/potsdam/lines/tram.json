@@ -16,162 +16,254 @@
           {
             "id": "de:12069:900220008::2",
             "name": "Potsdam, Rehbrücke Bhf",
-            "onTrackLocation": 0,
+            "location": [
+              13.097498,
+              52.360246
+            ],
             "coordIndex": 0,
+            "onTrackLocation": 0,
             "distanceToNextStop": 0.04823386847803951
           },
           {
             "id": "de:12054:900230070::2",
             "name": "Potsdam, Am Moosfenn",
-            "onTrackLocation": 0.04823386847803951,
+            "location": [
+              13.095061,
+              52.363478
+            ],
             "coordIndex": 11,
-            "distanceToNextStop": 0.029400807115772226
+            "onTrackLocation": 0.04823386847803951,
+            "distanceToNextStop": 0.025453285838897
           },
           {
             "id": "de:12054:900230069::2",
             "name": "Potsdam, Friedrich-Wolf-Str.",
-            "onTrackLocation": 0.07763467559381174,
-            "coordIndex": 23,
-            "distanceToNextStop": 0.027325227379158754
+            "location": [
+              13.093583,
+              52.365846
+            ],
+            "coordIndex": 18,
+            "onTrackLocation": 0.07368715431693651,
+            "distanceToNextStop": 0.028160714055812316
           },
           {
             "id": "de:12054:900230068::2",
             "name": "Potsdam, Zum Kahleberg",
-            "onTrackLocation": 0.10495990297297049,
-            "coordIndex": 27,
-            "distanceToNextStop": 0.04552206432308477
+            "location": [
+              13.091766,
+              52.368281
+            ],
+            "coordIndex": 26,
+            "onTrackLocation": 0.10184786837274883,
+            "distanceToNextStop": 0.06020925108361609
           },
           {
             "id": "de:12054:900230050::2",
             "name": "Potsdam, E.-Claudius-Str./H.-Mann-Allee",
-            "onTrackLocation": 0.15048196729605526,
-            "coordIndex": 31,
-            "distanceToNextStop": 0.06900953307742311
+            "location": [
+              13.088173,
+              52.373107
+            ],
+            "coordIndex": 32,
+            "onTrackLocation": 0.16205711945636492,
+            "distanceToNextStop": 0.053966351413742314
           },
           {
             "id": "de:12054:900230021::2",
             "name": "Potsdam, Waldstr./Horstweg",
-            "onTrackLocation": 0.21949150037347837,
-            "coordIndex": 57,
-            "distanceToNextStop": 0.04354384565387304
+            "location": [
+              13.082976,
+              52.377543
+            ],
+            "coordIndex": 55,
+            "onTrackLocation": 0.21602347087010723,
+            "distanceToNextStop": 0.046743721559370816
           },
           {
             "id": "de:12054:900230067::2",
             "name": "Potsdam, Kunersdorfer Str.",
-            "onTrackLocation": 0.2630353460273514,
-            "coordIndex": 67,
-            "distanceToNextStop": 0.029663391062751343
+            "location": [
+              13.078477,
+              52.380561
+            ],
+            "coordIndex": 64,
+            "onTrackLocation": 0.26276719242947805,
+            "distanceToNextStop": 0.02984583966487131
           },
           {
             "id": "de:12054:900230066::2",
             "name": "Potsdam, Sporthalle",
-            "onTrackLocation": 0.29269873709010275,
-            "coordIndex": 74,
-            "distanceToNextStop": 0.04380640105415334
+            "location": [
+              13.075397,
+              52.382675
+            ],
+            "coordIndex": 72,
+            "onTrackLocation": 0.29261303209434936,
+            "distanceToNextStop": 0.04277282376730113
           },
           {
             "id": "de:12054:900230065::2",
             "name": "Potsdam, Friedhöfe",
-            "onTrackLocation": 0.3365051381442561,
-            "coordIndex": 94,
-            "distanceToNextStop": 0.07651200713584466
+            "location": [
+              13.071531,
+              52.386083
+            ],
+            "coordIndex": 93,
+            "onTrackLocation": 0.3353858558616505,
+            "distanceToNextStop": 0.07763128941845027
           },
           {
             "id": "de:12054:900230999::2",
             "name": "S Potsdam Hauptbahnhof",
-            "onTrackLocation": 0.41301714528010075,
+            "location": [
+              13.065283,
+              52.391005
+            ],
             "coordIndex": 162,
-            "distanceToNextStop": 0.010525425966490864
+            "onTrackLocation": 0.41301714528010075,
+            "distanceToNextStop": 0.017607432432665382
           },
           {
             "id": "de:12054:900230097::1",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.4235425712465916,
-            "coordIndex": 166,
-            "distanceToNextStop": 0.04992506225981225
+            "location": [
+              13.063789,
+              52.39204
+            ],
+            "coordIndex": 167,
+            "onTrackLocation": 0.43062457771276613,
+            "distanceToNextStop": 0.03893945415857608
           },
           {
             "id": "de:12054:900230018::2",
             "name": "Potsdam, Alter Markt/Landtag",
-            "onTrackLocation": 0.47346763350640386,
-            "coordIndex": 206,
-            "distanceToNextStop": 0.04191746815313435
+            "location": [
+              13.059322,
+              52.394842
+            ],
+            "coordIndex": 199,
+            "onTrackLocation": 0.4695640318713422,
+            "distanceToNextStop": 0.045821069788196
           },
           {
             "id": "de:12054:900230014::2",
             "name": "Potsdam, Platz der Einheit/West",
+            "location": [
+              13.057993,
+              52.398799
+            ],
+            "coordIndex": 210,
             "onTrackLocation": 0.5153851016595382,
-            "coordIndex": 211,
             "distanceToNextStop": 0.03204710203264416
           },
           {
             "id": "de:12054:900230064::2",
             "name": "Potsdam, Dortustr.",
-            "onTrackLocation": 0.5474322036921824,
+            "location": [
+              13.053952,
+              52.399338
+            ],
             "coordIndex": 228,
-            "distanceToNextStop": 0.0446044339073528
+            "onTrackLocation": 0.5474322036921824,
+            "distanceToNextStop": 0.042906062346456886
           },
           {
             "id": "de:12054:900230017::2",
             "name": "Potsdam, Luisenplatz-Süd/Park Sanssouci",
-            "onTrackLocation": 0.5920366375995352,
-            "coordIndex": 254,
-            "distanceToNextStop": 0.04084559602251581
+            "location": [
+              13.047388,
+              52.398537
+            ],
+            "coordIndex": 252,
+            "onTrackLocation": 0.5903382660386393,
+            "distanceToNextStop": 0.042543967583411724
           },
           {
             "id": "de:12054:900230210::2",
             "name": "Potsdam, Feuerbachstr.",
-            "onTrackLocation": 0.632882233622051,
+            "location": [
+              13.0426,
+              52.396365
+            ],
             "coordIndex": 261,
-            "distanceToNextStop": 0.032762664980627854
+            "onTrackLocation": 0.632882233622051,
+            "distanceToNextStop": 0.032201867153173414
           },
           {
             "id": "de:12054:900230063::2",
             "name": "Potsdam, Auf dem Kiewitt",
-            "onTrackLocation": 0.6656448986026788,
-            "coordIndex": 272,
-            "distanceToNextStop": 0.027212173760359337
+            "location": [
+              13.038249,
+              52.394653
+            ],
+            "coordIndex": 271,
+            "onTrackLocation": 0.6650841007752244,
+            "distanceToNextStop": 0.02422739723902534
           },
           {
             "id": "de:12054:900230013::1",
             "name": "Potsdam, Charlottenhof Bhf/Geschw.-Scholl-Str.",
-            "onTrackLocation": 0.6928570723630382,
-            "coordIndex": 283,
-            "distanceToNextStop": 0.037760948414951145
+            "location": [
+              13.034786,
+              52.393684
+            ],
+            "coordIndex": 278,
+            "onTrackLocation": 0.6893114980142497,
+            "distanceToNextStop": 0.03684204828305604
           },
           {
             "id": "de:12054:900230051::2",
             "name": "Potsdam, Schloss Charlottenhof",
-            "onTrackLocation": 0.7306180207779893,
-            "coordIndex": 297,
-            "distanceToNextStop": 0.05393377813316558
+            "location": [
+              13.028947,
+              52.393535
+            ],
+            "coordIndex": 294,
+            "onTrackLocation": 0.7261535462973058,
+            "distanceToNextStop": 0.05839825261384912
           },
           {
             "id": "de:12054:900230035::1",
             "name": "Potsdam, Kastanienallee/Zeppelinstr.",
-            "onTrackLocation": 0.7845517989111549,
+            "location": [
+              13.028267,
+              52.389174
+            ],
             "coordIndex": 308,
-            "distanceToNextStop": 0.06575260476627365
+            "onTrackLocation": 0.7845517989111549,
+            "distanceToNextStop": 0.06440262978639033
           },
           {
             "id": "de:12054:900230061::4",
             "name": "Potsdam, Im Bogen/Zeppelinstr.",
-            "onTrackLocation": 0.8503044036774285,
-            "coordIndex": 335,
-            "distanceToNextStop": 0.05334734632109639
+            "location": [
+              13.022038,
+              52.38436
+            ],
+            "coordIndex": 334,
+            "onTrackLocation": 0.8489544286975452,
+            "distanceToNextStop": 0.05003131726320287
           },
           {
             "id": "de:12054:900230060::2",
             "name": "Potsdam, Luftschiffhafen",
-            "onTrackLocation": 0.9036517499985249,
-            "coordIndex": 355,
-            "distanceToNextStop": 0.0841918998292267
+            "location": [
+              13.016874,
+              52.380751
+            ],
+            "coordIndex": 350,
+            "onTrackLocation": 0.8989857459607481,
+            "distanceToNextStop": 0.08481806899055866
           },
           {
             "id": "de:12054:900230002::2",
             "name": "Potsdam, Pirschheide Bhf",
-            "onTrackLocation": 0.9878436498277516,
-            "coordIndex": 387,
+            "location": [
+              13.010915,
+              52.374176
+            ],
+            "coordIndex": 381,
+            "onTrackLocation": 0.9838038149513068,
             "distanceToNextStop": 0
           }
         ],
@@ -1761,162 +1853,254 @@
           {
             "id": "de:12054:900230002::1",
             "name": "Potsdam, Pirschheide Bhf",
-            "onTrackLocation": 0,
+            "location": [
+              13.012271,
+              52.374587
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.07935658867689885
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.07835452253578129
           },
           {
             "id": "de:12054:900230060::1",
             "name": "Potsdam, Luftschiffhafen",
-            "onTrackLocation": 0.07935658867689885,
-            "coordIndex": 4,
-            "distanceToNextStop": 0.055996886185566724
+            "location": [
+              13.017181,
+              52.380889
+            ],
+            "coordIndex": 2,
+            "onTrackLocation": 0.07835452253578129,
+            "distanceToNextStop": 0.05456668248940147
           },
           {
             "id": "de:12054:900230061::1",
             "name": "Potsdam, Im Bogen/Zeppelinstr.",
-            "onTrackLocation": 0.13535347486246557,
-            "coordIndex": 20,
-            "distanceToNextStop": 0.05738197494195327
+            "location": [
+              13.022464,
+              52.38462
+            ],
+            "coordIndex": 19,
+            "onTrackLocation": 0.13292120502518276,
+            "distanceToNextStop": 0.059807403992991726
           },
           {
             "id": "de:12054:900230035::2",
             "name": "Potsdam, Kastanienallee/Zeppelinstr.",
-            "onTrackLocation": 0.19273544980441884,
-            "coordIndex": 32,
-            "distanceToNextStop": 0.0409907872621002
+            "location": [
+              13.028129,
+              52.388395
+            ],
+            "coordIndex": 31,
+            "onTrackLocation": 0.19272860901817448,
+            "distanceToNextStop": 0.04099762804834456
           },
           {
             "id": "de:12054:900230058::1",
             "name": "Potsdam, Schillerplatz/Schafgraben",
-            "onTrackLocation": 0.23372623706651904,
+            "location": [
+              13.032957,
+              52.391195
+            ],
             "coordIndex": 53,
+            "onTrackLocation": 0.23372623706651904,
             "distanceToNextStop": 0.030799182441012735
           },
           {
             "id": "de:12054:900230006::1",
             "name": "Potsdam, Charlottenhof Bhf",
+            "location": [
+              13.036396,
+              52.393082
+            ],
+            "coordIndex": 56,
             "onTrackLocation": 0.2645254195075318,
-            "coordIndex": 57,
-            "distanceToNextStop": 0.036887907268723596
+            "distanceToNextStop": 0.036390132089256566
           },
           {
             "id": "de:12054:900230063::1",
             "name": "Potsdam, Auf dem Kiewitt",
-            "onTrackLocation": 0.3014133267762554,
-            "coordIndex": 62,
-            "distanceToNextStop": 0.028002102055471656
+            "location": [
+              13.039795,
+              52.394955
+            ],
+            "coordIndex": 60,
+            "onTrackLocation": 0.30091555159678834,
+            "distanceToNextStop": 0.028499877234938686
           },
           {
             "id": "de:12054:900230210::1",
             "name": "Potsdam, Feuerbachstr.",
-            "onTrackLocation": 0.32941542883172703,
+            "location": [
+              13.042992,
+              52.396514
+            ],
             "coordIndex": 63,
-            "distanceToNextStop": 0.03768430311844567
+            "onTrackLocation": 0.32941542883172703,
+            "distanceToNextStop": 0.03524679481818077
           },
           {
             "id": "de:12054:900230017::1",
             "name": "Potsdam, Luisenplatz-Süd/Park Sanssouci",
-            "onTrackLocation": 0.3670997319501727,
-            "coordIndex": 80,
-            "distanceToNextStop": 0.03267174558971586
+            "location": [
+              13.047308,
+              52.398478
+            ],
+            "coordIndex": 77,
+            "onTrackLocation": 0.3646622236499078,
+            "distanceToNextStop": 0.04352253566641906
           },
           {
             "id": "de:12054:900230064::1",
             "name": "Potsdam, Dortustr.",
-            "onTrackLocation": 0.39977147753988856,
-            "coordIndex": 99,
-            "distanceToNextStop": 0.05290568174808297
+            "location": [
+              13.052791,
+              52.39909
+            ],
+            "coordIndex": 100,
+            "onTrackLocation": 0.40818475931632686,
+            "distanceToNextStop": 0.041708951645057
           },
           {
             "id": "de:12054:900230014::1",
             "name": "Potsdam, Platz der Einheit/West",
-            "onTrackLocation": 0.45267715928797153,
-            "coordIndex": 125,
-            "distanceToNextStop": 0.04349405063055439
+            "location": [
+              13.057969,
+              52.398572
+            ],
+            "coordIndex": 122,
+            "onTrackLocation": 0.44989371096138386,
+            "distanceToNextStop": 0.04627749895714206
           },
           {
             "id": "de:12054:900230018::1",
             "name": "Potsdam, Alter Markt/Landtag",
+            "location": [
+              13.059234,
+              52.394837
+            ],
+            "coordIndex": 127,
             "onTrackLocation": 0.4961712099185259,
-            "coordIndex": 128,
-            "distanceToNextStop": 0.04748157121030938
+            "distanceToNextStop": 0.04257332230058075
           },
           {
             "id": "de:12054:900230097::2",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.5436527811288353,
-            "coordIndex": 168,
-            "distanceToNextStop": 0.026636778802592298
+            "location": [
+              13.063727,
+              52.392033
+            ],
+            "coordIndex": 159,
+            "onTrackLocation": 0.5387445322191067,
+            "distanceToNextStop": 0.03152158973711372
           },
           {
             "id": "de:12054:900230999::1",
             "name": "S Potsdam Hauptbahnhof",
-            "onTrackLocation": 0.5702895599314276,
-            "coordIndex": 187,
-            "distanceToNextStop": 0.07891133822584506
+            "location": [
+              13.066372,
+              52.390929
+            ],
+            "coordIndex": 186,
+            "onTrackLocation": 0.5702661219562204,
+            "distanceToNextStop": 0.07542755397996603
           },
           {
             "id": "de:12054:900230065::1",
             "name": "Potsdam, Friedhöfe",
-            "onTrackLocation": 0.6492008981572727,
-            "coordIndex": 254,
-            "distanceToNextStop": 0.04252357069414592
+            "location": [
+              13.071952,
+              52.385759
+            ],
+            "coordIndex": 253,
+            "onTrackLocation": 0.6456936759361864,
+            "distanceToNextStop": 0.045938803567827646
           },
           {
             "id": "de:12054:900230066::1",
             "name": "Potsdam, Sporthalle",
-            "onTrackLocation": 0.6917244688514186,
-            "coordIndex": 261,
-            "distanceToNextStop": 0.03203429729362561
+            "location": [
+              13.075364,
+              52.382596
+            ],
+            "coordIndex": 259,
+            "onTrackLocation": 0.6916324795040141,
+            "distanceToNextStop": 0.029206203582978874
           },
           {
             "id": "de:12054:900230067::1",
             "name": "Potsdam, Kunersdorfer Str.",
-            "onTrackLocation": 0.7237587661450442,
-            "coordIndex": 269,
-            "distanceToNextStop": 0.03352972820840838
+            "location": [
+              13.07851,
+              52.380482
+            ],
+            "coordIndex": 264,
+            "onTrackLocation": 0.720838683086993,
+            "distanceToNextStop": 0.035100925949104966
           },
           {
             "id": "de:12054:900230021::1",
             "name": "Potsdam, Waldstr./Horstweg",
-            "onTrackLocation": 0.7572884943534526,
-            "coordIndex": 272,
-            "distanceToNextStop": 0.06676688963377497
+            "location": [
+              13.082057,
+              52.378061
+            ],
+            "coordIndex": 271,
+            "onTrackLocation": 0.7559396090360979,
+            "distanceToNextStop": 0.06421460178981808
           },
           {
             "id": "de:12054:900230050::1",
             "name": "Potsdam, E.-Claudius-Str./H.-Mann-Allee",
-            "onTrackLocation": 0.8240553839872276,
-            "coordIndex": 297,
-            "distanceToNextStop": 0.057593606380666795
+            "location": [
+              13.087693,
+              52.373691
+            ],
+            "coordIndex": 296,
+            "onTrackLocation": 0.820154210825916,
+            "distanceToNextStop": 0.06149477954197835
           },
           {
             "id": "de:12054:900230068::1",
             "name": "Potsdam, Zum Kahleberg",
-            "onTrackLocation": 0.8816489903678943,
+            "location": [
+              13.09126,
+              52.368794
+            ],
             "coordIndex": 309,
+            "onTrackLocation": 0.8816489903678943,
             "distanceToNextStop": 0.03748645466770362
           },
           {
             "id": "de:12054:900230069::1",
             "name": "Potsdam, Friedrich-Wolf-Str.",
-            "onTrackLocation": 0.919135445035598,
+            "location": [
+              13.093476,
+              52.365841
+            ],
             "coordIndex": 317,
-            "distanceToNextStop": 0.013546058646270898
+            "onTrackLocation": 0.919135445035598,
+            "distanceToNextStop": 0.027805522580131692
           },
           {
             "id": "de:12054:900230070::1",
             "name": "Potsdam, Am Moosfenn",
-            "onTrackLocation": 0.9326815036818689,
-            "coordIndex": 324,
-            "distanceToNextStop": 0.06731849631813114
+            "location": [
+              13.094692,
+              52.363892
+            ],
+            "coordIndex": 325,
+            "onTrackLocation": 0.9469409676157297,
+            "distanceToNextStop": 0.049216776524634076
           },
           {
             "id": "de:12069:900220008::1",
             "name": "Potsdam, Rehbrücke Bhf",
-            "onTrackLocation": 1,
-            "coordIndex": 341,
+            "location": [
+              13.097427,
+              52.359446
+            ],
+            "coordIndex": 338,
+            "onTrackLocation": 0.9961577441403637,
             "distanceToNextStop": 0
           }
         ],
@@ -3306,141 +3490,221 @@
           {
             "id": "de:12054:900230034::2",
             "name": "Potsdam, Bisamkiez",
-            "onTrackLocation": 0,
+            "location": [
+              13.101214,
+              52.373356
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.07103328239911116
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.06775361253318817
           },
           {
             "id": "de:12054:900230031::2",
             "name": "Potsdam, Magnus-Zeller-Platz",
-            "onTrackLocation": 0.07103328239911116,
-            "coordIndex": 16,
-            "distanceToNextStop": 0.06503977717078244
+            "location": [
+              13.091462,
+              52.375127
+            ],
+            "coordIndex": 15,
+            "onTrackLocation": 0.06775361253318817,
+            "distanceToNextStop": 0.07394767788737051
           },
           {
             "id": "de:12054:900230021::2",
             "name": "Potsdam, Waldstr./Horstweg",
-            "onTrackLocation": 0.1360730595698936,
-            "coordIndex": 44,
-            "distanceToNextStop": 0.0523485605434357
+            "location": [
+              13.082976,
+              52.377543
+            ],
+            "coordIndex": 45,
+            "onTrackLocation": 0.14170129042055868,
+            "distanceToNextStop": 0.04642502697865855
           },
           {
             "id": "de:12054:900230067::2",
             "name": "Potsdam, Kunersdorfer Str.",
-            "onTrackLocation": 0.1884216201133293,
-            "coordIndex": 55,
-            "distanceToNextStop": 0.032666650606483355
+            "location": [
+              13.078477,
+              52.380561
+            ],
+            "coordIndex": 52,
+            "onTrackLocation": 0.18812631739921723,
+            "distanceToNextStop": 0.03286757115283909
           },
           {
             "id": "de:12054:900230066::2",
             "name": "Potsdam, Sporthalle",
-            "onTrackLocation": 0.22108827071981266,
-            "coordIndex": 62,
-            "distanceToNextStop": 0.04824156464567028
+            "location": [
+              13.075397,
+              52.382675
+            ],
+            "coordIndex": 60,
+            "onTrackLocation": 0.22099388855205632,
+            "distanceToNextStop": 0.04710334319172477
           },
           {
             "id": "de:12054:900230065::2",
             "name": "Potsdam, Friedhöfe",
-            "onTrackLocation": 0.26932983536548294,
-            "coordIndex": 82,
-            "distanceToNextStop": 0.08425843825542645
+            "location": [
+              13.071531,
+              52.386083
+            ],
+            "coordIndex": 81,
+            "onTrackLocation": 0.2680972317437811,
+            "distanceToNextStop": 0.0854910418771283
           },
           {
             "id": "de:12054:900230999::2",
             "name": "S Potsdam Hauptbahnhof",
-            "onTrackLocation": 0.3535882736209094,
+            "location": [
+              13.065283,
+              52.391005
+            ],
             "coordIndex": 150,
-            "distanceToNextStop": 0.011591068998295262
+            "onTrackLocation": 0.3535882736209094,
+            "distanceToNextStop": 0.01939009070602854
           },
           {
             "id": "de:12054:900230097::1",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.36517934261920465,
-            "coordIndex": 154,
-            "distanceToNextStop": 0.05497970754247783
+            "location": [
+              13.063789,
+              52.39204
+            ],
+            "coordIndex": 155,
+            "onTrackLocation": 0.37297836432693793,
+            "distanceToNextStop": 0.04288186543185468
           },
           {
             "id": "de:12054:900230018::2",
             "name": "Potsdam, Alter Markt/Landtag",
-            "onTrackLocation": 0.4201590501616825,
-            "coordIndex": 194,
-            "distanceToNextStop": 0.04616138740072395
+            "location": [
+              13.059322,
+              52.394842
+            ],
+            "coordIndex": 187,
+            "onTrackLocation": 0.4158602297587926,
+            "distanceToNextStop": 0.05046020780361382
           },
           {
             "id": "de:12054:900230014::2",
             "name": "Potsdam, Platz der Einheit/West",
+            "location": [
+              13.057993,
+              52.398799
+            ],
+            "coordIndex": 198,
             "onTrackLocation": 0.46632043756240643,
-            "coordIndex": 199,
             "distanceToNextStop": 0.03529169955100925
           },
           {
             "id": "de:12054:900230064::2",
             "name": "Potsdam, Dortustr.",
-            "onTrackLocation": 0.5016121371134157,
+            "location": [
+              13.053952,
+              52.399338
+            ],
             "coordIndex": 216,
-            "distanceToNextStop": 0.049120394053030036
+            "onTrackLocation": 0.5016121371134157,
+            "distanceToNextStop": 0.04725007146373439
           },
           {
             "id": "de:12054:900230017::2",
             "name": "Potsdam, Luisenplatz-Süd/Park Sanssouci",
-            "onTrackLocation": 0.5507325311664457,
-            "coordIndex": 242,
-            "distanceToNextStop": 0.04498099395509014
+            "location": [
+              13.047388,
+              52.398537
+            ],
+            "coordIndex": 240,
+            "onTrackLocation": 0.5488622085771501,
+            "distanceToNextStop": 0.04685131654438579
           },
           {
             "id": "de:12054:900230210::2",
             "name": "Potsdam, Feuerbachstr.",
-            "onTrackLocation": 0.5957135251215359,
+            "location": [
+              13.0426,
+              52.396365
+            ],
             "coordIndex": 249,
-            "distanceToNextStop": 0.03607970941674843
+            "onTrackLocation": 0.5957135251215359,
+            "distanceToNextStop": 0.035462133811465346
           },
           {
             "id": "de:12054:900230063::2",
             "name": "Potsdam, Auf dem Kiewitt",
-            "onTrackLocation": 0.6317932345382843,
-            "coordIndex": 260,
-            "distanceToNextStop": 0.02996726067468447
+            "location": [
+              13.038249,
+              52.394653
+            ],
+            "coordIndex": 259,
+            "onTrackLocation": 0.6311756589330012,
+            "distanceToNextStop": 0.026680291509406207
           },
           {
             "id": "de:12054:900230013::1",
             "name": "Potsdam, Charlottenhof Bhf/Geschw.-Scholl-Str.",
-            "onTrackLocation": 0.6617604952129688,
-            "coordIndex": 271,
-            "distanceToNextStop": 0.04158404229075496
+            "location": [
+              13.034786,
+              52.393684
+            ],
+            "coordIndex": 266,
+            "onTrackLocation": 0.6578559504424074,
+            "distanceToNextStop": 0.04057210843978798
           },
           {
             "id": "de:12054:900230051::2",
             "name": "Potsdam, Schloss Charlottenhof",
-            "onTrackLocation": 0.7033445375037237,
-            "coordIndex": 285,
-            "distanceToNextStop": 0.059394284437563116
+            "location": [
+              13.028947,
+              52.393535
+            ],
+            "coordIndex": 282,
+            "onTrackLocation": 0.6984280588821954,
+            "distanceToNextStop": 0.06431076305909145
           },
           {
             "id": "de:12054:900230035::1",
             "name": "Potsdam, Kastanienallee/Zeppelinstr.",
-            "onTrackLocation": 0.7627388219412868,
+            "location": [
+              13.028267,
+              52.389174
+            ],
             "coordIndex": 296,
-            "distanceToNextStop": 0.07240970399581936
+            "onTrackLocation": 0.7627388219412868,
+            "distanceToNextStop": 0.07092305127624143
           },
           {
             "id": "de:12054:900230061::4",
             "name": "Potsdam, Im Bogen/Zeppelinstr.",
-            "onTrackLocation": 0.8351485259371062,
-            "coordIndex": 323,
-            "distanceToNextStop": 0.058748479543953014
+            "location": [
+              13.022038,
+              52.38436
+            ],
+            "coordIndex": 322,
+            "onTrackLocation": 0.8336618732175283,
+            "distanceToNextStop": 0.05509672029613133
           },
           {
             "id": "de:12054:900230060::2",
             "name": "Potsdam, Luftschiffhafen",
-            "onTrackLocation": 0.8938970054810592,
-            "coordIndex": 343,
-            "distanceToNextStop": 0.09271587897012024
+            "location": [
+              13.016874,
+              52.380751
+            ],
+            "coordIndex": 338,
+            "onTrackLocation": 0.8887585935136596,
+            "distanceToNextStop": 0.09340544440687404
           },
           {
             "id": "de:12054:900230002::2",
             "name": "Potsdam, Pirschheide Bhf",
-            "onTrackLocation": 0.9866128844511795,
-            "coordIndex": 375,
+            "location": [
+              13.010915,
+              52.374176
+            ],
+            "coordIndex": 369,
+            "onTrackLocation": 0.9821640379205336,
             "distanceToNextStop": 0
           }
         ],
@@ -4982,141 +5246,221 @@
           {
             "id": "de:12054:900230002::1",
             "name": "Potsdam, Pirschheide Bhf",
-            "onTrackLocation": 0,
+            "location": [
+              13.012271,
+              52.374587
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.08748510585303611
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.08638039780183263
           },
           {
             "id": "de:12054:900230060::1",
             "name": "Potsdam, Luftschiffhafen",
-            "onTrackLocation": 0.08748510585303611,
-            "coordIndex": 4,
-            "distanceToNextStop": 0.06173266261898701
+            "location": [
+              13.017181,
+              52.380889
+            ],
+            "coordIndex": 2,
+            "onTrackLocation": 0.08638039780183263,
+            "distanceToNextStop": 0.06015596276536986
           },
           {
             "id": "de:12054:900230061::1",
             "name": "Potsdam, Im Bogen/Zeppelinstr.",
-            "onTrackLocation": 0.14921776847202312,
-            "coordIndex": 20,
-            "distanceToNextStop": 0.06325962639715155
+            "location": [
+              13.022464,
+              52.38462
+            ],
+            "coordIndex": 19,
+            "onTrackLocation": 0.14653636056720248,
+            "distanceToNextStop": 0.06593349281211375
           },
           {
             "id": "de:12054:900230035::2",
             "name": "Potsdam, Kastanienallee/Zeppelinstr.",
-            "onTrackLocation": 0.21247739486917466,
-            "coordIndex": 32,
-            "distanceToNextStop": 0.045189484860858775
+            "location": [
+              13.028129,
+              52.388395
+            ],
+            "coordIndex": 31,
+            "onTrackLocation": 0.21246985337931623,
+            "distanceToNextStop": 0.04519702635071721
           },
           {
             "id": "de:12054:900230058::1",
             "name": "Potsdam, Schillerplatz/Schafgraben",
-            "onTrackLocation": 0.25766687973003344,
+            "location": [
+              13.032957,
+              52.391195
+            ],
             "coordIndex": 53,
+            "onTrackLocation": 0.25766687973003344,
             "distanceToNextStop": 0.033953951158479545
           },
           {
             "id": "de:12054:900230006::1",
             "name": "Potsdam, Charlottenhof Bhf",
+            "location": [
+              13.036396,
+              52.393082
+            ],
+            "coordIndex": 56,
             "onTrackLocation": 0.291620830888513,
-            "coordIndex": 57,
-            "distanceToNextStop": 0.04066634574276634
+            "distanceToNextStop": 0.040117583314935756
           },
           {
             "id": "de:12054:900230063::1",
             "name": "Potsdam, Auf dem Kiewitt",
-            "onTrackLocation": 0.3322871766312793,
-            "coordIndex": 62,
-            "distanceToNextStop": 0.030870365060734983
+            "location": [
+              13.039795,
+              52.394955
+            ],
+            "coordIndex": 60,
+            "onTrackLocation": 0.33173841420344874,
+            "distanceToNextStop": 0.03141912748856557
           },
           {
             "id": "de:12054:900230210::1",
             "name": "Potsdam, Feuerbachstr.",
-            "onTrackLocation": 0.3631575416920143,
+            "location": [
+              13.042992,
+              52.396514
+            ],
             "coordIndex": 63,
-            "distanceToNextStop": 0.041544316638132406
+            "onTrackLocation": 0.3631575416920143,
+            "distanceToNextStop": 0.03885713369312749
           },
           {
             "id": "de:12054:900230017::1",
             "name": "Potsdam, Luisenplatz-Süd/Park Sanssouci",
-            "onTrackLocation": 0.4047018583301467,
-            "coordIndex": 80,
-            "distanceToNextStop": 0.03601832146486689
+            "location": [
+              13.047308,
+              52.398478
+            ],
+            "coordIndex": 77,
+            "onTrackLocation": 0.4020146753851418,
+            "distanceToNextStop": 0.04798056094966219
           },
           {
             "id": "de:12054:900230064::1",
             "name": "Potsdam, Dortustr.",
-            "onTrackLocation": 0.4407201797950136,
-            "coordIndex": 99,
-            "distanceToNextStop": 0.058324825261868274
+            "location": [
+              13.052791,
+              52.39909
+            ],
+            "coordIndex": 100,
+            "onTrackLocation": 0.449995236334804,
+            "distanceToNextStop": 0.045981211018829904
           },
           {
             "id": "de:12054:900230014::1",
             "name": "Potsdam, Platz der Einheit/West",
-            "onTrackLocation": 0.4990450050568819,
-            "coordIndex": 125,
-            "distanceToNextStop": 0.04794915818374945
+            "location": [
+              13.057969,
+              52.398572
+            ],
+            "coordIndex": 122,
+            "onTrackLocation": 0.4959764473536339,
+            "distanceToNextStop": 0.05101771588699744
           },
           {
             "id": "de:12054:900230018::1",
             "name": "Potsdam, Alter Markt/Landtag",
+            "location": [
+              13.059234,
+              52.394837
+            ],
+            "coordIndex": 127,
             "onTrackLocation": 0.5469941632406313,
-            "coordIndex": 128,
-            "distanceToNextStop": 0.05234512159179561
+            "distanceToNextStop": 0.046934119398027496
           },
           {
             "id": "de:12054:900230097::2",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.5993392848324269,
-            "coordIndex": 168,
-            "distanceToNextStop": 0.029365191372031196
+            "location": [
+              13.063727,
+              52.392033
+            ],
+            "coordIndex": 159,
+            "onTrackLocation": 0.5939282826386588,
+            "distanceToNextStop": 0.03475035483235367
           },
           {
             "id": "de:12054:900230999::1",
             "name": "S Potsdam Hauptbahnhof",
-            "onTrackLocation": 0.6287044762044581,
-            "coordIndex": 187,
-            "distanceToNextStop": 0.0869942482759779
+            "location": [
+              13.066372,
+              52.390929
+            ],
+            "coordIndex": 186,
+            "onTrackLocation": 0.6286786374710125,
+            "distanceToNextStop": 0.08315361905285457
           },
           {
             "id": "de:12054:900230065::1",
             "name": "Potsdam, Friedhöfe",
-            "onTrackLocation": 0.715698724480436,
-            "coordIndex": 254,
-            "distanceToNextStop": 0.04687927172087969
+            "location": [
+              13.071952,
+              52.385759
+            ],
+            "coordIndex": 253,
+            "onTrackLocation": 0.7118322565238671,
+            "distanceToNextStop": 0.05064432783592143
           },
           {
             "id": "de:12054:900230066::1",
             "name": "Potsdam, Sporthalle",
-            "onTrackLocation": 0.7625779962013157,
-            "coordIndex": 261,
-            "distanceToNextStop": 0.035315579164711286
+            "location": [
+              13.075364,
+              52.382596
+            ],
+            "coordIndex": 259,
+            "onTrackLocation": 0.7624765843597885,
+            "distanceToNextStop": 0.03219780303845188
           },
           {
             "id": "de:12054:900230067::1",
             "name": "Potsdam, Kunersdorfer Str.",
-            "onTrackLocation": 0.797893575366027,
-            "coordIndex": 269,
-            "distanceToNextStop": 0.036964187478865984
+            "location": [
+              13.07851,
+              52.380482
+            ],
+            "coordIndex": 264,
+            "onTrackLocation": 0.7946743873982404,
+            "distanceToNextStop": 0.0386963234357246
           },
           {
             "id": "de:12054:900230021::1",
             "name": "Potsdam, Waldstr./Horstweg",
-            "onTrackLocation": 0.834857762844893,
-            "coordIndex": 272,
-            "distanceToNextStop": 0.08642853130684847
+            "location": [
+              13.082057,
+              52.378061
+            ],
+            "coordIndex": 271,
+            "onTrackLocation": 0.833370710833965,
+            "distanceToNextStop": 0.08538594270642863
           },
           {
             "id": "de:12054:900230031::1",
             "name": "Potsdam, Magnus-Zeller-Platz",
-            "onTrackLocation": 0.9212862941517415,
-            "coordIndex": 304,
-            "distanceToNextStop": 0.07693736003557106
+            "location": [
+              13.091574,
+              52.375021
+            ],
+            "coordIndex": 301,
+            "onTrackLocation": 0.9187566535403936,
+            "distanceToNextStop": 0.07566158379113663
           },
           {
             "id": "de:12054:900230034::1",
             "name": "Potsdam, Bisamkiez",
-            "onTrackLocation": 0.9982236541873125,
-            "coordIndex": 320,
+            "location": [
+              13.100829,
+              52.373339
+            ],
+            "coordIndex": 319,
+            "onTrackLocation": 0.9944182373315302,
             "distanceToNextStop": 0
           }
         ],
@@ -6426,99 +6770,155 @@
           {
             "id": "de:12054:900230015::0",
             "name": "Potsdam, Platz der Einheit/Nord",
-            "onTrackLocation": 0,
+            "location": [
+              13.058607,
+              52.399187
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.016357743852902628
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.010303308728746763
           },
           {
             "id": "de:12054:900230014::1",
             "name": "Potsdam, Platz der Einheit/West",
-            "onTrackLocation": 0.016357743852902628,
-            "coordIndex": 13,
-            "distanceToNextStop": 0.07816700292565441
+            "location": [
+              13.057969,
+              52.398572
+            ],
+            "coordIndex": 9,
+            "onTrackLocation": 0.010303308728746763,
+            "distanceToNextStop": 0.08422143804981028
           },
           {
             "id": "de:12054:900230018::1",
             "name": "Potsdam, Alter Markt/Landtag",
+            "location": [
+              13.059234,
+              52.394837
+            ],
+            "coordIndex": 15,
             "onTrackLocation": 0.09452474677855704,
-            "coordIndex": 16,
-            "distanceToNextStop": 0.08533332862549262
+            "distanceToNextStop": 0.07651228065859944
           },
           {
             "id": "de:12054:900230097::2",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.17985807540404966,
-            "coordIndex": 56,
-            "distanceToNextStop": 0.04787130967124878
+            "location": [
+              13.063727,
+              52.392033
+            ],
+            "coordIndex": 47,
+            "onTrackLocation": 0.17103702743715649,
+            "distanceToNextStop": 0.056650235181161496
           },
           {
             "id": "de:12054:900230999::1",
             "name": "S Potsdam Hauptbahnhof",
-            "onTrackLocation": 0.22772938507529844,
-            "coordIndex": 75,
-            "distanceToNextStop": 0.14181854107728847
+            "location": [
+              13.066372,
+              52.390929
+            ],
+            "coordIndex": 74,
+            "onTrackLocation": 0.22768726261831798,
+            "distanceToNextStop": 0.1355575244694521
           },
           {
             "id": "de:12054:900230065::1",
             "name": "Potsdam, Friedhöfe",
-            "onTrackLocation": 0.3695479261525869,
-            "coordIndex": 142,
-            "distanceToNextStop": 0.0764228676490189
+            "location": [
+              13.071952,
+              52.385759
+            ],
+            "coordIndex": 141,
+            "onTrackLocation": 0.3632447870877701,
+            "distanceToNextStop": 0.08256068452646853
           },
           {
             "id": "de:12054:900230066::1",
             "name": "Potsdam, Sporthalle",
-            "onTrackLocation": 0.4459707938016058,
-            "coordIndex": 149,
-            "distanceToNextStop": 0.05757166725034929
+            "location": [
+              13.075364,
+              52.382596
+            ],
+            "coordIndex": 147,
+            "onTrackLocation": 0.4458054716142386,
+            "distanceToNextStop": 0.052489050061347964
           },
           {
             "id": "de:12054:900230067::1",
             "name": "Potsdam, Kunersdorfer Str.",
-            "onTrackLocation": 0.5035424610519551,
-            "coordIndex": 157,
-            "distanceToNextStop": 0.060259238331825116
+            "location": [
+              13.07851,
+              52.380482
+            ],
+            "coordIndex": 152,
+            "onTrackLocation": 0.4982945216755866,
+            "distanceToNextStop": 0.06308297667335244
           },
           {
             "id": "de:12054:900230021::1",
             "name": "Potsdam, Waldstr./Horstweg",
-            "onTrackLocation": 0.5638016993837802,
-            "coordIndex": 160,
-            "distanceToNextStop": 0.1199926790372069
+            "location": [
+              13.082057,
+              52.378061
+            ],
+            "coordIndex": 159,
+            "onTrackLocation": 0.561377498348939,
+            "distanceToNextStop": 0.11540573695033784
           },
           {
             "id": "de:12054:900230050::1",
             "name": "Potsdam, E.-Claudius-Str./H.-Mann-Allee",
-            "onTrackLocation": 0.6837943784209871,
-            "coordIndex": 185,
-            "distanceToNextStop": 0.10350656085579635
+            "location": [
+              13.087693,
+              52.373691
+            ],
+            "coordIndex": 184,
+            "onTrackLocation": 0.6767832352992769,
+            "distanceToNextStop": 0.1105177039775066
           },
           {
             "id": "de:12054:900230068::1",
             "name": "Potsdam, Zum Kahleberg",
-            "onTrackLocation": 0.7873009392767835,
+            "location": [
+              13.09126,
+              52.368794
+            ],
             "coordIndex": 197,
+            "onTrackLocation": 0.7873009392767835,
             "distanceToNextStop": 0.06737022119582348
           },
           {
             "id": "de:12054:900230069::1",
             "name": "Potsdam, Friedrich-Wolf-Str.",
-            "onTrackLocation": 0.8546711604726069,
+            "location": [
+              13.093476,
+              52.365841
+            ],
             "coordIndex": 205,
-            "distanceToNextStop": 0.024344819359967573
+            "onTrackLocation": 0.8546711604726069,
+            "distanceToNextStop": 0.049971762421769705
           },
           {
             "id": "de:12054:900230070::1",
             "name": "Potsdam, Am Moosfenn",
-            "onTrackLocation": 0.8790159798325745,
-            "coordIndex": 212,
-            "distanceToNextStop": 0.12098402016742549
+            "location": [
+              13.094692,
+              52.363892
+            ],
+            "coordIndex": 213,
+            "onTrackLocation": 0.9046429228943766,
+            "distanceToNextStop": 0.08845181947458736
           },
           {
             "id": "de:12069:900220008::1",
             "name": "Potsdam, Rehbrücke Bhf",
-            "onTrackLocation": 1,
-            "coordIndex": 229,
+            "location": [
+              13.097427,
+              52.359446
+            ],
+            "coordIndex": 226,
+            "onTrackLocation": 0.993094742368964,
             "distanceToNextStop": 0
           }
         ],
@@ -7460,78 +7860,122 @@
           {
             "id": "de:12054:900230034::2",
             "name": "Potsdam, Bisamkiez",
-            "onTrackLocation": 0,
+            "location": [
+              13.101214,
+              52.373356
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.14629860612763104
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.13954386928121254
           },
           {
             "id": "de:12054:900230031::2",
             "name": "Potsdam, Magnus-Zeller-Platz",
-            "onTrackLocation": 0.14629860612763104,
-            "coordIndex": 16,
-            "distanceToNextStop": 0.13395451289262475
+            "location": [
+              13.091462,
+              52.375127
+            ],
+            "coordIndex": 15,
+            "onTrackLocation": 0.13954386928121254,
+            "distanceToNextStop": 0.1523010317967894
           },
           {
             "id": "de:12054:900230021::2",
             "name": "Potsdam, Waldstr./Horstweg",
-            "onTrackLocation": 0.2802531190202558,
-            "coordIndex": 44,
-            "distanceToNextStop": 0.107815958683452
+            "location": [
+              13.082976,
+              52.377543
+            ],
+            "coordIndex": 45,
+            "onTrackLocation": 0.29184490107800193,
+            "distanceToNextStop": 0.09561597756744517
           },
           {
             "id": "de:12054:900230067::2",
             "name": "Potsdam, Kunersdorfer Str.",
-            "onTrackLocation": 0.3880690777037078,
-            "coordIndex": 55,
-            "distanceToNextStop": 0.06727952431840101
+            "location": [
+              13.078477,
+              52.380561
+            ],
+            "coordIndex": 52,
+            "onTrackLocation": 0.3874608786454471,
+            "distanceToNextStop": 0.06769333591321225
           },
           {
             "id": "de:12054:900230066::2",
             "name": "Potsdam, Sporthalle",
-            "onTrackLocation": 0.4553486020221088,
-            "coordIndex": 62,
-            "distanceToNextStop": 0.09935727910506753
+            "location": [
+              13.075397,
+              52.382675
+            ],
+            "coordIndex": 60,
+            "onTrackLocation": 0.45515421455865934,
+            "distanceToNextStop": 0.09701302291201741
           },
           {
             "id": "de:12054:900230065::2",
             "name": "Potsdam, Friedhöfe",
-            "onTrackLocation": 0.5547058811271763,
-            "coordIndex": 82,
-            "distanceToNextStop": 0.17353684997969632
+            "location": [
+              13.071531,
+              52.386083
+            ],
+            "coordIndex": 81,
+            "onTrackLocation": 0.5521672374706768,
+            "distanceToNextStop": 0.1760754936361959
           },
           {
             "id": "de:12054:900230999::2",
             "name": "S Potsdam Hauptbahnhof",
-            "onTrackLocation": 0.7282427311068727,
+            "location": [
+              13.065283,
+              52.391005
+            ],
             "coordIndex": 150,
-            "distanceToNextStop": 0.023872714039200993
+            "onTrackLocation": 0.7282427311068727,
+            "distanceToNextStop": 0.03993540981313015
           },
           {
             "id": "de:12054:900230097::1",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.7521154451460736,
-            "coordIndex": 154,
-            "distanceToNextStop": 0.11323501191421725
+            "location": [
+              13.063789,
+              52.39204
+            ],
+            "coordIndex": 155,
+            "onTrackLocation": 0.7681781409200028,
+            "distanceToNextStop": 0.08831855897611574
           },
           {
             "id": "de:12054:900230018::2",
             "name": "Potsdam, Alter Markt/Landtag",
-            "onTrackLocation": 0.8653504570602909,
-            "coordIndex": 194,
-            "distanceToNextStop": 0.07401959947349479
+            "location": [
+              13.059322,
+              52.394842
+            ],
+            "coordIndex": 187,
+            "onTrackLocation": 0.8564966998961185,
+            "distanceToNextStop": 0.07525883023156776
           },
           {
             "id": "de:12054:900230016::2",
             "name": "Potsdam, Platz der Einheit/Bildungsforum",
-            "onTrackLocation": 0.9393700565337857,
-            "coordIndex": 221,
-            "distanceToNextStop": 0.06062994346621431
+            "location": [
+              13.059267,
+              52.397519
+            ],
+            "coordIndex": 214,
+            "onTrackLocation": 0.9317555301276863,
+            "distanceToNextStop": 0.05872516589183041
           },
           {
             "id": "de:12054:900230015::0",
             "name": "Potsdam, Platz der Einheit/Nord",
-            "onTrackLocation": 1,
-            "coordIndex": 240,
+            "location": [
+              13.058607,
+              52.399187
+            ],
+            "coordIndex": 237,
+            "onTrackLocation": 0.9904806960195167,
             "distanceToNextStop": 0
           }
         ],
@@ -8517,50 +8961,78 @@
           {
             "id": "de:12069:900220008::2",
             "name": "Potsdam, Rehbrücke Bhf",
-            "onTrackLocation": 0,
+            "location": [
+              13.097498,
+              52.360246
+            ],
             "coordIndex": 0,
+            "onTrackLocation": 0,
             "distanceToNextStop": 0.1576692590987317
           },
           {
             "id": "de:12054:900230070::2",
             "name": "Potsdam, Am Moosfenn",
-            "onTrackLocation": 0.1576692590987317,
+            "location": [
+              13.095061,
+              52.363478
+            ],
             "coordIndex": 11,
-            "distanceToNextStop": 0.09610681500612128
+            "onTrackLocation": 0.1576692590987317,
+            "distanceToNextStop": 0.08320296187054349
           },
           {
             "id": "de:12054:900230069::2",
             "name": "Potsdam, Friedrich-Wolf-Str.",
-            "onTrackLocation": 0.253776074104853,
-            "coordIndex": 23,
-            "distanceToNextStop": 0.08932205712543861
+            "location": [
+              13.093583,
+              52.365846
+            ],
+            "coordIndex": 18,
+            "onTrackLocation": 0.24087222096927519,
+            "distanceToNextStop": 0.09205313736949583
           },
           {
             "id": "de:12054:900230068::2",
             "name": "Potsdam, Zum Kahleberg",
-            "onTrackLocation": 0.3430981312302916,
-            "coordIndex": 27,
-            "distanceToNextStop": 0.14880477931670372
+            "location": [
+              13.091766,
+              52.368281
+            ],
+            "coordIndex": 26,
+            "onTrackLocation": 0.332925358338771,
+            "distanceToNextStop": 0.19681498309772538
           },
           {
             "id": "de:12054:900230050::2",
             "name": "Potsdam, E.-Claudius-Str./H.-Mann-Allee",
-            "onTrackLocation": 0.4919029105469953,
-            "coordIndex": 31,
-            "distanceToNextStop": 0.2906454130408115
+            "location": [
+              13.088173,
+              52.373107
+            ],
+            "coordIndex": 32,
+            "onTrackLocation": 0.5297403414364964,
+            "distanceToNextStop": 0.2451279457253751
           },
           {
             "id": "de:12054:900230031::1",
             "name": "Potsdam, Magnus-Zeller-Platz",
-            "onTrackLocation": 0.7825483235878068,
-            "coordIndex": 60,
-            "distanceToNextStop": 0.21254440682433617
+            "location": [
+              13.091574,
+              52.375021
+            ],
+            "coordIndex": 56,
+            "onTrackLocation": 0.7748682871618715,
+            "distanceToNextStop": 0.20971173436660828
           },
           {
             "id": "de:12054:900230034::1",
             "name": "Potsdam, Bisamkiez",
-            "onTrackLocation": 0.995092730412143,
-            "coordIndex": 76,
+            "location": [
+              13.100829,
+              52.373339
+            ],
+            "coordIndex": 75,
+            "onTrackLocation": 0.9845800215284798,
             "distanceToNextStop": 0
           }
         ],
@@ -8908,211 +9380,331 @@
           {
             "id": "de:12054:900230209::1",
             "name": "Potsdam, Kirschallee",
-            "onTrackLocation": 0,
+            "location": [
+              13.033547,
+              52.413879
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.030691009042948806
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.02833308089690238
           },
           {
             "id": "de:12054:900230208::1",
             "name": "Potsdam, Johan-Bouman-Platz",
-            "onTrackLocation": 0.030691009042948806,
-            "coordIndex": 23,
-            "distanceToNextStop": 0.017837631429061602
+            "location": [
+              13.038649,
+              52.413555
+            ],
+            "coordIndex": 22,
+            "onTrackLocation": 0.02833308089690238,
+            "distanceToNextStop": 0.02019555957510803
           },
           {
             "id": "de:12054:900230207::1",
             "name": "Potsdam, Hannes-Meyer-Str.",
+            "location": [
+              13.040457,
+              52.415409
+            ],
+            "coordIndex": 28,
             "onTrackLocation": 0.04852864047201041,
-            "coordIndex": 29,
             "distanceToNextStop": 0.05581750556646398
           },
           {
             "id": "de:12054:900230206::1",
             "name": "Potsdam, Campus Fachhochschule",
-            "onTrackLocation": 0.10434614603847439,
+            "location": [
+              13.050732,
+              52.414054
+            ],
             "coordIndex": 33,
-            "distanceToNextStop": 0.021043098887060352
+            "onTrackLocation": 0.10434614603847439,
+            "distanceToNextStop": 0.018410592820090402
           },
           {
             "id": "de:12054:900230157::2",
             "name": "Potsdam, Am Schragen",
-            "onTrackLocation": 0.12538924492553474,
-            "coordIndex": 43,
-            "distanceToNextStop": 0.04160215426937275
+            "location": [
+              13.054482,
+              52.41311
+            ],
+            "coordIndex": 42,
+            "onTrackLocation": 0.12275673885856479,
+            "distanceToNextStop": 0.04096016349086075
           },
           {
             "id": "de:12054:900230076::1",
             "name": "Potsdam, Puschkinallee",
-            "onTrackLocation": 0.1669913991949075,
-            "coordIndex": 65,
-            "distanceToNextStop": 0.025930662954982198
+            "location": [
+              13.059007,
+              52.411696
+            ],
+            "coordIndex": 63,
+            "onTrackLocation": 0.16371690234942554,
+            "distanceToNextStop": 0.029205159800464148
           },
           {
             "id": "de:12054:900230024::1",
             "name": "Potsdam, Reiterweg/Alleestr.",
-            "onTrackLocation": 0.1929220621498897,
+            "location": [
+              13.058529,
+              52.408401
+            ],
             "coordIndex": 74,
-            "distanceToNextStop": 0.028645961780863732
+            "onTrackLocation": 0.1929220621498897,
+            "distanceToNextStop": 0.028494676139766445
           },
           {
             "id": "de:12054:900230075::1",
             "name": "Potsdam, Rathaus",
-            "onTrackLocation": 0.22156802393075342,
-            "coordIndex": 80,
-            "distanceToNextStop": 0.017497352167314295
+            "location": [
+              13.058007,
+              52.405223
+            ],
+            "coordIndex": 78,
+            "onTrackLocation": 0.22141673828965613,
+            "distanceToNextStop": 0.016867960579299263
           },
           {
             "id": "de:12054:900230022::1",
             "name": "Potsdam, Nauener Tor",
-            "onTrackLocation": 0.23906537609806772,
-            "coordIndex": 86,
-            "distanceToNextStop": 0.01713242696590478
+            "location": [
+              13.057843,
+              52.402822
+            ],
+            "coordIndex": 84,
+            "onTrackLocation": 0.2382846988689554,
+            "distanceToNextStop": 0.0179131041950171
           },
           {
             "id": "de:12054:900230205::1",
             "name": "Potsdam, Brandenburger Str.",
+            "location": [
+              13.057694,
+              52.400956
+            ],
+            "coordIndex": 89,
             "onTrackLocation": 0.2561978030639725,
-            "coordIndex": 90,
-            "distanceToNextStop": 0.019987412743744604
+            "distanceToNextStop": 0.017561707809456595
           },
           {
             "id": "de:12054:900230014::1",
             "name": "Potsdam, Platz der Einheit/West",
-            "onTrackLocation": 0.2761852158077171,
-            "coordIndex": 103,
-            "distanceToNextStop": 0.03202716577617365
+            "location": [
+              13.057969,
+              52.398572
+            ],
+            "coordIndex": 99,
+            "onTrackLocation": 0.2737595108734291,
+            "distanceToNextStop": 0.03445287071046166
           },
           {
             "id": "de:12054:900230018::1",
             "name": "Potsdam, Alter Markt/Landtag",
+            "location": [
+              13.059234,
+              52.394837
+            ],
+            "coordIndex": 105,
             "onTrackLocation": 0.30821238158389075,
-            "coordIndex": 106,
-            "distanceToNextStop": 0.034963406038744094
+            "distanceToNextStop": 0.03134918066254583
           },
           {
             "id": "de:12054:900230097::2",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.34317578762263484,
-            "coordIndex": 146,
-            "distanceToNextStop": 0.019614189023235973
+            "location": [
+              13.063727,
+              52.392033
+            ],
+            "coordIndex": 137,
+            "onTrackLocation": 0.3395615622464366,
+            "distanceToNextStop": 0.0232111556730904
           },
           {
             "id": "de:12054:900230999::1",
             "name": "S Potsdam Hauptbahnhof",
-            "onTrackLocation": 0.3627899766458708,
-            "coordIndex": 165,
-            "distanceToNextStop": 0.058106947371864726
+            "location": [
+              13.066372,
+              52.390929
+            ],
+            "coordIndex": 164,
+            "onTrackLocation": 0.362772717919527,
+            "distanceToNextStop": 0.05554163708336268
           },
           {
             "id": "de:12054:900230065::1",
             "name": "Potsdam, Friedhöfe",
-            "onTrackLocation": 0.42089692401773554,
-            "coordIndex": 232,
-            "distanceToNextStop": 0.03131254569928499
+            "location": [
+              13.071952,
+              52.385759
+            ],
+            "coordIndex": 231,
+            "onTrackLocation": 0.41831435500288966,
+            "distanceToNextStop": 0.0338273776780017
           },
           {
             "id": "de:12054:900230066::1",
             "name": "Potsdam, Sporthalle",
-            "onTrackLocation": 0.45220946971702053,
-            "coordIndex": 239,
-            "distanceToNextStop": 0.023588691673279927
+            "location": [
+              13.075364,
+              52.382596
+            ],
+            "coordIndex": 237,
+            "onTrackLocation": 0.45214173268089136,
+            "distanceToNextStop": 0.021506203958562287
           },
           {
             "id": "de:12054:900230067::1",
             "name": "Potsdam, Kunersdorfer Str.",
-            "onTrackLocation": 0.47579816139030046,
-            "coordIndex": 247,
-            "distanceToNextStop": 0.024689863284574287
+            "location": [
+              13.07851,
+              52.380482
+            ],
+            "coordIndex": 242,
+            "onTrackLocation": 0.47364793663945365,
+            "distanceToNextStop": 0.025846826358349007
           },
           {
             "id": "de:12054:900230021::1",
             "name": "Potsdam, Waldstr./Horstweg",
-            "onTrackLocation": 0.5004880246748747,
-            "coordIndex": 250,
-            "distanceToNextStop": 0.05772908231981799
+            "location": [
+              13.082057,
+              52.378061
+            ],
+            "coordIndex": 249,
+            "onTrackLocation": 0.49949476299780265,
+            "distanceToNextStop": 0.05703269558005425
           },
           {
             "id": "de:12054:900230031::1",
             "name": "Potsdam, Magnus-Zeller-Platz",
-            "onTrackLocation": 0.5582171069946927,
-            "coordIndex": 282,
-            "distanceToNextStop": 0.052576040989047446
+            "location": [
+              13.091574,
+              52.375021
+            ],
+            "coordIndex": 279,
+            "onTrackLocation": 0.5565274585778569,
+            "distanceToNextStop": 0.05053740626019665
           },
           {
             "id": "de:12054:900230034::1",
             "name": "Potsdam, Bisamkiez",
-            "onTrackLocation": 0.6107931479837402,
-            "coordIndex": 300,
-            "distanceToNextStop": 0.05670749933934782
+            "location": [
+              13.100829,
+              52.373339
+            ],
+            "coordIndex": 297,
+            "onTrackLocation": 0.6070648648380536,
+            "distanceToNextStop": 0.05890864454970046
           },
           {
             "id": "de:12054:900230083::1",
             "name": "Potsdam, Abzweig Betriebshof ViP",
-            "onTrackLocation": 0.667500647323088,
-            "coordIndex": 335,
-            "distanceToNextStop": 0.07113511418897356
+            "location": [
+              13.111368,
+              52.373353
+            ],
+            "coordIndex": 333,
+            "onTrackLocation": 0.665973509387754,
+            "distanceToNextStop": 0.07212462043152179
           },
           {
             "id": "de:12054:900230084::1",
             "name": "Potsdam, Turmstr.",
-            "onTrackLocation": 0.7386357615120616,
-            "coordIndex": 385,
-            "distanceToNextStop": 0.03078493875078059
+            "location": [
+              13.123449,
+              52.374732
+            ],
+            "coordIndex": 383,
+            "onTrackLocation": 0.7380981298192758,
+            "distanceToNextStop": 0.031322570443566344
           },
           {
             "id": "de:12054:900230032::1",
             "name": "Potsdam, Johannes-Kepler-Platz",
-            "onTrackLocation": 0.7694207002628421,
+            "location": [
+              13.129155,
+              52.375455
+            ],
             "coordIndex": 404,
+            "onTrackLocation": 0.7694207002628421,
             "distanceToNextStop": 0.04332248896882063
           },
           {
             "id": "de:12054:900230085::1",
             "name": "Potsdam, Max-Born-Str.",
-            "onTrackLocation": 0.8127431892316628,
+            "location": [
+              13.137696,
+              52.375535
+            ],
             "coordIndex": 415,
-            "distanceToNextStop": 0.031243203909185113
+            "onTrackLocation": 0.8127431892316628,
+            "distanceToNextStop": 0.029340650091446374
           },
           {
             "id": "de:12054:900230086::1",
             "name": "Potsdam, Gaußstr.",
-            "onTrackLocation": 0.8439863931408479,
-            "coordIndex": 435,
-            "distanceToNextStop": 0.045319743698899906
+            "location": [
+              13.141952,
+              52.374876
+            ],
+            "coordIndex": 433,
+            "onTrackLocation": 0.8420838393231092,
+            "distanceToNextStop": 0.044297346604296406
           },
           {
             "id": "de:12054:900230141::1",
             "name": "Potsdam, Hans-Albers-Str.",
-            "onTrackLocation": 0.8893061368397478,
-            "coordIndex": 484,
-            "distanceToNextStop": 0.02995579493322631
+            "location": [
+              13.140717,
+              52.369769
+            ],
+            "coordIndex": 479,
+            "onTrackLocation": 0.8863811859274056,
+            "distanceToNextStop": 0.03288074584556855
           },
           {
             "id": "de:12054:900230140::1",
             "name": "Potsdam, Robert-Baberske-Str.",
-            "onTrackLocation": 0.9192619317729741,
+            "location": [
+              13.136411,
+              52.367067
+            ],
             "coordIndex": 503,
-            "distanceToNextStop": 0.021107098066039165
+            "onTrackLocation": 0.9192619317729741,
+            "distanceToNextStop": 0.018296292637244638
           },
           {
             "id": "de:12054:900230168::1",
             "name": "Potsdam, Priesterweg",
-            "onTrackLocation": 0.9403690298390133,
-            "coordIndex": 531,
-            "distanceToNextStop": 0.031072964614756948
+            "location": [
+              13.134794,
+              52.365036
+            ],
+            "coordIndex": 526,
+            "onTrackLocation": 0.9375582244102187,
+            "distanceToNextStop": 0.03282289278299577
           },
           {
             "id": "de:12054:900230166::1",
             "name": "Potsdam, Am Hirtengraben",
-            "onTrackLocation": 0.9714419944537702,
-            "coordIndex": 562,
-            "distanceToNextStop": 0.02855800554622978
+            "location": [
+              13.137061,
+              52.361772
+            ],
+            "coordIndex": 559,
+            "onTrackLocation": 0.9703811171932145,
+            "distanceToNextStop": 0.026257221761489036
           },
           {
             "id": "de:12054:900230167::1",
             "name": "Potsdam, Marie-Juchacz-Str.",
-            "onTrackLocation": 1,
-            "coordIndex": 570,
+            "location": [
+              13.137202,
+              52.358386
+            ],
+            "coordIndex": 568,
+            "onTrackLocation": 0.9966383389547036,
             "distanceToNextStop": 0
           }
         ],
@@ -11418,99 +12010,155 @@
           {
             "id": "de:12054:900230209::1",
             "name": "Potsdam, Kirschallee",
-            "onTrackLocation": 0,
+            "location": [
+              13.033547,
+              52.413879
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.08385140544754986
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.07740927157330525
           },
           {
             "id": "de:12054:900230208::1",
             "name": "Potsdam, Johan-Bouman-Platz",
-            "onTrackLocation": 0.08385140544754986,
-            "coordIndex": 23,
-            "distanceToNextStop": 0.04873448321914457
+            "location": [
+              13.038649,
+              52.413555
+            ],
+            "coordIndex": 22,
+            "onTrackLocation": 0.07740927157330525,
+            "distanceToNextStop": 0.05517661709338918
           },
           {
             "id": "de:12054:900230207::1",
             "name": "Potsdam, Hannes-Meyer-Str.",
+            "location": [
+              13.040457,
+              52.415409
+            ],
+            "coordIndex": 28,
             "onTrackLocation": 0.13258588866669443,
-            "coordIndex": 29,
             "distanceToNextStop": 0.1524999156519994
           },
           {
             "id": "de:12054:900230206::1",
             "name": "Potsdam, Campus Fachhochschule",
-            "onTrackLocation": 0.28508580431869385,
+            "location": [
+              13.050732,
+              52.414054
+            ],
             "coordIndex": 33,
-            "distanceToNextStop": 0.05749219304528441
+            "onTrackLocation": 0.28508580431869385,
+            "distanceToNextStop": 0.05029988036323052
           },
           {
             "id": "de:12054:900230157::2",
             "name": "Potsdam, Am Schragen",
-            "onTrackLocation": 0.34257799736397826,
-            "coordIndex": 43,
-            "distanceToNextStop": 0.11366192295114991
+            "location": [
+              13.054482,
+              52.41311
+            ],
+            "coordIndex": 42,
+            "onTrackLocation": 0.33538568468192437,
+            "distanceToNextStop": 0.11190792949374134
           },
           {
             "id": "de:12054:900230076::1",
             "name": "Potsdam, Puschkinallee",
-            "onTrackLocation": 0.45623992031512817,
-            "coordIndex": 65,
-            "distanceToNextStop": 0.07084558640347205
+            "location": [
+              13.059007,
+              52.411696
+            ],
+            "coordIndex": 63,
+            "onTrackLocation": 0.4472936141756657,
+            "distanceToNextStop": 0.0797918925429345
           },
           {
             "id": "de:12054:900230024::1",
             "name": "Potsdam, Reiterweg/Alleestr.",
-            "onTrackLocation": 0.5270855067186002,
+            "location": [
+              13.058529,
+              52.408401
+            ],
             "coordIndex": 74,
-            "distanceToNextStop": 0.07826409852999217
+            "onTrackLocation": 0.5270855067186002,
+            "distanceToNextStop": 0.07785076856706097
           },
           {
             "id": "de:12054:900230075::1",
             "name": "Potsdam, Rathaus",
-            "onTrackLocation": 0.6053496052485924,
-            "coordIndex": 80,
-            "distanceToNextStop": 0.047804800708470485
+            "location": [
+              13.058007,
+              52.405223
+            ],
+            "coordIndex": 78,
+            "onTrackLocation": 0.6049362752856612,
+            "distanceToNextStop": 0.04608522970453022
           },
           {
             "id": "de:12054:900230022::1",
             "name": "Potsdam, Nauener Tor",
-            "onTrackLocation": 0.6531544059570629,
-            "coordIndex": 86,
-            "distanceToNextStop": 0.04680778262481622
+            "location": [
+              13.057843,
+              52.402822
+            ],
+            "coordIndex": 84,
+            "onTrackLocation": 0.6510215049901914,
+            "distanceToNextStop": 0.048940683591687684
           },
           {
             "id": "de:12054:900230205::1",
             "name": "Potsdam, Brandenburger Str.",
+            "location": [
+              13.057694,
+              52.400956
+            ],
+            "coordIndex": 89,
             "onTrackLocation": 0.6999621885818791,
-            "coordIndex": 90,
-            "distanceToNextStop": 0.0546079357468473
+            "distanceToNextStop": 0.04798062780606016
           },
           {
             "id": "de:12054:900230014::1",
             "name": "Potsdam, Platz der Einheit/West",
-            "onTrackLocation": 0.7545701243287264,
-            "coordIndex": 103,
-            "distanceToNextStop": 0.08750194101066289
+            "location": [
+              13.057969,
+              52.398572
+            ],
+            "coordIndex": 99,
+            "onTrackLocation": 0.7479428163879392,
+            "distanceToNextStop": 0.09412924895145003
           },
           {
             "id": "de:12054:900230018::1",
             "name": "Potsdam, Alter Markt/Landtag",
+            "location": [
+              13.059234,
+              52.394837
+            ],
+            "coordIndex": 105,
             "onTrackLocation": 0.8420720653393893,
-            "coordIndex": 106,
-            "distanceToNextStop": 0.09552409083322744
+            "distanceToNextStop": 0.08564960684430656
           },
           {
             "id": "de:12054:900230097::2",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.9375961561726167,
-            "coordIndex": 146,
-            "distanceToNextStop": 0.03659219405671321
+            "location": [
+              13.063727,
+              52.392033
+            ],
+            "coordIndex": 137,
+            "onTrackLocation": 0.9277216721836958,
+            "distanceToNextStop": 0.07227832781630417
           },
           {
             "id": "de:12054:900230233::1",
             "name": "Potsdam, Hauptbahnhof/Friedrich-Engels-Str.",
-            "onTrackLocation": 0.9741883502293299,
-            "coordIndex": 164,
+            "location": [
+              13.066347,
+              52.390336
+            ],
+            "coordIndex": 165,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -12196,85 +12844,133 @@
           {
             "id": "de:12054:900230209::1",
             "name": "Potsdam, Kirschallee",
-            "onTrackLocation": 0,
+            "location": [
+              13.033547,
+              52.413879
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.10561085565220156
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.09749698723158719
           },
           {
             "id": "de:12054:900230208::1",
             "name": "Potsdam, Johan-Bouman-Platz",
-            "onTrackLocation": 0.10561085565220156,
-            "coordIndex": 23,
-            "distanceToNextStop": 0.061381087711894836
+            "location": [
+              13.038649,
+              52.413555
+            ],
+            "coordIndex": 22,
+            "onTrackLocation": 0.09749698723158719,
+            "distanceToNextStop": 0.06949495613250921
           },
           {
             "id": "de:12054:900230207::1",
             "name": "Potsdam, Hannes-Meyer-Str.",
+            "location": [
+              13.040457,
+              52.415409
+            ],
+            "coordIndex": 28,
             "onTrackLocation": 0.1669919433640964,
-            "coordIndex": 29,
             "distanceToNextStop": 0.19207366284361815
           },
           {
             "id": "de:12054:900230206::1",
             "name": "Potsdam, Campus Fachhochschule",
-            "onTrackLocation": 0.35906560620771455,
+            "location": [
+              13.050732,
+              52.414054
+            ],
             "coordIndex": 33,
-            "distanceToNextStop": 0.07241142433363301
+            "onTrackLocation": 0.35906560620771455,
+            "distanceToNextStop": 0.06335270561072476
           },
           {
             "id": "de:12054:900230157::2",
             "name": "Potsdam, Am Schragen",
-            "onTrackLocation": 0.43147703054134756,
-            "coordIndex": 43,
-            "distanceToNextStop": 0.14315720617770877
+            "location": [
+              13.054482,
+              52.41311
+            ],
+            "coordIndex": 42,
+            "onTrackLocation": 0.4224183118184393,
+            "distanceToNextStop": 0.140948051198653
           },
           {
             "id": "de:12054:900230076::1",
             "name": "Potsdam, Puschkinallee",
-            "onTrackLocation": 0.5746342367190563,
-            "coordIndex": 65,
-            "distanceToNextStop": 0.08923002493897125
+            "location": [
+              13.059007,
+              52.411696
+            ],
+            "coordIndex": 63,
+            "onTrackLocation": 0.5633663630170923,
+            "distanceToNextStop": 0.10049789864093528
           },
           {
             "id": "de:12054:900230024::1",
             "name": "Potsdam, Reiterweg/Alleestr.",
-            "onTrackLocation": 0.6638642616580276,
+            "location": [
+              13.058529,
+              52.408401
+            ],
             "coordIndex": 74,
-            "distanceToNextStop": 0.09857364189048534
+            "onTrackLocation": 0.6638642616580276,
+            "distanceToNextStop": 0.09805305275046006
           },
           {
             "id": "de:12054:900230075::1",
             "name": "Potsdam, Rathaus",
-            "onTrackLocation": 0.7624379035485129,
-            "coordIndex": 80,
-            "distanceToNextStop": 0.06021015247338435
+            "location": [
+              13.058007,
+              52.405223
+            ],
+            "coordIndex": 78,
+            "onTrackLocation": 0.7619173144084876,
+            "distanceToNextStop": 0.05804435257877849
           },
           {
             "id": "de:12054:900230022::1",
             "name": "Potsdam, Nauener Tor",
-            "onTrackLocation": 0.8226480560218973,
-            "coordIndex": 86,
-            "distanceToNextStop": 0.05895440807228047
+            "location": [
+              13.057843,
+              52.402822
+            ],
+            "coordIndex": 84,
+            "onTrackLocation": 0.8199616669872661,
+            "distanceToNextStop": 0.061640797106911616
           },
           {
             "id": "de:12054:900230205::1",
             "name": "Potsdam, Brandenburger Str.",
+            "location": [
+              13.057694,
+              52.400956
+            ],
+            "coordIndex": 89,
             "onTrackLocation": 0.8816024640941778,
-            "coordIndex": 90,
-            "distanceToNextStop": 0.07152507662084595
+            "distanceToNextStop": 0.06043160672479686
           },
           {
             "id": "de:12054:900230014::1",
             "name": "Potsdam, Platz der Einheit/West",
-            "onTrackLocation": 0.9531275407150237,
-            "coordIndex": 104,
-            "distanceToNextStop": 0.0468724592849763
+            "location": [
+              13.057969,
+              52.398572
+            ],
+            "coordIndex": 99,
+            "onTrackLocation": 0.9420340708189746,
+            "distanceToNextStop": 0.04777099630797721
           },
           {
             "id": "de:12054:900230016::2",
             "name": "Potsdam, Platz der Einheit/Bildungsforum",
-            "onTrackLocation": 1,
-            "coordIndex": 115,
+            "location": [
+              13.059267,
+              52.397519
+            ],
+            "coordIndex": 111,
+            "onTrackLocation": 0.9898050671269518,
             "distanceToNextStop": 0
           }
         ],
@@ -12760,78 +13456,122 @@
           {
             "id": "de:12054:900230015::0",
             "name": "Potsdam, Platz der Einheit/Nord",
-            "onTrackLocation": 0,
+            "location": [
+              13.058607,
+              52.399187
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.03273159439335577
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.06957645247384855
           },
           {
             "id": "de:12054:900230205::2",
             "name": "Potsdam, Brandenburger Str.",
-            "onTrackLocation": 0.03273159439335577,
-            "coordIndex": 3,
-            "distanceToNextStop": 0.08527745942173905
+            "location": [
+              13.057826,
+              52.400618
+            ],
+            "coordIndex": 4,
+            "onTrackLocation": 0.06957645247384855,
+            "distanceToNextStop": 0.04843260134124626
           },
           {
             "id": "de:12054:900230022::2",
             "name": "Potsdam, Nauener Tor",
-            "onTrackLocation": 0.11800905381509481,
+            "location": [
+              13.05793,
+              52.403001
+            ],
             "coordIndex": 7,
-            "distanceToNextStop": 0.07776593496649588
+            "onTrackLocation": 0.11800905381509481,
+            "distanceToNextStop": 0.07613875458691331
           },
           {
             "id": "de:12054:900230075::2",
             "name": "Potsdam, Rathaus",
-            "onTrackLocation": 0.1957749887815907,
-            "coordIndex": 16,
-            "distanceToNextStop": 0.08901766188199314
+            "location": [
+              13.058199,
+              52.40545
+            ],
+            "coordIndex": 13,
+            "onTrackLocation": 0.19414780840200813,
+            "distanceToNextStop": 0.10501637920759216
           },
           {
             "id": "de:12054:900230024::2",
             "name": "Potsdam, Reiterweg/Alleestr.",
-            "onTrackLocation": 0.28479265066358384,
-            "coordIndex": 19,
-            "distanceToNextStop": 0.1084575498855807
+            "location": [
+              13.058645,
+              52.408641
+            ],
+            "coordIndex": 20,
+            "onTrackLocation": 0.2991641876096003,
+            "distanceToNextStop": 0.09408601293956426
           },
           {
             "id": "de:12054:900230076::2",
             "name": "Potsdam, Puschkinallee",
+            "location": [
+              13.059109,
+              52.411695
+            ],
+            "coordIndex": 29,
             "onTrackLocation": 0.39325020054916454,
-            "coordIndex": 30,
             "distanceToNextStop": 0.14202547434464102
           },
           {
             "id": "de:12054:900230157::1",
             "name": "Potsdam, Am Schragen",
+            "location": [
+              13.054539,
+              52.413041
+            ],
+            "coordIndex": 48,
             "onTrackLocation": 0.5352756748938056,
-            "coordIndex": 49,
             "distanceToNextStop": 0.08082552614236405
           },
           {
             "id": "de:12054:900230206::2",
             "name": "Potsdam, Campus Fachhochschule",
-            "onTrackLocation": 0.6161012010361696,
+            "location": [
+              13.050761,
+              52.414115
+            ],
             "coordIndex": 58,
-            "distanceToNextStop": 0.20697559783054653
+            "onTrackLocation": 0.6161012010361696,
+            "distanceToNextStop": 0.19842610878385647
           },
           {
             "id": "de:12054:900230207::2",
             "name": "Potsdam, Hannes-Meyer-Str.",
-            "onTrackLocation": 0.8230767988667161,
-            "coordIndex": 66,
-            "distanceToNextStop": 0.05914629670366822
+            "location": [
+              13.040259,
+              52.415352
+            ],
+            "coordIndex": 64,
+            "onTrackLocation": 0.8145273098200261,
+            "distanceToNextStop": 0.061140602760128004
           },
           {
             "id": "de:12054:900230208::2",
             "name": "Potsdam, Johan-Bouman-Platz",
-            "onTrackLocation": 0.8822230955703844,
-            "coordIndex": 70,
-            "distanceToNextStop": 0.11619380566257065
+            "location": [
+              13.038499,
+              52.413515
+            ],
+            "coordIndex": 67,
+            "onTrackLocation": 0.8756679125801541,
+            "distanceToNextStop": 0.11405026642380423
           },
           {
             "id": "de:12054:900230209::2",
             "name": "Potsdam, Kirschallee",
-            "onTrackLocation": 0.998416901232955,
-            "coordIndex": 90,
+            "location": [
+              13.03327,
+              52.413679
+            ],
+            "coordIndex": 89,
+            "onTrackLocation": 0.9897181790039583,
             "distanceToNextStop": 0
           }
         ],
@@ -13239,134 +13979,210 @@
           {
             "id": "de:12054:900230025::1",
             "name": "Potsdam, Glienicker Brücke",
-            "onTrackLocation": 0,
+            "location": [
+              13.087045,
+              52.41303
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.06497449590517357
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.061890155283475294
           },
           {
             "id": "de:12054:900230074::1",
             "name": "Potsdam, Leonardo-da-Vinci-Str.",
-            "onTrackLocation": 0.06497449590517357,
-            "coordIndex": 17,
-            "distanceToNextStop": 0.047341376760647036
+            "location": [
+              13.079786,
+              52.409991
+            ],
+            "coordIndex": 14,
+            "onTrackLocation": 0.061890155283475294,
+            "distanceToNextStop": 0.05042571738234531
           },
           {
             "id": "de:12054:900230073::1",
             "name": "Potsdam, Mangerstr.",
-            "onTrackLocation": 0.1123158726658206,
+            "location": [
+              13.075326,
+              52.407759
+            ],
             "coordIndex": 30,
-            "distanceToNextStop": 0.04687053157997709
+            "onTrackLocation": 0.1123158726658206,
+            "distanceToNextStop": 0.05980305225639976
           },
           {
             "id": "de:12054:900230072::3",
             "name": "Potsdam, Schiffbauergasse/Berliner Str.",
-            "onTrackLocation": 0.1591864042457977,
-            "coordIndex": 39,
-            "distanceToNextStop": 0.051291281006536904
+            "location": [
+              13.072099,
+              52.404525
+            ],
+            "coordIndex": 40,
+            "onTrackLocation": 0.17211892492222036,
+            "distanceToNextStop": 0.036998531000502544
           },
           {
             "id": "de:12054:900230026::1",
             "name": "Potsdam, Holzmarktstr.",
-            "onTrackLocation": 0.2104776852523346,
-            "coordIndex": 49,
-            "distanceToNextStop": 0.06602171377894736
+            "location": [
+              13.069361,
+              52.401759
+            ],
+            "coordIndex": 48,
+            "onTrackLocation": 0.2091174559227229,
+            "distanceToNextStop": 0.06698495491269446
           },
           {
             "id": "de:12054:900230071::1",
             "name": "Potsdam, Burgstr./Klinikum",
-            "onTrackLocation": 0.27649939903128196,
-            "coordIndex": 66,
-            "distanceToNextStop": 0.05391342404049981
+            "location": [
+              13.064663,
+              52.398356
+            ],
+            "coordIndex": 64,
+            "onTrackLocation": 0.27610241083541737,
+            "distanceToNextStop": 0.05184292528817408
           },
           {
             "id": "de:12054:900230016::1",
             "name": "Potsdam, Platz der Einheit/Bildungsforum",
-            "onTrackLocation": 0.33041282307178177,
-            "coordIndex": 79,
-            "distanceToNextStop": 0.03946843666618438
+            "location": [
+              13.058844,
+              52.397499
+            ],
+            "coordIndex": 75,
+            "onTrackLocation": 0.32794533612359145,
+            "distanceToNextStop": 0.036962969331697904
           },
           {
             "id": "de:12054:900230018::1",
             "name": "Potsdam, Alter Markt/Landtag",
-            "onTrackLocation": 0.36988125973796615,
-            "coordIndex": 101,
-            "distanceToNextStop": 0.059383323116299014
+            "location": [
+              13.059234,
+              52.394837
+            ],
+            "coordIndex": 97,
+            "onTrackLocation": 0.36490830545528935,
+            "distanceToNextStop": 0.05821772461919006
           },
           {
             "id": "de:12054:900230097::2",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.42926458285426516,
-            "coordIndex": 141,
-            "distanceToNextStop": 0.033313565707536685
+            "location": [
+              13.063727,
+              52.392033
+            ],
+            "coordIndex": 132,
+            "onTrackLocation": 0.4231260300744794,
+            "distanceToNextStop": 0.03942280553875227
           },
           {
             "id": "de:12054:900230999::1",
             "name": "S Potsdam Hauptbahnhof",
-            "onTrackLocation": 0.46257814856180185,
-            "coordIndex": 160,
-            "distanceToNextStop": 0.09869128960895629
+            "location": [
+              13.066372,
+              52.390929
+            ],
+            "coordIndex": 159,
+            "onTrackLocation": 0.4625488356132317,
+            "distanceToNextStop": 0.09433425844366095
           },
           {
             "id": "de:12054:900230065::1",
             "name": "Potsdam, Friedhöfe",
-            "onTrackLocation": 0.5612694381707581,
-            "coordIndex": 227,
-            "distanceToNextStop": 0.05318254797012656
+            "location": [
+              13.071952,
+              52.385759
+            ],
+            "coordIndex": 226,
+            "onTrackLocation": 0.5568830940568926,
+            "distanceToNextStop": 0.05745384464556624
           },
           {
             "id": "de:12054:900230066::1",
             "name": "Potsdam, Sporthalle",
-            "onTrackLocation": 0.6144519861408847,
-            "coordIndex": 234,
-            "distanceToNextStop": 0.04006402860101477
+            "location": [
+              13.075364,
+              52.382596
+            ],
+            "coordIndex": 232,
+            "onTrackLocation": 0.6143369387024589,
+            "distanceToNextStop": 0.036527043654188907
           },
           {
             "id": "de:12054:900230067::1",
             "name": "Potsdam, Kunersdorfer Str.",
-            "onTrackLocation": 0.6545160147418995,
-            "coordIndex": 242,
-            "distanceToNextStop": 0.04193430489868222
+            "location": [
+              13.07851,
+              52.380482
+            ],
+            "coordIndex": 237,
+            "onTrackLocation": 0.6508639823566478,
+            "distanceToNextStop": 0.04389933976878202
           },
           {
             "id": "de:12054:900230021::1",
             "name": "Potsdam, Waldstr./Horstweg",
-            "onTrackLocation": 0.6964503196405817,
-            "coordIndex": 245,
-            "distanceToNextStop": 0.0835027080934484
+            "location": [
+              13.082057,
+              52.378061
+            ],
+            "coordIndex": 244,
+            "onTrackLocation": 0.6947633221254298,
+            "distanceToNextStop": 0.08031066263538666
           },
           {
             "id": "de:12054:900230050::1",
             "name": "Potsdam, E.-Claudius-Str./H.-Mann-Allee",
-            "onTrackLocation": 0.7799530277340301,
-            "coordIndex": 270,
-            "distanceToNextStop": 0.07203004555151449
+            "location": [
+              13.087693,
+              52.373691
+            ],
+            "coordIndex": 269,
+            "onTrackLocation": 0.7750739847608165,
+            "distanceToNextStop": 0.07690908852472811
           },
           {
             "id": "de:12054:900230068::1",
             "name": "Potsdam, Zum Kahleberg",
-            "onTrackLocation": 0.8519830732855446,
+            "location": [
+              13.09126,
+              52.368794
+            ],
             "coordIndex": 282,
+            "onTrackLocation": 0.8519830732855446,
             "distanceToNextStop": 0.046882826184433624
           },
           {
             "id": "de:12054:900230069::1",
             "name": "Potsdam, Friedrich-Wolf-Str.",
-            "onTrackLocation": 0.8988658994699782,
+            "location": [
+              13.093476,
+              52.365841
+            ],
             "coordIndex": 290,
-            "distanceToNextStop": 0.016941519773658542
+            "onTrackLocation": 0.8988658994699782,
+            "distanceToNextStop": 0.03477526732381997
           },
           {
             "id": "de:12054:900230070::1",
             "name": "Potsdam, Am Moosfenn",
-            "onTrackLocation": 0.9158074192436367,
-            "coordIndex": 297,
-            "distanceToNextStop": 0.08419258075636327
+            "location": [
+              13.094692,
+              52.363892
+            ],
+            "coordIndex": 298,
+            "onTrackLocation": 0.9336411667937982,
+            "distanceToNextStop": 0.061553475771889854
           },
           {
             "id": "de:12069:900220008::1",
             "name": "Potsdam, Rehbrücke Bhf",
-            "onTrackLocation": 1,
-            "coordIndex": 314,
+            "location": [
+              13.097427,
+              52.359446
+            ],
+            "coordIndex": 311,
+            "onTrackLocation": 0.995194642565688,
             "distanceToNextStop": 0
           }
         ],
@@ -14648,113 +15464,177 @@
           {
             "id": "de:12054:900230025::1",
             "name": "Potsdam, Glienicker Brücke",
-            "onTrackLocation": 0,
+            "location": [
+              13.087045,
+              52.41303
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.07351742738193294
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.07002755363196525
           },
           {
             "id": "de:12054:900230074::1",
             "name": "Potsdam, Leonardo-da-Vinci-Str.",
-            "onTrackLocation": 0.07351742738193294,
-            "coordIndex": 17,
-            "distanceToNextStop": 0.053565882730988154
+            "location": [
+              13.079786,
+              52.409991
+            ],
+            "coordIndex": 14,
+            "onTrackLocation": 0.07002755363196525,
+            "distanceToNextStop": 0.057055756480955844
           },
           {
             "id": "de:12054:900230073::1",
             "name": "Potsdam, Mangerstr.",
-            "onTrackLocation": 0.1270833101129211,
+            "location": [
+              13.075326,
+              52.407759
+            ],
             "coordIndex": 30,
-            "distanceToNextStop": 0.05303313021177575
+            "onTrackLocation": 0.1270833101129211,
+            "distanceToNextStop": 0.06766603557639506
           },
           {
             "id": "de:12054:900230072::3",
             "name": "Potsdam, Schiffbauergasse/Berliner Str.",
-            "onTrackLocation": 0.18011644032469684,
-            "coordIndex": 39,
-            "distanceToNextStop": 0.0580351255395295
+            "location": [
+              13.072099,
+              52.404525
+            ],
+            "coordIndex": 40,
+            "onTrackLocation": 0.19474934568931615,
+            "distanceToNextStop": 0.04186314611870748
           },
           {
             "id": "de:12054:900230026::1",
             "name": "Potsdam, Holzmarktstr.",
-            "onTrackLocation": 0.23815156586422634,
-            "coordIndex": 49,
-            "distanceToNextStop": 0.07470233482778046
+            "location": [
+              13.069361,
+              52.401759
+            ],
+            "coordIndex": 48,
+            "onTrackLocation": 0.23661249180802363,
+            "distanceToNextStop": 0.0757922241622801
           },
           {
             "id": "de:12054:900230071::1",
             "name": "Potsdam, Burgstr./Klinikum",
-            "onTrackLocation": 0.3128539006920068,
-            "coordIndex": 66,
-            "distanceToNextStop": 0.061002031360018694
+            "location": [
+              13.064663,
+              52.398356
+            ],
+            "coordIndex": 64,
+            "onTrackLocation": 0.3124047159703037,
+            "distanceToNextStop": 0.0586593007309017
           },
           {
             "id": "de:12054:900230016::1",
             "name": "Potsdam, Platz der Einheit/Bildungsforum",
-            "onTrackLocation": 0.3738559320520255,
-            "coordIndex": 79,
-            "distanceToNextStop": 0.04465779820314986
+            "location": [
+              13.058844,
+              52.397499
+            ],
+            "coordIndex": 75,
+            "onTrackLocation": 0.3710640167012054,
+            "distanceToNextStop": 0.04182290875530037
           },
           {
             "id": "de:12054:900230018::1",
             "name": "Potsdam, Alter Markt/Landtag",
-            "onTrackLocation": 0.41851373025517535,
-            "coordIndex": 101,
-            "distanceToNextStop": 0.06719111990144361
+            "location": [
+              13.059234,
+              52.394837
+            ],
+            "coordIndex": 97,
+            "onTrackLocation": 0.4128869254565058,
+            "distanceToNextStop": 0.06587226699348475
           },
           {
             "id": "de:12054:900230097::2",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.48570485015661896,
-            "coordIndex": 141,
-            "distanceToNextStop": 0.037693676782216745
+            "location": [
+              13.063727,
+              52.392033
+            ],
+            "coordIndex": 132,
+            "onTrackLocation": 0.47875919244999054,
+            "distanceToNextStop": 0.04460616743556012
           },
           {
             "id": "de:12054:900230999::1",
             "name": "S Potsdam Hauptbahnhof",
-            "onTrackLocation": 0.5233985269388357,
-            "coordIndex": 160,
-            "distanceToNextStop": 0.11166734910332787
+            "location": [
+              13.066372,
+              52.390929
+            ],
+            "coordIndex": 159,
+            "onTrackLocation": 0.5233653598855507,
+            "distanceToNextStop": 0.106737449796946
           },
           {
             "id": "de:12054:900230065::1",
             "name": "Potsdam, Friedhöfe",
-            "onTrackLocation": 0.6350658760421636,
-            "coordIndex": 227,
-            "distanceToNextStop": 0.06017505875053086
+            "location": [
+              13.071952,
+              52.385759
+            ],
+            "coordIndex": 226,
+            "onTrackLocation": 0.6301028096824967,
+            "distanceToNextStop": 0.06500795108449553
           },
           {
             "id": "de:12054:900230066::1",
             "name": "Potsdam, Sporthalle",
-            "onTrackLocation": 0.6952409347926944,
-            "coordIndex": 234,
-            "distanceToNextStop": 0.04533169934248393
+            "location": [
+              13.075364,
+              52.382596
+            ],
+            "coordIndex": 232,
+            "onTrackLocation": 0.6951107607669922,
+            "distanceToNextStop": 0.041329667001074766
           },
           {
             "id": "de:12054:900230067::1",
             "name": "Potsdam, Kunersdorfer Str.",
-            "onTrackLocation": 0.7405726341351784,
-            "coordIndex": 242,
-            "distanceToNextStop": 0.04744788200742667
+            "location": [
+              13.07851,
+              52.380482
+            ],
+            "coordIndex": 237,
+            "onTrackLocation": 0.736440427768067,
+            "distanceToNextStop": 0.04967128222551176
           },
           {
             "id": "de:12054:900230021::1",
             "name": "Potsdam, Waldstr./Horstweg",
-            "onTrackLocation": 0.788020516142605,
-            "coordIndex": 245,
-            "distanceToNextStop": 0.11094118483916837
+            "location": [
+              13.082057,
+              52.378061
+            ],
+            "coordIndex": 244,
+            "onTrackLocation": 0.7861117099935787,
+            "distanceToNextStop": 0.10960289975111392
           },
           {
             "id": "de:12054:900230031::1",
             "name": "Potsdam, Magnus-Zeller-Platz",
-            "onTrackLocation": 0.8989617009817734,
-            "coordIndex": 277,
-            "distanceToNextStop": 0.09875815025063972
+            "location": [
+              13.091574,
+              52.375021
+            ],
+            "coordIndex": 274,
+            "onTrackLocation": 0.8957146097446926,
+            "distanceToNextStop": 0.09712054139616688
           },
           {
             "id": "de:12054:900230034::1",
             "name": "Potsdam, Bisamkiez",
-            "onTrackLocation": 0.9977198512324131,
-            "coordIndex": 293,
+            "location": [
+              13.100829,
+              52.373339
+            ],
+            "coordIndex": 292,
+            "onTrackLocation": 0.9928351511408595,
             "distanceToNextStop": 0
           }
         ],
@@ -15956,71 +16836,111 @@
           {
             "id": "de:12054:900230025::1",
             "name": "Potsdam, Glienicker Brücke",
-            "onTrackLocation": 0,
+            "location": [
+              13.087045,
+              52.41303
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.1388170595933784
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.13222741099474303
           },
           {
             "id": "de:12054:900230074::1",
             "name": "Potsdam, Leonardo-da-Vinci-Str.",
-            "onTrackLocation": 0.1388170595933784,
-            "coordIndex": 17,
-            "distanceToNextStop": 0.10114415860349973
+            "location": [
+              13.079786,
+              52.409991
+            ],
+            "coordIndex": 14,
+            "onTrackLocation": 0.13222741099474303,
+            "distanceToNextStop": 0.1077338072021351
           },
           {
             "id": "de:12054:900230073::1",
             "name": "Potsdam, Mangerstr.",
-            "onTrackLocation": 0.23996121819687813,
+            "location": [
+              13.075326,
+              52.407759
+            ],
             "coordIndex": 30,
-            "distanceToNextStop": 0.10013820476586308
+            "onTrackLocation": 0.23996121819687813,
+            "distanceToNextStop": 0.12776834592235056
           },
           {
             "id": "de:12054:900230072::3",
             "name": "Potsdam, Schiffbauergasse/Berliner Str.",
-            "onTrackLocation": 0.3400994229627412,
-            "coordIndex": 39,
-            "distanceToNextStop": 0.10958307121761318
+            "location": [
+              13.072099,
+              52.404525
+            ],
+            "coordIndex": 40,
+            "onTrackLocation": 0.3677295641192287,
+            "distanceToNextStop": 0.07904682000549801
           },
           {
             "id": "de:12054:900230026::1",
             "name": "Potsdam, Holzmarktstr.",
-            "onTrackLocation": 0.4496824941803544,
-            "coordIndex": 49,
-            "distanceToNextStop": 0.1410544252545613
+            "location": [
+              13.069361,
+              52.401759
+            ],
+            "coordIndex": 48,
+            "onTrackLocation": 0.4467763841247267,
+            "distanceToNextStop": 0.1431123758396849
           },
           {
             "id": "de:12054:900230071::1",
             "name": "Potsdam, Burgstr./Klinikum",
-            "onTrackLocation": 0.5907369194349157,
-            "coordIndex": 66,
-            "distanceToNextStop": 0.11518524143435838
+            "location": [
+              13.064663,
+              52.398356
+            ],
+            "coordIndex": 64,
+            "onTrackLocation": 0.5898887599644116,
+            "distanceToNextStop": 0.11076165115196379
           },
           {
             "id": "de:12054:900230016::1",
             "name": "Potsdam, Platz der Einheit/Bildungsforum",
-            "onTrackLocation": 0.7059221608692741,
-            "coordIndex": 79,
-            "distanceToNextStop": 0.0843237373129192
+            "location": [
+              13.058844,
+              52.397499
+            ],
+            "coordIndex": 75,
+            "onTrackLocation": 0.7006504111163754,
+            "distanceToNextStop": 0.07897084302054524
           },
           {
             "id": "de:12054:900230018::1",
             "name": "Potsdam, Alter Markt/Landtag",
-            "onTrackLocation": 0.7902458981821933,
-            "coordIndex": 101,
-            "distanceToNextStop": 0.12687160075730186
+            "location": [
+              13.059234,
+              52.394837
+            ],
+            "coordIndex": 97,
+            "onTrackLocation": 0.7796212541369206,
+            "distanceToNextStop": 0.12438131662687513
           },
           {
             "id": "de:12054:900230097::2",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.9171174989394951,
-            "coordIndex": 141,
-            "distanceToNextStop": 0.0486004126781191
+            "location": [
+              13.063727,
+              52.392033
+            ],
+            "coordIndex": 132,
+            "onTrackLocation": 0.9040025707637958,
+            "distanceToNextStop": 0.09599742923620425
           },
           {
             "id": "de:12054:900230233::1",
             "name": "Potsdam, Hauptbahnhof/Friedrich-Engels-Str.",
-            "onTrackLocation": 0.9657179116176142,
-            "coordIndex": 159,
+            "location": [
+              13.066347,
+              52.390336
+            ],
+            "coordIndex": 160,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           }
         ],
@@ -16700,156 +17620,244 @@
           {
             "id": "de:12054:900230002::2",
             "name": "Potsdam, Pirschheide Bhf",
-            "onTrackLocation": 0.9864456303942297,
-            "coordIndex": 269,
+            "location": [
+              13.010915,
+              52.374176
+            ],
+            "coordIndex": 263,
+            "onTrackLocation": 0.9819412014919906,
             "distanceToNextStop": 0
           },
           {
             "id": "de:12054:900230060::2",
             "name": "Potsdam, Luftschiffhafen",
-            "onTrackLocation": 0.8925713908463687,
-            "coordIndex": 237,
-            "distanceToNextStop": 0.093874239547861
+            "location": [
+              13.016874,
+              52.380751
+            ],
+            "coordIndex": 232,
+            "onTrackLocation": 0.887368781311936,
+            "distanceToNextStop": 0.09457242018005463
           },
           {
             "id": "de:12054:900230061::4",
             "name": "Potsdam, Im Bogen/Zeppelinstr.",
-            "onTrackLocation": 0.833088927830956,
-            "coordIndex": 217,
-            "distanceToNextStop": 0.05948246301541271
+            "location": [
+              13.022038,
+              52.38436
+            ],
+            "coordIndex": 216,
+            "onTrackLocation": 0.8315837013792161,
+            "distanceToNextStop": 0.05578507993271986
           },
           {
             "id": "de:12054:900230035::1",
             "name": "Potsdam, Kastanienallee/Zeppelinstr.",
-            "onTrackLocation": 0.7597745616835578,
+            "location": [
+              13.028267,
+              52.389174
+            ],
             "coordIndex": 190,
-            "distanceToNextStop": 0.07331436614739817
+            "onTrackLocation": 0.7597745616835578,
+            "distanceToNextStop": 0.07180913969565828
           },
           {
             "id": "de:12054:900230051::2",
             "name": "Potsdam, Schloss Charlottenhof",
-            "onTrackLocation": 0.6996382253083999,
-            "coordIndex": 179,
-            "distanceToNextStop": 0.06013633637515792
+            "location": [
+              13.028947,
+              52.393535
+            ],
+            "coordIndex": 176,
+            "onTrackLocation": 0.6946603218793872,
+            "distanceToNextStop": 0.06511423980417064
           },
           {
             "id": "de:12054:900230013::1",
             "name": "Potsdam, Charlottenhof Bhf/Geschw.-Scholl-Str.",
-            "onTrackLocation": 0.6575346461725244,
-            "coordIndex": 165,
-            "distanceToNextStop": 0.04210357913587548
+            "location": [
+              13.034786,
+              52.393684
+            ],
+            "coordIndex": 160,
+            "onTrackLocation": 0.6535813193509651,
+            "distanceToNextStop": 0.041079002528422115
           },
           {
             "id": "de:12054:900230063::2",
             "name": "Potsdam, Auf dem Kiewitt",
-            "onTrackLocation": 0.627192984761159,
-            "coordIndex": 154,
-            "distanceToNextStop": 0.030341661411365406
+            "location": [
+              13.038249,
+              52.394653
+            ],
+            "coordIndex": 153,
+            "onTrackLocation": 0.6265676933768435,
+            "distanceToNextStop": 0.027013625974121602
           },
           {
             "id": "de:12054:900230210::2",
             "name": "Potsdam, Feuerbachstr.",
-            "onTrackLocation": 0.5906625077573593,
+            "location": [
+              13.0426,
+              52.396365
+            ],
             "coordIndex": 143,
-            "distanceToNextStop": 0.036530477003799744
+            "onTrackLocation": 0.5906625077573593,
+            "distanceToNextStop": 0.03590518561948419
           },
           {
             "id": "de:12054:900230017::2",
             "name": "Potsdam, Luisenplatz-Süd/Park Sanssouci",
-            "onTrackLocation": 0.5451195366013416,
-            "coordIndex": 136,
-            "distanceToNextStop": 0.045542971156017686
+            "location": [
+              13.047388,
+              52.398537
+            ],
+            "coordIndex": 134,
+            "onTrackLocation": 0.5432258468393548,
+            "distanceToNextStop": 0.04743666091800447
           },
           {
             "id": "de:12054:900230064::2",
             "name": "Potsdam, Dortustr.",
-            "onTrackLocation": 0.4953854490940062,
+            "location": [
+              13.053952,
+              52.399338
+            ],
             "coordIndex": 110,
-            "distanceToNextStop": 0.04973408750733538
+            "onTrackLocation": 0.4953854490940062,
+            "distanceToNextStop": 0.047840397745348595
           },
           {
             "id": "de:12054:900230014::2",
             "name": "Potsdam, Platz der Einheit/West",
-            "onTrackLocation": 0.4596528270825139,
-            "coordIndex": 93,
-            "distanceToNextStop": 0.0357326220114923
+            "location": [
+              13.057993,
+              52.398799
+            ],
+            "coordIndex": 90,
+            "onTrackLocation": 0.4574754535557271,
+            "distanceToNextStop": 0.03790999553827912
           },
           {
             "id": "de:12054:900230016::1",
             "name": "Potsdam, Platz der Einheit/Bildungsforum",
-            "onTrackLocation": 0.43941508093813136,
-            "coordIndex": 81,
-            "distanceToNextStop": 0.020237746144382562
+            "location": [
+              13.058844,
+              52.397499
+            ],
+            "coordIndex": 79,
+            "onTrackLocation": 0.43931028465527067,
+            "distanceToNextStop": 0.01816516890045644
           },
           {
             "id": "de:12054:900230071::1",
             "name": "Potsdam, Burgstr./Klinikum",
-            "onTrackLocation": 0.39657797282387786,
-            "coordIndex": 70,
-            "distanceToNextStop": 0.04283710811425351
+            "location": [
+              13.064663,
+              52.398356
+            ],
+            "coordIndex": 68,
+            "onTrackLocation": 0.3962482242696114,
+            "distanceToNextStop": 0.04306206038565924
           },
           {
             "id": "de:12054:900230026::1",
             "name": "Potsdam, Holzmarktstr.",
-            "onTrackLocation": 0.34173864788782393,
-            "coordIndex": 53,
-            "distanceToNextStop": 0.054839324936053924
+            "location": [
+              13.069361,
+              52.401759
+            ],
+            "coordIndex": 52,
+            "onTrackLocation": 0.33973468864520856,
+            "distanceToNextStop": 0.056513535624402866
           },
           {
             "id": "de:12054:900230272::2",
             "name": "Potsdam, Schiffbauergasse/Uferweg",
+            "location": [
+              13.07167,
+              52.401573
+            ],
+            "coordIndex": 44,
             "onTrackLocation": 0.3221690719141763,
-            "coordIndex": 45,
-            "distanceToNextStop": 0.019569575973647613
+            "distanceToNextStop": 0.01756561673103224
           },
           {
             "id": "de:12054:900230077::2",
             "name": "Potsdam, Humboldtring/Nuthestr.",
+            "location": [
+              13.078714,
+              52.397938
+            ],
+            "coordIndex": 42,
             "onTrackLocation": 0.2566905712841613,
-            "coordIndex": 43,
             "distanceToNextStop": 0.06547850063001504
           },
           {
             "id": "de:12054:900230078::2",
             "name": "Potsdam, Alt Nowawes",
-            "onTrackLocation": 0.17928297980485944,
-            "coordIndex": 37,
-            "distanceToNextStop": 0.07740759147930185
+            "location": [
+              13.084354,
+              52.39354
+            ],
+            "coordIndex": 34,
+            "onTrackLocation": 0.1788417803459445,
+            "distanceToNextStop": 0.07784879093821678
           },
           {
             "id": "de:12054:900230181::2",
             "name": "Potsdam, Rathaus Babelsberg",
-            "onTrackLocation": 0.1208465062692147,
-            "coordIndex": 23,
-            "distanceToNextStop": 0.05843647353564474
+            "location": [
+              13.091807,
+              52.392017
+            ],
+            "coordIndex": 24,
+            "onTrackLocation": 0.13475009147922293,
+            "distanceToNextStop": 0.04409168886672157
           },
           {
             "id": "de:12054:900230004::2",
             "name": "S Babelsberg/Wattstr.",
-            "onTrackLocation": 0.09838718665513867,
-            "coordIndex": 17,
-            "distanceToNextStop": 0.02245931961407603
+            "location": [
+              13.095251,
+              52.391711
+            ],
+            "coordIndex": 18,
+            "onTrackLocation": 0.11022746248458742,
+            "distanceToNextStop": 0.024522628994635504
           },
           {
             "id": "de:12054:900230079::2",
             "name": "Potsdam, Anhaltstr.",
-            "onTrackLocation": 0.0708062106181595,
+            "location": [
+              13.09966,
+              52.392099
+            ],
             "coordIndex": 12,
-            "distanceToNextStop": 0.027580976036979163
+            "onTrackLocation": 0.0708062106181595,
+            "distanceToNextStop": 0.03942125186642792
           },
           {
             "id": "de:12054:900230080::2",
             "name": "Potsdam, Plantagenstr.",
-            "onTrackLocation": 0.048582668141121416,
-            "coordIndex": 11,
-            "distanceToNextStop": 0.02222354247703809
+            "location": [
+              13.103232,
+              52.392408
+            ],
+            "coordIndex": 8,
+            "onTrackLocation": 0.044623059220288544,
+            "distanceToNextStop": 0.02618315139787096
           },
           {
             "id": "de:12054:900230029::4",
             "name": "Potsdam, Fontanestr.",
-            "onTrackLocation": 0,
+            "location": [
+              13.108885,
+              52.393193
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.048582668141121416
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.044623059220288544
           }
         ],
         "lineString": {
@@ -17966,156 +18974,244 @@
           {
             "id": "de:12054:900230029::3",
             "name": "Potsdam, Fontanestr.",
-            "onTrackLocation": 0.9934487448350645,
-            "coordIndex": 216,
+            "location": [
+              13.109161,
+              52.393124
+            ],
+            "coordIndex": 215,
+            "onTrackLocation": 0.9926261127664435,
             "distanceToNextStop": 0
           },
           {
             "id": "de:12054:900230080::1",
             "name": "Potsdam, Plantagenstr.",
-            "onTrackLocation": 0.9482107356017376,
-            "coordIndex": 208,
-            "distanceToNextStop": 0.04523800923332688
+            "location": [
+              13.10341,
+              52.392357
+            ],
+            "coordIndex": 206,
+            "onTrackLocation": 0.947759996751793,
+            "distanceToNextStop": 0.044866116014650514
           },
           {
             "id": "de:12054:900230079::1",
             "name": "Potsdam, Anhaltstr.",
-            "onTrackLocation": 0.9192256925738601,
-            "coordIndex": 204,
-            "distanceToNextStop": 0.028985043027877522
+            "location": [
+              13.099818,
+              52.392068
+            ],
+            "coordIndex": 201,
+            "onTrackLocation": 0.918547091016256,
+            "distanceToNextStop": 0.02921290573553703
           },
           {
             "id": "de:12054:900230004::3",
             "name": "S Babelsberg/Wattstr.",
-            "onTrackLocation": 0.8730401503419525,
+            "location": [
+              13.094243,
+              52.391578
+            ],
             "coordIndex": 195,
-            "distanceToNextStop": 0.04618554223190763
+            "onTrackLocation": 0.8730401503419525,
+            "distanceToNextStop": 0.0455069406743035
           },
           {
             "id": "de:12054:900230181::1",
             "name": "Potsdam, Rathaus Babelsberg",
-            "onTrackLocation": 0.8524417098420345,
+            "location": [
+              13.091188,
+              52.392124
+            ],
             "coordIndex": 191,
+            "onTrackLocation": 0.8524417098420345,
             "distanceToNextStop": 0.02059844049991799
           },
           {
             "id": "de:12054:900230078::1",
             "name": "Potsdam, Alt Nowawes",
-            "onTrackLocation": 0.7909617295898698,
+            "location": [
+              13.08449,
+              52.393444
+            ],
             "coordIndex": 179,
+            "onTrackLocation": 0.7909617295898698,
             "distanceToNextStop": 0.06147998025216472
           },
           {
             "id": "de:12054:900230077::1",
             "name": "Potsdam, Humboldtring/Nuthestr.",
+            "location": [
+              13.078802,
+              52.397826
+            ],
+            "coordIndex": 174,
             "onTrackLocation": 0.7238973548369904,
-            "coordIndex": 175,
             "distanceToNextStop": 0.06706437475287941
           },
           {
             "id": "de:12054:900230272::1",
             "name": "Potsdam, Schiffbauergasse/Uferweg",
+            "location": [
+              13.071922,
+              52.401369
+            ],
+            "coordIndex": 172,
             "onTrackLocation": 0.653489589753696,
-            "coordIndex": 173,
             "distanceToNextStop": 0.07040776508329438
           },
           {
             "id": "de:12054:900230026::2",
             "name": "Potsdam, Holzmarktstr.",
-            "onTrackLocation": 0.6114859902814185,
-            "coordIndex": 160,
-            "distanceToNextStop": 0.0420035994722775
+            "location": [
+              13.068788,
+              52.401268
+            ],
+            "coordIndex": 161,
+            "onTrackLocation": 0.6231594366442958,
+            "distanceToNextStop": 0.030330153109400126
           },
           {
             "id": "de:12054:900230071::2",
             "name": "Potsdam, Burgstr./Klinikum",
-            "onTrackLocation": 0.5738337102447479,
-            "coordIndex": 149,
-            "distanceToNextStop": 0.03765228003667054
+            "location": [
+              13.065254,
+              52.398394
+            ],
+            "coordIndex": 147,
+            "onTrackLocation": 0.5734791380031425,
+            "distanceToNextStop": 0.04968029864115331
           },
           {
             "id": "de:12054:900230016::2",
             "name": "Potsdam, Platz der Einheit/Bildungsforum",
-            "onTrackLocation": 0.5275299097229884,
-            "coordIndex": 138,
-            "distanceToNextStop": 0.04630380052175953
+            "location": [
+              13.059267,
+              52.397519
+            ],
+            "coordIndex": 133,
+            "onTrackLocation": 0.5230355805334264,
+            "distanceToNextStop": 0.05044355746971618
           },
           {
             "id": "de:12054:900230014::1",
             "name": "Potsdam, Platz der Einheit/West",
-            "onTrackLocation": 0.506866677843557,
-            "coordIndex": 126,
-            "distanceToNextStop": 0.02066323187943142
+            "location": [
+              13.057969,
+              52.398572
+            ],
+            "coordIndex": 122,
+            "onTrackLocation": 0.5025467597830825,
+            "distanceToNextStop": 0.02048882075034386
           },
           {
             "id": "de:12054:900230064::1",
             "name": "Potsdam, Dortustr.",
-            "onTrackLocation": 0.44655849992224206,
-            "coordIndex": 99,
-            "distanceToNextStop": 0.06030817792131493
+            "location": [
+              13.052791,
+              52.39909
+            ],
+            "coordIndex": 100,
+            "onTrackLocation": 0.4559564252385487,
+            "distanceToNextStop": 0.04659033454453382
           },
           {
             "id": "de:12054:900230017::1",
             "name": "Potsdam, Luisenplatz-Süd/Park Sanssouci",
-            "onTrackLocation": 0.4100630355880491,
-            "coordIndex": 80,
-            "distanceToNextStop": 0.036495464334192984
+            "location": [
+              13.047308,
+              52.398478
+            ],
+            "coordIndex": 77,
+            "onTrackLocation": 0.40734025492142256,
+            "distanceToNextStop": 0.04861617031712612
           },
           {
             "id": "de:12054:900230210::1",
             "name": "Potsdam, Feuerbachstr.",
-            "onTrackLocation": 0.36796837196985965,
+            "location": [
+              13.042992,
+              52.396514
+            ],
             "coordIndex": 63,
-            "distanceToNextStop": 0.04209466361818942
+            "onTrackLocation": 0.36796837196985965,
+            "distanceToNextStop": 0.03937188295156291
           },
           {
             "id": "de:12054:900230063::1",
             "name": "Potsdam, Auf dem Kiewitt",
-            "onTrackLocation": 0.3366890601852583,
-            "coordIndex": 62,
-            "distanceToNextStop": 0.03127931178460136
+            "location": [
+              13.039795,
+              52.394955
+            ],
+            "coordIndex": 60,
+            "onTrackLocation": 0.33613302817714896,
+            "distanceToNextStop": 0.03183534379271069
           },
           {
             "id": "de:12054:900230006::1",
             "name": "Potsdam, Charlottenhof Bhf",
+            "location": [
+              13.036396,
+              52.393082
+            ],
+            "coordIndex": 56,
             "onTrackLocation": 0.29548399814191034,
-            "coordIndex": 57,
-            "distanceToNextStop": 0.04120506204334795
+            "distanceToNextStop": 0.04064903003523862
           },
           {
             "id": "de:12054:900230058::1",
             "name": "Potsdam, Schillerplatz/Schafgraben",
-            "onTrackLocation": 0.2610802512955191,
+            "location": [
+              13.032957,
+              52.391195
+            ],
             "coordIndex": 53,
+            "onTrackLocation": 0.2610802512955191,
             "distanceToNextStop": 0.03440374684639125
           },
           {
             "id": "de:12054:900230035::2",
             "name": "Potsdam, Kastanienallee/Zeppelinstr.",
-            "onTrackLocation": 0.21529213108484502,
-            "coordIndex": 32,
-            "distanceToNextStop": 0.04578812021067408
+            "location": [
+              13.028129,
+              52.388395
+            ],
+            "coordIndex": 31,
+            "onTrackLocation": 0.21528448969116087,
+            "distanceToNextStop": 0.04579576160435822
           },
           {
             "id": "de:12054:900230061::1",
             "name": "Potsdam, Im Bogen/Zeppelinstr.",
-            "onTrackLocation": 0.15119449007668284,
-            "coordIndex": 20,
-            "distanceToNextStop": 0.06409764100816218
+            "location": [
+              13.022464,
+              52.38462
+            ],
+            "coordIndex": 19,
+            "onTrackLocation": 0.1484775609535071,
+            "distanceToNextStop": 0.06680692873765379
           },
           {
             "id": "de:12054:900230060::1",
             "name": "Potsdam, Luftschiffhafen",
-            "onTrackLocation": 0.08864404088199725,
-            "coordIndex": 4,
-            "distanceToNextStop": 0.0625504491946856
+            "location": [
+              13.017181,
+              52.380889
+            ],
+            "coordIndex": 2,
+            "onTrackLocation": 0.08752469851281665,
+            "distanceToNextStop": 0.06095286244069044
           },
           {
             "id": "de:12054:900230002::1",
             "name": "Potsdam, Pirschheide Bhf",
-            "onTrackLocation": 0,
+            "location": [
+              13.012271,
+              52.374587
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.08864404088199725
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.08752469851281665
           }
         ],
         "lineString": {
@@ -19008,141 +20104,221 @@
           {
             "id": "de:12054:900230029::3",
             "name": "Potsdam, Fontanestr.",
-            "onTrackLocation": 0.9922940185239713,
-            "coordIndex": 202,
+            "location": [
+              13.109161,
+              52.393124
+            ],
+            "coordIndex": 201,
+            "onTrackLocation": 0.9913263890662897,
             "distanceToNextStop": 0
           },
           {
             "id": "de:12054:900230080::1",
             "name": "Potsdam, Plantagenstr.",
-            "onTrackLocation": 0.9390823434498142,
-            "coordIndex": 194,
-            "distanceToNextStop": 0.05321167507415703
+            "location": [
+              13.10341,
+              52.392357
+            ],
+            "coordIndex": 192,
+            "onTrackLocation": 0.938552157227365,
+            "distanceToNextStop": 0.05277423183892471
           },
           {
             "id": "de:12054:900230079::1",
             "name": "Potsdam, Anhaltstr.",
-            "onTrackLocation": 0.9049883875541246,
-            "coordIndex": 190,
-            "distanceToNextStop": 0.03409395589568964
+            "location": [
+              13.099818,
+              52.392068
+            ],
+            "coordIndex": 187,
+            "onTrackLocation": 0.9041901754709668,
+            "distanceToNextStop": 0.03436198175639815
           },
           {
             "id": "de:12054:900230004::3",
             "name": "S Babelsberg/Wattstr.",
-            "onTrackLocation": 0.8506621670148379,
+            "location": [
+              13.094243,
+              52.391578
+            ],
             "coordIndex": 181,
-            "distanceToNextStop": 0.05432622053928671
+            "onTrackLocation": 0.8506621670148379,
+            "distanceToNextStop": 0.05352800845612893
           },
           {
             "id": "de:12054:900230181::1",
             "name": "Potsdam, Rathaus Babelsberg",
-            "onTrackLocation": 0.8264330388659249,
+            "location": [
+              13.091188,
+              52.392124
+            ],
             "coordIndex": 177,
+            "onTrackLocation": 0.8264330388659249,
             "distanceToNextStop": 0.02422912814891298
           },
           {
             "id": "de:12054:900230078::1",
             "name": "Potsdam, Alt Nowawes",
-            "onTrackLocation": 0.7541165778149891,
+            "location": [
+              13.08449,
+              52.393444
+            ],
             "coordIndex": 165,
+            "onTrackLocation": 0.7541165778149891,
             "distanceToNextStop": 0.07231646105093581
           },
           {
             "id": "de:12054:900230077::1",
             "name": "Potsdam, Humboldtring/Nuthestr.",
+            "location": [
+              13.078802,
+              52.397826
+            ],
+            "coordIndex": 160,
             "onTrackLocation": 0.6752314151192643,
-            "coordIndex": 161,
             "distanceToNextStop": 0.07888516269572476
           },
           {
             "id": "de:12054:900230272::1",
             "name": "Potsdam, Schiffbauergasse/Uferweg",
+            "location": [
+              13.071922,
+              52.401369
+            ],
+            "coordIndex": 158,
             "onTrackLocation": 0.5924135550541546,
-            "coordIndex": 159,
             "distanceToNextStop": 0.08281786006510972
           },
           {
             "id": "de:12054:900230026::2",
             "name": "Potsdam, Holzmarktstr.",
-            "onTrackLocation": 0.5430063878303313,
-            "coordIndex": 146,
-            "distanceToNextStop": 0.04940716722382332
+            "location": [
+              13.068788,
+              52.401268
+            ],
+            "coordIndex": 147,
+            "onTrackLocation": 0.5567373995477836,
+            "distanceToNextStop": 0.03567615550637104
           },
           {
             "id": "de:12054:900230071::2",
             "name": "Potsdam, Burgstr./Klinikum",
-            "onTrackLocation": 0.4987175049845217,
-            "coordIndex": 135,
-            "distanceToNextStop": 0.04428888284580956
+            "location": [
+              13.065254,
+              52.398394
+            ],
+            "coordIndex": 133,
+            "onTrackLocation": 0.4983004357272671,
+            "distanceToNextStop": 0.05843696382051644
           },
           {
             "id": "de:12054:900230016::2",
             "name": "Potsdam, Platz der Einheit/Bildungsforum",
-            "onTrackLocation": 0.44425218191174415,
-            "coordIndex": 124,
-            "distanceToNextStop": 0.05446532307277757
+            "location": [
+              13.059267,
+              52.397519
+            ],
+            "coordIndex": 119,
+            "onTrackLocation": 0.4389656808352314,
+            "distanceToNextStop": 0.05933475489203571
           },
           {
             "id": "de:12054:900230014::1",
             "name": "Potsdam, Platz der Einheit/West",
-            "onTrackLocation": 0.41994684223423623,
-            "coordIndex": 112,
-            "distanceToNextStop": 0.02430533967750792
+            "location": [
+              13.057969,
+              52.398572
+            ],
+            "coordIndex": 108,
+            "onTrackLocation": 0.414865494047685,
+            "distanceToNextStop": 0.024100186787546385
           },
           {
             "id": "de:12054:900230064::1",
             "name": "Potsdam, Dortustr.",
-            "onTrackLocation": 0.34900872576426367,
-            "coordIndex": 85,
-            "distanceToNextStop": 0.07093811646997256
+            "location": [
+              13.052791,
+              52.39909
+            ],
+            "coordIndex": 86,
+            "onTrackLocation": 0.36006313237449283,
+            "distanceToNextStop": 0.05480236167319219
           },
           {
             "id": "de:12054:900230017::1",
             "name": "Potsdam, Luisenplatz-Süd/Park Sanssouci",
-            "onTrackLocation": 0.3060805593231797,
-            "coordIndex": 66,
-            "distanceToNextStop": 0.04292816644108399
+            "location": [
+              13.047308,
+              52.398478
+            ],
+            "coordIndex": 63,
+            "onTrackLocation": 0.3028778604735585,
+            "distanceToNextStop": 0.05718527190093431
           },
           {
             "id": "de:12054:900230210::1",
             "name": "Potsdam, Feuerbachstr.",
-            "onTrackLocation": 0.2565662769582329,
+            "location": [
+              13.042992,
+              52.396514
+            ],
             "coordIndex": 49,
-            "distanceToNextStop": 0.04951428236494676
+            "onTrackLocation": 0.2565662769582329,
+            "distanceToNextStop": 0.046311583515325605
           },
           {
             "id": "de:12054:900230063::1",
             "name": "Potsdam, Auf dem Kiewitt",
-            "onTrackLocation": 0.21977366376783494,
-            "coordIndex": 48,
-            "distanceToNextStop": 0.03679261319039798
+            "location": [
+              13.039795,
+              52.394955
+            ],
+            "coordIndex": 46,
+            "onTrackLocation": 0.21911962538180121,
+            "distanceToNextStop": 0.037446651576431705
           },
           {
             "id": "de:12054:900230006::1",
             "name": "Potsdam, Charlottenhof Bhf",
+            "location": [
+              13.036396,
+              52.393082
+            ],
+            "coordIndex": 42,
             "onTrackLocation": 0.17130578443317557,
-            "coordIndex": 43,
-            "distanceToNextStop": 0.048467879334659375
+            "distanceToNextStop": 0.04781384094862565
           },
           {
             "id": "de:12054:900230058::1",
             "name": "Potsdam, Schillerplatz/Schafgraben",
-            "onTrackLocation": 0.13701643547802858,
-            "coordIndex": 39,
-            "distanceToNextStop": 0.03428934895514699
+            "location": [
+              13.032957,
+              52.391195
+            ],
+            "coordIndex": 38,
+            "onTrackLocation": 0.13083630399325624,
+            "distanceToNextStop": 0.040469480439919325
           },
           {
             "id": "de:12054:900230035::1",
             "name": "Potsdam, Kastanienallee/Zeppelinstr.",
-            "onTrackLocation": 0.07574054426897538,
+            "location": [
+              13.028267,
+              52.389174
+            ],
             "coordIndex": 12,
-            "distanceToNextStop": 0.061275891209053204
+            "onTrackLocation": 0.07574054426897538,
+            "distanceToNextStop": 0.055095759724280866
           },
           {
             "id": "de:12054:900230051::1",
             "name": "Potsdam, Schloss Charlottenhof",
-            "onTrackLocation": 0,
+            "location": [
+              13.028897,
+              52.393608
+            ],
             "coordIndex": 0,
+            "onTrackLocation": 0,
             "distanceToNextStop": 0.07574054426897538
           }
         ],
@@ -19980,79 +21156,123 @@
           {
             "id": "de:12054:900230002::2",
             "name": "Potsdam, Pirschheide Bhf",
-            "onTrackLocation": 0.9748731975483749,
-            "coordIndex": 175,
+            "location": [
+              13.010915,
+              52.374176
+            ],
+            "coordIndex": 169,
+            "onTrackLocation": 0.9665229829330252,
             "distanceToNextStop": 0
           },
           {
             "id": "de:12054:900230060::2",
             "name": "Potsdam, Luftschiffhafen",
-            "onTrackLocation": 0.8008511263624515,
-            "coordIndex": 143,
-            "distanceToNextStop": 0.1740220711859234
+            "location": [
+              13.016874,
+              52.380751
+            ],
+            "coordIndex": 138,
+            "onTrackLocation": 0.7912066393219784,
+            "distanceToNextStop": 0.17531634361104675
           },
           {
             "id": "de:12054:900230061::4",
             "name": "Potsdam, Im Bogen/Zeppelinstr.",
-            "onTrackLocation": 0.6905837999581221,
-            "coordIndex": 123,
-            "distanceToNextStop": 0.11026732640432935
+            "location": [
+              13.022038,
+              52.38436
+            ],
+            "coordIndex": 122,
+            "onTrackLocation": 0.6877934431360884,
+            "distanceToNextStop": 0.10341319618589007
           },
           {
             "id": "de:12054:900230035::1",
             "name": "Potsdam, Kastanienallee/Zeppelinstr.",
-            "onTrackLocation": 0.55467518534667,
+            "location": [
+              13.028267,
+              52.389174
+            ],
             "coordIndex": 96,
-            "distanceToNextStop": 0.1359086146114521
+            "onTrackLocation": 0.55467518534667,
+            "distanceToNextStop": 0.13311825778941833
           },
           {
             "id": "de:12054:900230051::2",
             "name": "Potsdam, Schloss Charlottenhof",
-            "onTrackLocation": 0.4431957223977015,
-            "coordIndex": 85,
-            "distanceToNextStop": 0.11147946294896854
+            "location": [
+              13.028947,
+              52.393535
+            ],
+            "coordIndex": 82,
+            "onTrackLocation": 0.43396779076222197,
+            "distanceToNextStop": 0.12070739458444807
           },
           {
             "id": "de:12054:900230013::1",
             "name": "Potsdam, Charlottenhof Bhf/Geschw.-Scholl-Str.",
-            "onTrackLocation": 0.36514500176491366,
-            "coordIndex": 71,
-            "distanceToNextStop": 0.07805072063278784
+            "location": [
+              13.034786,
+              52.393684
+            ],
+            "coordIndex": 66,
+            "onTrackLocation": 0.3578164084801513,
+            "distanceToNextStop": 0.07615138228207069
           },
           {
             "id": "de:12054:900230063::2",
             "name": "Potsdam, Auf dem Kiewitt",
-            "onTrackLocation": 0.30889827436174977,
-            "coordIndex": 60,
-            "distanceToNextStop": 0.05624672740316389
+            "location": [
+              13.038249,
+              52.394653
+            ],
+            "coordIndex": 59,
+            "onTrackLocation": 0.3077391224760204,
+            "distanceToNextStop": 0.05007728600413086
           },
           {
             "id": "de:12054:900230210::2",
             "name": "Potsdam, Feuerbachstr.",
-            "onTrackLocation": 0.2411788520768974,
+            "location": [
+              13.0426,
+              52.396365
+            ],
             "coordIndex": 49,
-            "distanceToNextStop": 0.06771942228485237
+            "onTrackLocation": 0.2411788520768974,
+            "distanceToNextStop": 0.06656027039912302
           },
           {
             "id": "de:12054:900230017::2",
             "name": "Potsdam, Luisenplatz-Süd/Park Sanssouci",
-            "onTrackLocation": 0.15675225957714947,
-            "coordIndex": 42,
-            "distanceToNextStop": 0.08442659249974793
+            "location": [
+              13.047388,
+              52.398537
+            ],
+            "coordIndex": 40,
+            "onTrackLocation": 0.15324177772236447,
+            "distanceToNextStop": 0.08793707435453293
           },
           {
             "id": "de:12054:900230064::2",
             "name": "Potsdam, Dortustr.",
-            "onTrackLocation": 0.06261332717616698,
-            "coordIndex": 17,
-            "distanceToNextStop": 0.09413893240098249
+            "location": [
+              13.053952,
+              52.399338
+            ],
+            "coordIndex": 18,
+            "onTrackLocation": 0.0752872411573503,
+            "distanceToNextStop": 0.07795453656501417
           },
           {
             "id": "de:12054:900230015::0",
             "name": "Potsdam, Platz der Einheit/Nord",
-            "onTrackLocation": 0,
+            "location": [
+              13.058607,
+              52.399187
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.06261332717616698
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.0752872411573503
           }
         ],
         "lineString": {
@@ -20807,218 +22027,342 @@
           {
             "id": "de:12054:900230200::1",
             "name": "Potsdam, Campus Jungfernsee",
-            "onTrackLocation": 0,
+            "location": [
+              13.054883,
+              52.431885
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.061455407078133545
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.058356951162220186
           },
           {
             "id": "de:12054:900230159::2",
             "name": "Potsdam, Rote Kaserne",
-            "onTrackLocation": 0.061455407078133545,
-            "coordIndex": 38,
-            "distanceToNextStop": 0.03025009266843641
+            "location": [
+              13.053491,
+              52.424957
+            ],
+            "coordIndex": 32,
+            "onTrackLocation": 0.058356951162220186,
+            "distanceToNextStop": 0.03153531266784977
           },
           {
             "id": "de:12054:900230212::1",
             "name": "Potsdam, Erich-Arendt-Str.",
-            "onTrackLocation": 0.09170549974656995,
-            "coordIndex": 64,
-            "distanceToNextStop": 0.02883922819137627
+            "location": [
+              13.050511,
+              52.422445
+            ],
+            "coordIndex": 62,
+            "onTrackLocation": 0.08989226383006996,
+            "distanceToNextStop": 0.02981985862246117
           },
           {
             "id": "de:12054:900230214::1",
             "name": "Potsdam, Volkspark",
-            "onTrackLocation": 0.12054472793794622,
-            "coordIndex": 71,
-            "distanceToNextStop": 0.03899133404149764
+            "location": [
+              13.050352,
+              52.418802
+            ],
+            "coordIndex": 69,
+            "onTrackLocation": 0.11971212245253113,
+            "distanceToNextStop": 0.03711255878068384
           },
           {
             "id": "de:12054:900230206::1",
             "name": "Potsdam, Campus Fachhochschule",
-            "onTrackLocation": 0.15953606197944387,
-            "coordIndex": 92,
-            "distanceToNextStop": 0.01974642958387185
+            "location": [
+              13.050732,
+              52.414054
+            ],
+            "coordIndex": 90,
+            "onTrackLocation": 0.15682468123321497,
+            "distanceToNextStop": 0.01998751848004901
           },
           {
             "id": "de:12054:900230157::2",
             "name": "Potsdam, Am Schragen",
-            "onTrackLocation": 0.17928249156331572,
-            "coordIndex": 102,
-            "distanceToNextStop": 0.03903864227538706
+            "location": [
+              13.054482,
+              52.41311
+            ],
+            "coordIndex": 101,
+            "onTrackLocation": 0.17681219971326398,
+            "distanceToNextStop": 0.03843621077186088
           },
           {
             "id": "de:12054:900230076::1",
             "name": "Potsdam, Puschkinallee",
-            "onTrackLocation": 0.21832113383870277,
-            "coordIndex": 124,
-            "distanceToNextStop": 0.024332823452088093
+            "location": [
+              13.059007,
+              52.411696
+            ],
+            "coordIndex": 122,
+            "onTrackLocation": 0.21524841048512486,
+            "distanceToNextStop": 0.02740554680566601
           },
           {
             "id": "de:12054:900230024::1",
             "name": "Potsdam, Reiterweg/Alleestr.",
-            "onTrackLocation": 0.24265395729079087,
+            "location": [
+              13.058529,
+              52.408401
+            ],
             "coordIndex": 133,
-            "distanceToNextStop": 0.026880806396625323
+            "onTrackLocation": 0.24265395729079087,
+            "distanceToNextStop": 0.026738842930359608
           },
           {
             "id": "de:12054:900230075::1",
             "name": "Potsdam, Rathaus",
-            "onTrackLocation": 0.2695347636874162,
-            "coordIndex": 139,
-            "distanceToNextStop": 0.016419170690137097
+            "location": [
+              13.058007,
+              52.405223
+            ],
+            "coordIndex": 137,
+            "onTrackLocation": 0.2693928002211505,
+            "distanceToNextStop": 0.015828562018851466
           },
           {
             "id": "de:12054:900230022::1",
             "name": "Potsdam, Nauener Tor",
-            "onTrackLocation": 0.2859539343775533,
-            "coordIndex": 145,
-            "distanceToNextStop": 0.01607673206777982
+            "location": [
+              13.057843,
+              52.402822
+            ],
+            "coordIndex": 143,
+            "onTrackLocation": 0.28522136224000194,
+            "distanceToNextStop": 0.016809304205331166
           },
           {
             "id": "de:12054:900230205::1",
             "name": "Potsdam, Brandenburger Str.",
+            "location": [
+              13.057694,
+              52.400956
+            ],
+            "coordIndex": 148,
             "onTrackLocation": 0.3020306664453331,
-            "coordIndex": 149,
-            "distanceToNextStop": 0.018755794497113287
+            "distanceToNextStop": 0.016479560757337308
           },
           {
             "id": "de:12054:900230014::1",
             "name": "Potsdam, Platz der Einheit/West",
-            "onTrackLocation": 0.3207864609424464,
-            "coordIndex": 162,
-            "distanceToNextStop": 0.03005366163816703
+            "location": [
+              13.057969,
+              52.398572
+            ],
+            "coordIndex": 158,
+            "onTrackLocation": 0.3185102272026704,
+            "distanceToNextStop": 0.03232989537794301
           },
           {
             "id": "de:12054:900230018::1",
             "name": "Potsdam, Alter Markt/Landtag",
+            "location": [
+              13.059234,
+              52.394837
+            ],
+            "coordIndex": 164,
             "onTrackLocation": 0.3508401225806134,
-            "coordIndex": 165,
-            "distanceToNextStop": 0.032808971675788556
+            "distanceToNextStop": 0.029417453759421952
           },
           {
             "id": "de:12054:900230097::2",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.383649094256402,
-            "coordIndex": 205,
-            "distanceToNextStop": 0.01840556870786003
+            "location": [
+              13.063727,
+              52.392033
+            ],
+            "coordIndex": 196,
+            "onTrackLocation": 0.3802575763400354,
+            "distanceToNextStop": 0.02178089137530992
           },
           {
             "id": "de:12054:900230999::1",
             "name": "S Potsdam Hauptbahnhof",
-            "onTrackLocation": 0.402054662964262,
-            "coordIndex": 224,
-            "distanceToNextStop": 0.05452641508603229
+            "location": [
+              13.066372,
+              52.390929
+            ],
+            "coordIndex": 223,
+            "onTrackLocation": 0.4020384677153453,
+            "distanceToNextStop": 0.05211917843117636
           },
           {
             "id": "de:12054:900230065::1",
             "name": "Potsdam, Friedhöfe",
-            "onTrackLocation": 0.4565810780502943,
-            "coordIndex": 291,
-            "distanceToNextStop": 0.0293830762313676
+            "location": [
+              13.071952,
+              52.385759
+            ],
+            "coordIndex": 290,
+            "onTrackLocation": 0.45415764614652165,
+            "distanceToNextStop": 0.03174294503441427
           },
           {
             "id": "de:12054:900230066::1",
             "name": "Potsdam, Sporthalle",
-            "onTrackLocation": 0.4859641542816619,
-            "coordIndex": 298,
-            "distanceToNextStop": 0.022135163722891982
+            "location": [
+              13.075364,
+              52.382596
+            ],
+            "coordIndex": 296,
+            "onTrackLocation": 0.4859005911809359,
+            "distanceToNextStop": 0.020180998262821104
           },
           {
             "id": "de:12054:900230067::1",
             "name": "Potsdam, Kunersdorfer Str.",
-            "onTrackLocation": 0.5080993180045539,
-            "coordIndex": 306,
-            "distanceToNextStop": 0.023168481477034764
+            "location": [
+              13.07851,
+              52.380482
+            ],
+            "coordIndex": 301,
+            "onTrackLocation": 0.506081589443757,
+            "distanceToNextStop": 0.024254152840841425
           },
           {
             "id": "de:12054:900230021::1",
             "name": "Potsdam, Waldstr./Horstweg",
-            "onTrackLocation": 0.5312677994815886,
-            "coordIndex": 309,
-            "distanceToNextStop": 0.05417183396266756
+            "location": [
+              13.082057,
+              52.378061
+            ],
+            "coordIndex": 308,
+            "onTrackLocation": 0.5303357422845985,
+            "distanceToNextStop": 0.05351835836034824
           },
           {
             "id": "de:12054:900230031::1",
             "name": "Potsdam, Magnus-Zeller-Platz",
-            "onTrackLocation": 0.5854396334442562,
-            "coordIndex": 341,
-            "distanceToNextStop": 0.04933632145916422
+            "location": [
+              13.091574,
+              52.375021
+            ],
+            "coordIndex": 338,
+            "onTrackLocation": 0.5838541006449467,
+            "distanceToNextStop": 0.04742330677741291
           },
           {
             "id": "de:12054:900230034::1",
             "name": "Potsdam, Bisamkiez",
-            "onTrackLocation": 0.6347759549034204,
-            "coordIndex": 359,
-            "distanceToNextStop": 0.05321320061231338
+            "location": [
+              13.100829,
+              52.373339
+            ],
+            "coordIndex": 356,
+            "onTrackLocation": 0.6312774074223596,
+            "distanceToNextStop": 0.05527871192950973
           },
           {
             "id": "de:12054:900230083::1",
             "name": "Potsdam, Abzweig Betriebshof ViP",
-            "onTrackLocation": 0.6879891555157338,
-            "coordIndex": 394,
-            "distanceToNextStop": 0.06675179025732736
+            "location": [
+              13.111368,
+              52.373353
+            ],
+            "coordIndex": 392,
+            "onTrackLocation": 0.6865561193518693,
+            "distanceToNextStop": 0.06768032342851804
           },
           {
             "id": "de:12054:900230084::1",
             "name": "Potsdam, Turmstr.",
-            "onTrackLocation": 0.7547409457730612,
-            "coordIndex": 444,
-            "distanceToNextStop": 0.028887980261305457
+            "location": [
+              13.123449,
+              52.374732
+            ],
+            "coordIndex": 442,
+            "onTrackLocation": 0.7542364427803874,
+            "distanceToNextStop": 0.02939248325397925
           },
           {
             "id": "de:12054:900230032::1",
             "name": "Potsdam, Johannes-Kepler-Platz",
-            "onTrackLocation": 0.7836289260343666,
+            "location": [
+              13.129155,
+              52.375455
+            ],
             "coordIndex": 463,
+            "onTrackLocation": 0.7836289260343666,
             "distanceToNextStop": 0.04065297047798022
           },
           {
             "id": "de:12054:900230085::1",
             "name": "Potsdam, Max-Born-Str.",
-            "onTrackLocation": 0.8242818965123468,
+            "location": [
+              13.137696,
+              52.375535
+            ],
             "coordIndex": 474,
-            "distanceToNextStop": 0.02931800726111866
+            "onTrackLocation": 0.8242818965123468,
+            "distanceToNextStop": 0.027532688226449054
           },
           {
             "id": "de:12054:900230086::1",
             "name": "Potsdam, Gaußstr.",
-            "onTrackLocation": 0.8535999037734655,
-            "coordIndex": 494,
-            "distanceToNextStop": 0.04252715498380022
+            "location": [
+              13.141952,
+              52.374876
+            ],
+            "coordIndex": 492,
+            "onTrackLocation": 0.8518145847387959,
+            "distanceToNextStop": 0.04156775768477594
           },
           {
             "id": "de:12054:900230141::1",
             "name": "Potsdam, Hans-Albers-Str.",
-            "onTrackLocation": 0.8961270587572657,
-            "coordIndex": 543,
-            "distanceToNextStop": 0.02810992803163559
+            "location": [
+              13.140717,
+              52.369769
+            ],
+            "coordIndex": 538,
+            "onTrackLocation": 0.8933823424235718,
+            "distanceToNextStop": 0.030854644365329476
           },
           {
             "id": "de:12054:900230140::1",
             "name": "Potsdam, Robert-Baberske-Str.",
-            "onTrackLocation": 0.9242369867889013,
+            "location": [
+              13.136411,
+              52.367067
+            ],
             "coordIndex": 562,
-            "distanceToNextStop": 0.019806485153059383
+            "onTrackLocation": 0.9242369867889013,
+            "distanceToNextStop": 0.017168880693205546
           },
           {
             "id": "de:12054:900230168::1",
             "name": "Potsdam, Priesterweg",
-            "onTrackLocation": 0.9440434719419607,
-            "coordIndex": 590,
-            "distanceToNextStop": 0.029158258059830522
+            "location": [
+              13.134794,
+              52.365036
+            ],
+            "coordIndex": 585,
+            "onTrackLocation": 0.9414058674821069,
+            "distanceToNextStop": 0.030800356190738953
           },
           {
             "id": "de:12054:900230166::1",
             "name": "Potsdam, Am Hirtengraben",
-            "onTrackLocation": 0.9732017300017912,
-            "coordIndex": 621,
-            "distanceToNextStop": 0.02679826999820878
+            "location": [
+              13.137061,
+              52.361772
+            ],
+            "coordIndex": 618,
+            "onTrackLocation": 0.9722062236728458,
+            "distanceToNextStop": 0.02463925980503634
           },
           {
             "id": "de:12054:900230167::1",
             "name": "Potsdam, Marie-Juchacz-Str.",
-            "onTrackLocation": 1,
-            "coordIndex": 629,
+            "location": [
+              13.137202,
+              52.358386
+            ],
+            "coordIndex": 627,
+            "onTrackLocation": 0.9968454834778822,
             "distanceToNextStop": 0
           }
         ],
@@ -23560,148 +24904,232 @@
           {
             "id": "de:12054:900230167::2",
             "name": "Potsdam, Marie-Juchacz-Str.",
-            "onTrackLocation": 0,
+            "location": [
+              13.137258,
+              52.358497
+            ],
             "coordIndex": 0,
+            "onTrackLocation": 0,
             "distanceToNextStop": 0.040496626067179256
           },
           {
             "id": "de:12054:900230166::2",
             "name": "Potsdam, Am Hirtengraben",
-            "onTrackLocation": 0.040496626067179256,
+            "location": [
+              13.137136,
+              52.362172
+            ],
             "coordIndex": 1,
+            "onTrackLocation": 0.040496626067179256,
             "distanceToNextStop": 0.02876141636611733
           },
           {
             "id": "de:12054:900230168::2",
             "name": "Potsdam, Priesterweg",
-            "onTrackLocation": 0.06925804243329658,
+            "location": [
+              13.136085,
+              52.364293
+            ],
             "coordIndex": 17,
-            "distanceToNextStop": 0.04266060260408201
+            "onTrackLocation": 0.06925804243329658,
+            "distanceToNextStop": 0.0403424063235865
           },
           {
             "id": "de:12054:900230140::2",
             "name": "Potsdam, Robert-Baberske-Str.",
-            "onTrackLocation": 0.1119186450373786,
-            "coordIndex": 58,
-            "distanceToNextStop": 0.030221519303870167
+            "location": [
+              13.13663,
+              52.367111
+            ],
+            "coordIndex": 55,
+            "onTrackLocation": 0.10960044875688309,
+            "distanceToNextStop": 0.032116833685367954
           },
           {
             "id": "de:12054:900230141::2",
             "name": "Potsdam, Hans-Albers-Str.",
-            "onTrackLocation": 0.14214016434124876,
-            "coordIndex": 67,
-            "distanceToNextStop": 0.0668320621462723
+            "location": [
+              13.13996,
+              52.369225
+            ],
+            "coordIndex": 66,
+            "onTrackLocation": 0.14171728244225104,
+            "distanceToNextStop": 0.06637346329825569
           },
           {
             "id": "de:12054:900230086::2",
             "name": "Potsdam, Gaußstr.",
-            "onTrackLocation": 0.20897222648752106,
-            "coordIndex": 124,
-            "distanceToNextStop": 0.03780604990904593
+            "location": [
+              13.141818,
+              52.374761
+            ],
+            "coordIndex": 122,
+            "onTrackLocation": 0.20809074574050673,
+            "distanceToNextStop": 0.03849248163322111
           },
           {
             "id": "de:12054:900230085::2",
             "name": "Potsdam, Max-Born-Str.",
-            "onTrackLocation": 0.246778276396567,
-            "coordIndex": 143,
-            "distanceToNextStop": 0.07302858124207781
+            "location": [
+              13.13742,
+              52.375588
+            ],
+            "coordIndex": 142,
+            "onTrackLocation": 0.24658322737372784,
+            "distanceToNextStop": 0.07322363026491696
           },
           {
             "id": "de:12054:900230032::2",
             "name": "Potsdam, Johannes-Kepler-Platz",
-            "onTrackLocation": 0.3198068576386448,
+            "location": [
+              13.128906,
+              52.375504
+            ],
             "coordIndex": 161,
-            "distanceToNextStop": 0.04512385963767268
+            "onTrackLocation": 0.3198068576386448,
+            "distanceToNextStop": 0.04440621436186787
           },
           {
             "id": "de:12054:900230084::2",
             "name": "Potsdam, Turmstr.",
-            "onTrackLocation": 0.3649307172763175,
-            "coordIndex": 185,
-            "distanceToNextStop": 0.094235422645157
+            "location": [
+              13.123086,
+              52.374687
+            ],
+            "coordIndex": 183,
+            "onTrackLocation": 0.36421307200051267,
+            "distanceToNextStop": 0.09185720494604765
           },
           {
             "id": "de:12054:900230083::2",
             "name": "Potsdam, Abzweig Betriebshof ViP",
-            "onTrackLocation": 0.4591661399214745,
-            "coordIndex": 234,
-            "distanceToNextStop": 0.0713193315024988
+            "location": [
+              13.111256,
+              52.373476
+            ],
+            "coordIndex": 231,
+            "onTrackLocation": 0.4560702769465603,
+            "distanceToNextStop": 0.07441519447741296
           },
           {
             "id": "de:12054:900230034::2",
             "name": "Potsdam, Bisamkiez",
-            "onTrackLocation": 0.5304854714239733,
+            "location": [
+              13.101214,
+              52.373356
+            ],
             "coordIndex": 267,
-            "distanceToNextStop": 0.07242457817302572
+            "onTrackLocation": 0.5304854714239733,
+            "distanceToNextStop": 0.06928268554103278
           },
           {
             "id": "de:12054:900230031::2",
             "name": "Potsdam, Magnus-Zeller-Platz",
-            "onTrackLocation": 0.602910049596999,
-            "coordIndex": 285,
-            "distanceToNextStop": 0.06230748978810108
+            "location": [
+              13.091462,
+              52.375127
+            ],
+            "coordIndex": 284,
+            "onTrackLocation": 0.5997681569650061,
+            "distanceToNextStop": 0.07084117420517455
           },
           {
             "id": "de:12054:900230021::2",
             "name": "Potsdam, Waldstr./Horstweg",
-            "onTrackLocation": 0.6652175393851001,
-            "coordIndex": 313,
-            "distanceToNextStop": 0.050149424603920134
+            "location": [
+              13.082976,
+              52.377543
+            ],
+            "coordIndex": 314,
+            "onTrackLocation": 0.6706093311701806,
+            "distanceToNextStop": 0.044474735618936556
           },
           {
             "id": "de:12054:900230067::2",
             "name": "Potsdam, Kunersdorfer Str.",
-            "onTrackLocation": 0.7153669639890202,
-            "coordIndex": 324,
-            "distanceToNextStop": 0.03129434151858179
+            "location": [
+              13.078477,
+              52.380561
+            ],
+            "coordIndex": 321,
+            "onTrackLocation": 0.7150840667891172,
+            "distanceToNextStop": 0.03148682149675586
           },
           {
             "id": "de:12054:900230066::2",
             "name": "Potsdam, Sporthalle",
-            "onTrackLocation": 0.746661305507602,
-            "coordIndex": 331,
-            "distanceToNextStop": 0.04621496147856452
+            "location": [
+              13.075397,
+              52.382675
+            ],
+            "coordIndex": 329,
+            "onTrackLocation": 0.746570888285873,
+            "distanceToNextStop": 0.04512455611890165
           },
           {
             "id": "de:12054:900230065::2",
             "name": "Potsdam, Friedhöfe",
-            "onTrackLocation": 0.7928762669861665,
-            "coordIndex": 351,
-            "distanceToNextStop": 0.08071878486569839
+            "location": [
+              13.071531,
+              52.386083
+            ],
+            "coordIndex": 350,
+            "onTrackLocation": 0.7916954444047747,
+            "distanceToNextStop": 0.08189960744709024
           },
           {
             "id": "de:12054:900230999::2",
             "name": "S Potsdam Hauptbahnhof",
-            "onTrackLocation": 0.8735950518518649,
+            "location": [
+              13.065283,
+              52.391005
+            ],
             "coordIndex": 419,
-            "distanceToNextStop": 0.011104134187730486
+            "onTrackLocation": 0.8735950518518649,
+            "distanceToNextStop": 0.018575523029297103
           },
           {
             "id": "de:12054:900230097::1",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.8846991860395954,
-            "coordIndex": 423,
-            "distanceToNextStop": 0.0526700384790777
+            "location": [
+              13.063789,
+              52.39204
+            ],
+            "coordIndex": 424,
+            "onTrackLocation": 0.892170574881162,
+            "distanceToNextStop": 0.04108042045522731
           },
           {
             "id": "de:12054:900230018::2",
             "name": "Potsdam, Alter Markt/Landtag",
-            "onTrackLocation": 0.9373692245186731,
-            "coordIndex": 463,
-            "distanceToNextStop": 0.034429414423768345
+            "location": [
+              13.059322,
+              52.394842
+            ],
+            "coordIndex": 456,
+            "onTrackLocation": 0.9332509953363893,
+            "distanceToNextStop": 0.035005829179317605
           },
           {
             "id": "de:12054:900230016::2",
             "name": "Potsdam, Platz der Einheit/Bildungsforum",
-            "onTrackLocation": 0.9717986389424415,
-            "coordIndex": 490,
-            "distanceToNextStop": 0.02820136105755855
+            "location": [
+              13.059267,
+              52.397519
+            ],
+            "coordIndex": 483,
+            "onTrackLocation": 0.9682568245157069,
+            "distanceToNextStop": 0.027315374414020654
           },
           {
             "id": "de:12054:900230015::0",
             "name": "Potsdam, Platz der Einheit/Nord",
-            "onTrackLocation": 1,
-            "coordIndex": 509,
+            "location": [
+              13.058607,
+              52.399187
+            ],
+            "coordIndex": 506,
+            "onTrackLocation": 0.9955721989297276,
             "distanceToNextStop": 0
           }
         ],
@@ -25763,148 +27191,232 @@
           {
             "id": "de:12054:900230015::0",
             "name": "Potsdam, Platz der Einheit/Nord",
-            "onTrackLocation": 0,
+            "location": [
+              13.058607,
+              52.399187
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.009174620795814376
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.005778850150638713
           },
           {
             "id": "de:12054:900230014::1",
             "name": "Potsdam, Platz der Einheit/West",
-            "onTrackLocation": 0.009174620795814376,
-            "coordIndex": 13,
-            "distanceToNextStop": 0.043841780201304206
+            "location": [
+              13.057969,
+              52.398572
+            ],
+            "coordIndex": 9,
+            "onTrackLocation": 0.005778850150638713,
+            "distanceToNextStop": 0.04723755084647987
           },
           {
             "id": "de:12054:900230018::1",
             "name": "Potsdam, Alter Markt/Landtag",
+            "location": [
+              13.059234,
+              52.394837
+            ],
+            "coordIndex": 15,
             "onTrackLocation": 0.05301640099711858,
-            "coordIndex": 16,
-            "distanceToNextStop": 0.04786118051632062
+            "distanceToNextStop": 0.04291369076188401
           },
           {
             "id": "de:12054:900230097::2",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.1008775815134392,
-            "coordIndex": 56,
-            "distanceToNextStop": 0.026849736564053983
+            "location": [
+              13.063727,
+              52.392033
+            ],
+            "coordIndex": 47,
+            "onTrackLocation": 0.09593009175900259,
+            "distanceToNextStop": 0.03177360095956218
           },
           {
             "id": "de:12054:900230999::1",
             "name": "S Potsdam Hauptbahnhof",
-            "onTrackLocation": 0.12772731807749318,
-            "coordIndex": 75,
-            "distanceToNextStop": 0.07954222464297023
+            "location": [
+              13.066372,
+              52.390929
+            ],
+            "coordIndex": 74,
+            "onTrackLocation": 0.12770369271856477,
+            "distanceToNextStop": 0.07603058797169407
           },
           {
             "id": "de:12054:900230065::1",
             "name": "Potsdam, Friedhöfe",
-            "onTrackLocation": 0.2072695427204634,
-            "coordIndex": 142,
-            "distanceToNextStop": 0.04286354139749174
+            "location": [
+              13.071952,
+              52.385759
+            ],
+            "coordIndex": 141,
+            "onTrackLocation": 0.20373428069025884,
+            "distanceToNextStop": 0.04630607863680414
           },
           {
             "id": "de:12054:900230066::1",
             "name": "Potsdam, Sporthalle",
-            "onTrackLocation": 0.25013308411795515,
-            "coordIndex": 149,
-            "distanceToNextStop": 0.03229040754975715
+            "location": [
+              13.075364,
+              52.382596
+            ],
+            "coordIndex": 147,
+            "onTrackLocation": 0.250040359327063,
+            "distanceToNextStop": 0.029439703578677312
           },
           {
             "id": "de:12054:900230067::1",
             "name": "Potsdam, Kunersdorfer Str.",
-            "onTrackLocation": 0.2824234916677123,
-            "coordIndex": 157,
-            "distanceToNextStop": 0.03379779425027457
+            "location": [
+              13.07851,
+              52.380482
+            ],
+            "coordIndex": 152,
+            "onTrackLocation": 0.2794800629057403,
+            "distanceToNextStop": 0.03538155352313538
           },
           {
             "id": "de:12054:900230021::1",
             "name": "Potsdam, Waldstr./Horstweg",
-            "onTrackLocation": 0.31622128591798687,
-            "coordIndex": 160,
-            "distanceToNextStop": 0.07902496761581512
+            "location": [
+              13.082057,
+              52.378061
+            ],
+            "coordIndex": 159,
+            "onTrackLocation": 0.31486161642887567,
+            "distanceToNextStop": 0.07807168830932898
           },
           {
             "id": "de:12054:900230031::1",
             "name": "Potsdam, Magnus-Zeller-Platz",
-            "onTrackLocation": 0.395246253533802,
-            "coordIndex": 192,
-            "distanceToNextStop": 0.07197100264836365
+            "location": [
+              13.091574,
+              52.375021
+            ],
+            "coordIndex": 189,
+            "onTrackLocation": 0.39293330473820465,
+            "distanceToNextStop": 0.06918032874616303
           },
           {
             "id": "de:12054:900230034::1",
             "name": "Potsdam, Bisamkiez",
-            "onTrackLocation": 0.46721725618216564,
-            "coordIndex": 210,
-            "distanceToNextStop": 0.07762652927755637
+            "location": [
+              13.100829,
+              52.373339
+            ],
+            "coordIndex": 207,
+            "onTrackLocation": 0.4621136334843677,
+            "distanceToNextStop": 0.08063966272738615
           },
           {
             "id": "de:12054:900230083::1",
             "name": "Potsdam, Abzweig Betriebshof ViP",
-            "onTrackLocation": 0.544843785459722,
-            "coordIndex": 245,
-            "distanceToNextStop": 0.09737639798235898
+            "location": [
+              13.111368,
+              52.373353
+            ],
+            "coordIndex": 243,
+            "onTrackLocation": 0.5427532962117538,
+            "distanceToNextStop": 0.09873092668142625
           },
           {
             "id": "de:12054:900230084::1",
             "name": "Potsdam, Turmstr.",
-            "onTrackLocation": 0.642220183442081,
-            "coordIndex": 295,
-            "distanceToNextStop": 0.042141303656235474
+            "location": [
+              13.123449,
+              52.374732
+            ],
+            "coordIndex": 293,
+            "onTrackLocation": 0.6414842228931801,
+            "distanceToNextStop": 0.04287726420513638
           },
           {
             "id": "de:12054:900230032::1",
             "name": "Potsdam, Johannes-Kepler-Platz",
-            "onTrackLocation": 0.6843614870983165,
+            "location": [
+              13.129155,
+              52.375455
+            ],
             "coordIndex": 314,
+            "onTrackLocation": 0.6843614870983165,
             "distanceToNextStop": 0.05930387510459856
           },
           {
             "id": "de:12054:900230085::1",
             "name": "Potsdam, Max-Born-Str.",
-            "onTrackLocation": 0.743665362202915,
+            "location": [
+              13.137696,
+              52.375535
+            ],
             "coordIndex": 325,
-            "distanceToNextStop": 0.0427686198692625
+            "onTrackLocation": 0.743665362202915,
+            "distanceToNextStop": 0.04016422624663041
           },
           {
             "id": "de:12054:900230086::1",
             "name": "Potsdam, Gaußstr.",
-            "onTrackLocation": 0.7864339820721775,
-            "coordIndex": 345,
-            "distanceToNextStop": 0.06203790419396882
+            "location": [
+              13.141952,
+              52.374876
+            ],
+            "coordIndex": 343,
+            "onTrackLocation": 0.7838295884495454,
+            "distanceToNextStop": 0.060638351420135406
           },
           {
             "id": "de:12054:900230141::1",
             "name": "Potsdam, Hans-Albers-Str.",
-            "onTrackLocation": 0.8484718862661463,
-            "coordIndex": 394,
-            "distanceToNextStop": 0.041006294044129254
+            "location": [
+              13.140717,
+              52.369769
+            ],
+            "coordIndex": 389,
+            "onTrackLocation": 0.8444679398696808,
+            "distanceToNextStop": 0.04501024044059476
           },
           {
             "id": "de:12054:900230140::1",
             "name": "Potsdam, Robert-Baberske-Str.",
-            "onTrackLocation": 0.8894781803102756,
+            "location": [
+              13.136411,
+              52.367067
+            ],
             "coordIndex": 413,
-            "distanceToNextStop": 0.028893370102298865
+            "onTrackLocation": 0.8894781803102756,
+            "distanceToNextStop": 0.025045676720403698
           },
           {
             "id": "de:12054:900230168::1",
             "name": "Potsdam, Priesterweg",
-            "onTrackLocation": 0.9183715504125745,
-            "coordIndex": 441,
-            "distanceToNextStop": 0.04253558039957894
+            "location": [
+              13.134794,
+              52.365036
+            ],
+            "coordIndex": 436,
+            "onTrackLocation": 0.9145238570306793,
+            "distanceToNextStop": 0.044931045757212074
           },
           {
             "id": "de:12054:900230166::1",
             "name": "Potsdam, Am Hirtengraben",
-            "onTrackLocation": 0.9609071308121534,
-            "coordIndex": 472,
-            "distanceToNextStop": 0.0390928691878466
+            "location": [
+              13.137061,
+              52.361772
+            ],
+            "coordIndex": 469,
+            "onTrackLocation": 0.9594549027878914,
+            "distanceToNextStop": 0.035943341137619544
           },
           {
             "id": "de:12054:900230167::1",
             "name": "Potsdam, Marie-Juchacz-Str.",
-            "onTrackLocation": 1,
-            "coordIndex": 480,
+            "location": [
+              13.137202,
+              52.358386
+            ],
+            "coordIndex": 478,
+            "onTrackLocation": 0.9953982439255109,
             "distanceToNextStop": 0
           }
         ],
@@ -27864,142 +29376,222 @@
           {
             "id": "de:12054:900230034::1",
             "name": "Potsdam, Bisamkiez",
-            "onTrackLocation": 0.9981422423549775,
-            "coordIndex": 297,
+            "location": [
+              13.100829,
+              52.373339
+            ],
+            "coordIndex": 296,
+            "onTrackLocation": 0.994162419166366,
             "distanceToNextStop": 0
           },
           {
             "id": "de:12054:900230031::1",
             "name": "Potsdam, Magnus-Zeller-Platz",
-            "onTrackLocation": 0.917678760653923,
-            "coordIndex": 281,
-            "distanceToNextStop": 0.08046348170105455
+            "location": [
+              13.091574,
+              52.375021
+            ],
+            "coordIndex": 278,
+            "onTrackLocation": 0.9150331839022988,
+            "distanceToNextStop": 0.07912923526406723
           },
           {
             "id": "de:12054:900230021::1",
             "name": "Potsdam, Waldstr./Horstweg",
-            "onTrackLocation": 0.8272891171303812,
-            "coordIndex": 249,
-            "distanceToNextStop": 0.09038964352354173
+            "location": [
+              13.082057,
+              52.378061
+            ],
+            "coordIndex": 248,
+            "onTrackLocation": 0.8257339119320939,
+            "distanceToNextStop": 0.08929927197020493
           },
           {
             "id": "de:12054:900230067::1",
             "name": "Potsdam, Kunersdorfer Str.",
-            "onTrackLocation": 0.7886308213242218,
-            "coordIndex": 246,
-            "distanceToNextStop": 0.038658295806159426
+            "location": [
+              13.07851,
+              52.380482
+            ],
+            "coordIndex": 241,
+            "onTrackLocation": 0.785264094521814,
+            "distanceToNextStop": 0.040469817410279885
           },
           {
             "id": "de:12054:900230066::1",
             "name": "Potsdam, Sporthalle",
-            "onTrackLocation": 0.7516966913180958,
-            "coordIndex": 238,
-            "distanceToNextStop": 0.036934130006126
+            "location": [
+              13.075364,
+              52.382596
+            ],
+            "coordIndex": 236,
+            "onTrackLocation": 0.7515906316631867,
+            "distanceToNextStop": 0.03367346285862727
           },
           {
             "id": "de:12054:900230065::1",
             "name": "Potsdam, Friedhöfe",
-            "onTrackLocation": 0.7026688923329498,
-            "coordIndex": 231,
-            "distanceToNextStop": 0.049027798985145976
+            "location": [
+              13.071952,
+              52.385759
+            ],
+            "coordIndex": 230,
+            "onTrackLocation": 0.6986252200061731,
+            "distanceToNextStop": 0.05296541165701363
           },
           {
             "id": "de:12054:900230999::1",
             "name": "S Potsdam Hauptbahnhof",
-            "onTrackLocation": 0.6116876044252954,
-            "coordIndex": 164,
-            "distanceToNextStop": 0.09098128790765447
+            "location": [
+              13.066372,
+              52.390929
+            ],
+            "coordIndex": 163,
+            "onTrackLocation": 0.611660581475004,
+            "distanceToNextStop": 0.08696463853116909
           },
           {
             "id": "de:12054:900230097::2",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.580976574861518,
-            "coordIndex": 145,
-            "distanceToNextStop": 0.03071102956377736
+            "location": [
+              13.063727,
+              52.392033
+            ],
+            "coordIndex": 136,
+            "onTrackLocation": 0.5753175806381481,
+            "distanceToNextStop": 0.03634300083685593
           },
           {
             "id": "de:12054:900230018::1",
             "name": "Potsdam, Alter Markt/Landtag",
-            "onTrackLocation": 0.5262324202480294,
-            "coordIndex": 105,
-            "distanceToNextStop": 0.05474415461348858
+            "location": [
+              13.059234,
+              52.394837
+            ],
+            "coordIndex": 101,
+            "onTrackLocation": 0.5216479651544084,
+            "distanceToNextStop": 0.05366961548373972
           },
           {
             "id": "de:12054:900230016::1",
             "name": "Potsdam, Platz der Einheit/Bildungsforum",
-            "onTrackLocation": 0.48984735309753147,
-            "coordIndex": 83,
-            "distanceToNextStop": 0.03638506715049794
+            "location": [
+              13.058844,
+              52.397499
+            ],
+            "coordIndex": 79,
+            "onTrackLocation": 0.487572632184154,
+            "distanceToNextStop": 0.03407533297025439
           },
           {
             "id": "de:12054:900230071::1",
             "name": "Potsdam, Burgstr./Klinikum",
-            "onTrackLocation": 0.44014577584434467,
-            "coordIndex": 70,
-            "distanceToNextStop": 0.0497015772531868
+            "location": [
+              13.064663,
+              52.398356
+            ],
+            "coordIndex": 68,
+            "onTrackLocation": 0.4397798013243337,
+            "distanceToNextStop": 0.04779283085982028
           },
           {
             "id": "de:12054:900230026::1",
             "name": "Potsdam, Holzmarktstr.",
-            "onTrackLocation": 0.3792818376662173,
-            "coordIndex": 53,
-            "distanceToNextStop": 0.06086393817812735
+            "location": [
+              13.069361,
+              52.401759
+            ],
+            "coordIndex": 52,
+            "onTrackLocation": 0.37705772474002336,
+            "distanceToNextStop": 0.06272207658431034
           },
           {
             "id": "de:12054:900230272::2",
             "name": "Potsdam, Schiffbauergasse/Uferweg",
+            "location": [
+              13.07167,
+              52.401573
+            ],
+            "coordIndex": 44,
             "onTrackLocation": 0.3575623605643177,
-            "coordIndex": 45,
-            "distanceToNextStop": 0.021719477101899587
+            "distanceToNextStop": 0.019495364175705632
           },
           {
             "id": "de:12054:900230077::2",
             "name": "Potsdam, Humboldtring/Nuthestr.",
+            "location": [
+              13.078714,
+              52.397938
+            ],
+            "coordIndex": 42,
             "onTrackLocation": 0.2848904336398198,
-            "coordIndex": 43,
             "distanceToNextStop": 0.07267192692449792
           },
           {
             "id": "de:12054:900230078::2",
             "name": "Potsdam, Alt Nowawes",
-            "onTrackLocation": 0.19897889355781348,
-            "coordIndex": 37,
-            "distanceToNextStop": 0.08591154008200633
+            "location": [
+              13.084354,
+              52.39354
+            ],
+            "coordIndex": 34,
+            "onTrackLocation": 0.19848922420789106,
+            "distanceToNextStop": 0.08640120943192875
           },
           {
             "id": "de:12054:900230181::2",
             "name": "Potsdam, Rathaus Babelsberg",
-            "onTrackLocation": 0.13412262633044406,
-            "coordIndex": 23,
-            "distanceToNextStop": 0.06485626722736942
+            "location": [
+              13.091807,
+              52.392017
+            ],
+            "coordIndex": 24,
+            "onTrackLocation": 0.14955365053913042,
+            "distanceToNextStop": 0.04893557366876064
           },
           {
             "id": "de:12054:900230004::2",
             "name": "S Babelsberg/Wattstr.",
-            "onTrackLocation": 0.10919594019585194,
-            "coordIndex": 17,
-            "distanceToNextStop": 0.02492668613459212
+            "location": [
+              13.095251,
+              52.391711
+            ],
+            "coordIndex": 18,
+            "onTrackLocation": 0.12233698117211966,
+            "distanceToNextStop": 0.027216669367010754
           },
           {
             "id": "de:12054:900230079::2",
             "name": "Potsdam, Anhaltstr.",
-            "onTrackLocation": 0.07858493573209231,
+            "location": [
+              13.09966,
+              52.392099
+            ],
             "coordIndex": 12,
-            "distanceToNextStop": 0.030611004463759625
+            "onTrackLocation": 0.07858493573209231,
+            "distanceToNextStop": 0.04375204544002735
           },
           {
             "id": "de:12054:900230080::2",
             "name": "Potsdam, Plantagenstr.",
-            "onTrackLocation": 0.0539199290603533,
-            "coordIndex": 11,
-            "distanceToNextStop": 0.024665006671739015
+            "location": [
+              13.103232,
+              52.392408
+            ],
+            "coordIndex": 8,
+            "onTrackLocation": 0.049525320030279506,
+            "distanceToNextStop": 0.029059615701812806
           },
           {
             "id": "de:12054:900230029::4",
             "name": "Potsdam, Fontanestr.",
-            "onTrackLocation": 0,
+            "location": [
+              13.108885,
+              52.393193
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.0539199290603533
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.049525320030279506
           }
         ],
         "lineString": {
@@ -29216,100 +30808,156 @@
           {
             "id": "de:12054:900230233::1",
             "name": "Potsdam, Hauptbahnhof/Friedrich-Engels-Str.",
-            "onTrackLocation": 0.9760150588382874,
-            "coordIndex": 163,
+            "location": [
+              13.066347,
+              52.390336
+            ],
+            "coordIndex": 164,
+            "onTrackLocation": 1,
             "distanceToNextStop": 0
           },
           {
             "id": "de:12054:900230097::2",
             "name": "Potsdam, Lange Brücke",
-            "onTrackLocation": 0.9420125200921774,
-            "coordIndex": 145,
-            "distanceToNextStop": 0.034002538746110034
+            "location": [
+              13.063727,
+              52.392033
+            ],
+            "coordIndex": 136,
+            "onTrackLocation": 0.932836860280395,
+            "distanceToNextStop": 0.06716313971960497
           },
           {
             "id": "de:12054:900230018::1",
             "name": "Potsdam, Alter Markt/Landtag",
-            "onTrackLocation": 0.8532487363543212,
-            "coordIndex": 105,
-            "distanceToNextStop": 0.0887637837378562
+            "location": [
+              13.059234,
+              52.394837
+            ],
+            "coordIndex": 101,
+            "onTrackLocation": 0.8458153659176202,
+            "distanceToNextStop": 0.08702149436277484
           },
           {
             "id": "de:12054:900230016::1",
             "name": "Potsdam, Platz der Einheit/Bildungsforum",
-            "onTrackLocation": 0.7942529174465907,
-            "coordIndex": 83,
-            "distanceToNextStop": 0.058995818907730535
+            "location": [
+              13.058844,
+              52.397499
+            ],
+            "coordIndex": 79,
+            "onTrackLocation": 0.7905646179990133,
+            "distanceToNextStop": 0.055250747918606846
           },
           {
             "id": "de:12054:900230071::1",
             "name": "Potsdam, Burgstr./Klinikum",
-            "onTrackLocation": 0.713665317073907,
-            "coordIndex": 70,
-            "distanceToNextStop": 0.08058760037268364
+            "location": [
+              13.064663,
+              52.398356
+            ],
+            "coordIndex": 68,
+            "onTrackLocation": 0.7130719152143445,
+            "distanceToNextStop": 0.0774927027846688
           },
           {
             "id": "de:12054:900230026::1",
             "name": "Potsdam, Holzmarktstr.",
-            "onTrackLocation": 0.6149787361225519,
-            "coordIndex": 53,
-            "distanceToNextStop": 0.09868658095135507
+            "location": [
+              13.069361,
+              52.401759
+            ],
+            "coordIndex": 52,
+            "onTrackLocation": 0.6113724939550893,
+            "distanceToNextStop": 0.10169942125925524
           },
           {
             "id": "de:12054:900230272::2",
             "name": "Potsdam, Schiffbauergasse/Uferweg",
+            "location": [
+              13.07167,
+              52.401573
+            ],
+            "coordIndex": 44,
             "onTrackLocation": 0.5797621366155552,
-            "coordIndex": 45,
-            "distanceToNextStop": 0.03521659950699674
+            "distanceToNextStop": 0.0316103573395341
           },
           {
             "id": "de:12054:900230077::2",
             "name": "Potsdam, Humboldtring/Nuthestr.",
+            "location": [
+              13.078714,
+              52.397938
+            ],
+            "coordIndex": 42,
             "onTrackLocation": 0.46192973513117774,
-            "coordIndex": 43,
             "distanceToNextStop": 0.11783240148437746
           },
           {
             "id": "de:12054:900230078::2",
             "name": "Potsdam, Alt Nowawes",
-            "onTrackLocation": 0.3226302351522993,
-            "coordIndex": 37,
-            "distanceToNextStop": 0.13929949997887842
+            "location": [
+              13.084354,
+              52.39354
+            ],
+            "coordIndex": 34,
+            "onTrackLocation": 0.32183627085444055,
+            "distanceToNextStop": 0.1400934642767372
           },
           {
             "id": "de:12054:900230181::2",
             "name": "Potsdam, Rathaus Babelsberg",
-            "onTrackLocation": 0.21747037436240654,
-            "coordIndex": 23,
-            "distanceToNextStop": 0.10515986078989278
+            "location": [
+              13.091807,
+              52.392017
+            ],
+            "coordIndex": 24,
+            "onTrackLocation": 0.24249069124160758,
+            "distanceToNextStop": 0.07934557961283298
           },
           {
             "id": "de:12054:900230004::2",
             "name": "S Babelsberg/Wattstr.",
-            "onTrackLocation": 0.17705351172247846,
-            "coordIndex": 17,
-            "distanceToNextStop": 0.04041686263992808
+            "location": [
+              13.095251,
+              52.391711
+            ],
+            "coordIndex": 18,
+            "onTrackLocation": 0.1983607823807476,
+            "distanceToNextStop": 0.04412990886085996
           },
           {
             "id": "de:12054:900230079::2",
             "name": "Potsdam, Anhaltstr.",
-            "onTrackLocation": 0.12741992802018814,
+            "location": [
+              13.09966,
+              52.392099
+            ],
             "coordIndex": 12,
-            "distanceToNextStop": 0.04963358370229032
+            "onTrackLocation": 0.12741992802018814,
+            "distanceToNextStop": 0.07094085436055947
           },
           {
             "id": "de:12054:900230080::2",
             "name": "Potsdam, Plantagenstr.",
-            "onTrackLocation": 0.08742736016412014,
-            "coordIndex": 11,
-            "distanceToNextStop": 0.039992567856068
+            "location": [
+              13.103232,
+              52.392408
+            ],
+            "coordIndex": 8,
+            "onTrackLocation": 0.08030181172315862,
+            "distanceToNextStop": 0.04711811629702953
           },
           {
             "id": "de:12054:900230029::4",
             "name": "Potsdam, Fontanestr.",
-            "onTrackLocation": 0,
+            "location": [
+              13.108885,
+              52.393193
+            ],
             "coordIndex": 0,
-            "distanceToNextStop": 0.08742736016412014
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.08030181172315862
           }
         ],
         "lineString": {
