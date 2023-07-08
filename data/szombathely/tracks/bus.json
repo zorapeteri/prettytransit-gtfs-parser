@@ -8,7 +8,8 @@
         "bg": "#FF33CC",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "5"
     },
     "origin": "Minerva lakópark",
     "destination": "Órásház",
@@ -731,7 +732,8 @@
         "bg": "#FF33CC",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "5"
     },
     "origin": "Órásház",
     "destination": "Minerva lakópark",
@@ -1782,7 +1784,8 @@
         "bg": "#FF33CC",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "5"
     },
     "origin": "Minerva lakópark",
     "destination": "Derkovits bevásárlóközpont",
@@ -2801,7 +2804,8 @@
         "bg": "#D91A2D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6"
     },
     "origin": "Újperint, Erkel utca 54.",
     "destination": "Minerva lakópark",
@@ -3929,7 +3933,8 @@
         "bg": "#D91A2D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6"
     },
     "origin": "Minerva lakópark",
     "destination": "Újperint, Erkel utca 54.",
@@ -5087,7 +5092,8 @@
         "bg": "#D91A2D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6"
     },
     "origin": "Újperint, Erkel utca 54.",
     "destination": "Minerva lakópark",
@@ -6334,7 +6340,8 @@
         "bg": "#D91A2D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6"
     },
     "origin": "Minerva lakópark",
     "destination": "Vasútállomás",
@@ -6775,7 +6782,8 @@
         "bg": "#D91A2D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6"
     },
     "origin": "Újperint, Erkel utca 54.",
     "destination": "Vasútállomás",
@@ -7446,7 +7454,8 @@
         "bg": "#D91A2D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6"
     },
     "origin": "Vasútállomás",
     "destination": "Minerva lakópark",
@@ -7944,7 +7953,8 @@
         "bg": "#26A19F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7"
     },
     "origin": "Zanat, autóbusz-forduló",
     "destination": "Újtemető",
@@ -9229,7 +9239,8 @@
         "bg": "#26A19F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7"
     },
     "origin": "Újtemető",
     "destination": "Zanat, autóbusz-forduló",
@@ -10327,7 +10338,8 @@
         "bg": "#26A19F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7"
     },
     "origin": "Zanat, autóbusz-forduló",
     "destination": "Vasútállomás",
@@ -10696,7 +10708,8 @@
         "bg": "#26A19F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7"
     },
     "origin": "Vasútállomás",
     "destination": "Zanat, autóbusz-forduló",
@@ -11116,7 +11129,8 @@
         "bg": "#26A19F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7"
     },
     "origin": "TESCO hipermarket",
     "destination": "Vasútállomás",
@@ -11413,7 +11427,8 @@
         "bg": "#26A19F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7"
     },
     "origin": "Vasútállomás",
     "destination": "TESCO hipermarket",
@@ -11619,7 +11634,8 @@
         "bg": "#26A19F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7"
     },
     "origin": "Zanat, autóbusz-forduló",
     "destination": "Óperint üzletház",
@@ -12321,7 +12337,8 @@
         "bg": "#26A19F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7"
     },
     "origin": "Újtemető",
     "destination": "Vasútállomás",
@@ -12952,7 +12969,8 @@
         "bg": "#26A19F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7"
     },
     "origin": "Vasútállomás",
     "destination": "Újtemető",
@@ -13719,7 +13737,8 @@
         "bg": "#26A19F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7"
     },
     "origin": "Nárai elágazás",
     "destination": "Újtemető",
@@ -14088,7 +14107,8 @@
         "bg": "#26A19F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7"
     },
     "origin": "Újtemető",
     "destination": "TESCO hipermarket",
@@ -14853,7 +14873,8 @@
         "bg": "#993C69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "9"
     },
     "origin": "Órásház",
     "destination": "Vasútállomás",
@@ -16133,7 +16154,8 @@
         "bg": "#993C69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "9"
     },
     "origin": "Vasútállomás",
     "destination": "Órásház",
@@ -17002,7 +17024,8 @@
         "bg": "#993C69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "9"
     },
     "origin": "TESCO szupermarket",
     "destination": "Vasútállomás",
@@ -18015,7 +18038,8 @@
         "bg": "#993C69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "9"
     },
     "origin": "Vasútállomás",
     "destination": "Váci Mihály Általános Iskola",
@@ -18995,7 +19019,8 @@
         "bg": "#993C69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "9"
     },
     "origin": "Vasútállomás",
     "destination": "Derkovits bevásárlóközpont",
@@ -19982,7 +20007,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "12"
     },
     "origin": "Bogát, szociális otthon",
     "destination": "Herény, Béke tér",
@@ -21704,7 +21730,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "12"
     },
     "origin": "Herény, Béke tér",
     "destination": "Bogát, szociális otthon",
@@ -23326,7 +23353,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "12"
     },
     "origin": "Sport tér",
     "destination": "Herény, Béke tér",
@@ -24694,7 +24722,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "12"
     },
     "origin": "Herény, Béke tér",
     "destination": "Sport tér",
@@ -26117,7 +26146,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "12"
     },
     "origin": "Vasútállomás",
     "destination": "Herény, Béke tér",
@@ -26704,7 +26734,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "12"
     },
     "origin": "Bogát, szociális otthon",
     "destination": "Herény, Béke tér",
@@ -28202,7 +28233,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "12"
     },
     "origin": "Szent István király utca 7.",
     "destination": "Herény, Béke tér",
@@ -30102,7 +30134,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "12"
     },
     "origin": "Herény, Béke tér",
     "destination": "Bükkfa utca",
@@ -31913,7 +31946,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "12"
     },
     "origin": "Szent István király utca 7.",
     "destination": "Herény, Béke tér",
@@ -33992,7 +34026,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Herény, Béke tér",
     "destination": "Bogát, szociális otthon",
@@ -35575,7 +35610,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Bogát, szociális otthon",
     "destination": "Herény, Béke tér",
@@ -37275,7 +37311,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Bogát, szociális otthon",
     "destination": "Vasútállomás",
@@ -38385,7 +38422,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Sport tér",
     "destination": "Vasútállomás",
@@ -39272,7 +39310,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Herény, Béke tér",
     "destination": "Sport tér",
@@ -40677,7 +40716,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Vasútállomás",
     "destination": "Bogát, szociális otthon",
@@ -41676,7 +41716,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Herény, Béke tér",
     "destination": "Vasútállomás",
@@ -42286,7 +42327,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Sport tér",
     "destination": "Herény, Béke tér",
@@ -43766,7 +43808,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Bogát, szociális otthon",
     "destination": "Herény, Béke tér",
@@ -45081,7 +45124,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Herény, Béke tér",
     "destination": "Bogát, szociális otthon",
@@ -46584,7 +46628,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Bogát, szociális otthon",
     "destination": "Vasútállomás",
@@ -47450,7 +47495,8 @@
         "bg": "#663333",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Bükkfa utca",
     "destination": "Herény, Béke tér",
@@ -49317,7 +49363,8 @@
         "bg": "#FF88B6",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "22"
     },
     "origin": "Kilátó út",
     "destination": "Vasútállomás",
@@ -50278,7 +50325,8 @@
         "bg": "#FF88B6",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "22"
     },
     "origin": "Vasútállomás",
     "destination": "Kilátó út",
@@ -51248,7 +51296,8 @@
         "bg": "#D0B2CA",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "23"
     },
     "origin": "Petőfi telep, autóbusz-forduló",
     "destination": "Vasútállomás",
@@ -52156,7 +52205,8 @@
         "bg": "#D0B2CA",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "23"
     },
     "origin": "Vasútállomás",
     "destination": "Petőfi telep, autóbusz-forduló",
@@ -53085,7 +53135,8 @@
         "bg": "#D0B2CA",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "23"
     },
     "origin": "Petőfi telep, autóbusz-forduló",
     "destination": "Vasútállomás",
@@ -53984,7 +54035,8 @@
         "bg": "#00B0F0",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "24"
     },
     "origin": "Oladi városrész, autóbusz-váróterem",
     "destination": "Minerva lakópark",
@@ -54675,7 +54727,8 @@
         "bg": "#00B0F0",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "24"
     },
     "origin": "Minerva lakópark",
     "destination": "Oladi városrész, autóbusz-váróterem",
@@ -55330,7 +55383,8 @@
         "bg": "#990000",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "25"
     },
     "origin": "Vasútállomás",
     "destination": "Aranypatak lakópark",
@@ -56044,7 +56098,8 @@
         "bg": "#990000",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "25"
     },
     "origin": "Aranypatak lakópark",
     "destination": "Vasútállomás",
@@ -56668,7 +56723,8 @@
         "bg": "#9AD4FC",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "27"
     },
     "origin": "Parkerdő, autóbusz-forduló",
     "destination": "Vasútállomás",
@@ -57325,7 +57381,8 @@
         "bg": "#9AD4FC",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "27"
     },
     "origin": "Vasútállomás",
     "destination": "Parkerdő, autóbusz-forduló",
@@ -57978,7 +58035,8 @@
         "bg": "#119E52",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "2A"
     },
     "origin": "Vasútállomás",
     "destination": "Vasútállomás",
@@ -59342,7 +59400,8 @@
         "bg": "#119E52",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "20A"
     },
     "origin": "Vasútállomás",
     "destination": "Vasútállomás",
@@ -60402,7 +60461,8 @@
         "bg": "#CADC6C",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21A"
     },
     "origin": "Bogát, szociális otthon",
     "destination": "Vasútállomás",
@@ -61437,7 +61497,8 @@
         "bg": "#CADC6C",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21A"
     },
     "origin": "Vasútállomás",
     "destination": "Bogát, szociális otthon",
@@ -62328,7 +62389,8 @@
         "bg": "#CADC6C",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21A"
     },
     "origin": "Sport tér",
     "destination": "Vasútállomás",
@@ -63151,7 +63213,8 @@
         "bg": "#CADC6C",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21A"
     },
     "origin": "Vasútállomás",
     "destination": "Sport tér",
@@ -63869,7 +63932,8 @@
         "bg": "#CADC6C",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21A"
     },
     "origin": "Vasútállomás",
     "destination": "Bogát, szociális otthon",
@@ -64704,7 +64768,8 @@
         "bg": "#CADC6C",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21A"
     },
     "origin": "Bogát, szociális otthon",
     "destination": "Vasútállomás",
@@ -65471,7 +65536,8 @@
         "bg": "#CADC6C",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21A"
     },
     "origin": "Bükkfa utca",
     "destination": "Vasútállomás",
@@ -66522,7 +66588,8 @@
         "bg": "#CADC6C",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21A"
     },
     "origin": "Vasútállomás",
     "destination": "Szent István király utca 7.",
@@ -67605,7 +67672,8 @@
         "bg": "#CADC6C",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21A"
     },
     "origin": "Bükkfa utca",
     "destination": "Vasútállomás",
@@ -68824,7 +68892,8 @@
         "bg": "#9AD4FC",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "27A"
     },
     "origin": "Parkerdő lakópark",
     "destination": "Vasútállomás",
@@ -69333,7 +69402,8 @@
         "bg": "#9AD4FC",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "27A"
     },
     "origin": "Vasútállomás",
     "destination": "Parkerdő lakópark",
@@ -69802,7 +69872,8 @@
         "bg": "#119E52",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "29A"
     },
     "origin": "Vasútállomás",
     "destination": "Vasútállomás",
@@ -71268,7 +71339,8 @@
         "bg": "#FF6600",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "2C"
     },
     "origin": "Vasútállomás",
     "destination": "Vasútállomás",
@@ -72668,7 +72740,8 @@
         "bg": "#FF6600",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "20C"
     },
     "origin": "Vasútállomás",
     "destination": "Vasútállomás",
@@ -73774,7 +73847,8 @@
         "bg": "#FF6600",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "29C"
     },
     "origin": "Vasútállomás",
     "destination": "Vasútállomás",
@@ -75102,7 +75176,8 @@
         "bg": "#FF6600",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "29C"
     },
     "origin": "Vasútállomás",
     "destination": "Derkovits Gyula Általános Iskola",
@@ -76047,7 +76122,8 @@
         "bg": "#69E3C4",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "3H"
     },
     "origin": "iSi Automotive",
     "destination": "Vasútállomás",
@@ -76389,7 +76465,8 @@
         "bg": "#69E3C4",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "3H"
     },
     "origin": "Vasútállomás",
     "destination": "iSi Automotive",
@@ -76667,7 +76744,8 @@
         "bg": "#69E3C4",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "3H"
     },
     "origin": "iSi Automotive",
     "destination": "Vasútállomás",
@@ -77045,7 +77123,8 @@
         "bg": "#A1CC9E",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "4H"
     },
     "origin": "BPW-Hungária Kft.",
     "destination": "Oladi városrész, autóbusz-váróterem",
@@ -78035,7 +78114,8 @@
         "bg": "#A1CC9E",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "4H"
     },
     "origin": "Oladi városrész, autóbusz-váróterem",
     "destination": "BPW-Hungária Kft.",
@@ -79006,7 +79086,8 @@
         "bg": "#A1CC9E",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "4H"
     },
     "origin": "BPW-Hungária Kft.",
     "destination": "Aranypatak lakópark",
@@ -80197,7 +80278,8 @@
         "bg": "#A69C3D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "5H"
     },
     "origin": "Ipartelep, autóbusz-forduló",
     "destination": "Olad, autóbusz-forduló",
@@ -81359,7 +81441,8 @@
         "bg": "#A69C3D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "5H"
     },
     "origin": "Olad, autóbusz-forduló",
     "destination": "Ipartelep, autóbusz-forduló",
@@ -82501,7 +82584,8 @@
         "bg": "#1F2A42",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6H"
     },
     "origin": "Ipartelep, autóbusz-forduló",
     "destination": "Újperint, Erkel utca 54.",
@@ -83224,7 +83308,8 @@
         "bg": "#1F2A42",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6H"
     },
     "origin": "Újperint, Erkel utca 54.",
     "destination": "Ipartelep, autóbusz-forduló",
@@ -84013,7 +84098,8 @@
         "bg": "#1F2A42",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6H"
     },
     "origin": "Ipartelep, autóbusz-forduló",
     "destination": "Szent Gellért utca 64.",
@@ -84541,7 +84627,8 @@
         "bg": "#1F2A42",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "6H"
     },
     "origin": "Szent Gellért utca 64.",
     "destination": "Ipartelep, autóbusz-forduló",
@@ -85092,7 +85179,8 @@
         "bg": "#FCF574",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7H"
     },
     "origin": "Rumi út 142.",
     "destination": "Arany János utca",
@@ -85599,7 +85687,8 @@
         "bg": "#FCF574",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7H"
     },
     "origin": "Arany János utca",
     "destination": "Rumi út 142.",
@@ -85974,7 +86063,8 @@
         "bg": "#7E97B6",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8H"
     },
     "origin": "Szent Gellért utca 64.",
     "destination": "Ivy Technology Kft. (Vépi út)",
@@ -86564,7 +86654,8 @@
         "bg": "#7E97B6",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "8H"
     },
     "origin": "Ivy Technology Kft. (Vépi út)",
     "destination": "Szent Gellért utca 64.",
@@ -87209,7 +87300,8 @@
         "bg": "#FFCC00",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "10H"
     },
     "origin": "Ivy Technology Kft. (Vépi út)",
     "destination": "Oladi városrész, autóbusz-váróterem",
@@ -88325,7 +88417,8 @@
         "bg": "#FFCC00",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "10H"
     },
     "origin": "Oladi városrész, autóbusz-váróterem",
     "destination": "Ivy Technology Kft. (Vépi út)",
@@ -89332,7 +89425,8 @@
         "bg": "#FFCC00",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "10H"
     },
     "origin": "Ivy Technology Kft. (Vépi út)",
     "destination": "Autóbusz-állomás (Petőfi utca)",
@@ -89944,7 +90038,8 @@
         "bg": "#FFCC00",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "10H"
     },
     "origin": "Autóbusz-állomás (Petőfi utca)",
     "destination": "Ivy Technology Kft. (Vépi út)",
@@ -90519,7 +90614,8 @@
         "bg": "#FFCC00",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "10H"
     },
     "origin": "Olad, autóbusz-forduló",
     "destination": "Ivy Technology Kft. (Vépi út)",
@@ -91958,7 +92054,8 @@
         "bg": "#FFCC00",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "10H"
     },
     "origin": "Ivy Technology Kft. (Vépi út)",
     "destination": "Olad, autóbusz-forduló",
@@ -93253,7 +93350,8 @@
         "bg": "#000000",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "SZ"
     },
     "origin": "Sport tér",
     "destination": "Szentkirály, autóbusz-váróterem",
@@ -93702,7 +93800,8 @@
         "bg": "#000000",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "SZ"
     },
     "origin": "Szentkirály, autóbusz-váróterem",
     "destination": "Sport tér",
@@ -94139,7 +94238,8 @@
         "bg": "#265275",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1U"
     },
     "origin": "Vasútállomás",
     "destination": "Bogát, szociális otthon",
@@ -95278,7 +95378,8 @@
         "bg": "#265275",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1U"
     },
     "origin": "Sport tér",
     "destination": "Vasútállomás",
@@ -96169,7 +96270,8 @@
         "bg": "#265275",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1U"
     },
     "origin": "Vasútállomás",
     "destination": "Sport tér",
@@ -97174,7 +97276,8 @@
         "bg": "#265275",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1U"
     },
     "origin": "Bendefy László utca",
     "destination": "Bogát, szociális otthon",
@@ -97509,7 +97612,8 @@
         "bg": "#265275",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1U"
     },
     "origin": "Bendefy László utca",
     "destination": "Sport tér",
@@ -97836,7 +97940,8 @@
         "bg": "#265275",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1U"
     },
     "origin": "Bogát, szociális otthon",
     "destination": "Vasútállomás",
@@ -98855,7 +98960,8 @@
         "bg": "#265275",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1U"
     },
     "origin": "Bogát, szociális otthon",
     "destination": "Vasútállomás",
@@ -99926,7 +100032,8 @@
         "bg": "#265275",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1U"
     },
     "origin": "Szent István király utca 7.",
     "destination": "Vasútállomás",
@@ -101245,7 +101352,8 @@
         "bg": "#265275",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1U"
     },
     "origin": "Vasútállomás",
     "destination": "Bogát, szociális otthon",
@@ -102256,7 +102364,8 @@
         "bg": "#265275",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "1U"
     },
     "origin": "Szent István király utca 7.",
     "destination": "Vasútállomás",
@@ -103775,7 +103884,8 @@
         "bg": "#9E90DD",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "30Y"
     },
     "origin": "Olad, autóbusz-forduló",
     "destination": "Minerva lakópark",
@@ -105112,7 +105222,8 @@
         "bg": "#9E90DD",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "30Y"
     },
     "origin": "Minerva lakópark",
     "destination": "Olad, autóbusz-forduló",
@@ -106479,7 +106590,8 @@
         "bg": "#9E90DD",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "30Y"
     },
     "origin": "TESCO szupermarket",
     "destination": "Olad, autóbusz-forduló",
@@ -106816,7 +106928,8 @@
         "bg": "#9E90DD",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "30Y"
     },
     "origin": "Minerva lakópark",
     "destination": "Olad, autóbusz-forduló",

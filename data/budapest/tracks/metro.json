@@ -8,7 +8,8 @@
         "bg": "#FFD800",
         "fg": "#000000"
       },
-      "transportType": "metro"
+      "transportType": "metro",
+      "route_name": "M1"
     },
     "origin": "Vörösmarty tér",
     "destination": "Mexikói út",
@@ -3859,7 +3860,8 @@
         "bg": "#FFD800",
         "fg": "#000000"
       },
-      "transportType": "metro"
+      "transportType": "metro",
+      "route_name": "M1"
     },
     "origin": "Mexikói út",
     "destination": "Vörösmarty tér",
@@ -7732,7 +7734,8 @@
         "bg": "#E41F18",
         "fg": "#FFFFFF"
       },
-      "transportType": "metro"
+      "transportType": "metro",
+      "route_name": "M2"
     },
     "origin": "Déli pályaudvar",
     "destination": "Örs vezér tere",
@@ -11468,7 +11471,8 @@
         "bg": "#E41F18",
         "fg": "#FFFFFF"
       },
-      "transportType": "metro"
+      "transportType": "metro",
+      "route_name": "M2"
     },
     "origin": "Örs vezér tere",
     "destination": "Déli pályaudvar",
@@ -14993,7 +14997,8 @@
         "bg": "#005CA5",
         "fg": "#FFFFFF"
       },
-      "transportType": "metro"
+      "transportType": "metro",
+      "route_name": "M3"
     },
     "origin": "Újpest-központ",
     "destination": "Kőbánya-Kispest",
@@ -19805,7 +19810,8 @@
         "bg": "#005CA5",
         "fg": "#FFFFFF"
       },
-      "transportType": "metro"
+      "transportType": "metro",
+      "route_name": "M3"
     },
     "origin": "Kőbánya-Kispest",
     "destination": "Újpest-központ",
@@ -24380,7 +24386,8 @@
         "bg": "#4CA22F",
         "fg": "#FFFFFF"
       },
-      "transportType": "metro"
+      "transportType": "metro",
+      "route_name": "M4"
     },
     "origin": "Kelenföld vasútállomás",
     "destination": "Keleti pályaudvar",
@@ -27228,7 +27235,8 @@
         "bg": "#4CA22F",
         "fg": "#FFFFFF"
       },
-      "transportType": "metro"
+      "transportType": "metro",
+      "route_name": "M4"
     },
     "origin": "Keleti pályaudvar",
     "destination": "Kelenföld vasútállomás",

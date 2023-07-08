@@ -8,7 +8,8 @@
         "bg": "#05A564",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Green"
     },
     "origin": "Broombridge",
     "destination": "Sandyford",
@@ -2975,7 +2976,8 @@
         "bg": "#05A564",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Green"
     },
     "origin": "Parnell",
     "destination": "Brides Glen",
@@ -6972,7 +6974,8 @@
         "bg": "#05A564",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Green"
     },
     "origin": "Broombridge",
     "destination": "Brides Glen",
@@ -11679,7 +11682,8 @@
         "bg": "#05A564",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Green"
     },
     "origin": "Sandyford",
     "destination": "Brides Glen",
@@ -13384,7 +13388,8 @@
         "bg": "#05A564",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Green"
     },
     "origin": "Parnell",
     "destination": "Sandyford",
@@ -15354,7 +15359,8 @@
         "bg": "#05A564",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Green"
     },
     "origin": "Sandyford",
     "destination": "Broombridge",
@@ -18531,7 +18537,8 @@
         "bg": "#05A564",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Green"
     },
     "origin": "Brides Glen",
     "destination": "Broombridge",
@@ -23826,7 +23833,8 @@
         "bg": "#05A564",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Green"
     },
     "origin": "Broadstone - University",
     "destination": "Broombridge",
@@ -24172,7 +24180,8 @@
         "bg": "#05A564",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Green"
     },
     "origin": "Sandyford",
     "destination": "Parnell",
@@ -26458,7 +26467,8 @@
         "bg": "#05A564",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Green"
     },
     "origin": "Brides Glen",
     "destination": "Parnell",
@@ -31119,7 +31129,8 @@
         "bg": "#05A564",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Green"
     },
     "origin": "Parnell",
     "destination": "Sandyford",
@@ -33042,7 +33053,8 @@
         "bg": "#05A564",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Green"
     },
     "origin": "Beechwood",
     "destination": "Brides Glen",
@@ -35339,7 +35351,8 @@
         "bg": "#05A564",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Green"
     },
     "origin": "Brides Glen",
     "destination": "Sandyford",
@@ -37365,7 +37378,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Connolly",
     "destination": "Saggart",
@@ -41093,7 +41107,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "The Point",
     "destination": "Saggart",
@@ -45385,7 +45400,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Kingswood",
     "destination": "Saggart",
@@ -46194,7 +46210,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "The Point",
     "destination": "Tallaght",
@@ -51289,7 +51306,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Connolly",
     "destination": "Red Cow",
@@ -53925,7 +53943,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "The Point",
     "destination": "Red Cow",
@@ -56951,7 +56970,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Connolly",
     "destination": "Tallaght",
@@ -60787,7 +60807,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Belgard",
     "destination": "Saggart",
@@ -62124,7 +62145,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Kingswood",
     "destination": "Tallaght",
@@ -63065,7 +63087,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Connolly",
     "destination": "Heuston",
@@ -64421,7 +64444,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Belgard",
     "destination": "Tallaght",
@@ -65174,7 +65198,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "The Point",
     "destination": "Tallaght",
@@ -69358,7 +69383,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "The Point",
     "destination": "Tallaght",
@@ -73431,7 +73457,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Tallaght",
     "destination": "The Point",
@@ -78554,7 +78581,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Tallaght",
     "destination": "The Point",
@@ -82865,7 +82893,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Saggart",
     "destination": "Belgard",
@@ -84543,7 +84572,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Red Cow",
     "destination": "Connolly",
@@ -87059,7 +87089,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Saggart",
     "destination": "Connolly",
@@ -91404,7 +91435,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Red Cow",
     "destination": "The Point",
@@ -94177,7 +94209,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Saggart",
     "destination": "The Point",
@@ -98889,7 +98922,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Tallaght",
     "destination": "Connolly",
@@ -103029,7 +103063,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Heuston",
     "destination": "Connolly",
@@ -104150,7 +104185,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Saggart",
     "destination": "Kingswood",
@@ -105296,7 +105332,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Red Cow",
     "destination": "Connolly",
@@ -107828,7 +107865,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Tallaght",
     "destination": "Belgard",
@@ -108597,7 +108635,8 @@
         "bg": "#EF4957",
         "fg": "#FFFFFF"
       },
-      "transportType": "luas"
+      "transportType": "luas",
+      "route_name": "Red"
     },
     "origin": "Tallaght",
     "destination": "Kingswood",

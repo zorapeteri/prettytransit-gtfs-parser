@@ -8,7 +8,8 @@
         "bg": "#D0033F",
         "fg": "#FFFFFF"
       },
-      "transportType": "boat"
+      "transportType": "boat",
+      "route_name": "D14"
     },
     "origin": "Csepel-Királyerdő",
     "destination": "Soroksár, Molnár-sziget",
@@ -281,7 +282,8 @@
         "bg": "#D0033F",
         "fg": "#FFFFFF"
       },
-      "transportType": "boat"
+      "transportType": "boat",
+      "route_name": "D14"
     },
     "origin": "Soroksár, Molnár-sziget",
     "destination": "Csepel-Királyerdő",
