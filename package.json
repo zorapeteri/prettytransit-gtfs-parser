@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc --project tsconfig.json",
-    "start": "npm run build && node build/index.js",
+    "dev": "npm run build && node build/index.js",
+    "start": "node build/index.js",
     "express": "npm run build && node build/express.js",
     "import": "npm run build && node build/import.js",
     "dedup": "npm run build && node build/deduplicateLineNames.js",
