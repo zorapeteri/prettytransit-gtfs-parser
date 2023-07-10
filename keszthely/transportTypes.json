@@ -1,0 +1,20 @@
+{
+  "bus": {
+    "name": "Bus",
+    "agency_id": "21",
+    "route_type": "3",
+    "colors": {
+      "bg": "#009EE3",
+      "fg": "#FFFFFF"
+    }
+  },
+  "longdistancebus": {
+    "name": "Long-distance bus",
+    "agency_id": "21",
+    "route_type": "202",
+    "colors": {
+      "bg": "#F7BB04",
+      "fg": "#000000"
+    }
+  }
+}
