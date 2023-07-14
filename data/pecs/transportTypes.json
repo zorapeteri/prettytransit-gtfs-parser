@@ -1,0 +1,10 @@
+{
+  "bus": {
+    "name": "Bus",
+    "route_type": "3",
+    "colors": {
+      "bg": "#2AA11A",
+      "fg": "#FFFFFF"
+    }
+  }
+}
