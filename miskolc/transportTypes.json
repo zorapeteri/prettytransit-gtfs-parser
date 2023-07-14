@@ -1,0 +1,18 @@
+{
+  "bus": {
+    "name": "Bus",
+    "route_type": "3",
+    "colors": {
+      "bg": "#2FA81A",
+      "fg": "#FFFFFF"
+    }
+  },
+  "tram": {
+    "name": "Tram",
+    "route_type": "0",
+    "colors": {
+      "bg": "#2FA81A",
+      "fg": "#FFFFFF"
+    }
+  }
+}

@@ -8,408 +8,468 @@
         "type": "LineString",
         "coordinates": [
           [
-            16.531273,
-            47.23938
+            20.784332,
+            48.1283
           ],
           [
-            16.531804,
-            47.23952
+            20.784117,
+            48.12824
           ],
           [
-            16.532546,
-            47.239641
+            20.784023,
+            48.128193
           ],
           [
-            16.533793,
-            47.239789
+            20.783777,
+            48.128003
           ],
           [
-            16.534988,
-            47.239858
+            20.784102,
+            48.127378
           ],
           [
-            16.535321,
-            47.239905
+            20.784665,
+            48.12633
           ],
           [
-            16.535901,
-            47.240022
+            20.784896,
+            48.125958
           ],
           [
-            16.537806,
-            47.240474
+            20.785401,
+            48.125004
           ],
           [
-            16.538125,
-            47.240571
+            20.786634,
+            48.12262
           ],
           [
-            16.538899,
-            47.24085
+            20.788239,
+            48.119598
           ],
           [
-            16.540201,
-            47.241254
+            20.789789,
+            48.116614
           ],
           [
-            16.542074,
-            47.2418
+            20.789904,
+            48.116245
           ],
           [
-            16.542978,
-            47.242086
+            20.789944,
+            48.115981
           ],
           [
-            16.546626,
-            47.243035
+            20.78993,
+            48.11561
           ],
           [
-            16.546994,
-            47.243106
+            20.789899,
+            48.115436
           ],
           [
-            16.547666,
-            47.243191
+            20.789816,
+            48.115138
           ],
           [
-            16.548098,
-            47.243184
+            20.789411,
+            48.114012
           ],
           [
-            16.548824,
-            47.24309
+            20.788285,
+            48.110996
           ],
           [
-            16.549076,
-            47.243059
+            20.78768,
+            48.109403
           ],
           [
-            16.549422,
-            47.243044
+            20.787488,
+            48.109016
           ],
           [
-            16.549872,
-            47.243055
+            20.787203,
+            48.108576
           ],
           [
-            16.550191,
-            47.243084
+            20.786252,
+            48.107426
           ],
           [
-            16.555503,
-            47.243705
+            20.7861,
+            48.107084
           ],
           [
-            16.556004,
-            47.243817
+            20.785752,
+            48.106267
           ],
           [
-            16.556177,
-            47.243874
+            20.785497,
+            48.105202
           ],
           [
-            16.556389,
-            47.243969
+            20.785452,
+            48.104943
           ],
           [
-            16.55673,
-            47.244177
+            20.785398,
+            48.104535
           ],
           [
-            16.557264,
-            47.244558
+            20.78539,
+            48.104208
           ],
           [
-            16.557545,
-            47.244732
+            20.78549,
+            48.102444
           ],
           [
-            16.557923,
-            47.244909
+            20.785534,
+            48.102013
           ],
           [
-            16.558677,
-            47.245177
+            20.785548,
+            48.101875
           ],
           [
-            16.55903,
-            47.245279
+            20.785533,
+            48.101794
           ],
           [
-            16.559598,
-            47.245402
+            20.785302,
+            48.100923
           ],
           [
-            16.559986,
-            47.245457
+            20.785177,
+            48.100342
           ],
           [
-            16.56056,
-            47.245501
+            20.785109,
+            48.099712
           ],
           [
-            16.561091,
-            47.245494
+            20.785084,
+            48.099119
           ],
           [
-            16.563243,
-            47.245344
+            20.785146,
+            48.098881
           ],
           [
-            16.563623,
-            47.245312
+            20.785382,
+            48.098213
           ],
           [
-            16.564142,
-            47.245237
+            20.78544,
+            48.097943
           ],
           [
-            16.564683,
-            47.245119
+            20.785439,
+            48.097776
           ],
           [
-            16.565257,
-            47.245019
+            20.785496,
+            48.09751
           ],
           [
-            16.565769,
-            47.244994
+            20.785693,
+            48.097005
           ],
           [
-            16.566032,
-            47.245008
+            20.785734,
+            48.096656
           ],
           [
-            16.566353,
-            47.245053
+            20.785732,
+            48.095961
           ],
           [
-            16.567138,
-            47.245233
+            20.785655,
+            48.094126
           ],
           [
-            16.567879,
-            47.24538
+            20.785667,
+            48.093817
           ],
           [
-            16.570222,
-            47.245796
+            20.785885,
+            48.091675
           ],
           [
-            16.570241,
-            47.245743
+            20.785916,
+            48.090961
           ],
           [
-            16.570312,
-            47.245667
+            20.785836,
+            48.090037
           ],
           [
-            16.570367,
-            47.245638
+            20.785604,
+            48.087989
           ],
           [
-            16.570509,
-            47.245622
+            20.785519,
+            48.085929
           ],
           [
-            16.570632,
-            47.245647
+            20.785445,
+            48.085084
           ],
           [
-            16.57068,
-            47.245675
+            20.785338,
+            48.083935
           ],
           [
-            16.570742,
-            47.24575
+            20.785305,
+            48.083817
           ],
           [
-            16.570756,
-            47.245818
+            20.78531,
+            48.083643
           ],
           [
-            16.571923,
-            47.245802
+            20.785223,
+            48.082337
           ],
           [
-            16.572751,
-            47.245815
+            20.785195,
+            48.082094
           ],
           [
-            16.574223,
-            47.245924
+            20.785104,
+            48.081669
           ],
           [
-            16.575492,
-            47.245981
+            20.784667,
+            48.080736
           ],
           [
-            16.576433,
-            47.245987
+            20.783926,
+            48.078364
           ],
           [
-            16.576849,
-            47.24599
+            20.783454,
+            48.077388
           ],
           [
-            16.579026,
-            47.246084
+            20.783227,
+            48.076961
           ],
           [
-            16.580193,
-            47.246158
+            20.782971,
+            48.07659
           ],
           [
-            16.581116,
-            47.246246
+            20.782383,
+            48.075899
           ],
           [
-            16.5818,
-            47.246238
+            20.782203,
+            48.075708
           ],
           [
-            16.582209,
-            47.246209
+            20.7819,
+            48.07543
           ],
           [
-            16.582859,
-            47.246133
+            20.781399,
+            48.075071
           ],
           [
-            16.583241,
-            47.246065
+            20.780965,
+            48.074821
           ],
           [
-            16.584626,
-            47.245695
+            20.780633,
+            48.07468
           ],
           [
-            16.585194,
-            47.245498
+            20.779797,
+            48.074492
           ],
           [
-            16.585167,
-            47.245445
+            20.779345,
+            48.074426
           ],
           [
-            16.58517,
-            47.245389
+            20.779196,
+            48.074444
           ],
           [
-            16.585226,
-            47.245313
+            20.779153,
+            48.074464
           ],
           [
-            16.585347,
-            47.245268
+            20.779026,
+            48.074556
           ],
           [
-            16.585426,
-            47.245264
+            20.778965,
+            48.074704
           ],
           [
-            16.585527,
-            47.245288
+            20.778859,
+            48.074841
           ],
           [
-            16.585708,
-            47.245127
+            20.778347,
+            48.075276
           ],
           [
-            16.585942,
-            47.244988
+            20.778238,
+            48.075463
           ],
           [
-            16.587519,
-            47.244174
+            20.778221,
+            48.075646
           ],
           [
-            16.58803,
-            47.243799
+            20.778291,
+            48.075922
           ],
           [
-            16.588335,
-            47.243521
+            20.778694,
+            48.076412
           ],
           [
-            16.589264,
-            47.242672
+            20.778835,
+            48.076701
           ],
           [
-            16.589716,
-            47.242288
+            20.778886,
+            48.076909
           ],
           [
-            16.590692,
-            47.241528
+            20.778878,
+            48.077116
           ],
           [
-            16.591985,
-            47.240629
+            20.778629,
+            48.078675
           ],
           [
-            16.592916,
-            47.24007
+            20.778334,
+            48.080296
           ],
           [
-            16.593415,
-            47.239825
+            20.778087,
+            48.082006
           ],
           [
-            16.59389,
-            47.239614
+            20.77789,
+            48.083166
           ],
           [
-            16.594417,
-            47.239496
+            20.777815,
+            48.083347
           ],
           [
-            16.594819,
-            47.239449
+            20.777639,
+            48.083568
           ],
           [
-            16.595186,
-            47.239444
+            20.777552,
+            48.083648
           ],
           [
-            16.599088,
-            47.239767
+            20.777386,
+            48.083757
           ],
           [
-            16.59966,
-            47.239784
+            20.77545,
+            48.084705
           ],
           [
-            16.600148,
-            47.239766
+            20.775136,
+            48.08487
           ],
           [
-            16.600856,
-            47.239714
+            20.774873,
+            48.085061
           ],
           [
-            16.601348,
-            47.239632
+            20.774681,
+            48.085258
           ],
           [
-            16.601958,
-            47.239497
+            20.774513,
+            48.085487
           ],
           [
-            16.602959,
-            47.239197
+            20.774451,
+            48.085608
           ],
           [
-            16.60451,
-            47.238625
+            20.774327,
+            48.085979
           ],
           [
-            16.604936,
-            47.238431
+            20.774011,
+            48.087995
           ],
           [
-            16.615745,
-            47.232837
+            20.773514,
+            48.091336
+          ],
+          [
+            20.773428,
+            48.091607
+          ],
+          [
+            20.773309,
+            48.091863
+          ],
+          [
+            20.773071,
+            48.092184
+          ],
+          [
+            20.77283,
+            48.092401
+          ],
+          [
+            20.772686,
+            48.092505
+          ],
+          [
+            20.772402,
+            48.092676
+          ],
+          [
+            20.772157,
+            48.092778
+          ],
+          [
+            20.771994,
+            48.09287
+          ],
+          [
+            20.771939,
+            48.092917
+          ],
+          [
+            20.771802,
+            48.093099
+          ],
+          [
+            20.771652,
+            48.094018
+          ],
+          [
+            20.771535,
+            48.094719
+          ],
+          [
+            20.771345,
+            48.096149
+          ],
+          [
+            20.771274,
+            48.096567
+          ],
+          [
+            20.771205,
+            48.096713
           ]
         ]
       }
@@ -420,14 +480,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 0,
-        "name": "Torony, Flórián tér",
+        "name": "Repülőtér/BOSCH",
         "coordIndex": 0
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.531273,
-          47.23938
+          20.784332,
+          48.1283
         ]
       }
     },
@@ -437,14 +497,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 1,
-        "name": "Torony, autóbusz-váróterem",
-        "coordIndex": 10
+        "name": "Napsugár otthon",
+        "coordIndex": 7
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.540201,
-          47.241254
+          20.785401,
+          48.125004
         ]
       }
     },
@@ -454,14 +514,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 2,
-        "name": "Sé, Kölcsey utca",
-        "coordIndex": 17
+        "name": "Megyei Kórház",
+        "coordIndex": 9
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.548824,
-          47.24309
+          20.788239,
+          48.119598
         ]
       }
     },
@@ -471,14 +531,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 3,
-        "name": "Sé, autóbusz-váróterem",
-        "coordIndex": 22
+        "name": "Levente vezér utca",
+        "coordIndex": 16
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.555503,
-          47.243705
+          20.789411,
+          48.114012
         ]
       }
     },
@@ -488,14 +548,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 4,
-        "name": "Szombathely, Órásház",
-        "coordIndex": 99
+        "name": "Álmos utca",
+        "coordIndex": 17
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.604936,
-          47.238431
+          20.788285,
+          48.110996
         ]
       }
     },
@@ -505,14 +565,269 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 5,
-        "name": "Szombathely, autóbusz-állomás",
+        "name": "Petőfi tér",
+        "coordIndex": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.786252,
+          48.107426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 6,
+        "name": "Hősök tere",
+        "coordIndex": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.785497,
+          48.105202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 7,
+        "name": "Villanyrendőr",
+        "coordIndex": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78549,
+          48.102444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 8,
+        "name": "Népkert",
+        "coordIndex": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.785732,
+          48.095961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 9,
+        "name": "SZTK Rendelő",
+        "coordIndex": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.785836,
+          48.090037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 10,
+        "name": "Petneházy bérházak",
+        "coordIndex": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.785445,
+          48.085084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 11,
+        "name": "Tapolcai elágazás",
+        "coordIndex": 55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.785223,
+          48.082337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 12,
+        "name": "Vasúti felüljáró",
+        "coordIndex": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.783454,
+          48.077388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 13,
+        "name": "Szentgyörgy út",
+        "coordIndex": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.779797,
+          48.074492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 14,
+        "name": "Sályi István utca",
+        "coordIndex": 84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.778629,
+          48.078675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 15,
+        "name": "Avas városközpont",
+        "coordIndex": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.778087,
+          48.082006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 16,
+        "name": "Ifjúság útja",
+        "coordIndex": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.77545,
+          48.084705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 17,
+        "name": "Mednyánszky utca",
+        "coordIndex": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.774011,
+          48.087995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 18,
+        "name": "Hajós Alfréd utca",
         "coordIndex": 100
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.615745,
-          47.232837
+          20.773514,
+          48.091336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 19,
+        "name": "Leszih Andor utca",
+        "coordIndex": 111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.771652,
+          48.094018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0088",
+        "marker-size": "small",
+        "index": 20,
+        "name": "Avas kilátó",
+        "coordIndex": 114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.771274,
+          48.096567
         ]
       }
     },
@@ -522,13 +837,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 0,
-        "name": "Torony, Flórián tér"
+        "name": "Repülőtér/BOSCH"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.531269,
-          47.239385
+          20.78432,
+          48.128322
         ]
       }
     },
@@ -538,13 +853,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 1,
-        "name": "Torony, autóbusz-váróterem"
+        "name": "Napsugár otthon"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.540189,
-          47.241273
+          20.785336,
+          48.124988
         ]
       }
     },
@@ -554,13 +869,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 2,
-        "name": "Sé, Kölcsey utca"
+        "name": "Megyei Kórház"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.548824,
-          47.243088
+          20.788164,
+          48.11958
         ]
       }
     },
@@ -570,13 +885,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 3,
-        "name": "Sé, autóbusz-váróterem"
+        "name": "Levente vezér utca"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.555499,
-          47.243718
+          20.789315,
+          48.114028
         ]
       }
     },
@@ -586,13 +901,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 4,
-        "name": "Szombathely, Órásház"
+        "name": "Álmos utca"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.605425,
-          47.238149
+          20.788222,
+          48.111006
         ]
       }
     },
@@ -602,13 +917,253 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 5,
-        "name": "Szombathely, autóbusz-állomás"
+        "name": "Petőfi tér"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.615745,
-          47.232837
+          20.786001,
+          48.107103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 6,
+        "name": "Hősök tere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.785392,
+          48.104947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 7,
+        "name": "Villanyrendőr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.785445,
+          48.102008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 8,
+        "name": "Népkert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78563,
+          48.095961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 9,
+        "name": "SZTK Rendelő"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.785732,
+          48.090042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 10,
+        "name": "Petneházy bérházak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.785331,
+          48.085088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 11,
+        "name": "Tapolcai elágazás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.785115,
+          48.082341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 12,
+        "name": "Vasúti felüljáró"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.783403,
+          48.077399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 13,
+        "name": "Szentgyörgy út"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.779784,
+          48.074522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 14,
+        "name": "Sályi István utca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.778696,
+          48.078679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 15,
+        "name": "Avas városközpont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.778156,
+          48.082011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 16,
+        "name": "Ifjúság útja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.775467,
+          48.08472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 17,
+        "name": "Mednyánszky utca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.774093,
+          48.088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 18,
+        "name": "Hajós Alfréd utca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.773584,
+          48.09134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 19,
+        "name": "Leszih Andor utca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.771713,
+          48.094022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "small",
+        "index": 20,
+        "name": "Avas kilátó"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.771267,
+          48.096734
         ]
       }
     }
