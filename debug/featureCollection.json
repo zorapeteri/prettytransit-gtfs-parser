@@ -8,468 +8,312 @@
         "type": "LineString",
         "coordinates": [
           [
-            20.784332,
-            48.1283
+            20.460826,
+            44.816265
           ],
           [
-            20.784117,
-            48.12824
+            20.4611,
+            44.816019
           ],
           [
-            20.784023,
-            48.128193
+            20.46145,
+            44.815809
           ],
           [
-            20.783777,
-            48.128003
+            20.462336,
+            44.815705
           ],
           [
-            20.784102,
-            48.127378
+            20.46235,
+            44.815512
           ],
           [
-            20.784665,
-            48.12633
+            20.462589,
+            44.81491
           ],
           [
-            20.784896,
-            48.125958
+            20.462584,
+            44.814784
           ],
           [
-            20.785401,
-            48.125004
+            20.462554,
+            44.814685
           ],
           [
-            20.786634,
-            48.12262
+            20.462416,
+            44.814513
           ],
           [
-            20.788239,
-            48.119598
+            20.462221,
+            44.814431
           ],
           [
-            20.789789,
-            48.116614
+            20.462019,
+            44.814385
           ],
           [
-            20.789904,
-            48.116245
+            20.460169,
+            44.814151
           ],
           [
-            20.789944,
-            48.115981
+            20.459562,
+            44.814117
           ],
           [
-            20.78993,
-            48.11561
+            20.45888,
+            44.814109
           ],
           [
-            20.789899,
-            48.115436
+            20.458266,
+            44.814129
           ],
           [
-            20.789816,
-            48.115138
+            20.457804,
+            44.814194
           ],
           [
-            20.789411,
-            48.114012
+            20.455689,
+            44.814639
           ],
           [
-            20.788285,
-            48.110996
+            20.453371,
+            44.815098
           ],
           [
-            20.78768,
-            48.109403
+            20.453099,
+            44.815126
           ],
           [
-            20.787488,
-            48.109016
+            20.452444,
+            44.815138
           ],
           [
-            20.787203,
-            48.108576
+            20.452204,
+            44.815124
           ],
           [
-            20.786252,
-            48.107426
+            20.451714,
+            44.815128
           ],
           [
-            20.7861,
-            48.107084
+            20.440638,
+            44.814557
           ],
           [
-            20.785752,
-            48.106267
+            20.438919,
+            44.814432
           ],
           [
-            20.785497,
-            48.105202
+            20.437491,
+            44.814407
           ],
           [
-            20.785452,
-            48.104943
+            20.436757,
+            44.814466
           ],
           [
-            20.785398,
-            48.104535
+            20.436035,
+            44.814562
           ],
           [
-            20.78539,
-            48.104208
+            20.43532,
+            44.814689
           ],
           [
-            20.78549,
-            48.102444
+            20.434655,
+            44.814834
           ],
           [
-            20.785534,
-            48.102013
+            20.434033,
+            44.81502
           ],
           [
-            20.785548,
-            48.101875
+            20.432091,
+            44.815784
           ],
           [
-            20.785533,
-            48.101794
+            20.422934,
+            44.819919
           ],
           [
-            20.785302,
-            48.100923
+            20.415389,
+            44.8233
           ],
           [
-            20.785177,
-            48.100342
+            20.414849,
+            44.82359
           ],
           [
-            20.785109,
-            48.099712
+            20.414524,
+            44.823786
           ],
           [
-            20.785084,
-            48.099119
+            20.414155,
+            44.824037
           ],
           [
-            20.785146,
-            48.098881
+            20.413581,
+            44.824556
           ],
           [
-            20.785382,
-            48.098213
+            20.413454,
+            44.8246
           ],
           [
-            20.78544,
-            48.097943
+            20.41329,
+            44.824608
           ],
           [
-            20.785439,
-            48.097776
+            20.413163,
+            44.824594
           ],
           [
-            20.785496,
-            48.09751
+            20.413056,
+            44.824557
           ],
           [
-            20.785693,
-            48.097005
+            20.412993,
+            44.824512
           ],
           [
-            20.785734,
-            48.096656
+            20.412957,
+            44.824372
           ],
           [
-            20.785732,
-            48.095961
+            20.412964,
+            44.824278
           ],
           [
-            20.785655,
-            48.094126
+            20.412877,
+            44.824116
           ],
           [
-            20.785667,
-            48.093817
+            20.412372,
+            44.82346
           ],
           [
-            20.785885,
-            48.091675
+            20.411734,
+            44.822715
           ],
           [
-            20.785916,
-            48.090961
+            20.400001,
+            44.809699
           ],
           [
-            20.785836,
-            48.090037
+            20.399479,
+            44.808904
           ],
           [
-            20.785604,
-            48.087989
+            20.399244,
+            44.808318
           ],
           [
-            20.785519,
-            48.085929
+            20.399037,
+            44.807561
           ],
           [
-            20.785445,
-            48.085084
+            20.398992,
+            44.807075
           ],
           [
-            20.785338,
-            48.083935
+            20.399242,
+            44.804907
           ],
           [
-            20.785305,
-            48.083817
+            20.399117,
+            44.804745
           ],
           [
-            20.78531,
-            48.083643
+            20.398828,
+            44.804608
           ],
           [
-            20.785223,
-            48.082337
+            20.396275,
+            44.804496
           ],
           [
-            20.785195,
-            48.082094
+            20.393863,
+            44.804303
           ],
           [
-            20.785104,
-            48.081669
+            20.390479,
+            44.803898
           ],
           [
-            20.784667,
-            48.080736
+            20.387905,
+            44.803471
           ],
           [
-            20.783926,
-            48.078364
+            20.386189,
+            44.803128
           ],
           [
-            20.783454,
-            48.077388
+            20.384411,
+            44.802723
           ],
           [
-            20.783227,
-            48.076961
+            20.382646,
+            44.802272
           ],
           [
-            20.782971,
-            48.07659
+            20.380958,
+            44.801795
           ],
           [
-            20.782383,
-            48.075899
+            20.378438,
+            44.80099
           ],
           [
-            20.782203,
-            48.075708
+            20.376071,
+            44.800095
           ],
           [
-            20.7819,
-            48.07543
+            20.373492,
+            44.799001
           ],
           [
-            20.781399,
-            48.075071
+            20.371304,
+            44.797909
           ],
           [
-            20.780965,
-            48.074821
+            20.371192,
+            44.797809
           ],
           [
-            20.780633,
-            48.07468
+            20.372229,
+            44.796519
           ],
           [
-            20.779797,
-            48.074492
+            20.372344,
+            44.796466
           ],
           [
-            20.779345,
-            48.074426
+            20.375305,
+            44.79263
           ],
           [
-            20.779196,
-            48.074444
+            20.375281,
+            44.792522
           ],
           [
-            20.779153,
-            48.074464
+            20.375345,
+            44.792387
           ],
           [
-            20.779026,
-            48.074556
+            20.375487,
+            44.792181
           ],
           [
-            20.778965,
-            48.074704
+            20.375664,
+            44.792173
           ],
           [
-            20.778859,
-            48.074841
+            20.3757,
+            44.792281
           ],
           [
-            20.778347,
-            48.075276
-          ],
-          [
-            20.778238,
-            48.075463
-          ],
-          [
-            20.778221,
-            48.075646
-          ],
-          [
-            20.778291,
-            48.075922
-          ],
-          [
-            20.778694,
-            48.076412
-          ],
-          [
-            20.778835,
-            48.076701
-          ],
-          [
-            20.778886,
-            48.076909
-          ],
-          [
-            20.778878,
-            48.077116
-          ],
-          [
-            20.778629,
-            48.078675
-          ],
-          [
-            20.778334,
-            48.080296
-          ],
-          [
-            20.778087,
-            48.082006
-          ],
-          [
-            20.77789,
-            48.083166
-          ],
-          [
-            20.777815,
-            48.083347
-          ],
-          [
-            20.777639,
-            48.083568
-          ],
-          [
-            20.777552,
-            48.083648
-          ],
-          [
-            20.777386,
-            48.083757
-          ],
-          [
-            20.77545,
-            48.084705
-          ],
-          [
-            20.775136,
-            48.08487
-          ],
-          [
-            20.774873,
-            48.085061
-          ],
-          [
-            20.774681,
-            48.085258
-          ],
-          [
-            20.774513,
-            48.085487
-          ],
-          [
-            20.774451,
-            48.085608
-          ],
-          [
-            20.774327,
-            48.085979
-          ],
-          [
-            20.774011,
-            48.087995
-          ],
-          [
-            20.773514,
-            48.091336
-          ],
-          [
-            20.773428,
-            48.091607
-          ],
-          [
-            20.773309,
-            48.091863
-          ],
-          [
-            20.773071,
-            48.092184
-          ],
-          [
-            20.77283,
-            48.092401
-          ],
-          [
-            20.772686,
-            48.092505
-          ],
-          [
-            20.772402,
-            48.092676
-          ],
-          [
-            20.772157,
-            48.092778
-          ],
-          [
-            20.771994,
-            48.09287
-          ],
-          [
-            20.771939,
-            48.092917
-          ],
-          [
-            20.771802,
-            48.093099
-          ],
-          [
-            20.771652,
-            48.094018
-          ],
-          [
-            20.771535,
-            48.094719
-          ],
-          [
-            20.771345,
-            48.096149
-          ],
-          [
-            20.771274,
-            48.096567
-          ],
-          [
-            20.771205,
-            48.096713
+            20.375495,
+            44.792559
           ]
         ]
       }
@@ -480,14 +324,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 0,
-        "name": "Repülőtér/BOSCH",
+        "name": "Trg Republike",
         "coordIndex": 0
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.784332,
-          48.1283
+          20.460826,
+          44.816265
         ]
       }
     },
@@ -497,14 +341,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 1,
-        "name": "Napsugár otthon",
-        "coordIndex": 7
+        "name": "Zeleni Venac",
+        "coordIndex": 15
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.785401,
-          48.125004
+          20.457804,
+          44.814194
         ]
       }
     },
@@ -514,14 +358,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 2,
-        "name": "Megyei Kórház",
-        "coordIndex": 9
+        "name": "Brankov Most",
+        "coordIndex": 19
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.788239,
-          48.119598
+          20.452444,
+          44.815138
         ]
       }
     },
@@ -531,14 +375,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 3,
-        "name": "Levente vezér utca",
-        "coordIndex": 16
+        "name": "Šest Kaplara",
+        "coordIndex": 29
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.789411,
-          48.114012
+          20.434033,
+          44.81502
         ]
       }
     },
@@ -548,14 +392,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 4,
-        "name": "Álmos utca",
-        "coordIndex": 17
+        "name": "Palata Srbija",
+        "coordIndex": 30
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.788285,
-          48.110996
+          20.432091,
+          44.815784
         ]
       }
     },
@@ -565,14 +409,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 5,
-        "name": "Petőfi tér",
-        "coordIndex": 21
+        "name": "Španskih Boraca",
+        "coordIndex": 31
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.786252,
-          48.107426
+          20.422934,
+          44.819919
         ]
       }
     },
@@ -582,14 +426,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 6,
-        "name": "Hősök tere",
-        "coordIndex": 24
+        "name": "Blok 30",
+        "coordIndex": 32
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.785497,
-          48.105202
+          20.415389,
+          44.8233
         ]
       }
     },
@@ -599,14 +443,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 7,
-        "name": "Villanyrendőr",
-        "coordIndex": 28
+        "name": "Go Novi Beograd",
+        "coordIndex": 45
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.78549,
-          48.102444
+          20.412372,
+          44.82346
         ]
       }
     },
@@ -616,14 +460,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 8,
-        "name": "Népkert",
-        "coordIndex": 43
+        "name": "Bulevar Zorana Đinđića",
+        "coordIndex": 46
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.785732,
-          48.095961
+          20.411734,
+          44.822715
         ]
       }
     },
@@ -633,14 +477,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 9,
-        "name": "SZTK Rendelő",
-        "coordIndex": 48
+        "name": "Milutina Milankovića",
+        "coordIndex": 47
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.785836,
-          48.090037
+          20.400001,
+          44.809699
         ]
       }
     },
@@ -650,14 +494,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 10,
-        "name": "Petneházy bérházak",
-        "coordIndex": 51
+        "name": "Erport Siti",
+        "coordIndex": 47
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.785445,
-          48.085084
+          20.400001,
+          44.809699
         ]
       }
     },
@@ -667,14 +511,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 11,
-        "name": "Tapolcai elágazás",
-        "coordIndex": 55
+        "name": "Tehnička Škola Novi Beograd",
+        "coordIndex": 49
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.785223,
-          48.082337
+          20.399244,
+          44.808318
         ]
       }
     },
@@ -684,14 +528,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 12,
-        "name": "Vasúti felüljáró",
-        "coordIndex": 60
+        "name": "Omladinskih Brigada",
+        "coordIndex": 52
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.783454,
-          48.077388
+          20.399242,
+          44.804907
         ]
       }
     },
@@ -701,14 +545,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 13,
-        "name": "Szentgyörgy út",
-        "coordIndex": 69
+        "name": "Blok 70",
+        "coordIndex": 56
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.779797,
-          48.074492
+          20.393863,
+          44.804303
         ]
       }
     },
@@ -718,14 +562,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 14,
-        "name": "Sályi István utca",
-        "coordIndex": 84
+        "name": "Gandijeva",
+        "coordIndex": 59
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.778629,
-          48.078675
+          20.386189,
+          44.803128
         ]
       }
     },
@@ -735,14 +579,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 15,
-        "name": "Avas városközpont",
-        "coordIndex": 86
+        "name": "Nehruova",
+        "coordIndex": 62
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.778087,
-          48.082006
+          20.380958,
+          44.801795
         ]
       }
     },
@@ -752,14 +596,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 16,
-        "name": "Ifjúság útja",
-        "coordIndex": 92
+        "name": "Oš Branko Radičević",
+        "coordIndex": 64
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.77545,
-          48.084705
+          20.376071,
+          44.800095
         ]
       }
     },
@@ -769,14 +613,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 17,
-        "name": "Mednyánszky utca",
-        "coordIndex": 99
+        "name": "Dr Ivana Ribara 1",
+        "coordIndex": 68
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.774011,
-          48.087995
+          20.372229,
+          44.796519
         ]
       }
     },
@@ -786,48 +630,14 @@
         "marker-color": "#FF0088",
         "marker-size": "small",
         "index": 18,
-        "name": "Hajós Alfréd utca",
-        "coordIndex": 100
+        "name": "Blok 45",
+        "coordIndex": 70
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.773514,
-          48.091336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0088",
-        "marker-size": "small",
-        "index": 19,
-        "name": "Leszih Andor utca",
-        "coordIndex": 111
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.771652,
-          48.094018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#FF0088",
-        "marker-size": "small",
-        "index": 20,
-        "name": "Avas kilátó",
-        "coordIndex": 114
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.771274,
-          48.096567
+          20.375305,
+          44.79263
         ]
       }
     },
@@ -837,13 +647,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 0,
-        "name": "Repülőtér/BOSCH"
+        "name": "Trg Republike"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.78432,
-          48.128322
+          20.461645,
+          44.815746
         ]
       }
     },
@@ -853,13 +663,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 1,
-        "name": "Napsugár otthon"
+        "name": "Zeleni Venac"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.785336,
-          48.124988
+          20.4568568,
+          44.8145445
         ]
       }
     },
@@ -869,13 +679,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 2,
-        "name": "Megyei Kórház"
+        "name": "Brankov Most"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.788164,
-          48.11958
+          20.4520847,
+          44.8152343
         ]
       }
     },
@@ -885,13 +695,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 3,
-        "name": "Levente vezér utca"
+        "name": "Šest Kaplara"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.789315,
-          48.114028
+          20.4334052,
+          44.8153352
         ]
       }
     },
@@ -901,13 +711,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 4,
-        "name": "Álmos utca"
+        "name": "Palata Srbija"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.788222,
-          48.111006
+          20.4295846,
+          44.8170229
         ]
       }
     },
@@ -917,13 +727,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 5,
-        "name": "Petőfi tér"
+        "name": "Španskih Boraca"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.786001,
-          48.107103
+          20.4233328,
+          44.8198273
         ]
       }
     },
@@ -933,13 +743,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 6,
-        "name": "Hősök tere"
+        "name": "Blok 30"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.785392,
-          48.104947
+          20.4165033,
+          44.8228957
         ]
       }
     },
@@ -949,13 +759,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 7,
-        "name": "Villanyrendőr"
+        "name": "Go Novi Beograd"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.785445,
-          48.102008
+          20.4121917,
+          44.8233978
         ]
       }
     },
@@ -965,13 +775,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 8,
-        "name": "Népkert"
+        "name": "Bulevar Zorana Đinđića"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.78563,
-          48.095961
+          20.4094923,
+          44.8203822
         ]
       }
     },
@@ -981,13 +791,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 9,
-        "name": "SZTK Rendelő"
+        "name": "Milutina Milankovića"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.785732,
-          48.090042
+          20.4055677,
+          44.816068
         ]
       }
     },
@@ -997,13 +807,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 10,
-        "name": "Petneházy bérházak"
+        "name": "Erport Siti"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.785331,
-          48.085088
+          20.4011323,
+          44.811176
         ]
       }
     },
@@ -1013,13 +823,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 11,
-        "name": "Tapolcai elágazás"
+        "name": "Tehnička Škola Novi Beograd"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.785115,
-          48.082341
+          20.3990389,
+          44.8081435
         ]
       }
     },
@@ -1029,13 +839,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 12,
-        "name": "Vasúti felüljáró"
+        "name": "Omladinskih Brigada"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.783403,
-          48.077399
+          20.3980832,
+          44.8046832
         ]
       }
     },
@@ -1045,13 +855,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 13,
-        "name": "Szentgyörgy út"
+        "name": "Blok 70"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.779784,
-          48.074522
+          20.3935657,
+          44.8043798
         ]
       }
     },
@@ -1061,13 +871,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 14,
-        "name": "Sályi István utca"
+        "name": "Gandijeva"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.778696,
-          48.078679
+          20.3866705,
+          44.8033198
         ]
       }
     },
@@ -1077,13 +887,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 15,
-        "name": "Avas városközpont"
+        "name": "Nehruova"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.778156,
-          48.082011
+          20.3796797,
+          44.8014933
         ]
       }
     },
@@ -1093,13 +903,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 16,
-        "name": "Ifjúság útja"
+        "name": "Oš Branko Radičević"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.775467,
-          48.08472
+          20.3749094,
+          44.7997329
         ]
       }
     },
@@ -1109,13 +919,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 17,
-        "name": "Mednyánszky utca"
+        "name": "Dr Ivana Ribara 1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.774093,
-          48.088
+          20.3720194,
+          44.7967108
         ]
       }
     },
@@ -1125,45 +935,13 @@
         "marker-color": "#0000FF",
         "marker-size": "small",
         "index": 18,
-        "name": "Hajós Alfréd utca"
+        "name": "Blok 45"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.773584,
-          48.09134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "marker-size": "small",
-        "index": 19,
-        "name": "Leszih Andor utca"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.771713,
-          48.094022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#0000FF",
-        "marker-size": "small",
-        "index": 20,
-        "name": "Avas kilátó"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.771267,
-          48.096734
+          20.375171,
+          44.792767
         ]
       }
     }

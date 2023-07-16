@@ -1,0 +1,42 @@
+{
+  "metro": {
+    "agency_id": "1",
+    "route_type": "1",
+    "colors": {
+      "bg": "#0000FF",
+      "fg": "#FFFFFF"
+    }
+  },
+  "tram": {
+    "agency_id": "1",
+    "route_type": "0",
+    "colors": {
+      "bg": "#00FF00",
+      "fg": "#FFFFFF"
+    }
+  },
+  "funicular": {
+    "agency_id": "1",
+    "route_type": "7",
+    "colors": {
+      "bg": "#FF0000",
+      "fg": "#FFFFFF"
+    }
+  },
+  "trolleybus": {
+    "agency_id": "1",
+    "route_type": "11",
+    "colors": {
+      "bg": "#FF00FF",
+      "fg": "#FFFFFF"
+    }
+  },
+  "bus": {
+    "agency_id": "1",
+    "route_type": "3",
+    "colors": {
+      "bg": "#FFFF00",
+      "fg": "#FFFFFF"
+    }
+  }
+}

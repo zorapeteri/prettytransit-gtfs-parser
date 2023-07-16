@@ -5,11 +5,10 @@
       "id": "00002",
       "name": "2",
       "colors": {
-        "bg": "#EE1E23",
-        "fg": "#FFFFFF"
+        "bg": "#FFB4A3",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "2"
+      "transportType": "tram"
     },
     "origin": "Pristanište",
     "destination": "Pristanište",
@@ -1194,11 +1193,10 @@
       "id": "00002",
       "name": "2",
       "colors": {
-        "bg": "#EE1E23",
-        "fg": "#FFFFFF"
+        "bg": "#FFB4A3",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "2"
+      "transportType": "tram"
     },
     "origin": "Pristanište",
     "destination": "Pristanište",
@@ -2423,11 +2421,10 @@
       "id": "00005",
       "name": "5",
       "colors": {
-        "bg": "#F8B5B9",
-        "fg": "#231F20"
+        "bg": "#01A0B0",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "5"
+      "transportType": "tram"
     },
     "origin": "Tadeuša Košćuška",
     "destination": "Ustanička",
@@ -3615,11 +3612,10 @@
       "id": "00005",
       "name": "5",
       "colors": {
-        "bg": "#F8B5B9",
-        "fg": "#231F20"
+        "bg": "#01A0B0",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "5"
+      "transportType": "tram"
     },
     "origin": "Ustanička",
     "destination": "Kalemegdan (Donji Grad)",
@@ -4822,11 +4818,10 @@
       "id": "00006",
       "name": "6",
       "colors": {
-        "bg": "#F8B5B9",
-        "fg": "#231F20"
+        "bg": "#E7D3D3",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "6"
+      "transportType": "tram"
     },
     "origin": "Ustanička",
     "destination": "Tašmajdan /Park/",
@@ -5542,11 +5537,10 @@
       "id": "00006",
       "name": "6",
       "colors": {
-        "bg": "#F8B5B9",
-        "fg": "#231F20"
+        "bg": "#E7D3D3",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "6"
+      "transportType": "tram"
     },
     "origin": "Tašmajdan /Park/",
     "destination": "Ustanička",
@@ -6253,11 +6247,10 @@
       "id": "00007",
       "name": "7",
       "colors": {
-        "bg": "#EE1E23",
-        "fg": "#FFFFFF"
+        "bg": "#FE4A49",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "7"
+      "transportType": "tram"
     },
     "origin": "Blok 45",
     "destination": "Ustanička",
@@ -8006,11 +7999,10 @@
       "id": "00007",
       "name": "7",
       "colors": {
-        "bg": "#EE1E23",
-        "fg": "#FFFFFF"
+        "bg": "#FE4A49",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "7"
+      "transportType": "tram"
     },
     "origin": "Ustanička",
     "destination": "Blok 45",
@@ -9767,11 +9759,10 @@
       "id": "00009",
       "name": "9",
       "colors": {
-        "bg": "#EE1E23",
-        "fg": "#FFFFFF"
+        "bg": "#FF3377",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Banjica",
     "destination": "Blok 45",
@@ -11602,11 +11593,10 @@
       "id": "00009",
       "name": "9",
       "colors": {
-        "bg": "#EE1E23",
-        "fg": "#FFFFFF"
+        "bg": "#FF3377",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Blok 45",
     "destination": "Banjica",
@@ -13446,11 +13436,10 @@
       "id": "00010",
       "name": "10",
       "colors": {
-        "bg": "#F8B5B9",
-        "fg": "#231F20"
+        "bg": "#34A79C",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "10"
+      "transportType": "tram"
     },
     "origin": "Tadeuša Košćuška",
     "destination": "Banjica",
@@ -14655,11 +14644,10 @@
       "id": "00010",
       "name": "10",
       "colors": {
-        "bg": "#F8B5B9",
-        "fg": "#231F20"
+        "bg": "#34A79C",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "10"
+      "transportType": "tram"
     },
     "origin": "Banjica",
     "destination": "Kalemegdan (Donji Grad)",
@@ -15888,11 +15876,10 @@
       "id": "00011",
       "name": "11",
       "colors": {
-        "bg": "#F8B5B9",
-        "fg": "#231F20"
+        "bg": "#0E9AA7",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "11"
+      "transportType": "tram"
     },
     "origin": "Blok 45",
     "destination": "Kalemegdan (Donji Grad)",
@@ -17174,11 +17161,10 @@
       "id": "00011",
       "name": "11",
       "colors": {
-        "bg": "#F8B5B9",
-        "fg": "#231F20"
+        "bg": "#0E9AA7",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "11"
+      "transportType": "tram"
     },
     "origin": "Tadeuša Košćuška",
     "destination": "Blok 45",
@@ -18410,8 +18396,7 @@
         "bg": "#EE1E23",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "12"
+      "transportType": "tram"
     },
     "origin": "Omladinski Stadion",
     "destination": "Banovo Brdo Ok",
@@ -19753,8 +19738,7 @@
         "bg": "#EE1E23",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "12"
+      "transportType": "tram"
     },
     "origin": "Banovo Brdo",
     "destination": "Omladinski Stadion",
@@ -21049,11 +21033,10 @@
       "id": "10013",
       "name": "13",
       "colors": {
-        "bg": "#F8B5B9",
-        "fg": "#231F20"
+        "bg": "#A8DADC",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "13"
+      "transportType": "tram"
     },
     "origin": "Banovo Brdo",
     "destination": "Blok 45",
@@ -22407,11 +22390,10 @@
       "id": "10013",
       "name": "13",
       "colors": {
-        "bg": "#F8B5B9",
-        "fg": "#231F20"
+        "bg": "#A8DADC",
+        "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "13"
+      "transportType": "tram"
     },
     "origin": "Blok 45",
     "destination": "Banovo Brdo Ok",
@@ -23779,8 +23761,7 @@
         "bg": "#F8B5B9",
         "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "14"
+      "transportType": "tram"
     },
     "origin": "Banjica",
     "destination": "Ustanička",
@@ -25008,8 +24989,7 @@
         "bg": "#F8B5B9",
         "fg": "#231F20"
       },
-      "transportType": "tram",
-      "route_name": "14"
+      "transportType": "tram"
     },
     "origin": "Ustanička",
     "destination": "Banjica",
