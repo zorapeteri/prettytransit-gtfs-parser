@@ -5,11 +5,10 @@
       "id": "00019",
       "name": "19",
       "colors": {
-        "bg": "#FCB814",
-        "fg": "#231F20"
+        "bg": "#F37737",
+        "fg": "#000000"
       },
-      "transportType": "trolleybus",
-      "route_name": "19"
+      "transportType": "trolleybus"
     },
     "origin": "Konjarnik",
     "destination": "Trg Slavija",
@@ -728,11 +727,10 @@
       "id": "00019",
       "name": "19",
       "colors": {
-        "bg": "#FCB814",
-        "fg": "#231F20"
+        "bg": "#F37737",
+        "fg": "#000000"
       },
-      "transportType": "trolleybus",
-      "route_name": "19"
+      "transportType": "trolleybus"
     },
     "origin": "Trg Slavija",
     "destination": "Konjarnik",
@@ -1479,11 +1477,10 @@
       "id": "00022",
       "name": "22",
       "colors": {
-        "bg": "#FCB814",
-        "fg": "#231F20"
+        "bg": "#4B7C59",
+        "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus",
-      "route_name": "22"
+      "transportType": "trolleybus"
     },
     "origin": "Kruševačka",
     "destination": "Trg Slavija",
@@ -2527,11 +2524,10 @@
       "id": "00022",
       "name": "22",
       "colors": {
-        "bg": "#FCB814",
-        "fg": "#231F20"
+        "bg": "#4B7C59",
+        "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus",
-      "route_name": "22"
+      "transportType": "trolleybus"
     },
     "origin": "Trg Slavija",
     "destination": "Kruševačka",
@@ -3575,11 +3571,10 @@
       "id": "00028",
       "name": "28",
       "colors": {
-        "bg": "#FCB814",
-        "fg": "#231F20"
+        "bg": "#EAD2AC",
+        "fg": "#000000"
       },
-      "transportType": "trolleybus",
-      "route_name": "28"
+      "transportType": "trolleybus"
     },
     "origin": "Zvezdara",
     "destination": "Studentski Trg",
@@ -4839,11 +4834,10 @@
       "id": "00028",
       "name": "28",
       "colors": {
-        "bg": "#FCB814",
-        "fg": "#231F20"
+        "bg": "#EAD2AC",
+        "fg": "#000000"
       },
-      "transportType": "trolleybus",
-      "route_name": "28"
+      "transportType": "trolleybus"
     },
     "origin": "Studentski Trg",
     "destination": "Zvezdara",
@@ -6075,11 +6069,10 @@
       "id": "00029",
       "name": "29",
       "colors": {
-        "bg": "#FCB814",
-        "fg": "#231F20"
+        "bg": "#FFD3B6",
+        "fg": "#000000"
       },
-      "transportType": "trolleybus",
-      "route_name": "29"
+      "transportType": "trolleybus"
     },
     "origin": "Medaković 3",
     "destination": "Studentski Trg",
@@ -8363,11 +8356,10 @@
       "id": "00029",
       "name": "29",
       "colors": {
-        "bg": "#FCB814",
-        "fg": "#231F20"
+        "bg": "#FFD3B6",
+        "fg": "#000000"
       },
-      "transportType": "trolleybus",
-      "route_name": "29"
+      "transportType": "trolleybus"
     },
     "origin": "Studentski Trg",
     "destination": "Medaković 3",
@@ -10651,11 +10643,10 @@
       "id": "00040",
       "name": "40",
       "colors": {
-        "bg": "#FCB814",
-        "fg": "#231F20"
+        "bg": "#FF6F68",
+        "fg": "#000000"
       },
-      "transportType": "trolleybus",
-      "route_name": "40"
+      "transportType": "trolleybus"
     },
     "origin": "Banjica 2",
     "destination": "Zvezdara",
@@ -12286,11 +12277,10 @@
       "id": "00040",
       "name": "40",
       "colors": {
-        "bg": "#FCB814",
-        "fg": "#231F20"
+        "bg": "#FF6F68",
+        "fg": "#000000"
       },
-      "transportType": "trolleybus",
-      "route_name": "40"
+      "transportType": "trolleybus"
     },
     "origin": "Zvezdara",
     "destination": "Banjica 2",
@@ -13882,11 +13872,10 @@
       "id": "00041",
       "name": "41",
       "colors": {
-        "bg": "#FCB814",
-        "fg": "#231F20"
+        "bg": "#FAF3DD",
+        "fg": "#000000"
       },
-      "transportType": "trolleybus",
-      "route_name": "41"
+      "transportType": "trolleybus"
     },
     "origin": "Studentski Trg",
     "destination": "Banjica 2",
@@ -15862,11 +15851,10 @@
       "id": "00041",
       "name": "41",
       "colors": {
-        "bg": "#FCB814",
-        "fg": "#231F20"
+        "bg": "#FAF3DD",
+        "fg": "#000000"
       },
-      "transportType": "trolleybus",
-      "route_name": "41"
+      "transportType": "trolleybus"
     },
     "origin": "Banjica 2",
     "destination": "Studentski Trg",

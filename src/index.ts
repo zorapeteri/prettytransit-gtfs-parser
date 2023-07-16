@@ -21,6 +21,7 @@ import checkTransportType from './helpers/checkTransportType.js'
 import {
   DayOfTheWeek,
   Line,
+  LinesCollection,
   Track,
   TransportTypes,
   daysOfTheWeek,
@@ -33,6 +34,7 @@ import { getConfig } from './helpers/getConfig.js'
 import { Day, isBefore, isSameDay, nextDay, parse } from 'date-fns'
 import { getForegroundColor } from './helpers/getForegroundColor.js'
 import { mapStopsToTrack } from './helpers/mapStopsToTrack.js'
+import diversifyColors from './helpers/diversifyColors.js'
 
 const [city, transportType] = process.argv.slice(2)
 
@@ -313,7 +315,7 @@ Object.values(_.groupBy(tracks, (track) => track.route.id)).forEach(
   }
 )
 
-const lines = _.groupBy(sortTracks(tracks), (track) => track.route.name)
+let lines = _.groupBy(sortTracks(tracks), (track) => track.route.name)
 
 console.log(`${Object.keys(lines).length} lines`)
 
@@ -352,7 +354,7 @@ process.stdout.clearLine(0)
 process.stdout.cursorTo(0)
 process.stdout.write(`checking for unique paths: 100%`)
 
-save('tracks', { [transportType]: tracks })
+lines = _.cloneDeep(lines)
 
 const stopsCombined = (track: Track) =>
   track.stops.map((stop) => stop.name).join(',')
@@ -401,6 +403,10 @@ Object.keys(lines).forEach((key) => {
 })
 
 console.log('')
+
+diversifyColors(lines as unknown as LinesCollection, tracks, transportTypes)
+
+save('tracks', { [transportType]: tracks })
 save('lines', { [transportType]: lines })
 
 closeDb(db)
