@@ -22,6 +22,7 @@ Once the code has finished running, the `data` folder should be populated with t
         /tracks
             /[transportType].json
         /cityFeatureCollection.geojson
+        /citySvgPath.txt
         /colors.json
         /info.md
         /routeTypeMap.json
@@ -33,6 +34,7 @@ Once the code has finished running, the `data` folder should be populated with t
 where
 
 - `cityFeatureCollection.geojson` is a GeoJSON FeatureCollection of a single Feature of type LineString, that draws the administrative bounds of the given city
+- `citySvgPath.txt` is an SVG path definition for a simplified version of the city's polygon in OpenStreetMap
 - `colors.json` is a list of color-overrides for transit routes where the GTFS data is either insufficient or inaccurate
 - `info.md` is just a markdown file for the info panel
 - `routeTypeMap.json` maps the `route_type`-s in the city's GTFS feed to types defined in [the GTFS Reference](https://gtfs.org/schedule/reference/#routestxt) extended with `109 Suburban Railway` from [Google's Extended GTFS Route Types](https://developers.google.com/transit/gtfs/reference/extended-route-types)
