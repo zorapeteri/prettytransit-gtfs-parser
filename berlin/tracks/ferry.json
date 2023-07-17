@@ -5,11 +5,10 @@
       "id": "17429_1000",
       "name": "F10",
       "colors": {
-        "bg": "#0080BA",
-        "fg": "#FFFFFF"
+        "bg": "#84C1FF",
+        "fg": "#000000"
       },
-      "transportType": "ferry",
-      "route_name": "F10"
+      "transportType": "ferry"
     },
     "origin": "S Wannsee Bhf (Berlin)",
     "destination": "Alt-Kladow (Berlin)",
@@ -186,11 +185,10 @@
       "id": "17429_1000",
       "name": "F10",
       "colors": {
-        "bg": "#0080BA",
-        "fg": "#FFFFFF"
+        "bg": "#84C1FF",
+        "fg": "#000000"
       },
-      "transportType": "ferry",
-      "route_name": "F10"
+      "transportType": "ferry"
     },
     "origin": "Alt-Kladow (Berlin)",
     "destination": "S Wannsee Bhf (Berlin)",
@@ -366,11 +364,10 @@
       "id": "17430_1000",
       "name": "F11",
       "colors": {
-        "bg": "#0080BA",
-        "fg": "#FFFFFF"
+        "bg": "#64A1F4",
+        "fg": "#000000"
       },
-      "transportType": "ferry",
-      "route_name": "F11"
+      "transportType": "ferry"
     },
     "origin": "Wilhelmstrand (Berlin)",
     "destination": "Berlin, Baumschulenstr./Fähre",
@@ -786,11 +783,10 @@
       "id": "17430_1000",
       "name": "F11",
       "colors": {
-        "bg": "#0080BA",
-        "fg": "#FFFFFF"
+        "bg": "#64A1F4",
+        "fg": "#000000"
       },
-      "transportType": "ferry",
-      "route_name": "F11"
+      "transportType": "ferry"
     },
     "origin": "Berlin, Baumschulenstr./Fähre",
     "destination": "Wilhelmstrand (Berlin)",
@@ -1206,11 +1202,10 @@
       "id": "17431_1000",
       "name": "F12",
       "colors": {
-        "bg": "#0080BA",
-        "fg": "#FFFFFF"
+        "bg": "#E63A46",
+        "fg": "#000000"
       },
-      "transportType": "ferry",
-      "route_name": "F12"
+      "transportType": "ferry"
     },
     "origin": "Müggelbergallee (Berlin)",
     "destination": "Berlin, Wassersportallee",
@@ -1683,11 +1678,10 @@
       "id": "17431_1000",
       "name": "F12",
       "colors": {
-        "bg": "#0080BA",
-        "fg": "#FFFFFF"
+        "bg": "#E63A46",
+        "fg": "#000000"
       },
-      "transportType": "ferry",
-      "route_name": "F12"
+      "transportType": "ferry"
     },
     "origin": "Berlin, Wassersportallee",
     "destination": "Müggelbergallee (Berlin)",
@@ -2162,11 +2156,10 @@
       "id": "17432_1000",
       "name": "F21",
       "colors": {
-        "bg": "#0080BA",
-        "fg": "#FFFFFF"
+        "bg": "#F0E4E4",
+        "fg": "#000000"
       },
-      "transportType": "ferry",
-      "route_name": "F21"
+      "transportType": "ferry"
     },
     "origin": "Berlin, Zum Seeblick",
     "destination": "Krampenburg (Berlin)",
@@ -2357,11 +2350,10 @@
       "id": "17432_1000",
       "name": "F21",
       "colors": {
-        "bg": "#0080BA",
-        "fg": "#FFFFFF"
+        "bg": "#F0E4E4",
+        "fg": "#000000"
       },
-      "transportType": "ferry",
-      "route_name": "F21"
+      "transportType": "ferry"
     },
     "origin": "Krampenburg (Berlin)",
     "destination": "Berlin, Zum Seeblick",
@@ -2551,11 +2543,10 @@
       "id": "17433_1000",
       "name": "F23",
       "colors": {
-        "bg": "#0080BA",
-        "fg": "#FFFFFF"
+        "bg": "#03C39A",
+        "fg": "#000000"
       },
-      "transportType": "ferry",
-      "route_name": "F23"
+      "transportType": "ferry"
     },
     "origin": "Kruggasse (Berlin)",
     "destination": "Müggelwerderweg (Berlin)",
@@ -2828,11 +2819,10 @@
       "id": "17433_1000",
       "name": "F23",
       "colors": {
-        "bg": "#0080BA",
-        "fg": "#FFFFFF"
+        "bg": "#03C39A",
+        "fg": "#000000"
       },
-      "transportType": "ferry",
-      "route_name": "F23"
+      "transportType": "ferry"
     },
     "origin": "Müggelwerderweg (Berlin)",
     "destination": "Kruggasse (Berlin)",

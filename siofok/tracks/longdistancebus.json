@@ -5,7 +5,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -1836,7 +1836,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -3883,7 +3883,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -5869,7 +5869,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -8240,7 +8240,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -10141,7 +10141,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -12420,7 +12420,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -13015,7 +13015,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -13609,7 +13609,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -14737,7 +14737,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -16174,7 +16174,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -17314,7 +17314,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -18260,7 +18260,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -19190,7 +19190,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -20453,7 +20453,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -21307,7 +21307,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -21927,7 +21927,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -22694,7 +22694,7 @@
       "id": "1765",
       "name": "6008",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -23952,8 +23952,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -25405,8 +25405,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -26543,8 +26543,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -27645,8 +27645,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -29110,8 +29110,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -29946,8 +29946,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -30762,8 +30762,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -31736,8 +31736,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -32574,8 +32574,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -33360,8 +33360,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -34642,8 +34642,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -35769,8 +35769,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -36908,8 +36908,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -38148,8 +38148,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -39382,8 +39382,8 @@
       "id": "1767",
       "name": "6010",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -40983,7 +40983,7 @@
       "id": "1774",
       "name": "6040",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#8874A3",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -42990,7 +42990,7 @@
       "id": "1774",
       "name": "6040",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#8874A3",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -44924,7 +44924,7 @@
       "id": "1774",
       "name": "6040",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#8874A3",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -46249,7 +46249,7 @@
       "id": "1774",
       "name": "6040",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#8874A3",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -47467,7 +47467,7 @@
       "id": "1774",
       "name": "6040",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#8874A3",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -48617,7 +48617,7 @@
       "id": "1774",
       "name": "6040",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#8874A3",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -50431,7 +50431,7 @@
       "id": "1774",
       "name": "6040",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#8874A3",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -51767,7 +51767,7 @@
       "id": "1774",
       "name": "6040",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#8874A3",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -53049,7 +53049,7 @@
       "id": "1774",
       "name": "6040",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#8874A3",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -54755,7 +54755,7 @@
       "id": "12987",
       "name": "7324",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#34A79C",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -55457,7 +55457,7 @@
       "id": "12987",
       "name": "7324",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#34A79C",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -56143,7 +56143,7 @@
       "id": "12987",
       "name": "7324",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#34A79C",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -58454,7 +58454,7 @@
       "id": "12987",
       "name": "7324",
       "colors": {
-        "bg": "#F7BB04",
+        "bg": "#34A79C",
         "fg": "#000000"
       },
       "transportType": "longdistancebus"
@@ -60842,8 +60842,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -61833,8 +61833,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -62895,8 +62895,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -64306,8 +64306,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -65721,8 +65721,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -67533,8 +67533,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -68985,8 +68985,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -69520,8 +69520,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -70207,8 +70207,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -70509,8 +70509,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -70678,8 +70678,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -70851,8 +70851,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -71478,8 +71478,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -72001,8 +72001,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -72327,8 +72327,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -73600,8 +73600,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },
@@ -74808,8 +74808,8 @@
       "id": "2503",
       "name": "8325",
       "colors": {
-        "bg": "#F7BB04",
-        "fg": "#000000"
+        "bg": "#03396C",
+        "fg": "#FFFFFF"
       },
       "transportType": "longdistancebus"
     },

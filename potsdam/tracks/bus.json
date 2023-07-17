@@ -5,11 +5,10 @@
       "id": "15273_700",
       "name": "603",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FEC3A6",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "603"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Höhenstr.",
     "destination": "Potsdam, Platz der Einheit/West",
@@ -836,11 +835,10 @@
       "id": "15273_700",
       "name": "603",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FEC3A6",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "603"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Höhenstr.",
     "destination": "S Potsdam Hauptbahnhof",
@@ -1727,11 +1725,10 @@
       "id": "15273_700",
       "name": "603",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FEC3A6",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "603"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Platz der Einheit/West",
     "destination": "Potsdam, Höhenstr.",
@@ -2530,11 +2527,10 @@
       "id": "15273_700",
       "name": "603",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FEC3A6",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "603"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Höhenstr.",
@@ -3393,11 +3389,10 @@
       "id": "15274_700",
       "name": "605",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#6D6875",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "605"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Science Park West",
     "destination": "Potsdam, Luisenplatz-Süd/Park Sanssouci",
@@ -5085,11 +5080,10 @@
       "id": "15274_700",
       "name": "605",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#6D6875",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "605"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Science Park West",
     "destination": "S Potsdam Hauptbahnhof",
@@ -7429,11 +7423,10 @@
       "id": "15274_700",
       "name": "605",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#6D6875",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "605"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Golm Bhf",
     "destination": "S Potsdam Hauptbahnhof",
@@ -9350,11 +9343,10 @@
       "id": "15274_700",
       "name": "605",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#6D6875",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "605"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Science Park West",
     "destination": "Potsdam, Charlottenhof Bhf",
@@ -10848,11 +10840,10 @@
       "id": "15274_700",
       "name": "605",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#6D6875",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "605"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Luisenplatz-Süd/Park Sanssouci",
     "destination": "Potsdam, Science Park West",
@@ -12560,11 +12551,10 @@
       "id": "15274_700",
       "name": "605",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#6D6875",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "605"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Science Park West",
@@ -14871,11 +14861,10 @@
       "id": "15274_700",
       "name": "605",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#6D6875",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "605"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Schloss Charlottenhof",
     "destination": "Potsdam, Science Park West",
@@ -16237,11 +16226,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Satzkorn",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -17755,11 +17743,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Paaren",
     "destination": "Potsdam, Am Schragen",
@@ -20887,11 +20874,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Am Upstall",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -21775,11 +21761,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Kirche Kartzow",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -23522,11 +23507,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Marquardt Bhf",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -25299,11 +25283,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Kirche Kartzow",
@@ -27008,11 +26991,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Am Upstall",
@@ -27896,11 +27878,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Satzkorn",
@@ -29308,11 +29289,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Kirche Kartzow",
     "destination": "S Potsdam Hauptbahnhof",
@@ -31684,11 +31664,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Am Upstall",
     "destination": "S Potsdam Hauptbahnhof",
@@ -33219,11 +33198,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Paaren",
     "destination": "Potsdam, Schule Fahrland",
@@ -34378,11 +34356,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Am Upstall",
     "destination": "Potsdam, Platz der Einheit/West",
@@ -35649,11 +35626,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Marquardt Bhf",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -36998,11 +36974,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Schule Fahrland",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -38257,11 +38232,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Paaren",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -40631,11 +40605,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Marquardt Bhf",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -42638,11 +42611,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Schule Marquardt",
@@ -44933,11 +44905,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Satzkorn",
@@ -46602,11 +46573,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Paaren",
@@ -49387,11 +49357,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Schule Fahrland",
     "destination": "Potsdam, Paaren",
@@ -50987,11 +50956,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Marquardt Bhf",
@@ -52301,11 +52269,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Marquardt Bhf",
@@ -54335,11 +54302,10 @@
       "id": "15276_700",
       "name": "609",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "609"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Marquardt Bhf",
@@ -56145,11 +56111,10 @@
       "id": "15959_700",
       "name": "612",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FFC8C1",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "612"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Schlänitzseer Weg",
     "destination": "Potsdam, Campus Fachhochschule",
@@ -57309,11 +57274,10 @@
       "id": "16915_700",
       "name": "616",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#F0E4E4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "616"
+      "transportType": "bus"
     },
     "origin": "S Babelsberg/Schulstr.",
     "destination": "S Griebnitzsee Bhf",
@@ -58473,11 +58437,10 @@
       "id": "16915_700",
       "name": "616",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#F0E4E4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "616"
+      "transportType": "bus"
     },
     "origin": "S Griebnitzsee Bhf",
     "destination": "S Babelsberg/Schulstr.",
@@ -59638,11 +59601,10 @@
       "id": "15277_700",
       "name": "638",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#4282A4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "638"
+      "transportType": "bus"
     },
     "origin": "S+U Rathaus Spandau (Berlin)",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -61515,11 +61477,10 @@
       "id": "15277_700",
       "name": "638",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#4282A4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "638"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Kirche Groß Glienicke",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -62443,11 +62404,10 @@
       "id": "15277_700",
       "name": "638",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#4282A4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "638"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "S+U Rathaus Spandau (Berlin)",
@@ -64956,11 +64916,10 @@
       "id": "15277_700",
       "name": "638",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#4282A4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "638"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "S+U Rathaus Spandau (Berlin)",
@@ -66793,11 +66752,10 @@
       "id": "15277_700",
       "name": "638",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#4282A4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "638"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Waldsiedlung Groß Glienicke",
@@ -68309,11 +68267,10 @@
       "id": "15277_700",
       "name": "638",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#4282A4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "638"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Birkenweg",
@@ -69325,11 +69282,10 @@
       "id": "15277_700",
       "name": "638",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#4282A4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "638"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Kirche Groß Glienicke",
     "destination": "S Potsdam Hauptbahnhof",
@@ -70936,11 +70892,10 @@
       "id": "15277_700",
       "name": "638",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#4282A4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "638"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Am Park",
     "destination": "S Potsdam Hauptbahnhof",
@@ -72587,11 +72542,10 @@
       "id": "15277_700",
       "name": "638",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#4282A4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "638"
+      "transportType": "bus"
     },
     "origin": "S+U Rathaus Spandau (Berlin)",
     "destination": "S Potsdam Hauptbahnhof",
@@ -74896,11 +74850,10 @@
       "id": "15277_700",
       "name": "638",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#4282A4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "638"
+      "transportType": "bus"
     },
     "origin": "S+U Rathaus Spandau (Berlin)",
     "destination": "Potsdam, Reiterweg/Jägerallee",
@@ -76924,11 +76877,10 @@
       "id": "15278_700",
       "name": "639",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#03C39A",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "639"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Am Park",
     "destination": "Potsdam, Waldsiedlung Groß Glienicke",
@@ -77185,11 +77137,10 @@
       "id": "15278_700",
       "name": "639",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#03C39A",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "639"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Waldsiedlung Groß Glienicke",
     "destination": "Potsdam, Am Park",
@@ -77436,11 +77387,10 @@
       "id": "15278_700",
       "name": "639",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#03C39A",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "639"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Waldsiedlung Groß Glienicke",
     "destination": "Potsdam, Am Anger",
@@ -77790,11 +77740,10 @@
       "id": "7361_700",
       "name": "690",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#E6B89C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "690"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Johannes-Kepler-Platz",
@@ -79698,11 +79647,10 @@
       "id": "7361_700",
       "name": "690",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#E6B89C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "690"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Rathaus Babelsberg",
     "destination": "Potsdam, Johannes-Kepler-Platz",
@@ -80837,11 +80785,10 @@
       "id": "7361_700",
       "name": "690",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#E6B89C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "690"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Johannes-Kepler-Platz",
     "destination": "S Potsdam Hauptbahnhof",
@@ -82394,11 +82341,10 @@
       "id": "5631_700",
       "name": "691",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF5688",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "691"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Telegrafenberg",
@@ -82928,11 +82874,10 @@
       "id": "5631_700",
       "name": "691",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF5688",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "691"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Telegrafenberg",
     "destination": "S Potsdam Hauptbahnhof",
@@ -83495,11 +83440,10 @@
       "id": "1546_700",
       "name": "692",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FAF3DD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "692"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Weißer See",
     "destination": "Potsdam, Klinikum",
@@ -85175,11 +85119,10 @@
       "id": "1546_700",
       "name": "692",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FAF3DD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "692"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Institut für Agrartechnik",
     "destination": "Potsdam, Klinikum",
@@ -86799,11 +86742,10 @@
       "id": "1546_700",
       "name": "692",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FAF3DD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "692"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Klinikum",
     "destination": "Potsdam, Institut für Agrartechnik",
@@ -88544,11 +88486,10 @@
       "id": "1546_700",
       "name": "692",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FAF3DD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "692"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Kirschallee",
     "destination": "Potsdam, Institut für Agrartechnik",
@@ -89194,11 +89135,10 @@
       "id": "1546_700",
       "name": "692",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FAF3DD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "692"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Klinikum",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -91287,11 +91227,10 @@
       "id": "1546_700",
       "name": "692",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FAF3DD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "692"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Klinikum",
     "destination": "Potsdam, Campus Jungfernsee",
@@ -93224,11 +93163,10 @@
       "id": "1546_700",
       "name": "692",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FAF3DD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "692"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Klinikum",
@@ -95200,11 +95138,10 @@
       "id": "1546_700",
       "name": "692",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FAF3DD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "692"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Jungfernsee",
     "destination": "Potsdam, Klinikum",
@@ -97007,11 +96944,10 @@
       "id": "1547_700",
       "name": "693",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#34A79C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "693"
+      "transportType": "bus"
     },
     "origin": "S Babelsberg/Lutherplatz",
     "destination": "Potsdam, Rehbrücke Bhf",
@@ -98200,11 +98136,10 @@
       "id": "1547_700",
       "name": "693",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#34A79C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "693"
+      "transportType": "bus"
     },
     "origin": "S Babelsberg/Schulstr.",
     "destination": "Potsdam, Rehbrücke Bhf",
@@ -99004,11 +98939,10 @@
       "id": "1547_700",
       "name": "693",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#34A79C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "693"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Rehbrücke Bhf",
     "destination": "S Babelsberg/Schulstr.",
@@ -99824,11 +99758,10 @@
       "id": "1547_700",
       "name": "693",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#34A79C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "693"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Rehbrücke Bhf",
     "destination": "S Babelsberg/Lutherplatz",
@@ -101013,11 +100946,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Küsselstr.",
     "destination": "Potsdam, Stern-Center/Gerlachstr.",
@@ -103670,11 +103602,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Hoffbauer-Stiftung",
     "destination": "S Potsdam Hauptbahnhof",
@@ -104258,11 +104189,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "S Griebnitzsee Bhf",
     "destination": "Potsdam, Konrad-Wolf-Allee/Sternstr.",
@@ -105501,11 +105431,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Küsselstr.",
     "destination": "Potsdam, Stern-Center/Gerlachstr.",
@@ -108359,11 +108288,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Küsselstr.",
     "destination": "S Babelsberg/Schulstr.",
@@ -109496,11 +109424,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "S Griebnitzsee Bhf",
     "destination": "Potsdam, Stern-Center/Gerlachstr.",
@@ -110871,11 +110798,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "S Babelsberg/Schulstr.",
@@ -111433,11 +111359,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Gerlachstr.",
     "destination": "Potsdam, Stern-Center/Gerlachstr.",
@@ -111567,11 +111492,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "S Griebnitzsee Bhf",
     "destination": "Potsdam, Stern-Center/Gerlachstr.",
@@ -112513,11 +112437,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Rathaus Babelsberg",
     "destination": "Potsdam, Stern-Center/Gerlachstr.",
@@ -113897,11 +113820,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Stern-Center/Gerlachstr.",
@@ -115729,11 +115651,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Stern-Center/Gerlachstr.",
     "destination": "Potsdam, Küsselstr.",
@@ -118760,11 +118681,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "S Babelsberg/Schulstr.",
     "destination": "Potsdam, Hoffbauer-Stiftung",
@@ -119792,11 +119712,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "S Babelsberg/Schulstr.",
     "destination": "S Potsdam Hauptbahnhof",
@@ -120370,11 +120289,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "S Babelsberg/Schulstr.",
     "destination": "Potsdam, Küsselstr.",
@@ -121541,11 +121459,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Johannes-Kepler-Platz",
     "destination": "S Griebnitzsee Bhf",
@@ -122351,11 +122268,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Johannes-Kepler-Platz",
     "destination": "Potsdam, Rathaus Babelsberg",
@@ -123586,11 +123502,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Rathaus Babelsberg",
     "destination": "Potsdam, Küsselstr.",
@@ -124685,11 +124600,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Küsselstr.",
@@ -125336,11 +125250,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Hoffbauer-Stiftung",
@@ -125884,11 +125797,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Stern-Center/Gerlachstr.",
     "destination": "S Griebnitzsee Bhf",
@@ -127073,11 +126985,10 @@
       "id": "1548_700",
       "name": "694",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FF938D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "694"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Stern-Center/Gerlachstr.",
     "destination": "S Potsdam Hauptbahnhof",
@@ -129156,11 +129067,10 @@
       "id": "1549_700",
       "name": "695",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "695"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Alt-Golm",
     "destination": "S Potsdam Hauptbahnhof",
@@ -131636,11 +131546,10 @@
       "id": "1549_700",
       "name": "695",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "695"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Science Park West",
     "destination": "S Potsdam Hauptbahnhof",
@@ -133609,11 +133518,10 @@
       "id": "1549_700",
       "name": "695",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "695"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Alt-Golm",
@@ -136067,11 +135975,10 @@
       "id": "1549_700",
       "name": "695",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "695"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Schloss Sanssouci",
     "destination": "S Potsdam Hauptbahnhof",
@@ -136976,11 +136883,10 @@
       "id": "1549_700",
       "name": "695",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "695"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Science Park West",
@@ -138941,11 +138847,10 @@
       "id": "1549_700",
       "name": "695",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "695"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Schloss Sanssouci",
@@ -139805,11 +139710,10 @@
       "id": "1549_700",
       "name": "695",
       "colors": {
-        "bg": "#A5027D",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "695"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Brentanoweg",
@@ -140482,11 +140386,10 @@
       "id": "1550_700",
       "name": "696",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#3DA4AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "696"
+      "transportType": "bus"
     },
     "origin": "S Griebnitzsee Bhf",
     "destination": "Potsdam, Robert-Baberske-Str.",
@@ -141470,11 +141373,10 @@
       "id": "1550_700",
       "name": "696",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#3DA4AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "696"
+      "transportType": "bus"
     },
     "origin": "S Griebnitzsee Bhf",
     "destination": "Potsdam, Betriebshof ViP",
@@ -141834,11 +141736,10 @@
       "id": "1550_700",
       "name": "696",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#3DA4AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "696"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Abzweig Betriebshof ViP",
     "destination": "Potsdam, Robert-Baberske-Str.",
@@ -142234,11 +142135,10 @@
       "id": "1550_700",
       "name": "696",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#3DA4AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "696"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Robert-Baberske-Str.",
     "destination": "S Griebnitzsee Bhf",
@@ -143272,11 +143172,10 @@
       "id": "1551_700",
       "name": "697",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#63ACE5",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "697"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Am Schragen",
     "destination": "Gutspark Neukladow (Berlin)",
@@ -145179,11 +145078,10 @@
       "id": "4456_700",
       "name": "698",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#8FC0A9",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "698"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Kirche Golm",
     "destination": "Potsdam, Kirschallee",
@@ -146646,11 +146544,10 @@
       "id": "4456_700",
       "name": "698",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#8FC0A9",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "698"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Kirschallee",
     "destination": "Potsdam, Kirche Golm",
@@ -148140,11 +148037,10 @@
       "id": "4456_700",
       "name": "698",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#8FC0A9",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "698"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Science Park/Universität",
     "destination": "Potsdam, Kirschallee",
@@ -149247,11 +149143,10 @@
       "id": "4456_700",
       "name": "698",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#8FC0A9",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "698"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Kirschallee",
     "destination": "Potsdam, Science Park/Universität",
@@ -150411,11 +150306,10 @@
       "id": "5596_700",
       "name": "699",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#009688",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "699"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Rehbrücke Bhf",
     "destination": "Potsdam, Johannes-Kepler-Platz",
@@ -151723,11 +151617,10 @@
       "id": "5596_700",
       "name": "699",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#009688",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "699"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Johannes-Kepler-Platz",
     "destination": "Potsdam, Rehbrücke Bhf",
@@ -153061,11 +152954,10 @@
       "id": "5596_700",
       "name": "699",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#009688",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "699"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Rehbrücke Bhf",
     "destination": "Potsdam, Johannes-Kepler-Platz",
@@ -154175,11 +154067,10 @@
       "id": "5596_700",
       "name": "699",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#009688",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "699"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Johannes-Kepler-Platz",
     "destination": "Potsdam, Rehbrücke Bhf",
@@ -155305,11 +155196,10 @@
       "id": "11362_700",
       "name": "N14",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#88D8B0",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N14"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Johannes-Kepler-Platz",
     "destination": "S Potsdam Hauptbahnhof",
@@ -157611,11 +157501,10 @@
       "id": "11362_700",
       "name": "N14",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#88D8B0",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N14"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Rehbrücke Bhf",
     "destination": "S Potsdam Hauptbahnhof",
@@ -158798,11 +158687,10 @@
       "id": "11362_700",
       "name": "N14",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#88D8B0",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N14"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Science Park/Universität",
@@ -161136,11 +161024,10 @@
       "id": "11362_700",
       "name": "N14",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#88D8B0",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N14"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Johannes-Kepler-Platz",
     "destination": "Potsdam, Science Park/Universität",
@@ -165771,11 +165658,10 @@
       "id": "11362_700",
       "name": "N14",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#88D8B0",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N14"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Science Park/Universität",
     "destination": "S Potsdam Hauptbahnhof",
@@ -168065,11 +167951,10 @@
       "id": "11362_700",
       "name": "N14",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#88D8B0",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N14"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Science Park/Universität",
     "destination": "Potsdam, Johannes-Kepler-Platz",
@@ -172855,11 +172740,10 @@
       "id": "1552_700",
       "name": "N15",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FFCDB2",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N15"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Birkenweg",
@@ -174615,11 +174499,10 @@
       "id": "1552_700",
       "name": "N15",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FFCDB2",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N15"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Heinrich-Heine-Weg",
     "destination": "Potsdam, Am Upstall",
@@ -175231,11 +175114,10 @@
       "id": "1552_700",
       "name": "N15",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FFCDB2",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N15"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Birkenweg",
     "destination": "S Potsdam Hauptbahnhof",
@@ -176617,11 +176499,10 @@
       "id": "1552_700",
       "name": "N15",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FFCDB2",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N15"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Am Upstall",
     "destination": "Potsdam, Heinrich-Heine-Weg",
@@ -177230,11 +177111,10 @@
       "id": "16859_700",
       "name": "N16",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#F1F3BD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N16"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "S Wannsee Bhf (Berlin)",
@@ -178615,11 +178495,10 @@
       "id": "16859_700",
       "name": "N16",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#F1F3BD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N16"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "S Nikolassee (Berlin)",
@@ -180285,11 +180164,10 @@
       "id": "16859_700",
       "name": "N16",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#F1F3BD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N16"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Glienicker Brücke",
@@ -181092,11 +180970,10 @@
       "id": "16859_700",
       "name": "N16",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#F1F3BD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N16"
+      "transportType": "bus"
     },
     "origin": "S Nikolassee (Berlin)",
     "destination": "S Potsdam Hauptbahnhof",
@@ -182961,11 +182838,10 @@
       "id": "16859_700",
       "name": "N16",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#F1F3BD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N16"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Glienicker Brücke",
     "destination": "S Potsdam Hauptbahnhof",
@@ -183784,11 +183660,10 @@
       "id": "16859_700",
       "name": "N16",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#F1F3BD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N16"
+      "transportType": "bus"
     },
     "origin": "S Wannsee Bhf (Berlin)",
     "destination": "S Potsdam Hauptbahnhof",
@@ -185186,11 +185061,10 @@
       "id": "1554_700",
       "name": "N17",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FFC426",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N17"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Institut für Agrartechnik",
     "destination": "Potsdam, Johannes-Kepler-Platz",
@@ -188446,11 +188320,10 @@
       "id": "1554_700",
       "name": "N17",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FFC426",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N17"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Johannes-Kepler-Platz",
     "destination": "S Potsdam Hauptbahnhof",
@@ -190033,11 +189906,10 @@
       "id": "1554_700",
       "name": "N17",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FFC426",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N17"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Johannes-Kepler-Platz",
     "destination": "Potsdam, Platz der Einheit/West",
@@ -191876,11 +191748,10 @@
       "id": "1554_700",
       "name": "N17",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FFC426",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N17"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Johannes-Kepler-Platz",
     "destination": "Potsdam, Institut für Agrartechnik",
@@ -195258,11 +195129,10 @@
       "id": "1554_700",
       "name": "N17",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FFC426",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N17"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Institut für Agrartechnik",
@@ -197107,11 +196977,10 @@
       "id": "1554_700",
       "name": "N17",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FFC426",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N17"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Institut für Agrartechnik",
     "destination": "S Potsdam Hauptbahnhof",
@@ -198854,11 +198723,10 @@
       "id": "1554_700",
       "name": "N17",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FFC426",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N17"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Kirschallee",
     "destination": "S Potsdam Hauptbahnhof",
@@ -200065,11 +199933,10 @@
       "id": "1554_700",
       "name": "N17",
       "colors": {
-        "bg": "#A5027D",
-        "fg": "#FFFFFF"
+        "bg": "#FFC426",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N17"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Johannes-Kepler-Platz",
@@ -201618,8 +201485,7 @@
         "bg": "#A5027D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "X5"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Golm Bhf",
@@ -203384,8 +203250,7 @@
         "bg": "#A5027D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "X5"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Campus Universität/A.-Geiger-Kolleg",
@@ -204419,8 +204284,7 @@
         "bg": "#A5027D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "X5"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Campus Universität/A.-Geiger-Kolleg",
     "destination": "S Potsdam Hauptbahnhof",
@@ -205475,8 +205339,7 @@
         "bg": "#A5027D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "X5"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Golm Bhf",
     "destination": "S Potsdam Hauptbahnhof",
@@ -207262,8 +207125,7 @@
         "bg": "#A5027D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "X15"
+      "transportType": "bus"
     },
     "origin": "Potsdam, Schloss Sanssouci",
     "destination": "S Potsdam Hauptbahnhof",
@@ -208111,8 +207973,7 @@
         "bg": "#A5027D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "X15"
+      "transportType": "bus"
     },
     "origin": "S Potsdam Hauptbahnhof",
     "destination": "Potsdam, Schloss Sanssouci",

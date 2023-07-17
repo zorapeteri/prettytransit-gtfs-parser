@@ -5,11 +5,10 @@
       "id": "20008",
       "name": "20",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#E7D3D3",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "20"
+      "transportType": "bus"
     },
     "origin": "Opletalova, VW5",
     "destination": "Podvornice",
@@ -381,11 +380,10 @@
       "id": "20008",
       "name": "20",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#E7D3D3",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "20"
+      "transportType": "bus"
     },
     "origin": "Opletalova, VW5",
     "destination": "Tesco Lamač",
@@ -1252,11 +1250,10 @@
       "id": "20008",
       "name": "20",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#E7D3D3",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "20"
+      "transportType": "bus"
     },
     "origin": "Podvornice",
     "destination": "Opletalova, VW5",
@@ -1623,11 +1620,10 @@
       "id": "20008",
       "name": "20",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#E7D3D3",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "20"
+      "transportType": "bus"
     },
     "origin": "Tesco Lamač",
     "destination": "Opletalova, VW5",
@@ -2549,11 +2545,10 @@
       "id": "20008",
       "name": "20",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#E7D3D3",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "20"
+      "transportType": "bus"
     },
     "origin": "Opletalova, VW5",
     "destination": "Tesco Lamač",
@@ -3063,8 +3058,7 @@
         "bg": "#2A7E89",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "21"
+      "transportType": "bus"
     },
     "origin": "Autobusová stanica",
     "destination": "Volkswagen, VW2",
@@ -4153,8 +4147,7 @@
         "bg": "#2A7E89",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "21"
+      "transportType": "bus"
     },
     "origin": "Autobusová stanica",
     "destination": "Pri Sandbergu",
@@ -4978,8 +4971,7 @@
         "bg": "#2A7E89",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "21"
+      "transportType": "bus"
     },
     "origin": "Volkswagen, VW2",
     "destination": "Autobusová stanica",
@@ -6077,8 +6069,7 @@
         "bg": "#2A7E89",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "21"
+      "transportType": "bus"
     },
     "origin": "Pri Sandbergu",
     "destination": "Autobusová stanica",
@@ -6974,11 +6965,10 @@
       "id": "23006",
       "name": "23",
       "colors": {
-        "bg": "#898989",
+        "bg": "#031F4B",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "23"
+      "transportType": "bus"
     },
     "origin": "Lamač",
     "destination": "Mláka",
@@ -7456,11 +7446,10 @@
       "id": "23006",
       "name": "23",
       "colors": {
-        "bg": "#898989",
+        "bg": "#031F4B",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "23"
+      "transportType": "bus"
     },
     "origin": "Lamač",
     "destination": "Jána Jonáša, VW1",
@@ -7942,11 +7931,10 @@
       "id": "23006",
       "name": "23",
       "colors": {
-        "bg": "#898989",
+        "bg": "#031F4B",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "23"
+      "transportType": "bus"
     },
     "origin": "Lamač",
     "destination": "Pri kríži",
@@ -8197,11 +8185,10 @@
       "id": "23006",
       "name": "23",
       "colors": {
-        "bg": "#898989",
+        "bg": "#031F4B",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "23"
+      "transportType": "bus"
     },
     "origin": "Jána Jonáša, VW1",
     "destination": "Lamač",
@@ -8667,11 +8654,10 @@
       "id": "23006",
       "name": "23",
       "colors": {
-        "bg": "#898989",
+        "bg": "#031F4B",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "23"
+      "transportType": "bus"
     },
     "origin": "Mláka",
     "destination": "Lamač",
@@ -9133,11 +9119,10 @@
       "id": "25007",
       "name": "25",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF77AA",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "25"
+      "transportType": "bus"
     },
     "origin": "Jána Jonáša, VW1",
     "destination": "Autobusová stanica",
@@ -9389,11 +9374,10 @@
       "id": "25007",
       "name": "25",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF77AA",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "25"
+      "transportType": "bus"
     },
     "origin": "Volkswagen, VW2",
     "destination": "Autobusová stanica",
@@ -9597,11 +9581,10 @@
       "id": "25007",
       "name": "25",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF77AA",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "25"
+      "transportType": "bus"
     },
     "origin": "Autobusová stanica",
     "destination": "Volkswagen, VW2",
@@ -9805,11 +9788,10 @@
       "id": "25007",
       "name": "25",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF77AA",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "25"
+      "transportType": "bus"
     },
     "origin": "Autobusová stanica",
     "destination": "Jána Jonáša, VW1",
@@ -10061,11 +10043,10 @@
       "id": "26009",
       "name": "26",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#29B7CA",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "26"
+      "transportType": "bus"
     },
     "origin": "Volkswagen, VW2",
     "destination": "Pri kríži",
@@ -10269,11 +10250,10 @@
       "id": "26009",
       "name": "26",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#29B7CA",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "26"
+      "transportType": "bus"
     },
     "origin": "Jána Jonáša, VW1",
     "destination": "Pri kríži",
@@ -10525,11 +10505,10 @@
       "id": "26009",
       "name": "26",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#29B7CA",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "26"
+      "transportType": "bus"
     },
     "origin": "Pri kríži",
     "destination": "Volkswagen, VW2",
@@ -10733,11 +10712,10 @@
       "id": "26009",
       "name": "26",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#29B7CA",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "26"
+      "transportType": "bus"
     },
     "origin": "Pri kríži",
     "destination": "Jána Jonáša, VW1",
@@ -10989,11 +10967,10 @@
       "id": "29008",
       "name": "29",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FED766",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "29"
+      "transportType": "bus"
     },
     "origin": "Malá scéna",
     "destination": "Opletalova, VW5",
@@ -12087,11 +12064,10 @@
       "id": "29008",
       "name": "29",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FED766",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "29"
+      "transportType": "bus"
     },
     "origin": "Malá scéna",
     "destination": "Opletalova, VW5",
@@ -12711,11 +12687,10 @@
       "id": "29008",
       "name": "29",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FED766",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "29"
+      "transportType": "bus"
     },
     "origin": "Opletalova, VW5",
     "destination": "Malá scéna",
@@ -13743,11 +13718,10 @@
       "id": "29008",
       "name": "29",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FED766",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "29"
+      "transportType": "bus"
     },
     "origin": "Opletalova, VW5",
     "destination": "Malá scéna",
@@ -14404,11 +14378,10 @@
       "id": "29008",
       "name": "29",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FED766",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "29"
+      "transportType": "bus"
     },
     "origin": "Opletalova, VW5",
     "destination": "Malá scéna",
@@ -15033,11 +15006,10 @@
       "id": "30006",
       "name": "30",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#DFC3C4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "30"
+      "transportType": "bus"
     },
     "origin": "Lamač",
     "destination": "Most SNP",
@@ -15871,11 +15843,10 @@
       "id": "30006",
       "name": "30",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#DFC3C4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "30"
+      "transportType": "bus"
     },
     "origin": "Most SNP",
     "destination": "Lamač",
@@ -16743,8 +16714,7 @@
         "bg": "#3D854B",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "31"
+      "transportType": "bus"
     },
     "origin": "Cintorín Slávičie",
     "destination": "Blumentál",
@@ -17456,8 +17426,7 @@
         "bg": "#3D854B",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "31"
+      "transportType": "bus"
     },
     "origin": "Blumentál",
     "destination": "Cintorín Slávičie",
@@ -18185,8 +18154,7 @@
         "bg": "#3D854B",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "31"
+      "transportType": "bus"
     },
     "origin": "Nám. slobody",
     "destination": "Cintorín Slávičie",
@@ -18427,8 +18395,7 @@
         "bg": "#3D854B",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "31"
+      "transportType": "bus"
     },
     "origin": "Cintorín Slávičie",
     "destination": "Kollárovo nám.",
@@ -18655,11 +18622,10 @@
       "id": "32005",
       "name": "32",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#B2DBBF",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "32"
+      "transportType": "bus"
     },
     "origin": "Dlhé diely",
     "destination": "Hlavná stanica",
@@ -19461,11 +19427,10 @@
       "id": "32005",
       "name": "32",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#B2DBBF",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "32"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Dlhé diely",
@@ -20288,11 +20253,10 @@
       "id": "32005",
       "name": "32",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#B2DBBF",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "32"
+      "transportType": "bus"
     },
     "origin": "Riviéra",
     "destination": "Dlhé diely",
@@ -20488,11 +20452,10 @@
       "id": "35003",
       "name": "35",
       "colors": {
-        "bg": "#898989",
+        "bg": "#CC2A36",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "35"
+      "transportType": "bus"
     },
     "origin": "Dlhé diely",
     "destination": "Dúbravská cesta",
@@ -20799,11 +20762,10 @@
       "id": "35003",
       "name": "35",
       "colors": {
-        "bg": "#898989",
+        "bg": "#CC2A36",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "35"
+      "transportType": "bus"
     },
     "origin": "Dúbravská cesta",
     "destination": "Dlhé diely",
@@ -21110,11 +21072,10 @@
       "id": "36004",
       "name": "36",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#84C1FF",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "36"
+      "transportType": "bus"
     },
     "origin": "Záhorská Bystrica",
     "destination": "Žatevná",
@@ -21686,11 +21647,10 @@
       "id": "36004",
       "name": "36",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#84C1FF",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "36"
+      "transportType": "bus"
     },
     "origin": "Žatevná",
     "destination": "Záhorská Bystrica",
@@ -22280,11 +22240,10 @@
       "id": "37008",
       "name": "37",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "37"
+      "transportType": "bus"
     },
     "origin": "Most SNP",
     "destination": "Záhorská Bystrica",
@@ -23122,11 +23081,10 @@
       "id": "37008",
       "name": "37",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "37"
+      "transportType": "bus"
     },
     "origin": "Záhorská Bystrica",
     "destination": "Most SNP",
@@ -23926,8 +23884,7 @@
         "bg": "#3D854B",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "39"
+      "transportType": "bus"
     },
     "origin": "Cintorín Slávičie",
     "destination": "Súhvezdná",
@@ -24683,8 +24640,7 @@
         "bg": "#3D854B",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "39"
+      "transportType": "bus"
     },
     "origin": "Súhvezdná",
     "destination": "Cintorín Slávičie",
@@ -25470,8 +25426,7 @@
         "bg": "#3D854B",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "39"
+      "transportType": "bus"
     },
     "origin": "Cintorín Slávičie",
     "destination": "Klientske centrum",
@@ -25770,8 +25725,7 @@
         "bg": "#3D854B",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "39"
+      "transportType": "bus"
     },
     "origin": "Klientske centrum",
     "destination": "Cintorín Slávičie",
@@ -26070,11 +26024,10 @@
       "id": "41008",
       "name": "41",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFE066",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "41"
+      "transportType": "bus"
     },
     "origin": "Búdková",
     "destination": "Hlavná stanica",
@@ -26629,11 +26582,10 @@
       "id": "41008",
       "name": "41",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFE066",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "41"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Búdková",
@@ -27220,11 +27172,10 @@
       "id": "43010",
       "name": "43",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#9DAFB7",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "43"
+      "transportType": "bus"
     },
     "origin": "Patrónka",
     "destination": "Lesopark",
@@ -27659,11 +27610,10 @@
       "id": "43010",
       "name": "43",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#9DAFB7",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "43"
+      "transportType": "bus"
     },
     "origin": "Lesopark",
     "destination": "Patrónka",
@@ -28101,8 +28051,7 @@
         "bg": "#065469",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "50"
+      "transportType": "bus"
     },
     "origin": "Kukučínova",
     "destination": "OC Einsteinova",
@@ -29448,8 +29397,7 @@
         "bg": "#065469",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "50"
+      "transportType": "bus"
     },
     "origin": "OC Einsteinova",
     "destination": "Kukučínova",
@@ -30931,11 +30879,10 @@
       "id": "51006",
       "name": "51",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFB4A3",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "51"
+      "transportType": "bus"
     },
     "origin": "MiÚ Nové Mesto",
     "destination": "Depo Krasňany",
@@ -31498,11 +31445,10 @@
       "id": "51006",
       "name": "51",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFB4A3",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "51"
+      "transportType": "bus"
     },
     "origin": "Depo Krasňany",
     "destination": "MiÚ Nové Mesto",
@@ -32065,11 +32011,10 @@
       "id": "51006",
       "name": "51",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFB4A3",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "51"
+      "transportType": "bus"
     },
     "origin": "Depo Krasňany",
     "destination": "Trnavské mýto",
@@ -32355,11 +32300,10 @@
       "id": "51006",
       "name": "51",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFB4A3",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "51"
+      "transportType": "bus"
     },
     "origin": "Trnavské mýto",
     "destination": "Depo Krasňany",
@@ -32645,11 +32589,10 @@
       "id": "52011",
       "name": "52",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFC8C1",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "52"
+      "transportType": "bus"
     },
     "origin": "Stn. Vajnory",
     "destination": "Tbiliská",
@@ -33074,11 +33017,10 @@
       "id": "52011",
       "name": "52",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFC8C1",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "52"
+      "transportType": "bus"
     },
     "origin": "Stn. Vajnory",
     "destination": "Potočná",
@@ -33576,11 +33518,10 @@
       "id": "52011",
       "name": "52",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFC8C1",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "52"
+      "transportType": "bus"
     },
     "origin": "Stn. Vajnory",
     "destination": "Tbiliská",
@@ -33953,11 +33894,10 @@
       "id": "52011",
       "name": "52",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFC8C1",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "52"
+      "transportType": "bus"
     },
     "origin": "Stn. Vajnory",
     "destination": "Potočná",
@@ -34359,11 +34299,10 @@
       "id": "52011",
       "name": "52",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFC8C1",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "52"
+      "transportType": "bus"
     },
     "origin": "Tbiliská",
     "destination": "Stn. Vajnory",
@@ -34836,11 +34775,10 @@
       "id": "52011",
       "name": "52",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFC8C1",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "52"
+      "transportType": "bus"
     },
     "origin": "Potočná",
     "destination": "Stn. Vajnory",
@@ -35362,11 +35300,10 @@
       "id": "53007",
       "name": "53",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#3DA4AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "53"
+      "transportType": "bus"
     },
     "origin": "Vajnory",
     "destination": "Trnavské mýto",
@@ -36031,11 +35968,10 @@
       "id": "53007",
       "name": "53",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#3DA4AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "53"
+      "transportType": "bus"
     },
     "origin": "Bojnická",
     "destination": "Trnavské mýto",
@@ -36212,11 +36148,10 @@
       "id": "53007",
       "name": "53",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#3DA4AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "53"
+      "transportType": "bus"
     },
     "origin": "Trnavské mýto",
     "destination": "Vajnory",
@@ -36893,11 +36828,10 @@
       "id": "53007",
       "name": "53",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#3DA4AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "53"
+      "transportType": "bus"
     },
     "origin": "Bojnická",
     "destination": "Vajnory",
@@ -37131,11 +37065,10 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#898989",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "56"
+      "transportType": "bus"
     },
     "origin": "Studená",
     "destination": "Tbiliská",
@@ -37748,11 +37681,10 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#898989",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "56"
+      "transportType": "bus"
     },
     "origin": "Studená",
     "destination": "OC Rača",
@@ -38295,11 +38227,10 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#898989",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "56"
+      "transportType": "bus"
     },
     "origin": "Zlaté piesky",
     "destination": "Tbiliská",
@@ -38675,11 +38606,10 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#898989",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "56"
+      "transportType": "bus"
     },
     "origin": "Tbiliská",
     "destination": "Zlaté piesky",
@@ -39070,11 +39000,10 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#898989",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "56"
+      "transportType": "bus"
     },
     "origin": "Tbiliská",
     "destination": "Studená",
@@ -39669,11 +39598,10 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#898989",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "56"
+      "transportType": "bus"
     },
     "origin": "OC Rača",
     "destination": "Studená",
@@ -40203,11 +40131,10 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#898989",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "56"
+      "transportType": "bus"
     },
     "origin": "Zlaté piesky",
     "destination": "OC Rača",
@@ -40618,11 +40545,10 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#898989",
+        "bg": "#025B97",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "56"
+      "transportType": "bus"
     },
     "origin": "OC Rača",
     "destination": "Zlaté piesky",
@@ -41024,11 +40950,10 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#A8DADC",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "57"
+      "transportType": "bus"
     },
     "origin": "Depo Jurajov dvor",
     "destination": "Žabí majer",
@@ -41337,11 +41262,10 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#A8DADC",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "57"
+      "transportType": "bus"
     },
     "origin": "Stavivá",
     "destination": "Depo Jurajov dvor",
@@ -41789,11 +41713,10 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#A8DADC",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "57"
+      "transportType": "bus"
     },
     "origin": "Žabí majer",
     "destination": "Stavivá",
@@ -42102,11 +42025,10 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#A8DADC",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "57"
+      "transportType": "bus"
     },
     "origin": "Depo Jurajov dvor",
     "destination": "Žabí majer",
@@ -42321,11 +42243,10 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#A8DADC",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "57"
+      "transportType": "bus"
     },
     "origin": "Depo Jurajov dvor",
     "destination": "Stavivá",
@@ -42535,11 +42456,10 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#A8DADC",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "57"
+      "transportType": "bus"
     },
     "origin": "Depo Jurajov dvor",
     "destination": "Depo Jurajov dvor",
@@ -42859,11 +42779,10 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#A8DADC",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "57"
+      "transportType": "bus"
     },
     "origin": "Žabí majer",
     "destination": "Depo Jurajov dvor",
@@ -43078,11 +42997,10 @@
       "id": "59003",
       "name": "59",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#7CC043",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "59"
+      "transportType": "bus"
     },
     "origin": "Na pántoch",
     "destination": "Antolská",
@@ -43556,11 +43474,10 @@
       "id": "59003",
       "name": "59",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#7CC043",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "59"
+      "transportType": "bus"
     },
     "origin": "Antolská",
     "destination": "Na pántoch",
@@ -43954,11 +43871,10 @@
       "id": "59003",
       "name": "59",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#7CC043",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "59"
+      "transportType": "bus"
     },
     "origin": "Antolská",
     "destination": "Na pántoch",
@@ -44392,11 +44308,10 @@
       "id": "59003",
       "name": "59",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#7CC043",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "59"
+      "transportType": "bus"
     },
     "origin": "Ľubovnianska",
     "destination": "Na pántoch",
@@ -44747,11 +44662,10 @@
       "id": "59003",
       "name": "59",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#7CC043",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "59"
+      "transportType": "bus"
     },
     "origin": "Na pántoch",
     "destination": "Ľubovnianska",
@@ -45100,8 +45014,7 @@
         "bg": "#A21517",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "61"
+      "transportType": "bus"
     },
     "origin": "Letisko / Airport",
     "destination": "Hlavná stanica",
@@ -45842,8 +45755,7 @@
         "bg": "#A21517",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "61"
+      "transportType": "bus"
     },
     "origin": "Letisko / Airport",
     "destination": "Hlavná stanica",
@@ -46303,8 +46215,7 @@
         "bg": "#A21517",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "61"
+      "transportType": "bus"
     },
     "origin": "Klientske centrum",
     "destination": "Hlavná stanica",
@@ -46516,8 +46427,7 @@
         "bg": "#A21517",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "61"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Letisko / Airport",
@@ -47472,8 +47382,7 @@
         "bg": "#A21517",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "61"
+      "transportType": "bus"
     },
     "origin": "Avion Shop. Park",
     "destination": "Letisko / Airport",
@@ -47623,11 +47532,10 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#898989",
+        "bg": "#985276",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "63"
+      "transportType": "bus"
     },
     "origin": "Avion Shop. Park",
     "destination": "Lamač",
@@ -48385,11 +48293,10 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#898989",
+        "bg": "#985276",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "63"
+      "transportType": "bus"
     },
     "origin": "Bojnická",
     "destination": "Lamač",
@@ -48844,11 +48751,10 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#898989",
+        "bg": "#985276",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "63"
+      "transportType": "bus"
     },
     "origin": "Bojnická",
     "destination": "Bojnická",
@@ -48952,11 +48858,10 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#898989",
+        "bg": "#985276",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "63"
+      "transportType": "bus"
     },
     "origin": "Lamač",
     "destination": "Avion Shop. Park",
@@ -49643,11 +49548,10 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#898989",
+        "bg": "#985276",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "63"
+      "transportType": "bus"
     },
     "origin": "Lamač",
     "destination": "Bojnická",
@@ -50025,11 +49929,10 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#898989",
+        "bg": "#985276",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "63"
+      "transportType": "bus"
     },
     "origin": "Lamač",
     "destination": "Avion Shop. Park",
@@ -50523,11 +50426,10 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#898989",
+        "bg": "#985276",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "63"
+      "transportType": "bus"
     },
     "origin": "Lamač",
     "destination": "Bojnická",
@@ -50891,11 +50793,10 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF5688",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "65"
+      "transportType": "bus"
     },
     "origin": "Tbiliská",
     "destination": "Čiližská",
@@ -51975,11 +51876,10 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF5688",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "65"
+      "transportType": "bus"
     },
     "origin": "Tbiliská",
     "destination": "Jurajov dvor",
@@ -52412,11 +52312,10 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF5688",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "65"
+      "transportType": "bus"
     },
     "origin": "Jurajov dvor",
     "destination": "Čiližská",
@@ -52744,11 +52643,10 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF5688",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "65"
+      "transportType": "bus"
     },
     "origin": "Čiližská",
     "destination": "Tbiliská",
@@ -53886,11 +53784,10 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF5688",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "65"
+      "transportType": "bus"
     },
     "origin": "Čiližská",
     "destination": "Jurajov dvor",
@@ -54202,11 +54099,10 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF5688",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "65"
+      "transportType": "bus"
     },
     "origin": "Jurajov dvor",
     "destination": "Tbiliská",
@@ -54654,11 +54550,10 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF5688",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "65"
+      "transportType": "bus"
     },
     "origin": "Tbiliská",
     "destination": "Jurajov dvor",
@@ -55073,11 +54968,10 @@
       "id": "66007",
       "name": "66",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#34A79C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "66"
+      "transportType": "bus"
     },
     "origin": "Grófska niva",
     "destination": "Domkárska",
@@ -55902,11 +55796,10 @@
       "id": "66007",
       "name": "66",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#34A79C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "66"
+      "transportType": "bus"
     },
     "origin": "Maximiliána Hella",
     "destination": "Domkárska",
@@ -56121,11 +56014,10 @@
       "id": "66007",
       "name": "66",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#34A79C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "66"
+      "transportType": "bus"
     },
     "origin": "Domkárska",
     "destination": "Grófska niva",
@@ -56934,11 +56826,10 @@
       "id": "66007",
       "name": "66",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#34A79C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "66"
+      "transportType": "bus"
     },
     "origin": "Domkárska",
     "destination": "Maximiliána Hella",
@@ -57139,11 +57030,10 @@
       "id": "66007",
       "name": "66",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#34A79C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "66"
+      "transportType": "bus"
     },
     "origin": "Solivarská",
     "destination": "Grófska niva",
@@ -57368,11 +57258,10 @@
       "id": "66007",
       "name": "66",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#34A79C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "66"
+      "transportType": "bus"
     },
     "origin": "Grófska niva",
     "destination": "Solivarská",
@@ -57613,11 +57502,10 @@
       "id": "67009",
       "name": "67",
       "colors": {
-        "bg": "#898989",
+        "bg": "#1E3557",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "67"
+      "transportType": "bus"
     },
     "origin": "Astronomická",
     "destination": "Ovčiarska",
@@ -58352,11 +58240,10 @@
       "id": "67009",
       "name": "67",
       "colors": {
-        "bg": "#898989",
+        "bg": "#1E3557",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "67"
+      "transportType": "bus"
     },
     "origin": "Ovčiarska",
     "destination": "Astronomická",
@@ -59030,8 +58917,7 @@
         "bg": "#887917",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "68"
+      "transportType": "bus"
     },
     "origin": "Holíčska",
     "destination": "Trnavské mýto",
@@ -60486,8 +60372,7 @@
         "bg": "#887917",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "68"
+      "transportType": "bus"
     },
     "origin": "Trnavské mýto",
     "destination": "Holíčska",
@@ -61807,11 +61692,10 @@
       "id": "69005",
       "name": "69",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FACAA7",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "69"
+      "transportType": "bus"
     },
     "origin": "Avion Shop. Park",
     "destination": "Avion Shop. Park",
@@ -62124,11 +62008,10 @@
       "id": "69005",
       "name": "69",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FACAA7",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "69"
+      "transportType": "bus"
     },
     "origin": "Pharos",
     "destination": "Avion Shop. Park",
@@ -62505,11 +62388,10 @@
       "id": "69005",
       "name": "69",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FACAA7",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "69"
+      "transportType": "bus"
     },
     "origin": "Avion Shop. Park",
     "destination": "Pharos",
@@ -62854,11 +62736,10 @@
       "id": "70006",
       "name": "70",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#F0E4E4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "70"
+      "transportType": "bus"
     },
     "origin": "Most SNP",
     "destination": "Stn. P. Biskupice",
@@ -63855,11 +63736,10 @@
       "id": "70006",
       "name": "70",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#F0E4E4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "70"
+      "transportType": "bus"
     },
     "origin": "Most SNP",
     "destination": "Miletičova",
@@ -64071,11 +63951,10 @@
       "id": "70006",
       "name": "70",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#F0E4E4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "70"
+      "transportType": "bus"
     },
     "origin": "Prístavný most",
     "destination": "Stn. P. Biskupice",
@@ -64360,11 +64239,10 @@
       "id": "70006",
       "name": "70",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#F0E4E4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "70"
+      "transportType": "bus"
     },
     "origin": "Stn. P. Biskupice",
     "destination": "Most SNP",
@@ -65345,11 +65223,10 @@
       "id": "70006",
       "name": "70",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#F0E4E4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "70"
+      "transportType": "bus"
     },
     "origin": "Stn. P. Biskupice",
     "destination": "Prievozská",
@@ -65650,11 +65527,10 @@
       "id": "70006",
       "name": "70",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#F0E4E4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "70"
+      "transportType": "bus"
     },
     "origin": "Prievozská",
     "destination": "Most SNP",
@@ -65871,11 +65747,10 @@
       "id": "74008",
       "name": "74",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#2AA8AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "74"
+      "transportType": "bus"
     },
     "origin": "Vlčie hrdlo",
     "destination": "Hlavná stanica",
@@ -66329,11 +66204,10 @@
       "id": "74008",
       "name": "74",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#2AA8AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "74"
+      "transportType": "bus"
     },
     "origin": "Bajkalská",
     "destination": "Hlavná stanica",
@@ -66492,11 +66366,10 @@
       "id": "74008",
       "name": "74",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#2AA8AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "74"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Zimný štadión",
@@ -66660,11 +66533,10 @@
       "id": "74008",
       "name": "74",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#2AA8AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "74"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Vlčie hrdlo",
@@ -67145,11 +67017,10 @@
       "id": "74008",
       "name": "74",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#2AA8AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "74"
+      "transportType": "bus"
     },
     "origin": "Bajkalská",
     "destination": "Vlčie hrdlo",
@@ -67340,11 +67211,10 @@
       "id": "74008",
       "name": "74",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#2AA8AB",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "74"
+      "transportType": "bus"
     },
     "origin": "Vlčie hrdlo",
     "destination": "Drieňová",
@@ -67508,11 +67378,10 @@
       "id": "75002",
       "name": "75",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF1654",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "75"
+      "transportType": "bus"
     },
     "origin": "Čiližská",
     "destination": "Kadnárova",
@@ -68182,11 +68051,10 @@
       "id": "75002",
       "name": "75",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF1654",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "75"
+      "transportType": "bus"
     },
     "origin": "Bajkalská",
     "destination": "Kadnárova",
@@ -68381,11 +68249,10 @@
       "id": "75002",
       "name": "75",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF1654",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "75"
+      "transportType": "bus"
     },
     "origin": "Čiližská",
     "destination": "Nová doba",
@@ -68704,11 +68571,10 @@
       "id": "75002",
       "name": "75",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF1654",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "75"
+      "transportType": "bus"
     },
     "origin": "Kadnárova",
     "destination": "Nová doba",
@@ -68907,11 +68773,10 @@
       "id": "75002",
       "name": "75",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF1654",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "75"
+      "transportType": "bus"
     },
     "origin": "Kadnárova",
     "destination": "Čiližská",
@@ -69575,11 +69440,10 @@
       "id": "75002",
       "name": "75",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF1654",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "75"
+      "transportType": "bus"
     },
     "origin": "Nová doba",
     "destination": "Čiližská",
@@ -69882,11 +69746,10 @@
       "id": "77003",
       "name": "77",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#8874A3",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "77"
+      "transportType": "bus"
     },
     "origin": "Vlčie hrdlo",
     "destination": "Povodie Dunaja",
@@ -70138,11 +70001,10 @@
       "id": "77003",
       "name": "77",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#8874A3",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "77"
+      "transportType": "bus"
     },
     "origin": "Vlčie hrdlo",
     "destination": "Spaľovňa",
@@ -70426,11 +70288,10 @@
       "id": "77003",
       "name": "77",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#8874A3",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "77"
+      "transportType": "bus"
     },
     "origin": "Povodie Dunaja",
     "destination": "Vlčie hrdlo",
@@ -70682,11 +70543,10 @@
       "id": "77003",
       "name": "77",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#8874A3",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "77"
+      "transportType": "bus"
     },
     "origin": "Spaľovňa",
     "destination": "Vlčie hrdlo",
@@ -70970,11 +70830,10 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFEFD7",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "78"
+      "transportType": "bus"
     },
     "origin": "Stn. P. Biskupice",
     "destination": "Nové SND",
@@ -71783,11 +71642,10 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFEFD7",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "78"
+      "transportType": "bus"
     },
     "origin": "Stn. P. Biskupice",
     "destination": "Maximiliána Hella",
@@ -72121,11 +71979,10 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFEFD7",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "78"
+      "transportType": "bus"
     },
     "origin": "Stn. P. Biskupice",
     "destination": "Astronomická",
@@ -72700,11 +72557,10 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFEFD7",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "78"
+      "transportType": "bus"
     },
     "origin": "Solivarská",
     "destination": "Nové SND",
@@ -72933,11 +72789,10 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFEFD7",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "78"
+      "transportType": "bus"
     },
     "origin": "Maximiliána Hella",
     "destination": "Stn. P. Biskupice",
@@ -73262,11 +73117,10 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFEFD7",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "78"
+      "transportType": "bus"
     },
     "origin": "Nové SND",
     "destination": "Stn. P. Biskupice",
@@ -74059,11 +73913,10 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFEFD7",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "78"
+      "transportType": "bus"
     },
     "origin": "Astronomická",
     "destination": "Stn. P. Biskupice",
@@ -74652,11 +74505,10 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FFEFD7",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "78"
+      "transportType": "bus"
     },
     "origin": "Nové SND",
     "destination": "Solivarská",
@@ -74869,11 +74721,10 @@
       "id": "79004",
       "name": "79",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#B4838D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "79"
+      "transportType": "bus"
     },
     "origin": "Lieskovec",
     "destination": "Stn. P. Biskupice",
@@ -75093,11 +74944,10 @@
       "id": "79004",
       "name": "79",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#B4838D",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "79"
+      "transportType": "bus"
     },
     "origin": "Stn. P. Biskupice",
     "destination": "Lieskovec",
@@ -75336,8 +75186,7 @@
         "bg": "#D77E09",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "80"
+      "transportType": "bus"
     },
     "origin": "Kollárovo nám.",
     "destination": "Kapitulský dvor",
@@ -75836,8 +75685,7 @@
         "bg": "#D77E09",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "80"
+      "transportType": "bus"
     },
     "origin": "Kollárovo nám.",
     "destination": "Nesto",
@@ -76467,8 +76315,7 @@
         "bg": "#D77E09",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "80"
+      "transportType": "bus"
     },
     "origin": "Kollárovo nám.",
     "destination": "Cintorín Petržalka",
@@ -76782,8 +76629,7 @@
         "bg": "#D77E09",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "80"
+      "transportType": "bus"
     },
     "origin": "Nesto",
     "destination": "Kollárovo nám.",
@@ -77466,8 +77312,7 @@
         "bg": "#D77E09",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "80"
+      "transportType": "bus"
     },
     "origin": "Kapitulský dvor",
     "destination": "Kollárovo nám.",
@@ -77957,8 +77802,7 @@
         "bg": "#D77E09",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "80"
+      "transportType": "bus"
     },
     "origin": "Cintorín Petržalka",
     "destination": "Kollárovo nám.",
@@ -78278,8 +78122,7 @@
         "bg": "#007AB8",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "83"
+      "transportType": "bus"
     },
     "origin": "Kutlíkova",
     "destination": "Pri kríži",
@@ -80007,8 +79850,7 @@
         "bg": "#007AB8",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "83"
+      "transportType": "bus"
     },
     "origin": "Pri kríži",
     "destination": "Kutlíkova",
@@ -81769,8 +81611,7 @@
         "bg": "#007AB8",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "83"
+      "transportType": "bus"
     },
     "origin": "Pri kríži",
     "destination": "Bradáčova",
@@ -82363,8 +82204,7 @@
         "bg": "#007AB8",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "84"
+      "transportType": "bus"
     },
     "origin": "Ovsište",
     "destination": "Pri kríži",
@@ -83498,8 +83338,7 @@
         "bg": "#007AB8",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "84"
+      "transportType": "bus"
     },
     "origin": "Pri kríži",
     "destination": "Ovsište",
@@ -84639,11 +84478,10 @@
       "id": "870046",
       "name": "87",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#F37737",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "87"
+      "transportType": "bus"
     },
     "origin": "Bodvianska",
     "destination": "Ovsište",
@@ -85435,11 +85273,10 @@
       "id": "870046",
       "name": "87",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#F37737",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "87"
+      "transportType": "bus"
     },
     "origin": "Ovsište",
     "destination": "Bodvianska",
@@ -86242,11 +86079,10 @@
       "id": "870046",
       "name": "87",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#F37737",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "87"
+      "transportType": "bus"
     },
     "origin": "V. hrdlo, internát",
     "destination": "Ovsište",
@@ -86501,11 +86337,10 @@
       "id": "870046",
       "name": "87",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#F37737",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "87"
+      "transportType": "bus"
     },
     "origin": "Ovsište",
     "destination": "Toryská",
@@ -86839,8 +86674,7 @@
         "bg": "#642F6C",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "88"
+      "transportType": "bus"
     },
     "origin": "Most SNP",
     "destination": "Autobusová stanica",
@@ -87943,8 +87777,7 @@
         "bg": "#642F6C",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "88"
+      "transportType": "bus"
     },
     "origin": "Autobusová stanica",
     "destination": "Most SNP",
@@ -89026,11 +88859,10 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#E2F0FF",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "90"
+      "transportType": "bus"
     },
     "origin": "Nové SND",
     "destination": "Kaštieľ Rusovce",
@@ -89384,11 +89216,10 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#E2F0FF",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "90"
+      "transportType": "bus"
     },
     "origin": "Žehrianska",
     "destination": "Kaštieľ Rusovce",
@@ -89625,11 +89456,10 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#E2F0FF",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "90"
+      "transportType": "bus"
     },
     "origin": "Nové SND",
     "destination": "Jasovská",
@@ -89792,11 +89622,10 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#E2F0FF",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "90"
+      "transportType": "bus"
     },
     "origin": "Nové SND",
     "destination": "Danubiana",
@@ -90332,11 +90161,10 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#E2F0FF",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "90"
+      "transportType": "bus"
     },
     "origin": "Kaštieľ Rusovce",
     "destination": "Nové SND",
@@ -90725,11 +90553,10 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#E2F0FF",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "90"
+      "transportType": "bus"
     },
     "origin": "Danubiana",
     "destination": "Nové SND",
@@ -91265,11 +91092,10 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#E2F0FF",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "90"
+      "transportType": "bus"
     },
     "origin": "Jasovská",
     "destination": "Nové SND",
@@ -91408,11 +91234,10 @@
       "id": "91007",
       "name": "91",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#4B86B4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "91"
+      "transportType": "bus"
     },
     "origin": "Most SNP",
     "destination": "Čunovo",
@@ -92342,11 +92167,10 @@
       "id": "91007",
       "name": "91",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#4B86B4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "91"
+      "transportType": "bus"
     },
     "origin": "Žltá",
     "destination": "Čunovo",
@@ -92721,11 +92545,10 @@
       "id": "91007",
       "name": "91",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#4B86B4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "91"
+      "transportType": "bus"
     },
     "origin": "Čunovo",
     "destination": "Pri sade",
@@ -93149,11 +92972,10 @@
       "id": "91007",
       "name": "91",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#4B86B4",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "91"
+      "transportType": "bus"
     },
     "origin": "Čunovo",
     "destination": "Most SNP",
@@ -94058,11 +93880,10 @@
       "id": "92008",
       "name": "92",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF3377",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "92"
+      "transportType": "bus"
     },
     "origin": "Depo Petržalka",
     "destination": "Jána Jonáša, VW1",
@@ -94618,11 +94439,10 @@
       "id": "92008",
       "name": "92",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF3377",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "92"
+      "transportType": "bus"
     },
     "origin": "Depo Petržalka",
     "destination": "Volkswagen, VW2",
@@ -95130,11 +94950,10 @@
       "id": "92008",
       "name": "92",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF3377",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "92"
+      "transportType": "bus"
     },
     "origin": "Jána Jonáša, VW1",
     "destination": "Depo Petržalka",
@@ -95690,11 +95509,10 @@
       "id": "92008",
       "name": "92",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF3377",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "92"
+      "transportType": "bus"
     },
     "origin": "Volkswagen, VW2",
     "destination": "Depo Petržalka",
@@ -96205,8 +96023,7 @@
         "bg": "#AB075F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "93"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Vyšehradská",
@@ -97796,8 +97613,7 @@
         "bg": "#AB075F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "93"
+      "transportType": "bus"
     },
     "origin": "Vyšehradská",
     "destination": "Hlavná stanica",
@@ -99484,8 +99300,7 @@
         "bg": "#AB075F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "94"
+      "transportType": "bus"
     },
     "origin": "Holíčska",
     "destination": "Blumentál",
@@ -100673,8 +100488,7 @@
         "bg": "#AB075F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "94"
+      "transportType": "bus"
     },
     "origin": "Blumentál",
     "destination": "Holíčska",
@@ -101878,8 +101692,7 @@
         "bg": "#EC6B1E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "95"
+      "transportType": "bus"
     },
     "origin": "Muchovo nám.",
     "destination": "Vyšehradská",
@@ -103568,8 +103381,7 @@
         "bg": "#EC6B1E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "95"
+      "transportType": "bus"
     },
     "origin": "Muchovo nám.",
     "destination": "Lúčanka",
@@ -103869,8 +103681,7 @@
         "bg": "#EC6B1E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "95"
+      "transportType": "bus"
     },
     "origin": "Vyšehradská",
     "destination": "Muchovo nám.",
@@ -105564,8 +105375,7 @@
         "bg": "#EC6B1E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "95"
+      "transportType": "bus"
     },
     "origin": "Lúčanka",
     "destination": "Muchovo nám.",
@@ -105867,11 +105677,10 @@
       "id": "96004",
       "name": "96",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF928C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "96"
+      "transportType": "bus"
     },
     "origin": "Prokofievova",
     "destination": "Letisko / Airport",
@@ -106705,11 +106514,10 @@
       "id": "96004",
       "name": "96",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF928C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "96"
+      "transportType": "bus"
     },
     "origin": "Bojnická",
     "destination": "Letisko / Airport",
@@ -106911,11 +106719,10 @@
       "id": "96004",
       "name": "96",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF928C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "96"
+      "transportType": "bus"
     },
     "origin": "Letisko / Airport",
     "destination": "Prokofievova",
@@ -107689,11 +107496,10 @@
       "id": "96004",
       "name": "96",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF928C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "96"
+      "transportType": "bus"
     },
     "origin": "Letisko / Airport",
     "destination": "Prokofievova",
@@ -108250,11 +108056,10 @@
       "id": "96004",
       "name": "96",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF928C",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "96"
+      "transportType": "bus"
     },
     "origin": "Bojnická",
     "destination": "Prokofievova",
@@ -108633,8 +108438,7 @@
         "bg": "#B25C2E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "98"
+      "transportType": "bus"
     },
     "origin": "Jasovská",
     "destination": "Kukučínova",
@@ -109859,8 +109663,7 @@
         "bg": "#B25C2E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "98"
+      "transportType": "bus"
     },
     "origin": "MiÚ Nové Mesto",
     "destination": "Kukučínova",
@@ -110041,8 +109844,7 @@
         "bg": "#B25C2E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "98"
+      "transportType": "bus"
     },
     "origin": "Ovsištské nám.",
     "destination": "Kukučínova",
@@ -110286,8 +110088,7 @@
         "bg": "#B25C2E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "98"
+      "transportType": "bus"
     },
     "origin": "Jasovská",
     "destination": "MiÚ Nové Mesto",
@@ -110756,8 +110557,7 @@
         "bg": "#B25C2E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "98"
+      "transportType": "bus"
     },
     "origin": "Kukučínova",
     "destination": "Jasovská",
@@ -111997,8 +111797,7 @@
         "bg": "#EE639F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "99"
+      "transportType": "bus"
     },
     "origin": "Ovsište",
     "destination": "Antolská",
@@ -113467,8 +113266,7 @@
         "bg": "#EE639F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "99"
+      "transportType": "bus"
     },
     "origin": "Ovsište",
     "destination": "Depo Petržalka",
@@ -114126,8 +113924,7 @@
         "bg": "#EE639F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "99"
+      "transportType": "bus"
     },
     "origin": "Antolská",
     "destination": "Ovsište",
@@ -115553,8 +115350,7 @@
         "bg": "#EE639F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "99"
+      "transportType": "bus"
     },
     "origin": "Depo Petržalka",
     "destination": "Ovsište",
@@ -116203,11 +115999,10 @@
       "id": "123006",
       "name": "123",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FE9C8F",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "123"
+      "transportType": "bus"
     },
     "origin": "Žatevná",
     "destination": "Lamač",
@@ -116733,11 +116528,10 @@
       "id": "123006",
       "name": "123",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FE9C8F",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "123"
+      "transportType": "bus"
     },
     "origin": "Lamač",
     "destination": "Žatevná",
@@ -117270,11 +117064,10 @@
       "id": "130006",
       "name": "130",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FEC3A6",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "130"
+      "transportType": "bus"
     },
     "origin": "Krematórium",
     "destination": "OC Patrónka",
@@ -117625,11 +117418,10 @@
       "id": "130006",
       "name": "130",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FEC3A6",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "130"
+      "transportType": "bus"
     },
     "origin": "OC Patrónka",
     "destination": "Krematórium",
@@ -117948,11 +117740,10 @@
       "id": "139005",
       "name": "139",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF8C61",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "139"
+      "transportType": "bus"
     },
     "origin": "Cintorín Slávičie",
     "destination": "Riviéra",
@@ -118386,11 +118177,10 @@
       "id": "139005",
       "name": "139",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF8C61",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "139"
+      "transportType": "bus"
     },
     "origin": "Riviéra",
     "destination": "Cintorín Slávičie",
@@ -118856,11 +118646,10 @@
       "id": "144009",
       "name": "144",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF8B94",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "144"
+      "transportType": "bus"
     },
     "origin": "Kamzík",
     "destination": "Koliba",
@@ -118999,11 +118788,10 @@
       "id": "144009",
       "name": "144",
       "colors": {
-        "bg": "#898989",
-        "fg": "#FFFFFF"
+        "bg": "#FF8B94",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "144"
+      "transportType": "bus"
     },
     "origin": "Koliba",
     "destination": "Kamzík",
@@ -119161,8 +118949,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "145"
+      "transportType": "bus"
     },
     "origin": "Koliba",
     "destination": "Jaskový rad",
@@ -119492,8 +119279,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "145"
+      "transportType": "bus"
     },
     "origin": "Koliba",
     "destination": "Jaskový rad",
@@ -119769,8 +119555,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "145"
+      "transportType": "bus"
     },
     "origin": "Jaskový rad",
     "destination": "Koliba",
@@ -120143,8 +119928,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "147"
+      "transportType": "bus"
     },
     "origin": "Hodžovo nám.",
     "destination": "Búdková",
@@ -120539,8 +120323,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "147"
+      "transportType": "bus"
     },
     "origin": "Búdková",
     "destination": "Hodžovo nám.",
@@ -120871,8 +120654,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "151"
+      "transportType": "bus"
     },
     "origin": "Trnavské mýto",
     "destination": "Lopenícka",
@@ -121198,8 +120980,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "151"
+      "transportType": "bus"
     },
     "origin": "Lopenícka",
     "destination": "Trnavské mýto",
@@ -121493,8 +121274,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "163"
+      "transportType": "bus"
     },
     "origin": "Za Mokráňom",
     "destination": "Račianske mýto",
@@ -121785,8 +121565,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "163"
+      "transportType": "bus"
     },
     "origin": "Račianske mýto",
     "destination": "Za Mokráňom",
@@ -122068,8 +121847,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "184"
+      "transportType": "bus"
     },
     "origin": "Hroboňova",
     "destination": "Ekonom. univerzita",
@@ -122271,8 +122049,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "184"
+      "transportType": "bus"
     },
     "origin": "Ekonom. univerzita",
     "destination": "Prokopa Veľkého",
@@ -122459,8 +122236,7 @@
         "bg": "#9E9E9E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "191"
+      "transportType": "bus"
     },
     "origin": "Most SNP",
     "destination": "Kaštieľ Rusovce",
@@ -122994,8 +122770,7 @@
         "bg": "#9E9E9E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "191"
+      "transportType": "bus"
     },
     "origin": "Kaštieľ Rusovce",
     "destination": "Jasovská",
@@ -123237,8 +123012,7 @@
         "bg": "#9E9E9E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "191"
+      "transportType": "bus"
     },
     "origin": "Kaštieľ Rusovce",
     "destination": "Most SNP",
@@ -123767,8 +123541,7 @@
         "bg": "#9E9E9E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "191"
+      "transportType": "bus"
     },
     "origin": "Jasovská",
     "destination": "Most SNP",
@@ -123979,8 +123752,7 @@
         "bg": "#9E9E9E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "191"
+      "transportType": "bus"
     },
     "origin": "Most SNP",
     "destination": "Jasovská",
@@ -124178,8 +123950,7 @@
         "bg": "#9E9E9E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "191"
+      "transportType": "bus"
     },
     "origin": "Žltá",
     "destination": "Kaštieľ Rusovce",
@@ -124390,8 +124161,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "192"
+      "transportType": "bus"
     },
     "origin": "Červený most",
     "destination": "Depo Petržalka",
@@ -124944,8 +124714,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "192"
+      "transportType": "bus"
     },
     "origin": "Depo Petržalka",
     "destination": "Červený most",
@@ -125498,8 +125267,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "196"
+      "transportType": "bus"
     },
     "origin": "Stn. Nové Mesto",
     "destination": "Prokofievova",
@@ -125948,8 +125716,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "196"
+      "transportType": "bus"
     },
     "origin": "Depo Jurajov dvor",
     "destination": "Prokofievova",
@@ -126387,8 +126154,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "196"
+      "transportType": "bus"
     },
     "origin": "Prokofievova",
     "destination": "Depo Jurajov dvor",
@@ -126810,8 +126576,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "196"
+      "transportType": "bus"
     },
     "origin": "Prokofievova",
     "destination": "Stn. Nové Mesto",
@@ -127229,8 +126994,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "196"
+      "transportType": "bus"
     },
     "origin": "Markova",
     "destination": "Depo Jurajov dvor",
@@ -127585,8 +127349,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "196"
+      "transportType": "bus"
     },
     "origin": "Depo Jurajov dvor",
     "destination": "Markova",
@@ -127952,8 +127715,7 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "196"
+      "transportType": "bus"
     },
     "origin": "Stn. Nové Mesto",
     "destination": "Markova",
@@ -128273,11 +128035,10 @@
       "id": "421009",
       "name": "N21",
       "colors": {
-        "bg": "#2B2A29",
+        "bg": "#50514F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N21"
+      "transportType": "bus"
     },
     "origin": "Štefana Králika",
     "destination": "Hlavná stanica",
@@ -128771,11 +128532,10 @@
       "id": "421009",
       "name": "N21",
       "colors": {
-        "bg": "#2B2A29",
+        "bg": "#50514F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N21"
+      "transportType": "bus"
     },
     "origin": "Štefana Králika",
     "destination": "Jána Jonáša, VW1",
@@ -128968,11 +128728,10 @@
       "id": "421009",
       "name": "N21",
       "colors": {
-        "bg": "#2B2A29",
+        "bg": "#50514F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N21"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Štefana Králika",
@@ -129393,11 +129152,10 @@
       "id": "429006",
       "name": "N29",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#FFEEAD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N29"
+      "transportType": "bus"
     },
     "origin": "Hrad Devín",
     "destination": "Hlavná stanica",
@@ -129859,11 +129617,10 @@
       "id": "429006",
       "name": "N29",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#FFEEAD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N29"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Hrad Devín",
@@ -130364,11 +130121,10 @@
       "id": "431009",
       "name": "N31",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#F1F3BD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N31"
+      "transportType": "bus"
     },
     "origin": "Cintorín Slávičie",
     "destination": "Hlavná stanica",
@@ -130606,11 +130362,10 @@
       "id": "431009",
       "name": "N31",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#F1F3BD",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N31"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Cintorín Slávičie",
@@ -130855,11 +130610,10 @@
       "id": "433004",
       "name": "N33",
       "colors": {
-        "bg": "#2B2A29",
+        "bg": "#4B7C59",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N33"
+      "transportType": "bus"
     },
     "origin": "Most SNP",
     "destination": "Hlavná stanica",
@@ -131107,11 +130861,10 @@
       "id": "433004",
       "name": "N33",
       "colors": {
-        "bg": "#2B2A29",
+        "bg": "#4B7C59",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N33"
+      "transportType": "bus"
     },
     "origin": "Dlhé diely",
     "destination": "Hlavná stanica",
@@ -131573,11 +131326,10 @@
       "id": "433004",
       "name": "N33",
       "colors": {
-        "bg": "#2B2A29",
+        "bg": "#4B7C59",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N33"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Dlhé diely",
@@ -132030,11 +131782,10 @@
       "id": "434009",
       "name": "N34",
       "colors": {
-        "bg": "#2B2A29",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N34"
+      "transportType": "bus"
     },
     "origin": "Pri kríži",
     "destination": "Hlavná stanica",
@@ -132526,11 +132277,10 @@
       "id": "434009",
       "name": "N34",
       "colors": {
-        "bg": "#2B2A29",
+        "bg": "#2A4D69",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N34"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Pri kríži",
@@ -133015,11 +132765,10 @@
       "id": "437008",
       "name": "N37",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#E5989B",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N37"
+      "transportType": "bus"
     },
     "origin": "Záhorská Bystrica",
     "destination": "Hlavná stanica",
@@ -133437,11 +133186,10 @@
       "id": "437008",
       "name": "N37",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#E5989B",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N37"
+      "transportType": "bus"
     },
     "origin": "Záhorská Bystrica",
     "destination": "Hlavná stanica",
@@ -133778,11 +133526,10 @@
       "id": "437008",
       "name": "N37",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#E5989B",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N37"
+      "transportType": "bus"
     },
     "origin": "Záhorská Bystrica",
     "destination": "Hlavná stanica",
@@ -134119,11 +133866,10 @@
       "id": "437008",
       "name": "N37",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#E5989B",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N37"
+      "transportType": "bus"
     },
     "origin": "Záhorská Bystrica",
     "destination": "Hlavná stanica",
@@ -134562,11 +134308,10 @@
       "id": "437008",
       "name": "N37",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#E5989B",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N37"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Záhorská Bystrica",
@@ -135044,11 +134789,10 @@
       "id": "437008",
       "name": "N37",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#E5989B",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N37"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Záhorská Bystrica",
@@ -135498,11 +135242,10 @@
       "id": "453007",
       "name": "N53",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#FE8A71",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N53"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Vajnory",
@@ -135987,11 +135730,10 @@
       "id": "453007",
       "name": "N53",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#FE8A71",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N53"
+      "transportType": "bus"
     },
     "origin": "Vajnory",
     "destination": "Hlavná stanica",
@@ -136467,11 +136209,10 @@
       "id": "455005",
       "name": "N55",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#FFD3B6",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N55"
+      "transportType": "bus"
     },
     "origin": "Na pántoch",
     "destination": "Hlavná stanica",
@@ -136965,11 +136706,10 @@
       "id": "455005",
       "name": "N55",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#FFD3B6",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N55"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Na pántoch",
@@ -137454,11 +137194,10 @@
       "id": "456009",
       "name": "N56",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#299D8F",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N56"
+      "transportType": "bus"
     },
     "origin": "Zlaté piesky",
     "destination": "Hečkova",
@@ -137778,11 +137517,10 @@
       "id": "456009",
       "name": "N56",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#299D8F",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N56"
+      "transportType": "bus"
     },
     "origin": "Hečkova",
     "destination": "Zlaté piesky",
@@ -138132,11 +137870,10 @@
       "id": "461007",
       "name": "N61",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#8FC0A9",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N61"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Letisko / Airport",
@@ -138685,11 +138422,10 @@
       "id": "461007",
       "name": "N61",
       "colors": {
-        "bg": "#2B2A29",
-        "fg": "#FFFFFF"
+        "bg": "#8FC0A9",
+        "fg": "#000000"
       },
-      "transportType": "bus",
-      "route_name": "N61"
+      "transportType": "bus"
     },
     "origin": "Letisko / Airport",
     "destination": "Hlavná stanica",
@@ -139202,8 +138938,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N70"
+      "transportType": "bus"
     },
     "origin": "Stn. P. Biskupice",
     "destination": "Hlavná stanica",
@@ -139684,8 +139419,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N70"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Stn. P. Biskupice",
@@ -140221,8 +139955,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N74"
+      "transportType": "bus"
     },
     "origin": "Vlčie hrdlo",
     "destination": "Hlavná stanica",
@@ -140733,8 +140466,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N74"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Vlčie hrdlo",
@@ -141270,8 +141002,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N80"
+      "transportType": "bus"
     },
     "origin": "Kapitulský dvor",
     "destination": "Hlavná stanica",
@@ -141752,8 +141483,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N80"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Kapitulský dvor",
@@ -142209,8 +141939,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N91"
+      "transportType": "bus"
     },
     "origin": "Čunovo",
     "destination": "Jasovská",
@@ -142624,8 +142353,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N91"
+      "transportType": "bus"
     },
     "origin": "Jasovská",
     "destination": "Čunovo",
@@ -143042,8 +142770,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N93"
+      "transportType": "bus"
     },
     "origin": "Jasovská",
     "destination": "Hlavná stanica",
@@ -143474,8 +143201,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N93"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Jasovská",
@@ -143890,8 +143616,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N95"
+      "transportType": "bus"
     },
     "origin": "Depo Petržalka",
     "destination": "Hlavná stanica",
@@ -144370,8 +144095,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N95"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Depo Petržalka",
@@ -144843,8 +144567,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N95"
+      "transportType": "bus"
     },
     "origin": "Romanova",
     "destination": "Depo Petržalka",
@@ -145072,8 +144795,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N95"
+      "transportType": "bus"
     },
     "origin": "Hlavná stanica",
     "destination": "Romanova",
@@ -145349,8 +145071,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N99"
+      "transportType": "bus"
     },
     "origin": "Ovsište",
     "destination": "Depo Petržalka",
@@ -145833,8 +145554,7 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus",
-      "route_name": "N99"
+      "transportType": "bus"
     },
     "origin": "Depo Petržalka",
     "destination": "Ovsište",
