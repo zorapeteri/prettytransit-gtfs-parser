@@ -51903,8 +51903,8 @@
       "id": "17284",
       "name": "23",
       "colors": {
-        "bg": "#0000A0",
-        "fg": "#FEFEFE"
+        "bg": "#FACAA7",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -52983,8 +52983,8 @@
       "id": "17284",
       "name": "23",
       "colors": {
-        "bg": "#0000A0",
-        "fg": "#FEFEFE"
+        "bg": "#FACAA7",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
