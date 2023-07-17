@@ -5,7 +5,7 @@
       "id": "L49D1",
       "name": "LD",
       "colors": {
-        "bg": "#FF0000",
+        "bg": "#C10041",
         "fg": "#FFFFFF"
       },
       "transportType": "funicular"
@@ -656,7 +656,7 @@
       "id": "L49D1",
       "name": "LD",
       "colors": {
-        "bg": "#FF0000",
+        "bg": "#C10041",
         "fg": "#FFFFFF"
       },
       "transportType": "funicular"

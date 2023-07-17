@@ -4,7 +4,7 @@
     "agency_id": "1",
     "route_type": "1",
     "colors": {
-      "bg": "#0000FF",
+      "bg": "#4FB370",
       "fg": "#FFFFFF"
     }
   },
@@ -13,7 +13,7 @@
     "agency_id": "1",
     "route_type": "0",
     "colors": {
-      "bg": "#00FF00",
+      "bg": "#8B0611",
       "fg": "#FFFFFF"
     }
   },
@@ -22,7 +22,7 @@
     "agency_id": "1",
     "route_type": "7",
     "colors": {
-      "bg": "#FF0000",
+      "bg": "#C10041",
       "fg": "#FFFFFF"
     }
   },
@@ -31,7 +31,7 @@
     "agency_id": "1",
     "route_type": "11",
     "colors": {
-      "bg": "#FF00FF",
+      "bg": "#EEAD01",
       "fg": "#FFFFFF"
     }
   },
@@ -40,7 +40,7 @@
     "agency_id": "1",
     "route_type": "3",
     "colors": {
-      "bg": "#FFFF00",
+      "bg": "#1C6078",
       "fg": "#FFFFFF"
     }
   }

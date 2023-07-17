@@ -5,8 +5,8 @@
       "id": "L991D1",
       "name": "A",
       "colors": {
-        "bg": "#EAD2AC",
-        "fg": "#000000"
+        "bg": "#CC2A36",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -3746,8 +3746,7 @@
       }
     },
     "length": 16902.315817350158,
-    "uniquePath": true,
-    "uniquePathOnLine": true
+    "uniquePath": true
   },
   {
     "id": "L991D1__1",
@@ -3755,8 +3754,8 @@
       "id": "L991D1",
       "name": "A",
       "colors": {
-        "bg": "#EAD2AC",
-        "fg": "#000000"
+        "bg": "#CC2A36",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -3764,158 +3763,15 @@
     "destination": "Nemocnice Motol",
     "stops": [
       {
-        "id": "U306Z102",
-        "name": "Nemocnice Motol",
+        "id": "U1071Z101",
+        "name": "Depo Hostivař",
         "location": [
-          14.340865,
-          50.075222
+          14.515447,
+          50.075523
         ],
-        "coordIndex": 665,
-        "onTrackLocation": 1,
-        "distanceToNextStop": 0
-      },
-      {
-        "id": "U507Z102",
-        "name": "Petřiny",
-        "location": [
-          14.345019,
-          50.086608
-        ],
-        "coordIndex": 603,
-        "onTrackLocation": 0.9104219071782227,
-        "distanceToNextStop": 0.08957809282177731
-      },
-      {
-        "id": "U462Z102",
-        "name": "Nádraží Veleslavín",
-        "location": [
-          14.347792,
-          50.095565
-        ],
-        "coordIndex": 537,
-        "onTrackLocation": 0.8436644138188161,
-        "distanceToNextStop": 0.06675749335940662
-      },
-      {
-        "id": "U157Z102",
-        "name": "Bořislavka",
-        "location": [
-          14.362121,
-          50.098319
-        ],
-        "coordIndex": 501,
-        "onTrackLocation": 0.7795689042308162,
-        "distanceToNextStop": 0.06409550958799992
-      },
-      {
-        "id": "U321Z102",
-        "name": "Dejvická",
-        "location": [
-          14.392463,
-          50.100481
-        ],
-        "coordIndex": 480,
-        "onTrackLocation": 0.6514315797900081,
-        "distanceToNextStop": 0.12813732444080805
-      },
-      {
-        "id": "U163Z102",
-        "name": "Hradčanská",
-        "location": [
-          14.402536,
-          50.097671
-        ],
-        "coordIndex": 429,
-        "onTrackLocation": 0.6027801454296746,
-        "distanceToNextStop": 0.04865143436033348
-      },
-      {
-        "id": "U360Z102",
-        "name": "Malostranská",
-        "location": [
-          14.409102,
-          50.092176
-        ],
-        "coordIndex": 388,
-        "onTrackLocation": 0.5545456906291556,
-        "distanceToNextStop": 0.04823445480051902
-      },
-      {
-        "id": "U703Z102",
-        "name": "Staroměstská",
-        "location": [
-          14.417067,
-          50.088454
-        ],
-        "coordIndex": 347,
-        "onTrackLocation": 0.5089991744601668,
-        "distanceToNextStop": 0.04554651616898875
-      },
-      {
-        "id": "U1072Z102",
-        "name": "Můstek - A",
-        "location": [
-          14.42415,
-          50.083943
-        ],
-        "coordIndex": 316,
-        "onTrackLocation": 0.46536581415045786,
-        "distanceToNextStop": 0.04363336030970899
-      },
-      {
-        "id": "U400Z102",
-        "name": "Muzeum - A",
-        "location": [
-          14.43133,
-          50.079884
-        ],
-        "coordIndex": 284,
-        "onTrackLocation": 0.42486138403350204,
-        "distanceToNextStop": 0.040504430116955814
-      },
-      {
-        "id": "U476Z102",
-        "name": "Náměstí Míru",
-        "location": [
-          14.43908,
-          50.075398
-        ],
-        "coordIndex": 240,
-        "onTrackLocation": 0.3774689580045667,
-        "distanceToNextStop": 0.04739242602893534
-      },
-      {
-        "id": "U118Z102",
-        "name": "Flora",
-        "location": [
-          14.461887,
-          50.078288
-        ],
-        "coordIndex": 169,
-        "onTrackLocation": 0.2766300385882042,
-        "distanceToNextStop": 0.10083891941636253
-      },
-      {
-        "id": "U921Z102",
-        "name": "Želivského",
-        "location": [
-          14.474892,
-          50.07854
-        ],
-        "coordIndex": 135,
-        "onTrackLocation": 0.22118119991021137,
-        "distanceToNextStop": 0.0554488386779928
-      },
-      {
-        "id": "U713Z102",
-        "name": "Strašnická",
-        "location": [
-          14.490092,
-          50.073336
-        ],
-        "coordIndex": 93,
-        "onTrackLocation": 0.14853705374995002,
-        "distanceToNextStop": 0.07264414616026135
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.06714187830419502
       },
       {
         "id": "U953Z102",
@@ -3929,15 +3785,158 @@
         "distanceToNextStop": 0.081395175445755
       },
       {
-        "id": "U1071Z101",
-        "name": "Depo Hostivař",
+        "id": "U713Z102",
+        "name": "Strašnická",
         "location": [
-          14.515447,
-          50.075523
+          14.490092,
+          50.073336
         ],
-        "coordIndex": 0,
-        "onTrackLocation": 0,
-        "distanceToNextStop": 0.06714187830419502
+        "coordIndex": 93,
+        "onTrackLocation": 0.14853705374995002,
+        "distanceToNextStop": 0.07264414616026135
+      },
+      {
+        "id": "U921Z102",
+        "name": "Želivského",
+        "location": [
+          14.474892,
+          50.07854
+        ],
+        "coordIndex": 135,
+        "onTrackLocation": 0.22118119991021137,
+        "distanceToNextStop": 0.0554488386779928
+      },
+      {
+        "id": "U118Z102",
+        "name": "Flora",
+        "location": [
+          14.461887,
+          50.078288
+        ],
+        "coordIndex": 169,
+        "onTrackLocation": 0.2766300385882042,
+        "distanceToNextStop": 0.10083891941636253
+      },
+      {
+        "id": "U476Z102",
+        "name": "Náměstí Míru",
+        "location": [
+          14.43908,
+          50.075398
+        ],
+        "coordIndex": 240,
+        "onTrackLocation": 0.3774689580045667,
+        "distanceToNextStop": 0.04739242602893534
+      },
+      {
+        "id": "U400Z102",
+        "name": "Muzeum - A",
+        "location": [
+          14.43133,
+          50.079884
+        ],
+        "coordIndex": 284,
+        "onTrackLocation": 0.42486138403350204,
+        "distanceToNextStop": 0.040504430116955814
+      },
+      {
+        "id": "U1072Z102",
+        "name": "Můstek - A",
+        "location": [
+          14.42415,
+          50.083943
+        ],
+        "coordIndex": 316,
+        "onTrackLocation": 0.46536581415045786,
+        "distanceToNextStop": 0.04363336030970899
+      },
+      {
+        "id": "U703Z102",
+        "name": "Staroměstská",
+        "location": [
+          14.417067,
+          50.088454
+        ],
+        "coordIndex": 347,
+        "onTrackLocation": 0.5089991744601668,
+        "distanceToNextStop": 0.04554651616898875
+      },
+      {
+        "id": "U360Z102",
+        "name": "Malostranská",
+        "location": [
+          14.409102,
+          50.092176
+        ],
+        "coordIndex": 388,
+        "onTrackLocation": 0.5545456906291556,
+        "distanceToNextStop": 0.04823445480051902
+      },
+      {
+        "id": "U163Z102",
+        "name": "Hradčanská",
+        "location": [
+          14.402536,
+          50.097671
+        ],
+        "coordIndex": 429,
+        "onTrackLocation": 0.6027801454296746,
+        "distanceToNextStop": 0.04865143436033348
+      },
+      {
+        "id": "U321Z102",
+        "name": "Dejvická",
+        "location": [
+          14.392463,
+          50.100481
+        ],
+        "coordIndex": 480,
+        "onTrackLocation": 0.6514315797900081,
+        "distanceToNextStop": 0.12813732444080805
+      },
+      {
+        "id": "U157Z102",
+        "name": "Bořislavka",
+        "location": [
+          14.362121,
+          50.098319
+        ],
+        "coordIndex": 501,
+        "onTrackLocation": 0.7795689042308162,
+        "distanceToNextStop": 0.06409550958799992
+      },
+      {
+        "id": "U462Z102",
+        "name": "Nádraží Veleslavín",
+        "location": [
+          14.347792,
+          50.095565
+        ],
+        "coordIndex": 537,
+        "onTrackLocation": 0.8436644138188161,
+        "distanceToNextStop": 0.06675749335940662
+      },
+      {
+        "id": "U507Z102",
+        "name": "Petřiny",
+        "location": [
+          14.345019,
+          50.086608
+        ],
+        "coordIndex": 603,
+        "onTrackLocation": 0.9104219071782227,
+        "distanceToNextStop": 0.08957809282177731
+      },
+      {
+        "id": "U306Z102",
+        "name": "Nemocnice Motol",
+        "location": [
+          14.340865,
+          50.075222
+        ],
+        "coordIndex": 665,
+        "onTrackLocation": 1,
+        "distanceToNextStop": 0
       }
     ],
     "timeline": [
@@ -7487,8 +7486,8 @@
       "id": "L991D1",
       "name": "A",
       "colors": {
-        "bg": "#EAD2AC",
-        "fg": "#000000"
+        "bg": "#CC2A36",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -7496,147 +7495,15 @@
     "destination": "Nemocnice Motol",
     "stops": [
       {
-        "id": "U306Z102",
-        "name": "Nemocnice Motol",
+        "id": "U953Z102",
+        "name": "Skalka",
         "location": [
-          14.340865,
-          50.075222
+          14.50717,
+          50.068435
         ],
-        "coordIndex": 610,
-        "onTrackLocation": 1,
-        "distanceToNextStop": 0
-      },
-      {
-        "id": "U507Z102",
-        "name": "Petřiny",
-        "location": [
-          14.345019,
-          50.086608
-        ],
-        "coordIndex": 548,
-        "onTrackLocation": 0.903974580122712,
-        "distanceToNextStop": 0.09602541987728797
-      },
-      {
-        "id": "U462Z102",
-        "name": "Nádraží Veleslavín",
-        "location": [
-          14.347792,
-          50.095565
-        ],
-        "coordIndex": 482,
-        "onTrackLocation": 0.8324122580430684,
-        "distanceToNextStop": 0.07156232207964364
-      },
-      {
-        "id": "U157Z102",
-        "name": "Bořislavka",
-        "location": [
-          14.362121,
-          50.098319
-        ],
-        "coordIndex": 446,
-        "onTrackLocation": 0.7637035143474212,
-        "distanceToNextStop": 0.06870874369564717
-      },
-      {
-        "id": "U321Z102",
-        "name": "Dejvická",
-        "location": [
-          14.392463,
-          50.100481
-        ],
-        "coordIndex": 425,
-        "onTrackLocation": 0.6263435863362118,
-        "distanceToNextStop": 0.13735992801120944
-      },
-      {
-        "id": "U163Z102",
-        "name": "Hradčanská",
-        "location": [
-          14.402536,
-          50.097671
-        ],
-        "coordIndex": 374,
-        "onTrackLocation": 0.5741904954976049,
-        "distanceToNextStop": 0.052153090838606864
-      },
-      {
-        "id": "U360Z102",
-        "name": "Malostranská",
-        "location": [
-          14.409102,
-          50.092176
-        ],
-        "coordIndex": 333,
-        "onTrackLocation": 0.5224843960611381,
-        "distanceToNextStop": 0.05170609943646687
-      },
-      {
-        "id": "U703Z102",
-        "name": "Staroměstská",
-        "location": [
-          14.417067,
-          50.088454
-        ],
-        "coordIndex": 292,
-        "onTrackLocation": 0.47365969795357205,
-        "distanceToNextStop": 0.04882469810756601
-      },
-      {
-        "id": "U1072Z102",
-        "name": "Můstek - A",
-        "location": [
-          14.42415,
-          50.083943
-        ],
-        "coordIndex": 261,
-        "onTrackLocation": 0.4268858538984979,
-        "distanceToNextStop": 0.04677384405507412
-      },
-      {
-        "id": "U400Z102",
-        "name": "Muzeum - A",
-        "location": [
-          14.43133,
-          50.079884
-        ],
-        "coordIndex": 229,
-        "onTrackLocation": 0.3834661428246163,
-        "distanceToNextStop": 0.04341971107388165
-      },
-      {
-        "id": "U476Z102",
-        "name": "Náměstí Míru",
-        "location": [
-          14.43908,
-          50.075398
-        ],
-        "coordIndex": 185,
-        "onTrackLocation": 0.332662676652523,
-        "distanceToNextStop": 0.05080346617209325
-      },
-      {
-        "id": "U118Z102",
-        "name": "Flora",
-        "location": [
-          14.461887,
-          50.078288
-        ],
-        "coordIndex": 114,
-        "onTrackLocation": 0.22456593924828472,
-        "distanceToNextStop": 0.10809673740423831
-      },
-      {
-        "id": "U921Z102",
-        "name": "Želivského",
-        "location": [
-          14.474892,
-          50.07854
-        ],
-        "coordIndex": 80,
-        "onTrackLocation": 0.16512620517897672,
-        "distanceToNextStop": 0.059439734069308
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.08725354215471694
       },
       {
         "id": "U713Z102",
@@ -7650,15 +7517,147 @@
         "distanceToNextStop": 0.07787266302425978
       },
       {
-        "id": "U953Z102",
-        "name": "Skalka",
+        "id": "U921Z102",
+        "name": "Želivského",
         "location": [
-          14.50717,
-          50.068435
+          14.474892,
+          50.07854
         ],
-        "coordIndex": 0,
-        "onTrackLocation": 0,
-        "distanceToNextStop": 0.08725354215471694
+        "coordIndex": 80,
+        "onTrackLocation": 0.16512620517897672,
+        "distanceToNextStop": 0.059439734069308
+      },
+      {
+        "id": "U118Z102",
+        "name": "Flora",
+        "location": [
+          14.461887,
+          50.078288
+        ],
+        "coordIndex": 114,
+        "onTrackLocation": 0.22456593924828472,
+        "distanceToNextStop": 0.10809673740423831
+      },
+      {
+        "id": "U476Z102",
+        "name": "Náměstí Míru",
+        "location": [
+          14.43908,
+          50.075398
+        ],
+        "coordIndex": 185,
+        "onTrackLocation": 0.332662676652523,
+        "distanceToNextStop": 0.05080346617209325
+      },
+      {
+        "id": "U400Z102",
+        "name": "Muzeum - A",
+        "location": [
+          14.43133,
+          50.079884
+        ],
+        "coordIndex": 229,
+        "onTrackLocation": 0.3834661428246163,
+        "distanceToNextStop": 0.04341971107388165
+      },
+      {
+        "id": "U1072Z102",
+        "name": "Můstek - A",
+        "location": [
+          14.42415,
+          50.083943
+        ],
+        "coordIndex": 261,
+        "onTrackLocation": 0.4268858538984979,
+        "distanceToNextStop": 0.04677384405507412
+      },
+      {
+        "id": "U703Z102",
+        "name": "Staroměstská",
+        "location": [
+          14.417067,
+          50.088454
+        ],
+        "coordIndex": 292,
+        "onTrackLocation": 0.47365969795357205,
+        "distanceToNextStop": 0.04882469810756601
+      },
+      {
+        "id": "U360Z102",
+        "name": "Malostranská",
+        "location": [
+          14.409102,
+          50.092176
+        ],
+        "coordIndex": 333,
+        "onTrackLocation": 0.5224843960611381,
+        "distanceToNextStop": 0.05170609943646687
+      },
+      {
+        "id": "U163Z102",
+        "name": "Hradčanská",
+        "location": [
+          14.402536,
+          50.097671
+        ],
+        "coordIndex": 374,
+        "onTrackLocation": 0.5741904954976049,
+        "distanceToNextStop": 0.052153090838606864
+      },
+      {
+        "id": "U321Z102",
+        "name": "Dejvická",
+        "location": [
+          14.392463,
+          50.100481
+        ],
+        "coordIndex": 425,
+        "onTrackLocation": 0.6263435863362118,
+        "distanceToNextStop": 0.13735992801120944
+      },
+      {
+        "id": "U157Z102",
+        "name": "Bořislavka",
+        "location": [
+          14.362121,
+          50.098319
+        ],
+        "coordIndex": 446,
+        "onTrackLocation": 0.7637035143474212,
+        "distanceToNextStop": 0.06870874369564717
+      },
+      {
+        "id": "U462Z102",
+        "name": "Nádraží Veleslavín",
+        "location": [
+          14.347792,
+          50.095565
+        ],
+        "coordIndex": 482,
+        "onTrackLocation": 0.8324122580430684,
+        "distanceToNextStop": 0.07156232207964364
+      },
+      {
+        "id": "U507Z102",
+        "name": "Petřiny",
+        "location": [
+          14.345019,
+          50.086608
+        ],
+        "coordIndex": 548,
+        "onTrackLocation": 0.903974580122712,
+        "distanceToNextStop": 0.09602541987728797
+      },
+      {
+        "id": "U306Z102",
+        "name": "Nemocnice Motol",
+        "location": [
+          14.340865,
+          50.075222
+        ],
+        "coordIndex": 610,
+        "onTrackLocation": 1,
+        "distanceToNextStop": 0
       }
     ],
     "timeline": [
@@ -10567,8 +10566,8 @@
       "id": "L991D1",
       "name": "A",
       "colors": {
-        "bg": "#EAD2AC",
-        "fg": "#000000"
+        "bg": "#CC2A36",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -13552,8 +13551,8 @@
       "id": "L991D1",
       "name": "A",
       "colors": {
-        "bg": "#EAD2AC",
-        "fg": "#000000"
+        "bg": "#CC2A36",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -16311,8 +16310,8 @@
       "id": "L991D1",
       "name": "A",
       "colors": {
-        "bg": "#EAD2AC",
-        "fg": "#000000"
+        "bg": "#CC2A36",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -16320,158 +16319,15 @@
     "destination": "Nemocnice Motol",
     "stops": [
       {
-        "id": "U306Z102",
-        "name": "Nemocnice Motol",
+        "id": "U1071Z102",
+        "name": "Depo Hostivař",
         "location": [
-          14.340865,
-          50.075222
+          14.515322,
+          50.075541
         ],
-        "coordIndex": 665,
-        "onTrackLocation": 1,
-        "distanceToNextStop": 0
-      },
-      {
-        "id": "U507Z102",
-        "name": "Petřiny",
-        "location": [
-          14.345019,
-          50.086608
-        ],
-        "coordIndex": 603,
-        "onTrackLocation": 0.9104194480942418,
-        "distanceToNextStop": 0.0895805519057582
-      },
-      {
-        "id": "U462Z102",
-        "name": "Nádraží Veleslavín",
-        "location": [
-          14.347792,
-          50.095565
-        ],
-        "coordIndex": 537,
-        "onTrackLocation": 0.843660122118429,
-        "distanceToNextStop": 0.0667593259758128
-      },
-      {
-        "id": "U157Z102",
-        "name": "Bořislavka",
-        "location": [
-          14.362121,
-          50.098319
-        ],
-        "coordIndex": 501,
-        "onTrackLocation": 0.7795628529903906,
-        "distanceToNextStop": 0.06409726912803837
-      },
-      {
-        "id": "U321Z102",
-        "name": "Dejvická",
-        "location": [
-          14.392463,
-          50.100481
-        ],
-        "coordIndex": 480,
-        "onTrackLocation": 0.6514220109435255,
-        "distanceToNextStop": 0.12814084204686516
-      },
-      {
-        "id": "U163Z102",
-        "name": "Hradčanská",
-        "location": [
-          14.402536,
-          50.097671
-        ],
-        "coordIndex": 429,
-        "onTrackLocation": 0.6027692410115235,
-        "distanceToNextStop": 0.04865276993200196
-      },
-      {
-        "id": "U360Z102",
-        "name": "Malostranská",
-        "location": [
-          14.409102,
-          50.092176
-        ],
-        "coordIndex": 388,
-        "onTrackLocation": 0.5545334620861945,
-        "distanceToNextStop": 0.04823577892532904
-      },
-      {
-        "id": "U703Z102",
-        "name": "Staroměstská",
-        "location": [
-          14.417067,
-          50.088454
-        ],
-        "coordIndex": 347,
-        "onTrackLocation": 0.5089856955812723,
-        "distanceToNextStop": 0.045547766504922205
-      },
-      {
-        "id": "U1072Z102",
-        "name": "Můstek - A",
-        "location": [
-          14.42415,
-          50.083943
-        ],
-        "coordIndex": 316,
-        "onTrackLocation": 0.4653511374552894,
-        "distanceToNextStop": 0.04363455812598288
-      },
-      {
-        "id": "U400Z102",
-        "name": "Muzeum - A",
-        "location": [
-          14.43133,
-          50.079884
-        ],
-        "coordIndex": 284,
-        "onTrackLocation": 0.42484559541696837,
-        "distanceToNextStop": 0.04050554203832102
-      },
-      {
-        "id": "U476Z102",
-        "name": "Náměstí Míru",
-        "location": [
-          14.43908,
-          50.075398
-        ],
-        "coordIndex": 240,
-        "onTrackLocation": 0.377451868378467,
-        "distanceToNextStop": 0.047393727038501365
-      },
-      {
-        "id": "U118Z102",
-        "name": "Flora",
-        "location": [
-          14.461887,
-          50.078288
-        ],
-        "coordIndex": 169,
-        "onTrackLocation": 0.2766101807476494,
-        "distanceToNextStop": 0.10084168763081758
-      },
-      {
-        "id": "U921Z102",
-        "name": "Želivského",
-        "location": [
-          14.474892,
-          50.07854
-        ],
-        "coordIndex": 135,
-        "onTrackLocation": 0.22115981989669378,
-        "distanceToNextStop": 0.05545036085095564
-      },
-      {
-        "id": "U713Z102",
-        "name": "Strašnická",
-        "location": [
-          14.490092,
-          50.073336
-        ],
-        "coordIndex": 93,
-        "onTrackLocation": 0.14851367952054204,
-        "distanceToNextStop": 0.07264614037615175
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.06711626962699105
       },
       {
         "id": "U953Z102",
@@ -16485,15 +16341,158 @@
         "distanceToNextStop": 0.08139740989355099
       },
       {
-        "id": "U1071Z102",
-        "name": "Depo Hostivař",
+        "id": "U713Z102",
+        "name": "Strašnická",
         "location": [
-          14.515322,
-          50.075541
+          14.490092,
+          50.073336
         ],
-        "coordIndex": 0,
-        "onTrackLocation": 0,
-        "distanceToNextStop": 0.06711626962699105
+        "coordIndex": 93,
+        "onTrackLocation": 0.14851367952054204,
+        "distanceToNextStop": 0.07264614037615175
+      },
+      {
+        "id": "U921Z102",
+        "name": "Želivského",
+        "location": [
+          14.474892,
+          50.07854
+        ],
+        "coordIndex": 135,
+        "onTrackLocation": 0.22115981989669378,
+        "distanceToNextStop": 0.05545036085095564
+      },
+      {
+        "id": "U118Z102",
+        "name": "Flora",
+        "location": [
+          14.461887,
+          50.078288
+        ],
+        "coordIndex": 169,
+        "onTrackLocation": 0.2766101807476494,
+        "distanceToNextStop": 0.10084168763081758
+      },
+      {
+        "id": "U476Z102",
+        "name": "Náměstí Míru",
+        "location": [
+          14.43908,
+          50.075398
+        ],
+        "coordIndex": 240,
+        "onTrackLocation": 0.377451868378467,
+        "distanceToNextStop": 0.047393727038501365
+      },
+      {
+        "id": "U400Z102",
+        "name": "Muzeum - A",
+        "location": [
+          14.43133,
+          50.079884
+        ],
+        "coordIndex": 284,
+        "onTrackLocation": 0.42484559541696837,
+        "distanceToNextStop": 0.04050554203832102
+      },
+      {
+        "id": "U1072Z102",
+        "name": "Můstek - A",
+        "location": [
+          14.42415,
+          50.083943
+        ],
+        "coordIndex": 316,
+        "onTrackLocation": 0.4653511374552894,
+        "distanceToNextStop": 0.04363455812598288
+      },
+      {
+        "id": "U703Z102",
+        "name": "Staroměstská",
+        "location": [
+          14.417067,
+          50.088454
+        ],
+        "coordIndex": 347,
+        "onTrackLocation": 0.5089856955812723,
+        "distanceToNextStop": 0.045547766504922205
+      },
+      {
+        "id": "U360Z102",
+        "name": "Malostranská",
+        "location": [
+          14.409102,
+          50.092176
+        ],
+        "coordIndex": 388,
+        "onTrackLocation": 0.5545334620861945,
+        "distanceToNextStop": 0.04823577892532904
+      },
+      {
+        "id": "U163Z102",
+        "name": "Hradčanská",
+        "location": [
+          14.402536,
+          50.097671
+        ],
+        "coordIndex": 429,
+        "onTrackLocation": 0.6027692410115235,
+        "distanceToNextStop": 0.04865276993200196
+      },
+      {
+        "id": "U321Z102",
+        "name": "Dejvická",
+        "location": [
+          14.392463,
+          50.100481
+        ],
+        "coordIndex": 480,
+        "onTrackLocation": 0.6514220109435255,
+        "distanceToNextStop": 0.12814084204686516
+      },
+      {
+        "id": "U157Z102",
+        "name": "Bořislavka",
+        "location": [
+          14.362121,
+          50.098319
+        ],
+        "coordIndex": 501,
+        "onTrackLocation": 0.7795628529903906,
+        "distanceToNextStop": 0.06409726912803837
+      },
+      {
+        "id": "U462Z102",
+        "name": "Nádraží Veleslavín",
+        "location": [
+          14.347792,
+          50.095565
+        ],
+        "coordIndex": 537,
+        "onTrackLocation": 0.843660122118429,
+        "distanceToNextStop": 0.0667593259758128
+      },
+      {
+        "id": "U507Z102",
+        "name": "Petřiny",
+        "location": [
+          14.345019,
+          50.086608
+        ],
+        "coordIndex": 603,
+        "onTrackLocation": 0.9104194480942418,
+        "distanceToNextStop": 0.0895805519057582
+      },
+      {
+        "id": "U306Z102",
+        "name": "Nemocnice Motol",
+        "location": [
+          14.340865,
+          50.075222
+        ],
+        "coordIndex": 665,
+        "onTrackLocation": 1,
+        "distanceToNextStop": 0
       }
     ],
     "timeline": [
@@ -19365,8 +19364,8 @@
       "id": "L991D1",
       "name": "A",
       "colors": {
-        "bg": "#EAD2AC",
-        "fg": "#000000"
+        "bg": "#CC2A36",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -22419,8 +22418,8 @@
       "id": "L991D1",
       "name": "A",
       "colors": {
-        "bg": "#EAD2AC",
-        "fg": "#000000"
+        "bg": "#CC2A36",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -24547,8 +24546,8 @@
       "id": "L991D1",
       "name": "A",
       "colors": {
-        "bg": "#EAD2AC",
-        "fg": "#000000"
+        "bg": "#CC2A36",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -24556,158 +24555,15 @@
     "destination": "Nemocnice Motol",
     "stops": [
       {
-        "id": "U306Z102",
-        "name": "Nemocnice Motol",
+        "id": "U1071Z102",
+        "name": "Depo Hostivař",
         "location": [
-          14.340865,
-          50.075222
+          14.515322,
+          50.075541
         ],
-        "coordIndex": 665,
-        "onTrackLocation": 1,
-        "distanceToNextStop": 0
-      },
-      {
-        "id": "U507Z102",
-        "name": "Petřiny",
-        "location": [
-          14.345019,
-          50.086608
-        ],
-        "coordIndex": 603,
-        "onTrackLocation": 0.910419448939852,
-        "distanceToNextStop": 0.08958055106014795
-      },
-      {
-        "id": "U462Z102",
-        "name": "Nádraží Veleslavín",
-        "location": [
-          14.347792,
-          50.095565
-        ],
-        "coordIndex": 537,
-        "onTrackLocation": 0.8436601235942248,
-        "distanceToNextStop": 0.06675932534562723
-      },
-      {
-        "id": "U157Z102",
-        "name": "Bořislavka",
-        "location": [
-          14.362121,
-          50.098319
-        ],
-        "coordIndex": 501,
-        "onTrackLocation": 0.7795628550712431,
-        "distanceToNextStop": 0.0640972685229817
-      },
-      {
-        "id": "U321Z102",
-        "name": "Dejvická",
-        "location": [
-          14.392463,
-          50.100481
-        ],
-        "coordIndex": 480,
-        "onTrackLocation": 0.6514220142339844,
-        "distanceToNextStop": 0.12814084083725874
-      },
-      {
-        "id": "U163Z102",
-        "name": "Hradčanská",
-        "location": [
-          14.402536,
-          50.097671
-        ],
-        "coordIndex": 429,
-        "onTrackLocation": 0.602769244761248,
-        "distanceToNextStop": 0.048652769472736335
-      },
-      {
-        "id": "U360Z102",
-        "name": "Malostranská",
-        "location": [
-          14.409102,
-          50.092176
-        ],
-        "coordIndex": 388,
-        "onTrackLocation": 0.5545334662912486,
-        "distanceToNextStop": 0.04823577846999949
-      },
-      {
-        "id": "U703Z102",
-        "name": "Staroměstská",
-        "location": [
-          14.417067,
-          50.088454
-        ],
-        "coordIndex": 347,
-        "onTrackLocation": 0.508985700216282,
-        "distanceToNextStop": 0.04554776607496658
-      },
-      {
-        "id": "U1072Z102",
-        "name": "Můstek - A",
-        "location": [
-          14.42415,
-          50.083943
-        ],
-        "coordIndex": 316,
-        "onTrackLocation": 0.46535114250219456,
-        "distanceToNextStop": 0.04363455771408742
-      },
-      {
-        "id": "U400Z102",
-        "name": "Muzeum - A",
-        "location": [
-          14.43133,
-          50.079884
-        ],
-        "coordIndex": 284,
-        "onTrackLocation": 0.42484560084623224,
-        "distanceToNextStop": 0.04050554165596232
-      },
-      {
-        "id": "U476Z102",
-        "name": "Náměstí Míru",
-        "location": [
-          14.43908,
-          50.075398
-        ],
-        "coordIndex": 240,
-        "onTrackLocation": 0.37745187425511173,
-        "distanceToNextStop": 0.04739372659112051
-      },
-      {
-        "id": "U118Z102",
-        "name": "Flora",
-        "location": [
-          14.461887,
-          50.078288
-        ],
-        "coordIndex": 169,
-        "onTrackLocation": 0.27661018757620576,
-        "distanceToNextStop": 0.10084168667890597
-      },
-      {
-        "id": "U921Z102",
-        "name": "Želivského",
-        "location": [
-          14.474892,
-          50.07854
-        ],
-        "coordIndex": 135,
-        "onTrackLocation": 0.2211598272486828,
-        "distanceToNextStop": 0.05545036032752296
-      },
-      {
-        "id": "U713Z102",
-        "name": "Strašnická",
-        "location": [
-          14.490092,
-          50.073336
-        ],
-        "coordIndex": 93,
-        "onTrackLocation": 0.14851368755828614,
-        "distanceToNextStop": 0.07264613969039665
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.06132402115721194
       },
       {
         "id": "U953Z101",
@@ -24721,15 +24577,158 @@
         "distanceToNextStop": 0.0871896664010742
       },
       {
-        "id": "U1071Z102",
-        "name": "Depo Hostivař",
+        "id": "U713Z102",
+        "name": "Strašnická",
         "location": [
-          14.515322,
-          50.075541
+          14.490092,
+          50.073336
         ],
-        "coordIndex": 0,
-        "onTrackLocation": 0,
-        "distanceToNextStop": 0.06132402115721194
+        "coordIndex": 93,
+        "onTrackLocation": 0.14851368755828614,
+        "distanceToNextStop": 0.07264613969039665
+      },
+      {
+        "id": "U921Z102",
+        "name": "Želivského",
+        "location": [
+          14.474892,
+          50.07854
+        ],
+        "coordIndex": 135,
+        "onTrackLocation": 0.2211598272486828,
+        "distanceToNextStop": 0.05545036032752296
+      },
+      {
+        "id": "U118Z102",
+        "name": "Flora",
+        "location": [
+          14.461887,
+          50.078288
+        ],
+        "coordIndex": 169,
+        "onTrackLocation": 0.27661018757620576,
+        "distanceToNextStop": 0.10084168667890597
+      },
+      {
+        "id": "U476Z102",
+        "name": "Náměstí Míru",
+        "location": [
+          14.43908,
+          50.075398
+        ],
+        "coordIndex": 240,
+        "onTrackLocation": 0.37745187425511173,
+        "distanceToNextStop": 0.04739372659112051
+      },
+      {
+        "id": "U400Z102",
+        "name": "Muzeum - A",
+        "location": [
+          14.43133,
+          50.079884
+        ],
+        "coordIndex": 284,
+        "onTrackLocation": 0.42484560084623224,
+        "distanceToNextStop": 0.04050554165596232
+      },
+      {
+        "id": "U1072Z102",
+        "name": "Můstek - A",
+        "location": [
+          14.42415,
+          50.083943
+        ],
+        "coordIndex": 316,
+        "onTrackLocation": 0.46535114250219456,
+        "distanceToNextStop": 0.04363455771408742
+      },
+      {
+        "id": "U703Z102",
+        "name": "Staroměstská",
+        "location": [
+          14.417067,
+          50.088454
+        ],
+        "coordIndex": 347,
+        "onTrackLocation": 0.508985700216282,
+        "distanceToNextStop": 0.04554776607496658
+      },
+      {
+        "id": "U360Z102",
+        "name": "Malostranská",
+        "location": [
+          14.409102,
+          50.092176
+        ],
+        "coordIndex": 388,
+        "onTrackLocation": 0.5545334662912486,
+        "distanceToNextStop": 0.04823577846999949
+      },
+      {
+        "id": "U163Z102",
+        "name": "Hradčanská",
+        "location": [
+          14.402536,
+          50.097671
+        ],
+        "coordIndex": 429,
+        "onTrackLocation": 0.602769244761248,
+        "distanceToNextStop": 0.048652769472736335
+      },
+      {
+        "id": "U321Z102",
+        "name": "Dejvická",
+        "location": [
+          14.392463,
+          50.100481
+        ],
+        "coordIndex": 480,
+        "onTrackLocation": 0.6514220142339844,
+        "distanceToNextStop": 0.12814084083725874
+      },
+      {
+        "id": "U157Z102",
+        "name": "Bořislavka",
+        "location": [
+          14.362121,
+          50.098319
+        ],
+        "coordIndex": 501,
+        "onTrackLocation": 0.7795628550712431,
+        "distanceToNextStop": 0.0640972685229817
+      },
+      {
+        "id": "U462Z102",
+        "name": "Nádraží Veleslavín",
+        "location": [
+          14.347792,
+          50.095565
+        ],
+        "coordIndex": 537,
+        "onTrackLocation": 0.8436601235942248,
+        "distanceToNextStop": 0.06675932534562723
+      },
+      {
+        "id": "U507Z102",
+        "name": "Petřiny",
+        "location": [
+          14.345019,
+          50.086608
+        ],
+        "coordIndex": 603,
+        "onTrackLocation": 0.910419448939852,
+        "distanceToNextStop": 0.08958055106014795
+      },
+      {
+        "id": "U306Z102",
+        "name": "Nemocnice Motol",
+        "location": [
+          14.340865,
+          50.075222
+        ],
+        "coordIndex": 665,
+        "onTrackLocation": 1,
+        "distanceToNextStop": 0
       }
     ],
     "timeline": [
@@ -27441,8 +27440,8 @@
       "id": "L992D1",
       "name": "B",
       "colors": {
-        "bg": "#4282A4",
-        "fg": "#000000"
+        "bg": "#5C374C",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -32904,8 +32903,7 @@
       }
     },
     "length": 25666.41684881843,
-    "uniquePath": true,
-    "uniquePathOnLine": true
+    "uniquePath": true
   },
   {
     "id": "L992D1__1",
@@ -32913,8 +32911,8 @@
       "id": "L992D1",
       "name": "B",
       "colors": {
-        "bg": "#4282A4",
-        "fg": "#000000"
+        "bg": "#5C374C",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -32922,246 +32920,15 @@
     "destination": "Černý Most",
     "stops": [
       {
-        "id": "U897Z102",
-        "name": "Černý Most",
+        "id": "U1141Z102",
+        "name": "Zličín",
         "location": [
-          14.577539,
-          50.109057
+          14.2914,
+          50.052841
         ],
-        "coordIndex": 905,
-        "onTrackLocation": 1,
-        "distanceToNextStop": 0
-      },
-      {
-        "id": "U818Z102",
-        "name": "Rajská zahrada",
-        "location": [
-          14.561207,
-          50.106935
-        ],
-        "coordIndex": 880,
-        "onTrackLocation": 0.9536438649844717,
-        "distanceToNextStop": 0.046356135015528266
-      },
-      {
-        "id": "U135Z102",
-        "name": "Hloubětín",
-        "location": [
-          14.537063,
-          50.106531
-        ],
-        "coordIndex": 830,
-        "onTrackLocation": 0.8855399378022211,
-        "distanceToNextStop": 0.06810392718225067
-      },
-      {
-        "id": "U75Z102",
-        "name": "Kolbenova",
-        "location": [
-          14.517116,
-          50.11033
-        ],
-        "coordIndex": 779,
-        "onTrackLocation": 0.825862946971544,
-        "distanceToNextStop": 0.05967699083067701
-      },
-      {
-        "id": "U474Z102",
-        "name": "Vysočanská",
-        "location": [
-          14.501729,
-          50.110167
-        ],
-        "coordIndex": 736,
-        "onTrackLocation": 0.782323108294747,
-        "distanceToNextStop": 0.043539838676797005
-      },
-      {
-        "id": "U510Z102",
-        "name": "Českomoravská",
-        "location": [
-          14.492292,
-          50.106302
-        ],
-        "coordIndex": 704,
-        "onTrackLocation": 0.7508835098692965,
-        "distanceToNextStop": 0.03143959842545052
-      },
-      {
-        "id": "U529Z102",
-        "name": "Palmovka",
-        "location": [
-          14.475437,
-          50.10417
-        ],
-        "coordIndex": 665,
-        "onTrackLocation": 0.7015724436670894,
-        "distanceToNextStop": 0.049311066202207154
-      },
-      {
-        "id": "U655Z102",
-        "name": "Invalidovna",
-        "location": [
-          14.463825,
-          50.096975
-        ],
-        "coordIndex": 632,
-        "onTrackLocation": 0.6560696284827712,
-        "distanceToNextStop": 0.0455028151843182
-      },
-      {
-        "id": "U758Z102",
-        "name": "Křižíkova",
-        "location": [
-          14.452044,
-          50.092627
-        ],
-        "coordIndex": 619,
-        "onTrackLocation": 0.6182546235379281,
-        "distanceToNextStop": 0.03781500494484302
-      },
-      {
-        "id": "U689Z102",
-        "name": "Florenc - B",
-        "location": [
-          14.438363,
-          50.090436
-        ],
-        "coordIndex": 602,
-        "onTrackLocation": 0.5788113071368274,
-        "distanceToNextStop": 0.03944331640110077
-      },
-      {
-        "id": "U480Z102",
-        "name": "Náměstí Republiky",
-        "location": [
-          14.431281,
-          50.088973
-        ],
-        "coordIndex": 584,
-        "onTrackLocation": 0.5575757599353117,
-        "distanceToNextStop": 0.02123554720151566
-      },
-      {
-        "id": "U1072Z122",
-        "name": "Můstek - B",
-        "location": [
-          14.423984,
-          50.083608
-        ],
-        "coordIndex": 522,
-        "onTrackLocation": 0.5254966000417135,
-        "distanceToNextStop": 0.03207915989359822
-      },
-      {
-        "id": "U539Z102",
-        "name": "Národní třída",
-        "location": [
-          14.42044,
-          50.080208
-        ],
-        "coordIndex": 488,
-        "onTrackLocation": 0.506566879025891,
-        "distanceToNextStop": 0.018929721015822465
-      },
-      {
-        "id": "U237Z102",
-        "name": "Karlovo náměstí",
-        "location": [
-          14.41758,
-          50.074807
-        ],
-        "coordIndex": 455,
-        "onTrackLocation": 0.48085905795031275,
-        "distanceToNextStop": 0.025707821075578285
-      },
-      {
-        "id": "U1040Z102",
-        "name": "Anděl",
-        "location": [
-          14.40405,
-          50.070399
-        ],
-        "coordIndex": 365,
-        "onTrackLocation": 0.4332870567948251,
-        "distanceToNextStop": 0.04757200115548765
-      },
-      {
-        "id": "U458Z102",
-        "name": "Smíchovské nádraží",
-        "location": [
-          14.409113,
-          50.061797
-        ],
-        "coordIndex": 299,
-        "onTrackLocation": 0.39057695260272574,
-        "distanceToNextStop": 0.04271010419209936
-      },
-      {
-        "id": "U957Z102",
-        "name": "Radlická",
-        "location": [
-          14.388404,
-          50.057942
-        ],
-        "coordIndex": 228,
-        "onTrackLocation": 0.3055886597800496,
-        "distanceToNextStop": 0.08498829282267611
-      },
-      {
-        "id": "U685Z102",
-        "name": "Jinonice",
-        "location": [
-          14.370615,
-          50.054316
-        ],
-        "coordIndex": 180,
-        "onTrackLocation": 0.25147423009878556,
-        "distanceToNextStop": 0.054114429681264065
-      },
-      {
-        "id": "U602Z102",
-        "name": "Nové Butovice",
-        "location": [
-          14.352851,
-          50.050856
-        ],
-        "coordIndex": 151,
-        "onTrackLocation": 0.19908258168295764,
-        "distanceToNextStop": 0.05239164841582791
-      },
-      {
-        "id": "U1154Z102",
-        "name": "Hůrka",
-        "location": [
-          14.343496,
-          50.050026
-        ],
-        "coordIndex": 150,
-        "onTrackLocation": 0.1728112900602359,
-        "distanceToNextStop": 0.026271291622721737
-      },
-      {
-        "id": "U258Z102",
-        "name": "Lužiny",
-        "location": [
-          14.331144,
-          50.044515
-        ],
-        "coordIndex": 92,
-        "onTrackLocation": 0.1280815654370337,
-        "distanceToNextStop": 0.04472972462320221
-      },
-      {
-        "id": "U1007Z102",
-        "name": "Luka",
-        "location": [
-          14.321855,
-          50.045365
-        ],
-        "coordIndex": 58,
-        "onTrackLocation": 0.10086564760724899,
-        "distanceToNextStop": 0.027215917829784705
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.057226152358845955
       },
       {
         "id": "U1140Z102",
@@ -33175,15 +32942,246 @@
         "distanceToNextStop": 0.043639495248403035
       },
       {
-        "id": "U1141Z102",
-        "name": "Zličín",
+        "id": "U1007Z102",
+        "name": "Luka",
         "location": [
-          14.2914,
-          50.052841
+          14.321855,
+          50.045365
         ],
-        "coordIndex": 0,
-        "onTrackLocation": 0,
-        "distanceToNextStop": 0.057226152358845955
+        "coordIndex": 58,
+        "onTrackLocation": 0.10086564760724899,
+        "distanceToNextStop": 0.027215917829784705
+      },
+      {
+        "id": "U258Z102",
+        "name": "Lužiny",
+        "location": [
+          14.331144,
+          50.044515
+        ],
+        "coordIndex": 92,
+        "onTrackLocation": 0.1280815654370337,
+        "distanceToNextStop": 0.04472972462320221
+      },
+      {
+        "id": "U1154Z102",
+        "name": "Hůrka",
+        "location": [
+          14.343496,
+          50.050026
+        ],
+        "coordIndex": 150,
+        "onTrackLocation": 0.1728112900602359,
+        "distanceToNextStop": 0.026271291622721737
+      },
+      {
+        "id": "U602Z102",
+        "name": "Nové Butovice",
+        "location": [
+          14.352851,
+          50.050856
+        ],
+        "coordIndex": 151,
+        "onTrackLocation": 0.19908258168295764,
+        "distanceToNextStop": 0.05239164841582791
+      },
+      {
+        "id": "U685Z102",
+        "name": "Jinonice",
+        "location": [
+          14.370615,
+          50.054316
+        ],
+        "coordIndex": 180,
+        "onTrackLocation": 0.25147423009878556,
+        "distanceToNextStop": 0.054114429681264065
+      },
+      {
+        "id": "U957Z102",
+        "name": "Radlická",
+        "location": [
+          14.388404,
+          50.057942
+        ],
+        "coordIndex": 228,
+        "onTrackLocation": 0.3055886597800496,
+        "distanceToNextStop": 0.08498829282267611
+      },
+      {
+        "id": "U458Z102",
+        "name": "Smíchovské nádraží",
+        "location": [
+          14.409113,
+          50.061797
+        ],
+        "coordIndex": 299,
+        "onTrackLocation": 0.39057695260272574,
+        "distanceToNextStop": 0.04271010419209936
+      },
+      {
+        "id": "U1040Z102",
+        "name": "Anděl",
+        "location": [
+          14.40405,
+          50.070399
+        ],
+        "coordIndex": 365,
+        "onTrackLocation": 0.4332870567948251,
+        "distanceToNextStop": 0.04757200115548765
+      },
+      {
+        "id": "U237Z102",
+        "name": "Karlovo náměstí",
+        "location": [
+          14.41758,
+          50.074807
+        ],
+        "coordIndex": 455,
+        "onTrackLocation": 0.48085905795031275,
+        "distanceToNextStop": 0.025707821075578285
+      },
+      {
+        "id": "U539Z102",
+        "name": "Národní třída",
+        "location": [
+          14.42044,
+          50.080208
+        ],
+        "coordIndex": 488,
+        "onTrackLocation": 0.506566879025891,
+        "distanceToNextStop": 0.018929721015822465
+      },
+      {
+        "id": "U1072Z122",
+        "name": "Můstek - B",
+        "location": [
+          14.423984,
+          50.083608
+        ],
+        "coordIndex": 522,
+        "onTrackLocation": 0.5254966000417135,
+        "distanceToNextStop": 0.03207915989359822
+      },
+      {
+        "id": "U480Z102",
+        "name": "Náměstí Republiky",
+        "location": [
+          14.431281,
+          50.088973
+        ],
+        "coordIndex": 584,
+        "onTrackLocation": 0.5575757599353117,
+        "distanceToNextStop": 0.02123554720151566
+      },
+      {
+        "id": "U689Z102",
+        "name": "Florenc - B",
+        "location": [
+          14.438363,
+          50.090436
+        ],
+        "coordIndex": 602,
+        "onTrackLocation": 0.5788113071368274,
+        "distanceToNextStop": 0.03944331640110077
+      },
+      {
+        "id": "U758Z102",
+        "name": "Křižíkova",
+        "location": [
+          14.452044,
+          50.092627
+        ],
+        "coordIndex": 619,
+        "onTrackLocation": 0.6182546235379281,
+        "distanceToNextStop": 0.03781500494484302
+      },
+      {
+        "id": "U655Z102",
+        "name": "Invalidovna",
+        "location": [
+          14.463825,
+          50.096975
+        ],
+        "coordIndex": 632,
+        "onTrackLocation": 0.6560696284827712,
+        "distanceToNextStop": 0.0455028151843182
+      },
+      {
+        "id": "U529Z102",
+        "name": "Palmovka",
+        "location": [
+          14.475437,
+          50.10417
+        ],
+        "coordIndex": 665,
+        "onTrackLocation": 0.7015724436670894,
+        "distanceToNextStop": 0.049311066202207154
+      },
+      {
+        "id": "U510Z102",
+        "name": "Českomoravská",
+        "location": [
+          14.492292,
+          50.106302
+        ],
+        "coordIndex": 704,
+        "onTrackLocation": 0.7508835098692965,
+        "distanceToNextStop": 0.03143959842545052
+      },
+      {
+        "id": "U474Z102",
+        "name": "Vysočanská",
+        "location": [
+          14.501729,
+          50.110167
+        ],
+        "coordIndex": 736,
+        "onTrackLocation": 0.782323108294747,
+        "distanceToNextStop": 0.043539838676797005
+      },
+      {
+        "id": "U75Z102",
+        "name": "Kolbenova",
+        "location": [
+          14.517116,
+          50.11033
+        ],
+        "coordIndex": 779,
+        "onTrackLocation": 0.825862946971544,
+        "distanceToNextStop": 0.05967699083067701
+      },
+      {
+        "id": "U135Z102",
+        "name": "Hloubětín",
+        "location": [
+          14.537063,
+          50.106531
+        ],
+        "coordIndex": 830,
+        "onTrackLocation": 0.8855399378022211,
+        "distanceToNextStop": 0.06810392718225067
+      },
+      {
+        "id": "U818Z102",
+        "name": "Rajská zahrada",
+        "location": [
+          14.561207,
+          50.106935
+        ],
+        "coordIndex": 880,
+        "onTrackLocation": 0.9536438649844717,
+        "distanceToNextStop": 0.046356135015528266
+      },
+      {
+        "id": "U897Z102",
+        "name": "Černý Most",
+        "location": [
+          14.577539,
+          50.109057
+        ],
+        "coordIndex": 905,
+        "onTrackLocation": 1,
+        "distanceToNextStop": 0
       }
     ],
     "timeline": [
@@ -38374,8 +38372,8 @@
       "id": "L992D1",
       "name": "B",
       "colors": {
-        "bg": "#4282A4",
-        "fg": "#000000"
+        "bg": "#5C374C",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -38383,191 +38381,15 @@
     "destination": "Černý Most",
     "stops": [
       {
-        "id": "U897Z102",
-        "name": "Černý Most",
+        "id": "U602Z102",
+        "name": "Nové Butovice",
         "location": [
-          14.577539,
-          50.109057
+          14.352851,
+          50.050856
         ],
-        "coordIndex": 754,
-        "onTrackLocation": 1,
-        "distanceToNextStop": 0
-      },
-      {
-        "id": "U818Z102",
-        "name": "Rajská zahrada",
-        "location": [
-          14.561207,
-          50.106935
-        ],
-        "coordIndex": 729,
-        "onTrackLocation": 0.9421212050638931,
-        "distanceToNextStop": 0.057878794936106925
-      },
-      {
-        "id": "U135Z102",
-        "name": "Hloubětín",
-        "location": [
-          14.537063,
-          50.106531
-        ],
-        "coordIndex": 679,
-        "onTrackLocation": 0.85708880893327,
-        "distanceToNextStop": 0.08503239613062308
-      },
-      {
-        "id": "U75Z102",
-        "name": "Kolbenova",
-        "location": [
-          14.517116,
-          50.11033
-        ],
-        "coordIndex": 628,
-        "onTrackLocation": 0.782578017351192,
-        "distanceToNextStop": 0.07451079158207796
-      },
-      {
-        "id": "U474Z102",
-        "name": "Vysočanská",
-        "location": [
-          14.501729,
-          50.110167
-        ],
-        "coordIndex": 585,
-        "onTrackLocation": 0.7282155603974073,
-        "distanceToNextStop": 0.05436245695378472
-      },
-      {
-        "id": "U510Z102",
-        "name": "Českomoravská",
-        "location": [
-          14.492292,
-          50.106302
-        ],
-        "coordIndex": 553,
-        "onTrackLocation": 0.6889610783416742,
-        "distanceToNextStop": 0.03925448205573312
-      },
-      {
-        "id": "U529Z102",
-        "name": "Palmovka",
-        "location": [
-          14.475437,
-          50.10417
-        ],
-        "coordIndex": 514,
-        "onTrackLocation": 0.6273928503640335,
-        "distanceToNextStop": 0.06156822797764072
-      },
-      {
-        "id": "U655Z102",
-        "name": "Invalidovna",
-        "location": [
-          14.463825,
-          50.096975
-        ],
-        "coordIndex": 481,
-        "onTrackLocation": 0.5705794834130026,
-        "distanceToNextStop": 0.0568133669510309
-      },
-      {
-        "id": "U758Z102",
-        "name": "Křižíkova",
-        "location": [
-          14.452044,
-          50.092627
-        ],
-        "coordIndex": 468,
-        "onTrackLocation": 0.5233648716690062,
-        "distanceToNextStop": 0.047214611743996326
-      },
-      {
-        "id": "U689Z102",
-        "name": "Florenc - B",
-        "location": [
-          14.438363,
-          50.090436
-        ],
-        "coordIndex": 451,
-        "onTrackLocation": 0.47411720206034363,
-        "distanceToNextStop": 0.049247669608662614
-      },
-      {
-        "id": "U480Z102",
-        "name": "Náměstí Republiky",
-        "location": [
-          14.431281,
-          50.088973
-        ],
-        "coordIndex": 433,
-        "onTrackLocation": 0.44760317362762747,
-        "distanceToNextStop": 0.026514028432716163
-      },
-      {
-        "id": "U1072Z122",
-        "name": "Můstek - B",
-        "location": [
-          14.423984,
-          50.083608
-        ],
-        "coordIndex": 371,
-        "onTrackLocation": 0.4075501554762607,
-        "distanceToNextStop": 0.04005301815136675
-      },
-      {
-        "id": "U539Z102",
-        "name": "Národní třída",
-        "location": [
-          14.42044,
-          50.080208
-        ],
-        "coordIndex": 337,
-        "onTrackLocation": 0.38391510823805813,
-        "distanceToNextStop": 0.02363504723820259
-      },
-      {
-        "id": "U237Z102",
-        "name": "Karlovo náměstí",
-        "location": [
-          14.41758,
-          50.074807
-        ],
-        "coordIndex": 304,
-        "onTrackLocation": 0.35181714097247185,
-        "distanceToNextStop": 0.03209796726558628
-      },
-      {
-        "id": "U1040Z102",
-        "name": "Anděl",
-        "location": [
-          14.40405,
-          50.070399
-        ],
-        "coordIndex": 214,
-        "onTrackLocation": 0.29242025426790974,
-        "distanceToNextStop": 0.05939688670456211
-      },
-      {
-        "id": "U458Z102",
-        "name": "Smíchovské nádraží",
-        "location": [
-          14.409113,
-          50.061797
-        ],
-        "coordIndex": 148,
-        "onTrackLocation": 0.23909377738612916,
-        "distanceToNextStop": 0.05332647688178058
-      },
-      {
-        "id": "U957Z102",
-        "name": "Radlická",
-        "location": [
-          14.388404,
-          50.057942
-        ],
-        "coordIndex": 77,
-        "onTrackLocation": 0.13298009964734167,
-        "distanceToNextStop": 0.10611367773878749
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.06541454489267788
       },
       {
         "id": "U685Z102",
@@ -38581,15 +38403,191 @@
         "distanceToNextStop": 0.06756555475466379
       },
       {
-        "id": "U602Z102",
-        "name": "Nové Butovice",
+        "id": "U957Z102",
+        "name": "Radlická",
         "location": [
-          14.352851,
-          50.050856
+          14.388404,
+          50.057942
         ],
-        "coordIndex": 0,
-        "onTrackLocation": 0,
-        "distanceToNextStop": 0.06541454489267788
+        "coordIndex": 77,
+        "onTrackLocation": 0.13298009964734167,
+        "distanceToNextStop": 0.10611367773878749
+      },
+      {
+        "id": "U458Z102",
+        "name": "Smíchovské nádraží",
+        "location": [
+          14.409113,
+          50.061797
+        ],
+        "coordIndex": 148,
+        "onTrackLocation": 0.23909377738612916,
+        "distanceToNextStop": 0.05332647688178058
+      },
+      {
+        "id": "U1040Z102",
+        "name": "Anděl",
+        "location": [
+          14.40405,
+          50.070399
+        ],
+        "coordIndex": 214,
+        "onTrackLocation": 0.29242025426790974,
+        "distanceToNextStop": 0.05939688670456211
+      },
+      {
+        "id": "U237Z102",
+        "name": "Karlovo náměstí",
+        "location": [
+          14.41758,
+          50.074807
+        ],
+        "coordIndex": 304,
+        "onTrackLocation": 0.35181714097247185,
+        "distanceToNextStop": 0.03209796726558628
+      },
+      {
+        "id": "U539Z102",
+        "name": "Národní třída",
+        "location": [
+          14.42044,
+          50.080208
+        ],
+        "coordIndex": 337,
+        "onTrackLocation": 0.38391510823805813,
+        "distanceToNextStop": 0.02363504723820259
+      },
+      {
+        "id": "U1072Z122",
+        "name": "Můstek - B",
+        "location": [
+          14.423984,
+          50.083608
+        ],
+        "coordIndex": 371,
+        "onTrackLocation": 0.4075501554762607,
+        "distanceToNextStop": 0.04005301815136675
+      },
+      {
+        "id": "U480Z102",
+        "name": "Náměstí Republiky",
+        "location": [
+          14.431281,
+          50.088973
+        ],
+        "coordIndex": 433,
+        "onTrackLocation": 0.44760317362762747,
+        "distanceToNextStop": 0.026514028432716163
+      },
+      {
+        "id": "U689Z102",
+        "name": "Florenc - B",
+        "location": [
+          14.438363,
+          50.090436
+        ],
+        "coordIndex": 451,
+        "onTrackLocation": 0.47411720206034363,
+        "distanceToNextStop": 0.049247669608662614
+      },
+      {
+        "id": "U758Z102",
+        "name": "Křižíkova",
+        "location": [
+          14.452044,
+          50.092627
+        ],
+        "coordIndex": 468,
+        "onTrackLocation": 0.5233648716690062,
+        "distanceToNextStop": 0.047214611743996326
+      },
+      {
+        "id": "U655Z102",
+        "name": "Invalidovna",
+        "location": [
+          14.463825,
+          50.096975
+        ],
+        "coordIndex": 481,
+        "onTrackLocation": 0.5705794834130026,
+        "distanceToNextStop": 0.0568133669510309
+      },
+      {
+        "id": "U529Z102",
+        "name": "Palmovka",
+        "location": [
+          14.475437,
+          50.10417
+        ],
+        "coordIndex": 514,
+        "onTrackLocation": 0.6273928503640335,
+        "distanceToNextStop": 0.06156822797764072
+      },
+      {
+        "id": "U510Z102",
+        "name": "Českomoravská",
+        "location": [
+          14.492292,
+          50.106302
+        ],
+        "coordIndex": 553,
+        "onTrackLocation": 0.6889610783416742,
+        "distanceToNextStop": 0.03925448205573312
+      },
+      {
+        "id": "U474Z102",
+        "name": "Vysočanská",
+        "location": [
+          14.501729,
+          50.110167
+        ],
+        "coordIndex": 585,
+        "onTrackLocation": 0.7282155603974073,
+        "distanceToNextStop": 0.05436245695378472
+      },
+      {
+        "id": "U75Z102",
+        "name": "Kolbenova",
+        "location": [
+          14.517116,
+          50.11033
+        ],
+        "coordIndex": 628,
+        "onTrackLocation": 0.782578017351192,
+        "distanceToNextStop": 0.07451079158207796
+      },
+      {
+        "id": "U135Z102",
+        "name": "Hloubětín",
+        "location": [
+          14.537063,
+          50.106531
+        ],
+        "coordIndex": 679,
+        "onTrackLocation": 0.85708880893327,
+        "distanceToNextStop": 0.08503239613062308
+      },
+      {
+        "id": "U818Z102",
+        "name": "Rajská zahrada",
+        "location": [
+          14.561207,
+          50.106935
+        ],
+        "coordIndex": 729,
+        "onTrackLocation": 0.9421212050638931,
+        "distanceToNextStop": 0.057878794936106925
+      },
+      {
+        "id": "U897Z102",
+        "name": "Černý Most",
+        "location": [
+          14.577539,
+          50.109057
+        ],
+        "coordIndex": 754,
+        "onTrackLocation": 1,
+        "distanceToNextStop": 0
       }
     ],
     "timeline": [
@@ -41684,8 +41682,8 @@
       "id": "L992D1",
       "name": "B",
       "colors": {
-        "bg": "#4282A4",
-        "fg": "#000000"
+        "bg": "#5C374C",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -44784,8 +44782,8 @@
       "id": "L992D1",
       "name": "B",
       "colors": {
-        "bg": "#4282A4",
-        "fg": "#000000"
+        "bg": "#5C374C",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -48083,8 +48081,8 @@
       "id": "L992D1",
       "name": "B",
       "colors": {
-        "bg": "#4282A4",
-        "fg": "#000000"
+        "bg": "#5C374C",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -50754,8 +50752,8 @@
       "id": "L992D1",
       "name": "B",
       "colors": {
-        "bg": "#4282A4",
-        "fg": "#000000"
+        "bg": "#5C374C",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -50763,158 +50761,15 @@
     "destination": "Černý Most",
     "stops": [
       {
-        "id": "U897Z102",
-        "name": "Černý Most",
+        "id": "U458Z102",
+        "name": "Smíchovské nádraží",
         "location": [
-          14.577539,
-          50.109057
+          14.409113,
+          50.061797
         ],
-        "coordIndex": 606,
-        "onTrackLocation": 1,
-        "distanceToNextStop": 0
-      },
-      {
-        "id": "U818Z102",
-        "name": "Rajská zahrada",
-        "location": [
-          14.561207,
-          50.106935
-        ],
-        "coordIndex": 581,
-        "onTrackLocation": 0.9239343913665453,
-        "distanceToNextStop": 0.07606560863345468
-      },
-      {
-        "id": "U135Z102",
-        "name": "Hloubětín",
-        "location": [
-          14.537063,
-          50.106531
-        ],
-        "coordIndex": 531,
-        "onTrackLocation": 0.8121829118760503,
-        "distanceToNextStop": 0.11175147949049502
-      },
-      {
-        "id": "U75Z102",
-        "name": "Kolbenova",
-        "location": [
-          14.517116,
-          50.11033
-        ],
-        "coordIndex": 480,
-        "onTrackLocation": 0.7142591607387323,
-        "distanceToNextStop": 0.097923751137318
-      },
-      {
-        "id": "U474Z102",
-        "name": "Vysočanská",
-        "location": [
-          14.501729,
-          50.110167
-        ],
-        "coordIndex": 437,
-        "onTrackLocation": 0.6428148022381035,
-        "distanceToNextStop": 0.0714443585006288
-      },
-      {
-        "id": "U510Z102",
-        "name": "Českomoravská",
-        "location": [
-          14.492292,
-          50.106302
-        ],
-        "coordIndex": 405,
-        "onTrackLocation": 0.5912256827262589,
-        "distanceToNextStop": 0.05158911951184464
-      },
-      {
-        "id": "U529Z102",
-        "name": "Palmovka",
-        "location": [
-          14.475437,
-          50.10417
-        ],
-        "coordIndex": 366,
-        "onTrackLocation": 0.5103113385563018,
-        "distanceToNextStop": 0.08091434416995702
-      },
-      {
-        "id": "U655Z102",
-        "name": "Invalidovna",
-        "location": [
-          14.463825,
-          50.096975
-        ],
-        "coordIndex": 333,
-        "onTrackLocation": 0.43564593924353867,
-        "distanceToNextStop": 0.07466539931276317
-      },
-      {
-        "id": "U758Z102",
-        "name": "Křižíkova",
-        "location": [
-          14.452044,
-          50.092627
-        ],
-        "coordIndex": 320,
-        "onTrackLocation": 0.37359543901000875,
-        "distanceToNextStop": 0.062050500233529926
-      },
-      {
-        "id": "U689Z102",
-        "name": "Florenc - B",
-        "location": [
-          14.438363,
-          50.090436
-        ],
-        "coordIndex": 303,
-        "onTrackLocation": 0.3088730485957387,
-        "distanceToNextStop": 0.06472239041427003
-      },
-      {
-        "id": "U480Z102",
-        "name": "Náměstí Republiky",
-        "location": [
-          14.431281,
-          50.088973
-        ],
-        "coordIndex": 285,
-        "onTrackLocation": 0.2740277185869568,
-        "distanceToNextStop": 0.03484533000878193
-      },
-      {
-        "id": "U1072Z122",
-        "name": "Můstek - B",
-        "location": [
-          14.423984,
-          50.083608
-        ],
-        "coordIndex": 223,
-        "onTrackLocation": 0.22138914505318258,
-        "distanceToNextStop": 0.05263857353377421
-      },
-      {
-        "id": "U539Z102",
-        "name": "Národní třída",
-        "location": [
-          14.42044,
-          50.080208
-        ],
-        "coordIndex": 189,
-        "onTrackLocation": 0.1903274366116205,
-        "distanceToNextStop": 0.031061708441562086
-      },
-      {
-        "id": "U237Z102",
-        "name": "Karlovo náměstí",
-        "location": [
-          14.41758,
-          50.074807
-        ],
-        "coordIndex": 156,
-        "onTrackLocation": 0.14814356912355722,
-        "distanceToNextStop": 0.04218386748806327
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.07008285028685017
       },
       {
         "id": "U1040Z102",
@@ -50928,15 +50783,158 @@
         "distanceToNextStop": 0.07806071883670705
       },
       {
-        "id": "U458Z102",
-        "name": "Smíchovské nádraží",
+        "id": "U237Z102",
+        "name": "Karlovo náměstí",
         "location": [
-          14.409113,
-          50.061797
+          14.41758,
+          50.074807
         ],
-        "coordIndex": 0,
-        "onTrackLocation": 0,
-        "distanceToNextStop": 0.07008285028685017
+        "coordIndex": 156,
+        "onTrackLocation": 0.14814356912355722,
+        "distanceToNextStop": 0.04218386748806327
+      },
+      {
+        "id": "U539Z102",
+        "name": "Národní třída",
+        "location": [
+          14.42044,
+          50.080208
+        ],
+        "coordIndex": 189,
+        "onTrackLocation": 0.1903274366116205,
+        "distanceToNextStop": 0.031061708441562086
+      },
+      {
+        "id": "U1072Z122",
+        "name": "Můstek - B",
+        "location": [
+          14.423984,
+          50.083608
+        ],
+        "coordIndex": 223,
+        "onTrackLocation": 0.22138914505318258,
+        "distanceToNextStop": 0.05263857353377421
+      },
+      {
+        "id": "U480Z102",
+        "name": "Náměstí Republiky",
+        "location": [
+          14.431281,
+          50.088973
+        ],
+        "coordIndex": 285,
+        "onTrackLocation": 0.2740277185869568,
+        "distanceToNextStop": 0.03484533000878193
+      },
+      {
+        "id": "U689Z102",
+        "name": "Florenc - B",
+        "location": [
+          14.438363,
+          50.090436
+        ],
+        "coordIndex": 303,
+        "onTrackLocation": 0.3088730485957387,
+        "distanceToNextStop": 0.06472239041427003
+      },
+      {
+        "id": "U758Z102",
+        "name": "Křižíkova",
+        "location": [
+          14.452044,
+          50.092627
+        ],
+        "coordIndex": 320,
+        "onTrackLocation": 0.37359543901000875,
+        "distanceToNextStop": 0.062050500233529926
+      },
+      {
+        "id": "U655Z102",
+        "name": "Invalidovna",
+        "location": [
+          14.463825,
+          50.096975
+        ],
+        "coordIndex": 333,
+        "onTrackLocation": 0.43564593924353867,
+        "distanceToNextStop": 0.07466539931276317
+      },
+      {
+        "id": "U529Z102",
+        "name": "Palmovka",
+        "location": [
+          14.475437,
+          50.10417
+        ],
+        "coordIndex": 366,
+        "onTrackLocation": 0.5103113385563018,
+        "distanceToNextStop": 0.08091434416995702
+      },
+      {
+        "id": "U510Z102",
+        "name": "Českomoravská",
+        "location": [
+          14.492292,
+          50.106302
+        ],
+        "coordIndex": 405,
+        "onTrackLocation": 0.5912256827262589,
+        "distanceToNextStop": 0.05158911951184464
+      },
+      {
+        "id": "U474Z102",
+        "name": "Vysočanská",
+        "location": [
+          14.501729,
+          50.110167
+        ],
+        "coordIndex": 437,
+        "onTrackLocation": 0.6428148022381035,
+        "distanceToNextStop": 0.0714443585006288
+      },
+      {
+        "id": "U75Z102",
+        "name": "Kolbenova",
+        "location": [
+          14.517116,
+          50.11033
+        ],
+        "coordIndex": 480,
+        "onTrackLocation": 0.7142591607387323,
+        "distanceToNextStop": 0.097923751137318
+      },
+      {
+        "id": "U135Z102",
+        "name": "Hloubětín",
+        "location": [
+          14.537063,
+          50.106531
+        ],
+        "coordIndex": 531,
+        "onTrackLocation": 0.8121829118760503,
+        "distanceToNextStop": 0.11175147949049502
+      },
+      {
+        "id": "U818Z102",
+        "name": "Rajská zahrada",
+        "location": [
+          14.561207,
+          50.106935
+        ],
+        "coordIndex": 581,
+        "onTrackLocation": 0.9239343913665453,
+        "distanceToNextStop": 0.07606560863345468
+      },
+      {
+        "id": "U897Z102",
+        "name": "Černý Most",
+        "location": [
+          14.577539,
+          50.109057
+        ],
+        "coordIndex": 606,
+        "onTrackLocation": 1,
+        "distanceToNextStop": 0
       }
     ],
     "timeline": [
@@ -53431,8 +53429,8 @@
       "id": "L992D1",
       "name": "B",
       "colors": {
-        "bg": "#4282A4",
-        "fg": "#000000"
+        "bg": "#5C374C",
+        "fg": "#FFFFFF"
       },
       "transportType": "metro"
     },
@@ -54787,8 +54785,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -59388,8 +59386,7 @@
       }
     },
     "length": 22643.233153444602,
-    "uniquePath": true,
-    "uniquePathOnLine": true
+    "uniquePath": true
   },
   {
     "id": "L993D1__1",
@@ -59397,8 +59394,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -59406,202 +59403,15 @@
     "destination": "Letňany",
     "stops": [
       {
-        "id": "U1000Z101",
-        "name": "Letňany",
+        "id": "U286Z101",
+        "name": "Háje",
         "location": [
-          14.516517,
-          50.126699
+          14.526274,
+          50.030756
         ],
-        "coordIndex": 680,
-        "onTrackLocation": 1,
-        "distanceToNextStop": 0
-      },
-      {
-        "id": "U603Z101",
-        "name": "Prosek",
-        "location": [
-          14.499003,
-          50.118869
-        ],
-        "coordIndex": 566,
-        "onTrackLocation": 0.9073282812645315,
-        "distanceToNextStop": 0.09267171873546853
-      },
-      {
-        "id": "U332Z101",
-        "name": "Střížkov",
-        "location": [
-          14.489931,
-          50.125791
-        ],
-        "coordIndex": 565,
-        "onTrackLocation": 0.8648659355937178,
-        "distanceToNextStop": 0.04246234567081364
-      },
-      {
-        "id": "U78Z101",
-        "name": "Ládví",
-        "location": [
-          14.470162,
-          50.126576
-        ],
-        "coordIndex": 489,
-        "onTrackLocation": 0.7945090459672433,
-        "distanceToNextStop": 0.07035688962647457
-      },
-      {
-        "id": "U675Z101",
-        "name": "Kobylisy",
-        "location": [
-          14.454933,
-          50.124235
-        ],
-        "coordIndex": 471,
-        "onTrackLocation": 0.744970796004519,
-        "distanceToNextStop": 0.04953824996272427
-      },
-      {
-        "id": "U115Z101",
-        "name": "Nádraží Holešovice",
-        "location": [
-          14.439775,
-          50.109295
-        ],
-        "coordIndex": 358,
-        "onTrackLocation": 0.6222855801793967,
-        "distanceToNextStop": 0.12268521582512226
-      },
-      {
-        "id": "U100Z101",
-        "name": "Vltavská",
-        "location": [
-          14.43856,
-          50.100749
-        ],
-        "coordIndex": 305,
-        "onTrackLocation": 0.5767078931522731,
-        "distanceToNextStop": 0.045577687027123615
-      },
-      {
-        "id": "U689Z121",
-        "name": "Florenc - C",
-        "location": [
-          14.439451,
-          50.090447
-        ],
-        "coordIndex": 259,
-        "onTrackLocation": 0.5241797356664111,
-        "distanceToNextStop": 0.05252815748586204
-      },
-      {
-        "id": "U142Z101",
-        "name": "Hlavní nádraží",
-        "location": [
-          14.434492,
-          50.083895
-        ],
-        "coordIndex": 233,
-        "onTrackLocation": 0.4879919009874345,
-        "distanceToNextStop": 0.03618783467897657
-      },
-      {
-        "id": "U400Z121",
-        "name": "Muzeum - C",
-        "location": [
-          14.431601,
-          50.080552
-        ],
-        "coordIndex": 221,
-        "onTrackLocation": 0.4692145748266598,
-        "distanceToNextStop": 0.01877732616077471
-      },
-      {
-        "id": "U190Z101",
-        "name": "I. P. Pavlova",
-        "location": [
-          14.430325,
-          50.074794
-        ],
-        "coordIndex": 188,
-        "onTrackLocation": 0.43880315688702753,
-        "distanceToNextStop": 0.030411417939632257
-      },
-      {
-        "id": "U527Z101",
-        "name": "Vyšehrad",
-        "location": [
-          14.43056,
-          50.0636
-        ],
-        "coordIndex": 172,
-        "onTrackLocation": 0.3838230654698729,
-        "distanceToNextStop": 0.05498009141715465
-      },
-      {
-        "id": "U597Z101",
-        "name": "Pražského povstání",
-        "location": [
-          14.432864,
-          50.057204
-        ],
-        "coordIndex": 130,
-        "onTrackLocation": 0.3492700724109398,
-        "distanceToNextStop": 0.03455299305893306
-      },
-      {
-        "id": "U385Z101",
-        "name": "Pankrác",
-        "location": [
-          14.43944,
-          50.051454
-        ],
-        "coordIndex": 106,
-        "onTrackLocation": 0.3139733156697018,
-        "distanceToNextStop": 0.035296756741238
-      },
-      {
-        "id": "U50Z101",
-        "name": "Budějovická",
-        "location": [
-          14.448291,
-          50.044769
-        ],
-        "coordIndex": 96,
-        "onTrackLocation": 0.27038204394216736,
-        "distanceToNextStop": 0.043591271727534464
-      },
-      {
-        "id": "U228Z101",
-        "name": "Kačerov",
-        "location": [
-          14.458681,
-          50.04198
-        ],
-        "coordIndex": 79,
-        "onTrackLocation": 0.23387067345954857,
-        "distanceToNextStop": 0.036511370482618793
-      },
-      {
-        "id": "U601Z101",
-        "name": "Roztyly",
-        "location": [
-          14.47615,
-          50.037914
-        ],
-        "coordIndex": 58,
-        "onTrackLocation": 0.17485976923755706,
-        "distanceToNextStop": 0.05901090422199151
-      },
-      {
-        "id": "U52Z101",
-        "name": "Chodov",
-        "location": [
-          14.490349,
-          50.031908
-        ],
-        "coordIndex": 48,
-        "onTrackLocation": 0.12100270859267193,
-        "distanceToNextStop": 0.05385706064488513
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.0579681875937863
       },
       {
         "id": "U106Z101",
@@ -59615,15 +59425,202 @@
         "distanceToNextStop": 0.06303452099888562
       },
       {
-        "id": "U286Z101",
-        "name": "Háje",
+        "id": "U52Z101",
+        "name": "Chodov",
         "location": [
-          14.526274,
-          50.030756
+          14.490349,
+          50.031908
         ],
-        "coordIndex": 0,
-        "onTrackLocation": 0,
-        "distanceToNextStop": 0.0579681875937863
+        "coordIndex": 48,
+        "onTrackLocation": 0.12100270859267193,
+        "distanceToNextStop": 0.05385706064488513
+      },
+      {
+        "id": "U601Z101",
+        "name": "Roztyly",
+        "location": [
+          14.47615,
+          50.037914
+        ],
+        "coordIndex": 58,
+        "onTrackLocation": 0.17485976923755706,
+        "distanceToNextStop": 0.05901090422199151
+      },
+      {
+        "id": "U228Z101",
+        "name": "Kačerov",
+        "location": [
+          14.458681,
+          50.04198
+        ],
+        "coordIndex": 79,
+        "onTrackLocation": 0.23387067345954857,
+        "distanceToNextStop": 0.036511370482618793
+      },
+      {
+        "id": "U50Z101",
+        "name": "Budějovická",
+        "location": [
+          14.448291,
+          50.044769
+        ],
+        "coordIndex": 96,
+        "onTrackLocation": 0.27038204394216736,
+        "distanceToNextStop": 0.043591271727534464
+      },
+      {
+        "id": "U385Z101",
+        "name": "Pankrác",
+        "location": [
+          14.43944,
+          50.051454
+        ],
+        "coordIndex": 106,
+        "onTrackLocation": 0.3139733156697018,
+        "distanceToNextStop": 0.035296756741238
+      },
+      {
+        "id": "U597Z101",
+        "name": "Pražského povstání",
+        "location": [
+          14.432864,
+          50.057204
+        ],
+        "coordIndex": 130,
+        "onTrackLocation": 0.3492700724109398,
+        "distanceToNextStop": 0.03455299305893306
+      },
+      {
+        "id": "U527Z101",
+        "name": "Vyšehrad",
+        "location": [
+          14.43056,
+          50.0636
+        ],
+        "coordIndex": 172,
+        "onTrackLocation": 0.3838230654698729,
+        "distanceToNextStop": 0.05498009141715465
+      },
+      {
+        "id": "U190Z101",
+        "name": "I. P. Pavlova",
+        "location": [
+          14.430325,
+          50.074794
+        ],
+        "coordIndex": 188,
+        "onTrackLocation": 0.43880315688702753,
+        "distanceToNextStop": 0.030411417939632257
+      },
+      {
+        "id": "U400Z121",
+        "name": "Muzeum - C",
+        "location": [
+          14.431601,
+          50.080552
+        ],
+        "coordIndex": 221,
+        "onTrackLocation": 0.4692145748266598,
+        "distanceToNextStop": 0.01877732616077471
+      },
+      {
+        "id": "U142Z101",
+        "name": "Hlavní nádraží",
+        "location": [
+          14.434492,
+          50.083895
+        ],
+        "coordIndex": 233,
+        "onTrackLocation": 0.4879919009874345,
+        "distanceToNextStop": 0.03618783467897657
+      },
+      {
+        "id": "U689Z121",
+        "name": "Florenc - C",
+        "location": [
+          14.439451,
+          50.090447
+        ],
+        "coordIndex": 259,
+        "onTrackLocation": 0.5241797356664111,
+        "distanceToNextStop": 0.05252815748586204
+      },
+      {
+        "id": "U100Z101",
+        "name": "Vltavská",
+        "location": [
+          14.43856,
+          50.100749
+        ],
+        "coordIndex": 305,
+        "onTrackLocation": 0.5767078931522731,
+        "distanceToNextStop": 0.045577687027123615
+      },
+      {
+        "id": "U115Z101",
+        "name": "Nádraží Holešovice",
+        "location": [
+          14.439775,
+          50.109295
+        ],
+        "coordIndex": 358,
+        "onTrackLocation": 0.6222855801793967,
+        "distanceToNextStop": 0.12268521582512226
+      },
+      {
+        "id": "U675Z101",
+        "name": "Kobylisy",
+        "location": [
+          14.454933,
+          50.124235
+        ],
+        "coordIndex": 471,
+        "onTrackLocation": 0.744970796004519,
+        "distanceToNextStop": 0.04953824996272427
+      },
+      {
+        "id": "U78Z101",
+        "name": "Ládví",
+        "location": [
+          14.470162,
+          50.126576
+        ],
+        "coordIndex": 489,
+        "onTrackLocation": 0.7945090459672433,
+        "distanceToNextStop": 0.07035688962647457
+      },
+      {
+        "id": "U332Z101",
+        "name": "Střížkov",
+        "location": [
+          14.489931,
+          50.125791
+        ],
+        "coordIndex": 565,
+        "onTrackLocation": 0.8648659355937178,
+        "distanceToNextStop": 0.04246234567081364
+      },
+      {
+        "id": "U603Z101",
+        "name": "Prosek",
+        "location": [
+          14.499003,
+          50.118869
+        ],
+        "coordIndex": 566,
+        "onTrackLocation": 0.9073282812645315,
+        "distanceToNextStop": 0.09267171873546853
+      },
+      {
+        "id": "U1000Z101",
+        "name": "Letňany",
+        "location": [
+          14.516517,
+          50.126699
+        ],
+        "coordIndex": 680,
+        "onTrackLocation": 1,
+        "distanceToNextStop": 0
       }
     ],
     "timeline": [
@@ -64054,8 +64051,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -64063,158 +64060,15 @@
     "destination": "Letňany",
     "stops": [
       {
-        "id": "U1000Z101",
-        "name": "Letňany",
+        "id": "U228Z101",
+        "name": "Kačerov",
         "location": [
-          14.516517,
-          50.126699
+          14.458681,
+          50.04198
         ],
-        "coordIndex": 601,
-        "onTrackLocation": 1,
-        "distanceToNextStop": 0
-      },
-      {
-        "id": "U603Z101",
-        "name": "Prosek",
-        "location": [
-          14.499003,
-          50.118869
-        ],
-        "coordIndex": 487,
-        "onTrackLocation": 0.8790390662188351,
-        "distanceToNextStop": 0.1209609337811649
-      },
-      {
-        "id": "U332Z101",
-        "name": "Střížkov",
-        "location": [
-          14.489931,
-          50.125791
-        ],
-        "coordIndex": 486,
-        "onTrackLocation": 0.8236145521063714,
-        "distanceToNextStop": 0.05542451411246374
-      },
-      {
-        "id": "U78Z101",
-        "name": "Ládví",
-        "location": [
-          14.470162,
-          50.126576
-        ],
-        "coordIndex": 410,
-        "onTrackLocation": 0.7317803314478564,
-        "distanceToNextStop": 0.09183422065851499
-      },
-      {
-        "id": "U675Z101",
-        "name": "Kobylisy",
-        "location": [
-          14.454933,
-          50.124235
-        ],
-        "coordIndex": 392,
-        "onTrackLocation": 0.6671199037020342,
-        "distanceToNextStop": 0.06466042774582215
-      },
-      {
-        "id": "U115Z101",
-        "name": "Nádraží Holešovice",
-        "location": [
-          14.439775,
-          50.109295
-        ],
-        "coordIndex": 279,
-        "onTrackLocation": 0.5069834729780961,
-        "distanceToNextStop": 0.16013643072393813
-      },
-      {
-        "id": "U100Z101",
-        "name": "Vltavská",
-        "location": [
-          14.43856,
-          50.100749
-        ],
-        "coordIndex": 226,
-        "onTrackLocation": 0.4474926201309209,
-        "distanceToNextStop": 0.0594908528471752
-      },
-      {
-        "id": "U689Z121",
-        "name": "Florenc - C",
-        "location": [
-          14.439451,
-          50.090447
-        ],
-        "coordIndex": 180,
-        "onTrackLocation": 0.37892957774869046,
-        "distanceToNextStop": 0.06856304238223043
-      },
-      {
-        "id": "U142Z101",
-        "name": "Hlavní nádraží",
-        "location": [
-          14.434492,
-          50.083895
-        ],
-        "coordIndex": 154,
-        "onTrackLocation": 0.33169494852181153,
-        "distanceToNextStop": 0.04723462922687893
-      },
-      {
-        "id": "U400Z121",
-        "name": "Muzeum - C",
-        "location": [
-          14.431601,
-          50.080552
-        ],
-        "coordIndex": 142,
-        "onTrackLocation": 0.30718560589480903,
-        "distanceToNextStop": 0.024509342627002495
-      },
-      {
-        "id": "U190Z101",
-        "name": "I. P. Pavlova",
-        "location": [
-          14.430325,
-          50.074794
-        ],
-        "coordIndex": 109,
-        "onTrackLocation": 0.26749071772630834,
-        "distanceToNextStop": 0.0396948881685007
-      },
-      {
-        "id": "U527Z101",
-        "name": "Vyšehrad",
-        "location": [
-          14.43056,
-          50.0636
-        ],
-        "coordIndex": 93,
-        "onTrackLocation": 0.19572725754730225,
-        "distanceToNextStop": 0.07176346017900609
-      },
-      {
-        "id": "U597Z101",
-        "name": "Pražského povstání",
-        "location": [
-          14.432864,
-          50.057204
-        ],
-        "coordIndex": 51,
-        "onTrackLocation": 0.15062652603639493,
-        "distanceToNextStop": 0.04510073151090732
-      },
-      {
-        "id": "U385Z101",
-        "name": "Pankrác",
-        "location": [
-          14.43944,
-          50.051454
-        ],
-        "coordIndex": 27,
-        "onTrackLocation": 0.10455498756569752,
-        "distanceToNextStop": 0.04607153847069741
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.04765692842942087
       },
       {
         "id": "U50Z101",
@@ -64228,15 +64082,158 @@
         "distanceToNextStop": 0.05689805913627665
       },
       {
-        "id": "U228Z101",
-        "name": "Kačerov",
+        "id": "U385Z101",
+        "name": "Pankrác",
         "location": [
-          14.458681,
-          50.04198
+          14.43944,
+          50.051454
         ],
-        "coordIndex": 0,
-        "onTrackLocation": 0,
-        "distanceToNextStop": 0.04765692842942087
+        "coordIndex": 27,
+        "onTrackLocation": 0.10455498756569752,
+        "distanceToNextStop": 0.04607153847069741
+      },
+      {
+        "id": "U597Z101",
+        "name": "Pražského povstání",
+        "location": [
+          14.432864,
+          50.057204
+        ],
+        "coordIndex": 51,
+        "onTrackLocation": 0.15062652603639493,
+        "distanceToNextStop": 0.04510073151090732
+      },
+      {
+        "id": "U527Z101",
+        "name": "Vyšehrad",
+        "location": [
+          14.43056,
+          50.0636
+        ],
+        "coordIndex": 93,
+        "onTrackLocation": 0.19572725754730225,
+        "distanceToNextStop": 0.07176346017900609
+      },
+      {
+        "id": "U190Z101",
+        "name": "I. P. Pavlova",
+        "location": [
+          14.430325,
+          50.074794
+        ],
+        "coordIndex": 109,
+        "onTrackLocation": 0.26749071772630834,
+        "distanceToNextStop": 0.0396948881685007
+      },
+      {
+        "id": "U400Z121",
+        "name": "Muzeum - C",
+        "location": [
+          14.431601,
+          50.080552
+        ],
+        "coordIndex": 142,
+        "onTrackLocation": 0.30718560589480903,
+        "distanceToNextStop": 0.024509342627002495
+      },
+      {
+        "id": "U142Z101",
+        "name": "Hlavní nádraží",
+        "location": [
+          14.434492,
+          50.083895
+        ],
+        "coordIndex": 154,
+        "onTrackLocation": 0.33169494852181153,
+        "distanceToNextStop": 0.04723462922687893
+      },
+      {
+        "id": "U689Z121",
+        "name": "Florenc - C",
+        "location": [
+          14.439451,
+          50.090447
+        ],
+        "coordIndex": 180,
+        "onTrackLocation": 0.37892957774869046,
+        "distanceToNextStop": 0.06856304238223043
+      },
+      {
+        "id": "U100Z101",
+        "name": "Vltavská",
+        "location": [
+          14.43856,
+          50.100749
+        ],
+        "coordIndex": 226,
+        "onTrackLocation": 0.4474926201309209,
+        "distanceToNextStop": 0.0594908528471752
+      },
+      {
+        "id": "U115Z101",
+        "name": "Nádraží Holešovice",
+        "location": [
+          14.439775,
+          50.109295
+        ],
+        "coordIndex": 279,
+        "onTrackLocation": 0.5069834729780961,
+        "distanceToNextStop": 0.16013643072393813
+      },
+      {
+        "id": "U675Z101",
+        "name": "Kobylisy",
+        "location": [
+          14.454933,
+          50.124235
+        ],
+        "coordIndex": 392,
+        "onTrackLocation": 0.6671199037020342,
+        "distanceToNextStop": 0.06466042774582215
+      },
+      {
+        "id": "U78Z101",
+        "name": "Ládví",
+        "location": [
+          14.470162,
+          50.126576
+        ],
+        "coordIndex": 410,
+        "onTrackLocation": 0.7317803314478564,
+        "distanceToNextStop": 0.09183422065851499
+      },
+      {
+        "id": "U332Z101",
+        "name": "Střížkov",
+        "location": [
+          14.489931,
+          50.125791
+        ],
+        "coordIndex": 486,
+        "onTrackLocation": 0.8236145521063714,
+        "distanceToNextStop": 0.05542451411246374
+      },
+      {
+        "id": "U603Z101",
+        "name": "Prosek",
+        "location": [
+          14.499003,
+          50.118869
+        ],
+        "coordIndex": 487,
+        "onTrackLocation": 0.8790390662188351,
+        "distanceToNextStop": 0.1209609337811649
+      },
+      {
+        "id": "U1000Z101",
+        "name": "Letňany",
+        "location": [
+          14.516517,
+          50.126699
+        ],
+        "coordIndex": 601,
+        "onTrackLocation": 1,
+        "distanceToNextStop": 0
       }
     ],
     "timeline": [
@@ -66791,8 +66788,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -69561,8 +69558,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -71777,8 +71774,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -73445,8 +73442,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -73454,15 +73451,15 @@
     "destination": "Hlavní nádraží",
     "stops": [
       {
-        "id": "U142Z102",
-        "name": "Hlavní nádraží",
+        "id": "U190Z102",
+        "name": "I. P. Pavlova",
         "location": [
-          14.433786,
-          50.083115
+          14.430296,
+          50.073871
         ],
-        "coordIndex": 45,
-        "onTrackLocation": 1,
-        "distanceToNextStop": 0
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.5850485046998342
       },
       {
         "id": "U400Z122",
@@ -73476,15 +73473,15 @@
         "distanceToNextStop": 0.41495149530016584
       },
       {
-        "id": "U190Z102",
-        "name": "I. P. Pavlova",
+        "id": "U142Z102",
+        "name": "Hlavní nádraží",
         "location": [
-          14.430296,
-          50.073871
+          14.433786,
+          50.083115
         ],
-        "coordIndex": 0,
-        "onTrackLocation": 0,
-        "distanceToNextStop": 0.5850485046998342
+        "coordIndex": 45,
+        "onTrackLocation": 1,
+        "distanceToNextStop": 0
       }
     ],
     "timeline": [
@@ -73936,8 +73933,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -74431,8 +74428,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -74942,8 +74939,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -76577,8 +76574,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -76586,59 +76583,15 @@
     "destination": "Letňany",
     "stops": [
       {
-        "id": "U1000Z101",
-        "name": "Letňany",
+        "id": "U100Z101",
+        "name": "Vltavská",
         "location": [
-          14.516517,
-          50.126699
+          14.43856,
+          50.100749
         ],
-        "coordIndex": 375,
-        "onTrackLocation": 1,
-        "distanceToNextStop": 0
-      },
-      {
-        "id": "U603Z101",
-        "name": "Prosek",
-        "location": [
-          14.499003,
-          50.118869
-        ],
-        "coordIndex": 261,
-        "onTrackLocation": 0.7810691075116005,
-        "distanceToNextStop": 0.21893089248839948
-      },
-      {
-        "id": "U332Z101",
-        "name": "Střížkov",
-        "location": [
-          14.489931,
-          50.125791
-        ],
-        "coordIndex": 260,
-        "onTrackLocation": 0.6807545847886698,
-        "distanceToNextStop": 0.10031452272293073
-      },
-      {
-        "id": "U78Z101",
-        "name": "Ládví",
-        "location": [
-          14.470162,
-          50.126576
-        ],
-        "coordIndex": 184,
-        "onTrackLocation": 0.5145410209440101,
-        "distanceToNextStop": 0.16621356384465968
-      },
-      {
-        "id": "U675Z101",
-        "name": "Kobylisy",
-        "location": [
-          14.454933,
-          50.124235
-        ],
-        "coordIndex": 166,
-        "onTrackLocation": 0.39751013574362776,
-        "distanceToNextStop": 0.11703088520038235
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.10767431352911912
       },
       {
         "id": "U115Z101",
@@ -76652,15 +76605,59 @@
         "distanceToNextStop": 0.28983582221450865
       },
       {
-        "id": "U100Z101",
-        "name": "Vltavská",
+        "id": "U675Z101",
+        "name": "Kobylisy",
         "location": [
-          14.43856,
-          50.100749
+          14.454933,
+          50.124235
         ],
-        "coordIndex": 0,
-        "onTrackLocation": 0,
-        "distanceToNextStop": 0.10767431352911912
+        "coordIndex": 166,
+        "onTrackLocation": 0.39751013574362776,
+        "distanceToNextStop": 0.11703088520038235
+      },
+      {
+        "id": "U78Z101",
+        "name": "Ládví",
+        "location": [
+          14.470162,
+          50.126576
+        ],
+        "coordIndex": 184,
+        "onTrackLocation": 0.5145410209440101,
+        "distanceToNextStop": 0.16621356384465968
+      },
+      {
+        "id": "U332Z101",
+        "name": "Střížkov",
+        "location": [
+          14.489931,
+          50.125791
+        ],
+        "coordIndex": 260,
+        "onTrackLocation": 0.6807545847886698,
+        "distanceToNextStop": 0.10031452272293073
+      },
+      {
+        "id": "U603Z101",
+        "name": "Prosek",
+        "location": [
+          14.499003,
+          50.118869
+        ],
+        "coordIndex": 261,
+        "onTrackLocation": 0.7810691075116005,
+        "distanceToNextStop": 0.21893089248839948
+      },
+      {
+        "id": "U1000Z101",
+        "name": "Letňany",
+        "location": [
+          14.516517,
+          50.126699
+        ],
+        "coordIndex": 375,
+        "onTrackLocation": 1,
+        "distanceToNextStop": 0
       }
     ],
     "timeline": [
@@ -78440,8 +78437,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -79041,8 +79038,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -79050,92 +79047,15 @@
     "destination": "I. P. Pavlova",
     "stops": [
       {
-        "id": "U190Z101",
-        "name": "I. P. Pavlova",
+        "id": "U286Z101",
+        "name": "Háje",
         "location": [
-          14.430325,
-          50.074794
+          14.526274,
+          50.030756
         ],
-        "coordIndex": 188,
-        "onTrackLocation": 1,
-        "distanceToNextStop": 0
-      },
-      {
-        "id": "U527Z101",
-        "name": "Vyšehrad",
-        "location": [
-          14.43056,
-          50.0636
-        ],
-        "coordIndex": 172,
-        "onTrackLocation": 0.8747044305533344,
-        "distanceToNextStop": 0.12529556944666564
-      },
-      {
-        "id": "U597Z101",
-        "name": "Pražského povstání",
-        "location": [
-          14.432864,
-          50.057204
-        ],
-        "coordIndex": 130,
-        "onTrackLocation": 0.7959607102390593,
-        "distanceToNextStop": 0.07874372031427501
-      },
-      {
-        "id": "U385Z101",
-        "name": "Pankrác",
-        "location": [
-          14.43944,
-          50.051454
-        ],
-        "coordIndex": 106,
-        "onTrackLocation": 0.7155220074009999,
-        "distanceToNextStop": 0.08043870283805943
-      },
-      {
-        "id": "U50Z101",
-        "name": "Budějovická",
-        "location": [
-          14.448291,
-          50.044769
-        ],
-        "coordIndex": 96,
-        "onTrackLocation": 0.6161807172498962,
-        "distanceToNextStop": 0.09934129015110371
-      },
-      {
-        "id": "U228Z101",
-        "name": "Kačerov",
-        "location": [
-          14.458681,
-          50.04198
-        ],
-        "coordIndex": 79,
-        "onTrackLocation": 0.5329739993638194,
-        "distanceToNextStop": 0.08320671788607681
-      },
-      {
-        "id": "U601Z101",
-        "name": "Roztyly",
-        "location": [
-          14.47615,
-          50.037914
-        ],
-        "coordIndex": 58,
-        "onTrackLocation": 0.39849250510879014,
-        "distanceToNextStop": 0.13448149425502925
-      },
-      {
-        "id": "U52Z101",
-        "name": "Chodov",
-        "location": [
-          14.490349,
-          50.031908
-        ],
-        "coordIndex": 48,
-        "onTrackLocation": 0.2757562398846296,
-        "distanceToNextStop": 0.12273626522416053
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.13210522003767297
       },
       {
         "id": "U106Z101",
@@ -79149,15 +79069,92 @@
         "distanceToNextStop": 0.14365101984695663
       },
       {
-        "id": "U286Z101",
-        "name": "Háje",
+        "id": "U52Z101",
+        "name": "Chodov",
         "location": [
-          14.526274,
-          50.030756
+          14.490349,
+          50.031908
         ],
-        "coordIndex": 0,
-        "onTrackLocation": 0,
-        "distanceToNextStop": 0.13210522003767297
+        "coordIndex": 48,
+        "onTrackLocation": 0.2757562398846296,
+        "distanceToNextStop": 0.12273626522416053
+      },
+      {
+        "id": "U601Z101",
+        "name": "Roztyly",
+        "location": [
+          14.47615,
+          50.037914
+        ],
+        "coordIndex": 58,
+        "onTrackLocation": 0.39849250510879014,
+        "distanceToNextStop": 0.13448149425502925
+      },
+      {
+        "id": "U228Z101",
+        "name": "Kačerov",
+        "location": [
+          14.458681,
+          50.04198
+        ],
+        "coordIndex": 79,
+        "onTrackLocation": 0.5329739993638194,
+        "distanceToNextStop": 0.08320671788607681
+      },
+      {
+        "id": "U50Z101",
+        "name": "Budějovická",
+        "location": [
+          14.448291,
+          50.044769
+        ],
+        "coordIndex": 96,
+        "onTrackLocation": 0.6161807172498962,
+        "distanceToNextStop": 0.09934129015110371
+      },
+      {
+        "id": "U385Z101",
+        "name": "Pankrác",
+        "location": [
+          14.43944,
+          50.051454
+        ],
+        "coordIndex": 106,
+        "onTrackLocation": 0.7155220074009999,
+        "distanceToNextStop": 0.08043870283805943
+      },
+      {
+        "id": "U597Z101",
+        "name": "Pražského povstání",
+        "location": [
+          14.432864,
+          50.057204
+        ],
+        "coordIndex": 130,
+        "onTrackLocation": 0.7959607102390593,
+        "distanceToNextStop": 0.07874372031427501
+      },
+      {
+        "id": "U527Z101",
+        "name": "Vyšehrad",
+        "location": [
+          14.43056,
+          50.0636
+        ],
+        "coordIndex": 172,
+        "onTrackLocation": 0.8747044305533344,
+        "distanceToNextStop": 0.12529556944666564
+      },
+      {
+        "id": "U190Z101",
+        "name": "I. P. Pavlova",
+        "location": [
+          14.430325,
+          50.074794
+        ],
+        "coordIndex": 188,
+        "onTrackLocation": 1,
+        "distanceToNextStop": 0
       }
     ],
     "timeline": [
@@ -80184,8 +80181,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -81336,8 +81333,8 @@
       "id": "L993D1",
       "name": "C",
       "colors": {
-        "bg": "#03396C",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "metro"
     },
@@ -81345,48 +81342,15 @@
     "destination": "I. P. Pavlova",
     "stops": [
       {
-        "id": "U190Z101",
-        "name": "I. P. Pavlova",
+        "id": "U228Z101",
+        "name": "Kačerov",
         "location": [
-          14.430325,
-          50.074794
+          14.458681,
+          50.04198
         ],
-        "coordIndex": 109,
-        "onTrackLocation": 1,
-        "distanceToNextStop": 0
-      },
-      {
-        "id": "U527Z101",
-        "name": "Vyšehrad",
-        "location": [
-          14.43056,
-          50.0636
-        ],
-        "coordIndex": 93,
-        "onTrackLocation": 0.7317160730323615,
-        "distanceToNextStop": 0.2682839269676385
-      },
-      {
-        "id": "U597Z101",
-        "name": "Pražského povstání",
-        "location": [
-          14.432864,
-          50.057204
-        ],
-        "coordIndex": 51,
-        "onTrackLocation": 0.5631093569030431,
-        "distanceToNextStop": 0.16860671612931843
-      },
-      {
-        "id": "U385Z101",
-        "name": "Pankrác",
-        "location": [
-          14.43944,
-          50.051454
-        ],
-        "coordIndex": 27,
-        "onTrackLocation": 0.39087332993990576,
-        "distanceToNextStop": 0.17223602696313733
+        "coordIndex": 0,
+        "onTrackLocation": 0,
+        "distanceToNextStop": 0.17816292406147183
       },
       {
         "id": "U50Z101",
@@ -81400,15 +81364,48 @@
         "distanceToNextStop": 0.21271040587843393
       },
       {
-        "id": "U228Z101",
-        "name": "Kačerov",
+        "id": "U385Z101",
+        "name": "Pankrác",
         "location": [
-          14.458681,
-          50.04198
+          14.43944,
+          50.051454
         ],
-        "coordIndex": 0,
-        "onTrackLocation": 0,
-        "distanceToNextStop": 0.17816292406147183
+        "coordIndex": 27,
+        "onTrackLocation": 0.39087332993990576,
+        "distanceToNextStop": 0.17223602696313733
+      },
+      {
+        "id": "U597Z101",
+        "name": "Pražského povstání",
+        "location": [
+          14.432864,
+          50.057204
+        ],
+        "coordIndex": 51,
+        "onTrackLocation": 0.5631093569030431,
+        "distanceToNextStop": 0.16860671612931843
+      },
+      {
+        "id": "U527Z101",
+        "name": "Vyšehrad",
+        "location": [
+          14.43056,
+          50.0636
+        ],
+        "coordIndex": 93,
+        "onTrackLocation": 0.7317160730323615,
+        "distanceToNextStop": 0.2682839269676385
+      },
+      {
+        "id": "U190Z101",
+        "name": "I. P. Pavlova",
+        "location": [
+          14.430325,
+          50.074794
+        ],
+        "coordIndex": 109,
+        "onTrackLocation": 1,
+        "distanceToNextStop": 0
       }
     ],
     "timeline": [

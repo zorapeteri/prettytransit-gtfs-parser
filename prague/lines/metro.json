@@ -1,8 +1,8 @@
 {
   "A": {
     "colors": {
-      "bg": "#EAD2AC",
-      "fg": "#000000"
+      "bg": "#CC2A36",
+      "fg": "#FFFFFF"
     },
     "route_ids": [
       "L991D1"
@@ -2879,8 +2879,8 @@
   },
   "B": {
     "colors": {
-      "bg": "#4282A4",
-      "fg": "#000000"
+      "bg": "#5C374C",
+      "fg": "#FFFFFF"
     },
     "route_ids": [
       "L992D1"
@@ -6797,8 +6797,8 @@
   },
   "C": {
     "colors": {
-      "bg": "#03396C",
-      "fg": "#FFFFFF"
+      "bg": "#FDF498",
+      "fg": "#000000"
     },
     "route_ids": [
       "L993D1"
