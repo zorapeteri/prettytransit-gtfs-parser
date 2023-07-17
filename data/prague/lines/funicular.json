@@ -1,0 +1,81 @@
+{
+  "LD": {
+    "colors": {
+      "bg": "#C10041",
+      "fg": "#FFFFFF"
+    },
+    "route_ids": [
+      "L49D1"
+    ],
+    "transportType": "funicular",
+    "tracks": [
+      {
+        "origin": "Petřín LD",
+        "destination": "Újezd  LD",
+        "stops": [
+          {
+            "id": "U1999Z1",
+            "name": "Petřín LD",
+            "location": [
+              14.39658,
+              50.081981
+            ],
+            "coordIndex": 0,
+            "onTrackLocation": 0,
+            "distanceToNextStop": 0.3733264899581562
+          },
+          {
+            "id": "U1998Z1",
+            "name": "Nebozízek LD",
+            "location": [
+              14.39916,
+              50.082251
+            ],
+            "coordIndex": 1,
+            "onTrackLocation": 0.3733264899581562,
+            "distanceToNextStop": 0.6266735100418438
+          },
+          {
+            "id": "U1997Z1",
+            "name": "Újezd  LD",
+            "location": [
+              14.40348,
+              50.082631
+            ],
+            "coordIndex": 3,
+            "onTrackLocation": 1,
+            "distanceToNextStop": 0
+          }
+        ],
+        "lineString": {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                14.396601,
+                50.081918
+              ],
+              [
+                14.399157,
+                50.082262
+              ],
+              [
+                14.401968,
+                50.082639
+              ],
+              [
+                14.40348,
+                50.082655
+              ]
+            ]
+          }
+        },
+        "id": "L49D1__0"
+      }
+    ],
+    "origin": "Petřín LD",
+    "destination": "Újezd  LD"
+  }
+}

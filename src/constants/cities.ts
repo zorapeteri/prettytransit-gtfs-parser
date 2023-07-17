@@ -3,6 +3,7 @@ export default [
   'london',
   'budapest',
   'vienna',
+  'prague',
   'brighton',
   'potsdam',
   'szombathely',
