@@ -1,5 +1,6 @@
 {
   "metro": {
+    "name": "Metro",
     "agency_id": "1",
     "route_type": "1",
     "colors": {
@@ -8,6 +9,7 @@
     }
   },
   "tram": {
+    "name": "Tram",
     "agency_id": "1",
     "route_type": "0",
     "colors": {
@@ -16,6 +18,7 @@
     }
   },
   "funicular": {
+    "name": "Funicular",
     "agency_id": "1",
     "route_type": "7",
     "colors": {
@@ -24,6 +27,7 @@
     }
   },
   "trolleybus": {
+    "name": "Trolleybus",
     "agency_id": "1",
     "route_type": "11",
     "colors": {
@@ -32,6 +36,7 @@
     }
   },
   "bus": {
+    "name": "Bus",
     "agency_id": "1",
     "route_type": "3",
     "colors": {
