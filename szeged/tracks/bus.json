@@ -8,7 +8,8 @@
         "bg": "#29B7CA",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "20"
     },
     "origin": "Petőfitelep, Fő tér",
     "destination": "Vadkerti tér, buszforduló",
@@ -2103,7 +2104,8 @@
         "bg": "#29B7CA",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "20"
     },
     "origin": "Vadkerti tér, buszforduló",
     "destination": "Petőfitelep, Fő tér",
@@ -4022,7 +4024,8 @@
         "bg": "#FEB2A8",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Délceg utca",
     "destination": "Szeged vasútállomás",
@@ -5753,7 +5756,8 @@
         "bg": "#FEB2A8",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Szeged vasútállomás",
     "destination": "Délceg utca",
@@ -7527,7 +7531,8 @@
         "bg": "#BDEAEE",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "36"
     },
     "origin": "Czékus utca",
     "destination": "Honvéd tér",
@@ -9498,7 +9503,8 @@
         "bg": "#BDEAEE",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "36"
     },
     "origin": "Honvéd tér",
     "destination": "Czékus utca",
@@ -11438,7 +11444,8 @@
         "bg": "#6D6875",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "60"
     },
     "origin": "Mars tér (Szent Rókus tér)",
     "destination": "Szőreg, malom",
@@ -12992,7 +12999,8 @@
         "bg": "#6D6875",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "60"
     },
     "origin": "Szőreg, malom",
     "destination": "Mars tér (Szent Rókus tér)",
@@ -14478,7 +14486,8 @@
         "bg": "#FFC8C1",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "64"
     },
     "origin": "Repülőtér",
     "destination": "Mars tér (üzletsor)",
@@ -15561,7 +15570,8 @@
         "bg": "#FFC8C1",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "64"
     },
     "origin": "Krematórium",
     "destination": "Mars tér (üzletsor)",
@@ -16674,7 +16684,8 @@
         "bg": "#FFC8C1",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "64"
     },
     "origin": "Krematórium",
     "destination": "Mars tér (üzletsor)",
@@ -17529,7 +17540,8 @@
         "bg": "#FFC8C1",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "64"
     },
     "origin": "Mars tér (üzletsor)",
     "destination": "Repülőtér",
@@ -18452,7 +18464,8 @@
         "bg": "#FFC8C1",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "64"
     },
     "origin": "Mars tér (üzletsor)",
     "destination": "Krematórium",
@@ -19226,7 +19239,8 @@
         "bg": "#FFC8C1",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "64"
     },
     "origin": "Repülőtér",
     "destination": "Mars tér (üzletsor)",
@@ -20053,7 +20067,8 @@
         "bg": "#FFC8C1",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "64"
     },
     "origin": "Kereskedő köz (EXPO)",
     "destination": "Mars tér (üzletsor)",
@@ -20779,7 +20794,8 @@
         "bg": "#FFC8C1",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "64"
     },
     "origin": "Mars tér (üzletsor)",
     "destination": "Repülőtér",
@@ -21831,7 +21847,8 @@
         "bg": "#FFC8C1",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "64"
     },
     "origin": "Mars tér (üzletsor)",
     "destination": "Kereskedő köz (EXPO)",
@@ -22577,7 +22594,8 @@
         "bg": "#E7D3D3",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "67"
     },
     "origin": "Szőreg, malom",
     "destination": "Sziksósfürdő",
@@ -25338,7 +25356,8 @@
         "bg": "#E7D3D3",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "67"
     },
     "origin": "Sziksósfürdő",
     "destination": "Szőreg, malom",
@@ -27949,7 +27968,8 @@
         "bg": "#F0E4E4",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "70"
     },
     "origin": "Mars tér (Szent Rókus tér)",
     "destination": "Füvészkert",
@@ -28928,7 +28948,8 @@
         "bg": "#F0E4E4",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "70"
     },
     "origin": "Füvészkert",
     "destination": "Mars tér (Szent Rókus tér)",
@@ -29883,7 +29904,8 @@
         "bg": "#CE6A85",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "71"
     },
     "origin": "Katalin utca",
     "destination": "Szegedi Ipari Logisztikai Központ",
@@ -32203,7 +32225,8 @@
         "bg": "#CE6A85",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "71"
     },
     "origin": "Katalin utca",
     "destination": "Szegedi Ipari Logisztikai Központ",
@@ -34569,7 +34592,8 @@
         "bg": "#CE6A85",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "71"
     },
     "origin": "Szegedi Ipari Logisztikai Központ",
     "destination": "Katalin utca",
@@ -36835,7 +36859,8 @@
         "bg": "#CE6A85",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "71"
     },
     "origin": "Szegedi Ipari Logisztikai Központ",
     "destination": "Katalin utca",
@@ -38804,7 +38829,8 @@
         "bg": "#CE6A85",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "71"
     },
     "origin": "Szegedi Ipari Logisztikai Központ",
     "destination": "Katalin utca",
@@ -41044,7 +41070,8 @@
         "bg": "#251E3E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "72"
     },
     "origin": "Szegedi Ipari Logisztikai Központ",
     "destination": "Erdélyi tér",
@@ -43266,7 +43293,8 @@
         "bg": "#251E3E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "72"
     },
     "origin": "Szegedi Ipari Logisztikai Központ",
     "destination": "Erdélyi tér",
@@ -45488,7 +45516,8 @@
         "bg": "#251E3E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "72"
     },
     "origin": "Erdélyi tér",
     "destination": "Szegedi Ipari Logisztikai Központ",
@@ -47848,7 +47877,8 @@
         "bg": "#251E3E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "72"
     },
     "origin": "Szegedi Ipari Logisztikai Központ",
     "destination": "Erdélyi tér",
@@ -49707,7 +49737,8 @@
         "bg": "#251E3E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "72"
     },
     "origin": "Szegedi Ipari Logisztikai Központ",
     "destination": "Erdélyi tér",
@@ -51632,7 +51663,8 @@
         "bg": "#251E3E",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "72"
     },
     "origin": "Erdélyi tér",
     "destination": "Szegedi Ipari Logisztikai Központ",
@@ -53986,7 +54018,8 @@
         "bg": "#FACAA7",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "73"
     },
     "origin": "Csatár utca",
     "destination": "Mars tér (autóbusz-állomás)",
@@ -55082,7 +55115,8 @@
         "bg": "#FACAA7",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "73"
     },
     "origin": "Mars tér (autóbusz-állomás)",
     "destination": "Csatár utca",
@@ -56187,7 +56221,8 @@
         "bg": "#84D0C9",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "74"
     },
     "origin": "Gyálarét",
     "destination": "Csatár utca",
@@ -58607,7 +58642,8 @@
         "bg": "#84D0C9",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "74"
     },
     "origin": "Csatár utca",
     "destination": "Gyálarét",
@@ -61002,7 +61038,8 @@
         "bg": "#4B7C59",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "75"
     },
     "origin": "Czékus utca",
     "destination": "Mars tér (üzletsor)",
@@ -62786,7 +62823,8 @@
         "bg": "#4B7C59",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "75"
     },
     "origin": "Mars tér (üzletsor)",
     "destination": "Czékus utca",
@@ -64429,7 +64467,8 @@
         "bg": "#68B0AC",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "76"
     },
     "origin": "Harcos utca",
     "destination": "Mars tér (Mikszáth Kálmán utca)",
@@ -65952,7 +65991,8 @@
         "bg": "#68B0AC",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "76"
     },
     "origin": "Mars tér (Mikszáth Kálmán utca)",
     "destination": "Harcos utca",
@@ -67511,7 +67551,8 @@
         "bg": "#88D8B0",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "77"
     },
     "origin": "Tarján, víztorony",
     "destination": "Szeged vasútállomás",
@@ -68571,7 +68612,8 @@
         "bg": "#88D8B0",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "77"
     },
     "origin": "Völgyérhát utca",
     "destination": "Szeged vasútállomás",
@@ -70179,7 +70221,8 @@
         "bg": "#88D8B0",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "77"
     },
     "origin": "Szeged vasútállomás",
     "destination": "Völgyérhát utca",
@@ -71802,7 +71845,8 @@
         "bg": "#6497B1",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "78"
     },
     "origin": "Mars tér (üzletsor)",
     "destination": "Mars tér (üzletsor)",
@@ -73451,7 +73495,8 @@
         "bg": "#B3CDE0",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "84"
     },
     "origin": "Gabonakutató",
     "destination": "Makkosház",
@@ -74683,7 +74728,8 @@
         "bg": "#B3CDE0",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "84"
     },
     "origin": "Makkosház",
     "destination": "Gabonakutató",
@@ -75859,7 +75905,8 @@
         "bg": "#EAD2AC",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "90"
     },
     "origin": "Gabonakutató",
     "destination": "Szeged vasútállomás",
@@ -78296,7 +78343,8 @@
         "bg": "#EAD2AC",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "90"
     },
     "origin": "Szeged vasútállomás",
     "destination": "Gabonakutató",
@@ -80625,7 +80673,8 @@
         "bg": "#8FC0A9",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "71A"
     },
     "origin": "Mars tér (Mikszáth Kálmán utca)",
     "destination": "Katalin utca",
@@ -81798,7 +81847,8 @@
         "bg": "#8FC0A9",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "71A"
     },
     "origin": "Katalin utca",
     "destination": "Mars tér (Mikszáth Kálmán utca)",
@@ -82883,7 +82933,8 @@
         "bg": "#457B9D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "72A"
     },
     "origin": "Erdélyi tér",
     "destination": "Mars tér (Mikszáth Kálmán utca)",
@@ -83900,7 +83951,8 @@
         "bg": "#457B9D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "72A"
     },
     "origin": "Mars tér (Mikszáth Kálmán utca)",
     "destination": "Erdélyi tér",
@@ -84966,7 +85018,8 @@
         "bg": "#457B9D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "72A"
     },
     "origin": "Erdélyi tér",
     "destination": "ELI lézeres kutatóközpont",
@@ -86622,7 +86675,8 @@
         "bg": "#457B9D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "72A"
     },
     "origin": "ELI lézeres kutatóközpont",
     "destination": "Erdélyi tér",
@@ -88254,7 +88308,8 @@
         "bg": "#64A1F4",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "74A"
     },
     "origin": "Gyálarét",
     "destination": "Mars tér (Mikszáth Kálmán utca)",
@@ -89612,7 +89667,8 @@
         "bg": "#64A1F4",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "74A"
     },
     "origin": "Mars tér (Mikszáth Kálmán utca)",
     "destination": "Gyálarét",
@@ -91030,7 +91086,8 @@
         "bg": "#FF928C",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "77A"
     },
     "origin": "Völgyérhát utca",
     "destination": "Mars tér (autóbusz-állomás)",
@@ -92283,7 +92340,8 @@
         "bg": "#FF928C",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "77A"
     },
     "origin": "Mars tér (autóbusz-állomás)",
     "destination": "Völgyérhát utca",
@@ -93505,7 +93563,8 @@
         "bg": "#DCEDC1",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "78A"
     },
     "origin": "Mars tér (üzletsor)",
     "destination": "Mars tér (üzletsor)",
@@ -95056,7 +95115,8 @@
         "bg": "#A8DADC",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7F"
     },
     "origin": "Sziksósfürdő",
     "destination": "Mars tér (üzletsor)",
@@ -96496,7 +96556,8 @@
         "bg": "#A8DADC",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "7F"
     },
     "origin": "Mars tér (üzletsor)",
     "destination": "Sziksósfürdő",
@@ -97986,7 +98047,8 @@
         "bg": "#76B4BD",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "90F"
     },
     "origin": "Petőfitelep, Fő tér",
     "destination": "Vadaspark (Textilgyári út)",
@@ -99670,7 +99732,8 @@
         "bg": "#76B4BD",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "90F"
     },
     "origin": "Vadaspark (Textilgyári út)",
     "destination": "Petőfitelep, Fő tér",
@@ -101236,7 +101299,8 @@
         "bg": "#E2F0FF",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "79H"
     },
     "origin": "Szegedi Ipari Logisztikai Központ",
     "destination": "Mars tér (üzletsor)",
@@ -102683,7 +102747,8 @@
         "bg": "#E2F0FF",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "79H"
     },
     "origin": "Mars tér (autóbusz-állomás)",
     "destination": "Szegedi Ipari Logisztikai Központ",
@@ -103886,7 +103951,8 @@
         "bg": "#A8E6CF",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "90H"
     },
     "origin": "Szegedi Ipari Logisztikai Központ",
     "destination": "Lugas utca",
@@ -105538,7 +105604,8 @@
         "bg": "#A8E6CF",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "90H"
     },
     "origin": "Lugas utca",
     "destination": "Szegedi Ipari Logisztikai Központ",
@@ -107522,7 +107589,8 @@
         "bg": "#E9C46A",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "60Y"
     },
     "origin": "Mars tér (Szent Rókus tér)",
     "destination": "Szőreg, malom",
@@ -108970,7 +109038,8 @@
         "bg": "#E9C46A",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "60Y"
     },
     "origin": "Szőreg, malom",
     "destination": "Mars tér (Szent Rókus tér)",
@@ -110509,7 +110578,8 @@
         "bg": "#E63A46",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "67Y"
     },
     "origin": "Szőreg, malom",
     "destination": "Sziksósfürdő",
@@ -113295,7 +113365,8 @@
         "bg": "#E63A46",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "67Y"
     },
     "origin": "Sziksósfürdő",
     "destination": "Szőreg, malom",
@@ -116062,7 +116133,8 @@
         "bg": "#0000FF",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "73Y"
     },
     "origin": "Csatár utca",
     "destination": "Mars tér (autóbusz-állomás)",
@@ -117143,7 +117215,8 @@
         "bg": "#0000FF",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "73Y"
     },
     "origin": "Mars tér (autóbusz-állomás)",
     "destination": "Csatár utca",
@@ -118407,7 +118480,8 @@
         "bg": "#0000FF",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "74Y"
     },
     "origin": "Gyálarét",
     "destination": "Csatár utca",
@@ -120814,7 +120888,8 @@
         "bg": "#0000FF",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "74Y"
     },
     "origin": "Csatár utca",
     "destination": "Gyálarét",
@@ -123342,7 +123417,8 @@
         "bg": "#0000FF",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "76Y"
     },
     "origin": "Mars tér (Mikszáth Kálmán utca)",
     "destination": "Harcos utca",
@@ -124585,7 +124661,8 @@
         "bg": "#0000FF",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "76Y"
     },
     "origin": "Harcos utca",
     "destination": "Mars tér (Mikszáth Kálmán utca)",

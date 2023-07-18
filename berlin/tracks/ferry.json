@@ -8,7 +8,8 @@
         "bg": "#68B0AC",
         "fg": "#FFFFFF"
       },
-      "transportType": "ferry"
+      "transportType": "ferry",
+      "route_name": "F10"
     },
     "origin": "S Wannsee Bhf (Berlin)",
     "destination": "Alt-Kladow (Berlin)",
@@ -188,7 +189,8 @@
         "bg": "#68B0AC",
         "fg": "#FFFFFF"
       },
-      "transportType": "ferry"
+      "transportType": "ferry",
+      "route_name": "F10"
     },
     "origin": "Alt-Kladow (Berlin)",
     "destination": "S Wannsee Bhf (Berlin)",
@@ -367,7 +369,8 @@
         "bg": "#985276",
         "fg": "#FFFFFF"
       },
-      "transportType": "ferry"
+      "transportType": "ferry",
+      "route_name": "F11"
     },
     "origin": "Wilhelmstrand (Berlin)",
     "destination": "Berlin, Baumschulenstr./Fähre",
@@ -786,7 +789,8 @@
         "bg": "#985276",
         "fg": "#FFFFFF"
       },
-      "transportType": "ferry"
+      "transportType": "ferry",
+      "route_name": "F11"
     },
     "origin": "Berlin, Baumschulenstr./Fähre",
     "destination": "Wilhelmstrand (Berlin)",
@@ -1205,7 +1209,8 @@
         "bg": "#BDEAEE",
         "fg": "#000000"
       },
-      "transportType": "ferry"
+      "transportType": "ferry",
+      "route_name": "F12"
     },
     "origin": "Müggelbergallee (Berlin)",
     "destination": "Berlin, Wassersportallee",
@@ -1681,7 +1686,8 @@
         "bg": "#BDEAEE",
         "fg": "#000000"
       },
-      "transportType": "ferry"
+      "transportType": "ferry",
+      "route_name": "F12"
     },
     "origin": "Berlin, Wassersportallee",
     "destination": "Müggelbergallee (Berlin)",
@@ -2159,7 +2165,8 @@
         "bg": "#76B4BD",
         "fg": "#000000"
       },
-      "transportType": "ferry"
+      "transportType": "ferry",
+      "route_name": "F21"
     },
     "origin": "Berlin, Zum Seeblick",
     "destination": "Krampenburg (Berlin)",
@@ -2353,7 +2360,8 @@
         "bg": "#76B4BD",
         "fg": "#000000"
       },
-      "transportType": "ferry"
+      "transportType": "ferry",
+      "route_name": "F21"
     },
     "origin": "Krampenburg (Berlin)",
     "destination": "Berlin, Zum Seeblick",
@@ -2546,7 +2554,8 @@
         "bg": "#F6ABB6",
         "fg": "#000000"
       },
-      "transportType": "ferry"
+      "transportType": "ferry",
+      "route_name": "F23"
     },
     "origin": "Kruggasse (Berlin)",
     "destination": "Müggelwerderweg (Berlin)",
@@ -2822,7 +2831,8 @@
         "bg": "#F6ABB6",
         "fg": "#000000"
       },
-      "transportType": "ferry"
+      "transportType": "ferry",
+      "route_name": "F23"
     },
     "origin": "Müggelwerderweg (Berlin)",
     "destination": "Kruggasse (Berlin)",

@@ -8,7 +8,8 @@
         "bg": "#FFFF00",
         "fg": "#000000"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "1"
     },
     "origin": "Nagyállomás",
     "destination": "Nagyállomás",
@@ -1430,7 +1431,8 @@
         "bg": "#E2E202",
         "fg": "#000000"
       },
-      "transportType": "tram"
+      "transportType": "tram",
+      "route_name": "2"
     },
     "origin": "Nagyállomás",
     "destination": "Nagyállomás",

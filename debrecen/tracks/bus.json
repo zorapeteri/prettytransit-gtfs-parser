@@ -8,7 +8,8 @@
         "bg": "#4E7FF3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "10"
     },
     "origin": "Rugó utca (Thyssenkrupp)",
     "destination": "Nagyállomás",
@@ -1137,7 +1138,8 @@
         "bg": "#4E7FF3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "10"
     },
     "origin": "Nagyállomás",
     "destination": "Rugó utca (Thyssenkrupp)",
@@ -2283,7 +2285,8 @@
         "bg": "#20124D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "11"
     },
     "origin": "Borzán Gáspár utca",
     "destination": "Segner tér",
@@ -3325,7 +3328,8 @@
         "bg": "#20124D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "11"
     },
     "origin": "Segner tér",
     "destination": "Borzán Gáspár utca",
@@ -4371,7 +4375,8 @@
         "bg": "#AFC6FD",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "12"
     },
     "origin": "Klinikai Központ Auguszta",
     "destination": "Vincellér utca",
@@ -5276,7 +5281,8 @@
         "bg": "#AFC6FD",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "12"
     },
     "origin": "Vincellér utca",
     "destination": "Klinikai Központ Auguszta",
@@ -6305,7 +6311,8 @@
         "bg": "#9AD8D4",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "13"
     },
     "origin": "Segner tér",
     "destination": "Pallag",
@@ -7010,7 +7017,8 @@
         "bg": "#9AD8D4",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "13"
     },
     "origin": "Pallag",
     "destination": "Segner tér",
@@ -7764,7 +7772,8 @@
         "bg": "#6FBED4",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "14"
     },
     "origin": "Rugó utca (Thyssenkrupp)",
     "destination": "Nagyállomás",
@@ -8478,7 +8487,8 @@
         "bg": "#6FBED4",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "14"
     },
     "origin": "Nagyállomás",
     "destination": "Rugó utca (Thyssenkrupp)",
@@ -9153,7 +9163,8 @@
         "bg": "#84E005",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "15"
     },
     "origin": "Széna tér",
     "destination": "Doberdó utca",
@@ -10216,7 +10227,8 @@
         "bg": "#84E005",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "15"
     },
     "origin": "Doberdó utca",
     "destination": "Széna tér",
@@ -11343,7 +11355,8 @@
         "bg": "#4C1130",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "16"
     },
     "origin": "TEVA Gyógyszergyár",
     "destination": "Nagyállomás",
@@ -11904,7 +11917,8 @@
         "bg": "#4C1130",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "16"
     },
     "origin": "Nagyállomás",
     "destination": "TEVA Gyógyszergyár",
@@ -12479,7 +12493,8 @@
         "bg": "#2C95AA",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "17"
     },
     "origin": "Ondód",
     "destination": "Segner tér",
@@ -13140,7 +13155,8 @@
         "bg": "#2C95AA",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "17"
     },
     "origin": "Segner tér",
     "destination": "Ondód",
@@ -13757,7 +13773,8 @@
         "bg": "#0495D5",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "18"
     },
     "origin": "Nagyállomás",
     "destination": "Széna tér",
@@ -14333,7 +14350,8 @@
         "bg": "#0495D5",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "18"
     },
     "origin": "Széna tér",
     "destination": "Nagyállomás",
@@ -14893,7 +14911,8 @@
         "bg": "#FFAA01",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "19"
     },
     "origin": "Sámsoni út",
     "destination": "Vincellér utca",
@@ -16113,7 +16132,8 @@
         "bg": "#FFAA01",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "19"
     },
     "origin": "Vincellér utca",
     "destination": "Sámsoni út",
@@ -17245,7 +17265,8 @@
         "bg": "#FFDB6F",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Nyugati Ipari Park",
     "destination": "Nagyállomás",
@@ -17889,7 +17910,8 @@
         "bg": "#FFDB6F",
         "fg": "#000000"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "21"
     },
     "origin": "Nagyállomás",
     "destination": "Nyugati Ipari Park",
@@ -18505,7 +18527,8 @@
         "bg": "#860883",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "22"
     },
     "origin": "Vincellér utca",
     "destination": "Vincellér utca",
@@ -20376,7 +20399,8 @@
         "bg": "#9CC802",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "23"
     },
     "origin": "Doberdó utca",
     "destination": "Doberdó utca",
@@ -21835,7 +21859,8 @@
         "bg": "#B662B6",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "24"
     },
     "origin": "Vincellér utca",
     "destination": "Vincellér utca",
@@ -23747,7 +23772,8 @@
         "bg": "#0C3184",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "25"
     },
     "origin": "Vincellér utca",
     "destination": "Veres Péter utca",
@@ -24652,7 +24678,8 @@
         "bg": "#0C3184",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "25"
     },
     "origin": "Veres Péter utca",
     "destination": "Vincellér utca",
@@ -25741,7 +25768,8 @@
         "bg": "#D08900",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "30"
     },
     "origin": "Jégcsarnok",
     "destination": "Bánk",
@@ -27330,7 +27358,8 @@
         "bg": "#D08900",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "30"
     },
     "origin": "Bánk",
     "destination": "Jégcsarnok",
@@ -28902,7 +28931,8 @@
         "bg": "#9B003A",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "33"
     },
     "origin": "Nagymacs",
     "destination": "Segner tér",
@@ -29949,7 +29979,8 @@
         "bg": "#9B003A",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "33"
     },
     "origin": "Segner tér",
     "destination": "Nagymacs",
@@ -30940,7 +30971,8 @@
         "bg": "#167379",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "34"
     },
     "origin": "Felsőjózsa (Elek utca 191.)",
     "destination": "Segner tér",
@@ -32003,7 +32035,8 @@
         "bg": "#167379",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "34"
     },
     "origin": "Segner tér",
     "destination": "Felsőjózsa (Elek utca 191.)",
@@ -33015,7 +33048,8 @@
         "bg": "#167379",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "35"
     },
     "origin": "Felsőjózsai utca",
     "destination": "Segner tér",
@@ -33925,7 +33959,8 @@
         "bg": "#167379",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "35"
     },
     "origin": "Segner tér",
     "destination": "Felsőjózsai utca",
@@ -34791,7 +34826,8 @@
         "bg": "#167379",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "36"
     },
     "origin": "Alsójózsai utca",
     "destination": "Segner tér",
@@ -35766,7 +35802,8 @@
         "bg": "#167379",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "36"
     },
     "origin": "Segner tér",
     "destination": "Alsójózsai utca",
@@ -36738,7 +36775,8 @@
         "bg": "#0C343D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "37"
     },
     "origin": "Haláp",
     "destination": "Nagyállomás",
@@ -37542,7 +37580,8 @@
         "bg": "#0C343D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "37"
     },
     "origin": "Nagyállomás",
     "destination": "Haláp",
@@ -38466,7 +38505,8 @@
         "bg": "#44A0FF",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "39"
     },
     "origin": "Szepes",
     "destination": "Nagyállomás",
@@ -39021,7 +39061,8 @@
         "bg": "#44A0FF",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "39"
     },
     "origin": "Nagyállomás",
     "destination": "Szepes",
@@ -39608,7 +39649,8 @@
         "bg": "#2D882D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "41"
     },
     "origin": "Kinizsi Nyomda",
     "destination": "Vincellér utca",
@@ -40500,7 +40542,8 @@
         "bg": "#2D882D",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "41"
     },
     "origin": "Vincellér utca",
     "destination": "Kinizsi Nyomda",
@@ -41408,7 +41451,8 @@
         "bg": "#352502",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "42"
     },
     "origin": "Nyugati Ipari Park",
     "destination": "Nagyállomás",
@@ -42441,7 +42485,8 @@
         "bg": "#352502",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "42"
     },
     "origin": "Nagyállomás",
     "destination": "Nyugati Ipari Park",
@@ -43434,7 +43479,8 @@
         "bg": "#7F6127",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "43"
     },
     "origin": "Kishatár utca",
     "destination": "Nagyállomás",
@@ -44555,7 +44601,8 @@
         "bg": "#7F6127",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "43"
     },
     "origin": "Nagyállomás",
     "destination": "Kishatár utca",
@@ -45699,7 +45746,8 @@
         "bg": "#FF00A7",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "44"
     },
     "origin": "Nagyállomás",
     "destination": "Nagyállomás",
@@ -46545,7 +46593,8 @@
         "bg": "#082568",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "45"
     },
     "origin": "Vincellér utca",
     "destination": "Vámospércsi út",
@@ -47435,7 +47484,8 @@
         "bg": "#082568",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "45"
     },
     "origin": "Vámospércsi út",
     "destination": "Vincellér utca",
@@ -48261,7 +48311,8 @@
         "bg": "#FF9984",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "46"
     },
     "origin": "Inter Tan-Ker Zrt.",
     "destination": "Nagyállomás",
@@ -48874,7 +48925,8 @@
         "bg": "#FF9984",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "46"
     },
     "origin": "Nagyállomás",
     "destination": "Inter Tan-Ker Zrt.",
@@ -49470,7 +49522,8 @@
         "bg": "#6B4C0C",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "47"
     },
     "origin": "Nagyállomás",
     "destination": "Tégláskert utca",
@@ -50099,7 +50152,8 @@
         "bg": "#6B4C0C",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "47"
     },
     "origin": "Tégláskert utca",
     "destination": "Nagyállomás",
@@ -50761,7 +50815,8 @@
         "bg": "#03C1E5",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "48"
     },
     "origin": "Nagyállomás",
     "destination": "Pac",
@@ -51517,7 +51572,8 @@
         "bg": "#03C1E5",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "48"
     },
     "origin": "Pac",
     "destination": "Nagyállomás",
@@ -52249,7 +52305,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "49"
     },
     "origin": "Bhs Trans Kft.",
     "destination": "Segner tér",
@@ -52807,7 +52864,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "49"
     },
     "origin": "Segner tér",
     "destination": "Bhs Trans Kft.",
@@ -53542,7 +53600,8 @@
         "bg": "#26005C",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "92"
     },
     "origin": "Doberdó utca",
     "destination": "Nagyállomás",
@@ -55586,7 +55645,8 @@
         "bg": "#26005C",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "93"
     },
     "origin": "Nagyállomás",
     "destination": "Nagyállomás",
@@ -57430,7 +57490,8 @@
         "bg": "#26005C",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "94"
     },
     "origin": "Nagyállomás",
     "destination": "Nagyállomás",
@@ -59530,7 +59591,8 @@
         "bg": "#0C3184",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "125"
     },
     "origin": "Vincellér utca",
     "destination": "Veres Péter utca",
@@ -60513,7 +60575,8 @@
         "bg": "#FF752F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "146"
     },
     "origin": "Nagyállomás",
     "destination": "Nagyállomás",
@@ -61696,7 +61759,8 @@
         "bg": "#ACACAC",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "A1"
     },
     "origin": "Auchan Áruház",
     "destination": "Nagyállomás",
@@ -62173,7 +62237,8 @@
         "bg": "#ACACAC",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "A1"
     },
     "origin": "Nagyállomás",
     "destination": "Auchan Áruház",
@@ -62778,7 +62843,8 @@
         "bg": "#4E7FF3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "10A"
     },
     "origin": "Nagyállomás",
     "destination": "Doberdó utca",
@@ -63578,7 +63644,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "13A"
     },
     "origin": "Pallag",
     "destination": "Doberdó utca",
@@ -64126,7 +64193,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "13A"
     },
     "origin": "Doberdó utca",
     "destination": "Pallag",
@@ -64658,7 +64726,8 @@
         "bg": "#2C95AA",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "17A"
     },
     "origin": "Műanyaggyár",
     "destination": "Segner tér",
@@ -65012,7 +65081,8 @@
         "bg": "#2C95AA",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "17A"
     },
     "origin": "Segner tér",
     "destination": "Műanyaggyár",
@@ -65349,7 +65419,8 @@
         "bg": "#D08900",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "30A"
     },
     "origin": "Borzán Gáspár utca",
     "destination": "Jégcsarnok",
@@ -66170,7 +66241,8 @@
         "bg": "#D08900",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "30A"
     },
     "origin": "Jégcsarnok",
     "destination": "Borzán Gáspár utca",
@@ -66991,7 +67063,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "34A"
     },
     "origin": "Felsőjózsa (Elek utca 191.)",
     "destination": "Segner tér",
@@ -67889,7 +67962,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "34A"
     },
     "origin": "Segner tér",
     "destination": "Felsőjózsa (Elek utca 191.)",
@@ -68776,7 +68850,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "35A"
     },
     "origin": "Segner tér",
     "destination": "Felsőjózsai utca",
@@ -69524,7 +69599,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "35A"
     },
     "origin": "Felsőjózsai utca",
     "destination": "Segner tér",
@@ -70266,7 +70342,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "36A"
     },
     "origin": "Segner tér",
     "destination": "Alsójózsai utca",
@@ -71122,7 +71199,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "36A"
     },
     "origin": "Alsójózsai utca",
     "destination": "Segner tér",
@@ -71941,7 +72019,8 @@
         "bg": "#9B9600",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "49A"
     },
     "origin": "Krones Hungary Kft.",
     "destination": "Nagyállomás",
@@ -72450,7 +72529,8 @@
         "bg": "#9B9600",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "49A"
     },
     "origin": "Nagyállomás",
     "destination": "Bhs Trans Kft.",
@@ -72975,7 +73055,8 @@
         "bg": "#26005C",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "91A"
     },
     "origin": "Pósa utca",
     "destination": "Nagyállomás",
@@ -73555,7 +73636,8 @@
         "bg": "#C38904",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "46E"
     },
     "origin": "Inter Tan-Ker Zrt.",
     "destination": "Nagyállomás",
@@ -74011,7 +74093,8 @@
         "bg": "#C38904",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "46E"
     },
     "origin": "Nagyállomás",
     "destination": "Inter Tan-Ker Zrt.",
@@ -74517,7 +74600,8 @@
         "bg": "#C38904",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "46E"
     },
     "origin": "Inter Tan-Ker Zrt.",
     "destination": "Nagyállomás",
@@ -74906,7 +74990,8 @@
         "bg": "#C38904",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "46EY"
     },
     "origin": "Inter Tan-Ker Zrt.",
     "destination": "Nagyállomás",
@@ -75382,7 +75467,8 @@
         "bg": "#C38904",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "46EY"
     },
     "origin": "Nagyállomás",
     "destination": "Inter Tan-Ker Zrt.",
@@ -75908,7 +75994,8 @@
         "bg": "#26005C",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "15G"
     },
     "origin": "Inter Tan-Ker Zrt.",
     "destination": "Doberdó utca",
@@ -76580,7 +76667,8 @@
         "bg": "#26005C",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "15G"
     },
     "origin": "Doberdó utca",
     "destination": "Inter Tan-Ker Zrt.",
@@ -77224,7 +77312,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "46H"
     },
     "origin": "Határ út",
     "destination": "Nagyállomás",
@@ -77904,7 +77993,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "46H"
     },
     "origin": "Nagyállomás",
     "destination": "Határ út",
@@ -78556,7 +78646,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "49H"
     },
     "origin": "Krones Hungary Kft.",
     "destination": "Segner tér",
@@ -79279,7 +79370,8 @@
         "bg": "#6FBED4",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "14I"
     },
     "origin": "Rugó utca (Thyssenkrupp)",
     "destination": "Nagyállomás",
@@ -79943,7 +80035,8 @@
         "bg": "#6FBED4",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "14I"
     },
     "origin": "Nagyállomás",
     "destination": "Rugó utca (Thyssenkrupp)",
@@ -80667,7 +80760,8 @@
         "bg": "#D08900",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "30N"
     },
     "origin": "Nagyállomás",
     "destination": "Bánk",
@@ -81668,7 +81762,8 @@
         "bg": "#D08900",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "30N"
     },
     "origin": "Bánk",
     "destination": "Nagyállomás",
@@ -82571,7 +82666,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "34R"
     },
     "origin": "Felsőjózsa (Elek utca 191.)",
     "destination": "Doberdó utca",
@@ -83171,7 +83267,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "34R"
     },
     "origin": "Doberdó utca",
     "destination": "Felsőjózsa (Elek utca 191.)",
@@ -83753,7 +83850,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "35R"
     },
     "origin": "Felsőjózsai utca",
     "destination": "Doberdó utca",
@@ -84229,7 +84327,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "35R"
     },
     "origin": "Doberdó utca",
     "destination": "Felsőjózsai utca",
@@ -84699,7 +84798,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "36R"
     },
     "origin": "Doberdó utca",
     "destination": "Alsójózsai utca",
@@ -85253,7 +85353,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "36R"
     },
     "origin": "Alsójózsai utca",
     "destination": "Doberdó utca",
@@ -85777,7 +85878,8 @@
         "bg": "#4E7FF3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "10Y"
     },
     "origin": "Nagyállomás",
     "destination": "Rugó utca (Thyssenkrupp)",
@@ -86824,7 +86926,8 @@
         "bg": "#4E7FF3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "10Y"
     },
     "origin": "Rugó utca (Thyssenkrupp)",
     "destination": "Nagyállomás",
@@ -87847,7 +87950,8 @@
         "bg": "#39D400",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "15Y"
     },
     "origin": "Bayk András utca",
     "destination": "Doberdó utca",
@@ -88868,7 +88972,8 @@
         "bg": "#39D400",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "15Y"
     },
     "origin": "Doberdó utca",
     "destination": "Bayk András utca",
@@ -89940,7 +90045,8 @@
         "bg": "#007288",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "18Y"
     },
     "origin": "Széna tér",
     "destination": "Nagyállomás",
@@ -90571,7 +90677,8 @@
         "bg": "#007288",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "18Y"
     },
     "origin": "Nagyállomás",
     "destination": "Széna tér",
@@ -91102,7 +91209,8 @@
         "bg": "#860883",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "22Y"
     },
     "origin": "Vincellér utca",
     "destination": "Vincellér utca",
@@ -92601,7 +92709,8 @@
         "bg": "#23A400",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "23Y"
     },
     "origin": "Vámospércsi út",
     "destination": "Doberdó utca",
@@ -93490,7 +93599,8 @@
         "bg": "#23A400",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "23Y"
     },
     "origin": "Doberdó utca",
     "destination": "Vámospércsi út",
@@ -94435,7 +94545,8 @@
         "bg": "#B662B6",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "24Y"
     },
     "origin": "Vincellér utca",
     "destination": "Vincellér utca",
@@ -95966,7 +96077,8 @@
         "bg": "#1340AB",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "25Y"
     },
     "origin": "Veres Péter utca",
     "destination": "Vincellér utca",
@@ -96864,7 +96976,8 @@
         "bg": "#00D2EA",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "35Y"
     },
     "origin": "Felsőjózsai utca",
     "destination": "Segner tér",
@@ -97759,7 +97872,8 @@
         "bg": "#00D2EA",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "35Y"
     },
     "origin": "Segner tér",
     "destination": "Felsőjózsai utca",
@@ -98670,7 +98784,8 @@
         "bg": "#56AA56",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "41Y"
     },
     "origin": "Borzán Gáspár utca",
     "destination": "Vincellér utca",
@@ -99385,7 +99500,8 @@
         "bg": "#56AA56",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "41Y"
     },
     "origin": "Vincellér utca",
     "destination": "Borzán Gáspár utca",
@@ -100152,7 +100268,8 @@
         "bg": "#FF9984",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "46Y"
     },
     "origin": "Nagyállomás",
     "destination": "Inter Tan-Ker Zrt.",
@@ -100736,7 +100853,8 @@
         "bg": "#573F0F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "47Y"
     },
     "origin": "Tégláskert utca",
     "destination": "Nagyállomás",
@@ -101457,7 +101575,8 @@
         "bg": "#573F0F",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "47Y"
     },
     "origin": "Nagyállomás",
     "destination": "Tégláskert utca",
@@ -102087,7 +102206,8 @@
         "bg": "#26005C",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "90Y"
     },
     "origin": "Sámsoni út",
     "destination": "Pósa utca",
@@ -104352,7 +104472,8 @@
         "bg": "#26005C",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "91Y"
     },
     "origin": "Nagyállomás",
     "destination": "Pósa utca",
@@ -106645,7 +106766,8 @@
         "bg": "#1340AB",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "125Y"
     },
     "origin": "Veres Péter utca",
     "destination": "Vincellér utca",
@@ -107631,7 +107753,8 @@
         "bg": "#1340AB",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "125Y"
     },
     "origin": "Vincellér utca",
     "destination": "Veres Péter utca",
@@ -108721,7 +108844,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "35YA"
     },
     "origin": "Segner tér",
     "destination": "Felsőjózsai utca",
@@ -109475,7 +109599,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "35YA"
     },
     "origin": "Felsőjózsai utca",
     "destination": "Segner tér",
@@ -110169,7 +110294,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "35YR"
     },
     "origin": "Doberdó utca",
     "destination": "Felsőjózsai utca",
@@ -110669,7 +110795,8 @@
         "bg": "#2196F3",
         "fg": "#FFFFFF"
       },
-      "transportType": "bus"
+      "transportType": "bus",
+      "route_name": "35YR"
     },
     "origin": "Felsőjózsai utca",
     "destination": "Doberdó utca",
