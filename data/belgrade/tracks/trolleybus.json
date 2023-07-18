@@ -5,8 +5,8 @@
       "id": "00019",
       "name": "19",
       "colors": {
-        "bg": "#F37737",
-        "fg": "#000000"
+        "bg": "#FE4A49",
+        "fg": "#FFFFFF"
       },
       "transportType": "trolleybus"
     },
@@ -727,8 +727,8 @@
       "id": "00019",
       "name": "19",
       "colors": {
-        "bg": "#F37737",
-        "fg": "#000000"
+        "bg": "#FE4A49",
+        "fg": "#FFFFFF"
       },
       "transportType": "trolleybus"
     },
@@ -1477,8 +1477,8 @@
       "id": "00022",
       "name": "22",
       "colors": {
-        "bg": "#4B7C59",
-        "fg": "#FFFFFF"
+        "bg": "#FFCDB2",
+        "fg": "#000000"
       },
       "transportType": "trolleybus"
     },
@@ -2524,8 +2524,8 @@
       "id": "00022",
       "name": "22",
       "colors": {
-        "bg": "#4B7C59",
-        "fg": "#FFFFFF"
+        "bg": "#FFCDB2",
+        "fg": "#000000"
       },
       "transportType": "trolleybus"
     },
@@ -3571,8 +3571,8 @@
       "id": "00028",
       "name": "28",
       "colors": {
-        "bg": "#EAD2AC",
-        "fg": "#000000"
+        "bg": "#1E3557",
+        "fg": "#FFFFFF"
       },
       "transportType": "trolleybus"
     },
@@ -4834,8 +4834,8 @@
       "id": "00028",
       "name": "28",
       "colors": {
-        "bg": "#EAD2AC",
-        "fg": "#000000"
+        "bg": "#1E3557",
+        "fg": "#FFFFFF"
       },
       "transportType": "trolleybus"
     },
@@ -6069,7 +6069,7 @@
       "id": "00029",
       "name": "29",
       "colors": {
-        "bg": "#FFD3B6",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "trolleybus"
@@ -8356,7 +8356,7 @@
       "id": "00029",
       "name": "29",
       "colors": {
-        "bg": "#FFD3B6",
+        "bg": "#65C3BA",
         "fg": "#000000"
       },
       "transportType": "trolleybus"
@@ -10643,7 +10643,7 @@
       "id": "00040",
       "name": "40",
       "colors": {
-        "bg": "#FF6F68",
+        "bg": "#FF8B94",
         "fg": "#000000"
       },
       "transportType": "trolleybus"
@@ -12277,7 +12277,7 @@
       "id": "00040",
       "name": "40",
       "colors": {
-        "bg": "#FF6F68",
+        "bg": "#FF8B94",
         "fg": "#000000"
       },
       "transportType": "trolleybus"
@@ -13872,8 +13872,8 @@
       "id": "00041",
       "name": "41",
       "colors": {
-        "bg": "#FAF3DD",
-        "fg": "#000000"
+        "bg": "#FF3377",
+        "fg": "#FFFFFF"
       },
       "transportType": "trolleybus"
     },
@@ -15851,8 +15851,8 @@
       "id": "00041",
       "name": "41",
       "colors": {
-        "bg": "#FAF3DD",
-        "fg": "#000000"
+        "bg": "#FF3377",
+        "fg": "#FFFFFF"
       },
       "transportType": "trolleybus"
     },
