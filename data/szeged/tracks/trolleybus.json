@@ -8,7 +8,8 @@
         "bg": "#B3CDE0",
         "fg": "#000000"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "5"
     },
     "origin": "Körtöltés utca",
     "destination": "Gyermekkórház",
@@ -1674,7 +1675,8 @@
         "bg": "#B3CDE0",
         "fg": "#000000"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "5"
     },
     "origin": "Gyermekkórház",
     "destination": "Körtöltés utca",
@@ -3315,7 +3317,8 @@
         "bg": "#F6ABB6",
         "fg": "#000000"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "6"
     },
     "origin": "Gyermekkórház",
     "destination": "Vértói út",
@@ -4714,7 +4717,8 @@
         "bg": "#F6ABB6",
         "fg": "#000000"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "6"
     },
     "origin": "Vértói út",
     "destination": "Gyermekkórház",
@@ -6103,7 +6107,8 @@
         "bg": "#FEC3A6",
         "fg": "#000000"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "8"
     },
     "origin": "Klinikák",
     "destination": "Makkosház",
@@ -7638,7 +7643,8 @@
         "bg": "#FEC3A6",
         "fg": "#000000"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "8"
     },
     "origin": "Makkosház",
     "destination": "Klinikák",
@@ -9181,7 +9187,8 @@
         "bg": "#5C374C",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "9"
     },
     "origin": "Lugas utca",
     "destination": "Bakay Nándor utca",
@@ -10806,7 +10813,8 @@
         "bg": "#5C374C",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "9"
     },
     "origin": "Bakay Nándor utca",
     "destination": "Lugas utca",
@@ -12423,7 +12431,8 @@
         "bg": "#EF4035",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "10"
     },
     "origin": "Tarján, Víztorony tér",
     "destination": "Klinikák",
@@ -14002,7 +14011,8 @@
         "bg": "#EF4035",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "10"
     },
     "origin": "Klinikák",
     "destination": "Tarján, Víztorony tér",
@@ -15549,7 +15559,8 @@
         "bg": "#F5CE61",
         "fg": "#000000"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "19"
     },
     "origin": "Makkosház",
     "destination": "Tarján, Víztorony tér",
@@ -17548,7 +17559,8 @@
         "bg": "#F5CE61",
         "fg": "#000000"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "19"
     },
     "origin": "Tarján, Víztorony tér",
     "destination": "Makkosház",

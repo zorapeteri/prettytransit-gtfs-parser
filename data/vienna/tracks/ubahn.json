@@ -8,7 +8,8 @@
         "bg": "#E3000F",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U1"
     },
     "origin": "Alaudagasse",
     "destination": "Leopoldau",
@@ -2917,7 +2918,8 @@
         "bg": "#E3000F",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U1"
     },
     "origin": "Oberlaa",
     "destination": "Leopoldau",
@@ -6159,7 +6161,8 @@
         "bg": "#E3000F",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U1"
     },
     "origin": "Neulaa",
     "destination": "Leopoldau",
@@ -7437,7 +7440,8 @@
         "bg": "#E3000F",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U1"
     },
     "origin": "Alaudagasse",
     "destination": "Kagraner Platz",
@@ -8380,7 +8384,8 @@
         "bg": "#E3000F",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U1"
     },
     "origin": "Leopoldau",
     "destination": "Oberlaa",
@@ -11739,7 +11744,8 @@
         "bg": "#E3000F",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U1"
     },
     "origin": "Kagraner Platz",
     "destination": "Oberlaa",
@@ -12700,7 +12706,8 @@
         "bg": "#E3000F",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U1"
     },
     "origin": "Kagraner Platz",
     "destination": "Alaudagasse",
@@ -13635,7 +13642,8 @@
         "bg": "#E3000F",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U1"
     },
     "origin": "Leopoldau",
     "destination": "Alaudagasse",
@@ -16674,7 +16682,8 @@
         "bg": "#E3000F",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U1"
     },
     "origin": "Reumannplatz",
     "destination": "Leopoldau",
@@ -17717,7 +17726,8 @@
         "bg": "#E3000F",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U1"
     },
     "origin": "Stephansplatz",
     "destination": "Alaudagasse",
@@ -18075,7 +18085,8 @@
         "bg": "#A862A4",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U2"
     },
     "origin": "Schottentor",
     "destination": "Seestadt",
@@ -21208,7 +21219,8 @@
         "bg": "#A862A4",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U2"
     },
     "origin": "Schottentor",
     "destination": "Aspernstraße",
@@ -23213,7 +23225,8 @@
         "bg": "#A862A4",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U2"
     },
     "origin": "Donaumarina",
     "destination": "Seestadt",
@@ -24044,7 +24057,8 @@
         "bg": "#A862A4",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U2"
     },
     "origin": "Donaumarina",
     "destination": "Aspernstraße",
@@ -24511,7 +24525,8 @@
         "bg": "#A862A4",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U2"
     },
     "origin": "Stadion",
     "destination": "Seestadt",
@@ -25430,7 +25445,8 @@
         "bg": "#A862A4",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U2"
     },
     "origin": "Seestadt",
     "destination": "Schottentor",
@@ -29097,7 +29113,8 @@
         "bg": "#A862A4",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U2"
     },
     "origin": "Aspernstraße",
     "destination": "Schottentor",
@@ -30878,7 +30895,8 @@
         "bg": "#A862A4",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U2"
     },
     "origin": "Stadion",
     "destination": "Schottentor",
@@ -31719,7 +31737,8 @@
         "bg": "#A862A4",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U2"
     },
     "origin": "Seestadt",
     "destination": "Stadion",
@@ -32639,7 +32658,8 @@
         "bg": "#A862A4",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U2"
     },
     "origin": "Seestadt",
     "destination": "Donaumarina",
@@ -33425,7 +33445,8 @@
         "bg": "#A862A4",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U2"
     },
     "origin": "Donaustadtbrücke",
     "destination": "Seestadt",
@@ -34504,7 +34525,8 @@
         "bg": "#A862A4",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U2"
     },
     "origin": "Seestadt",
     "destination": "Donaustadtbrücke",
@@ -35583,7 +35605,8 @@
         "bg": "#A862A4",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U2"
     },
     "origin": "Schottentor",
     "destination": "Stadion",
@@ -36401,7 +36424,8 @@
         "bg": "#EF7C00",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U3"
     },
     "origin": "Ottakring",
     "destination": "Simmering",
@@ -40402,7 +40426,8 @@
         "bg": "#EF7C00",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U3"
     },
     "origin": "Simmering",
     "destination": "Ottakring",
@@ -44313,7 +44338,8 @@
         "bg": "#EF7C00",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U3"
     },
     "origin": "Erdberg",
     "destination": "Simmering",
@@ -44613,7 +44639,8 @@
         "bg": "#EF7C00",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U3"
     },
     "origin": "Erdberg",
     "destination": "Ottakring",
@@ -45494,7 +45521,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Schwedenplatz",
     "destination": "Hütteldorf",
@@ -48323,7 +48351,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Heiligenstadt",
     "destination": "Schottenring",
@@ -49898,7 +49927,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Hütteldorf",
     "destination": "Schwedenplatz",
@@ -52728,7 +52758,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Schottenring",
     "destination": "Heiligenstadt",
@@ -54303,7 +54334,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Hütteldorf",
     "destination": "Heiligenstadt",
@@ -59754,7 +59786,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Heiligenstadt",
     "destination": "Hütteldorf",
@@ -66200,7 +66233,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Spittelau",
     "destination": "Hütteldorf",
@@ -67805,7 +67839,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Hütteldorf",
     "destination": "Meidling Hauptstraße",
@@ -69930,7 +69965,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Längenfeldgasse",
     "destination": "Heiligenstadt",
@@ -72480,7 +72516,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Heiligenstadt",
     "destination": "Längenfeldgasse",
@@ -75040,7 +75077,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Margaretengürtel",
     "destination": "Heiligenstadt",
@@ -76118,7 +76156,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Meidling Hauptstraße",
     "destination": "Hütteldorf",
@@ -78243,7 +78282,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Heiligenstadt",
     "destination": "Margaretengürtel",
@@ -79322,7 +79362,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Karlsplatz",
     "destination": "Hütteldorf",
@@ -81861,7 +81902,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Heiligenstadt",
     "destination": "Landstraße",
@@ -84012,7 +84054,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Hütteldorf",
     "destination": "Karlsplatz",
@@ -86549,7 +86592,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Landstraße",
     "destination": "Heiligenstadt",
@@ -88701,7 +88745,8 @@
         "bg": "#319F49",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U4"
     },
     "origin": "Spittelau",
     "destination": "Landstraße",
@@ -89147,7 +89192,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Alterlaa",
     "destination": "Floridsdorf",
@@ -91229,7 +91275,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Floridsdorf",
     "destination": "Siebenhirten",
@@ -96039,7 +96086,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Erlaaer Straße",
     "destination": "Siebenhirten",
@@ -96306,7 +96354,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Floridsdorf",
     "destination": "Alterlaa",
@@ -98336,7 +98385,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Floridsdorf",
     "destination": "Michelbeuern-AKH",
@@ -99110,7 +99160,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Siebenhirten",
     "destination": "Floridsdorf",
@@ -103733,7 +103784,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Michelbeuern-AKH",
     "destination": "Floridsdorf",
@@ -104594,7 +104646,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Michelbeuern-AKH",
     "destination": "Siebenhirten",
@@ -105717,7 +105770,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Alterlaa",
     "destination": "Michelbeuern-AKH",
@@ -106588,7 +106642,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Floridsdorf",
     "destination": "Siebenhirten",
@@ -108431,7 +108486,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Siebenhirten",
     "destination": "Michelbeuern-AKH",
@@ -109550,7 +109606,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Floridsdorf",
     "destination": "Alterlaa",
@@ -111121,7 +111178,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Am Schöpfwerk",
     "destination": "Floridsdorf",
@@ -114448,7 +114506,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Siebenhirten",
     "destination": "Alterlaa",
@@ -115895,7 +115954,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Alterlaa",
     "destination": "Siebenhirten",
@@ -117356,7 +117416,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Floridsdorf",
     "destination": "Am Schöpfwerk",
@@ -120660,7 +120721,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Am Schöpfwerk",
     "destination": "Michelbeuern-AKH",
@@ -121439,7 +121501,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Erlaaer Straße",
     "destination": "Siebenhirten",
@@ -121659,7 +121722,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Alser Straße",
     "destination": "Am Schöpfwerk",
@@ -122369,7 +122433,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Michelbeuern-AKH",
     "destination": "Am Schöpfwerk",
@@ -123148,7 +123213,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Längenfeldgasse",
     "destination": "Siebenhirten",
@@ -123834,7 +123900,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Michelbeuern-AKH",
     "destination": "Neue Donau",
@@ -124490,7 +124557,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Siebenhirten",
     "destination": "Neue Donau",
@@ -126647,7 +126715,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Neue Donau",
     "destination": "Siebenhirten",
@@ -128802,7 +128871,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Neue Donau",
     "destination": "Michelbeuern-AKH",
@@ -129452,7 +129522,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Neue Donau",
     "destination": "Alterlaa",
@@ -130914,7 +130985,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Alterlaa",
     "destination": "Neue Donau",
@@ -132376,7 +132448,8 @@
         "bg": "#9D6830",
         "fg": "#FFFFFF"
       },
-      "transportType": "ubahn"
+      "transportType": "ubahn",
+      "route_name": "U6"
     },
     "origin": "Alser Straße",
     "destination": "Siebenhirten",

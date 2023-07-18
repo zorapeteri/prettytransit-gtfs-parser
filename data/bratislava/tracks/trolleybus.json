@@ -8,7 +8,8 @@
         "bg": "#776AB4",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "33"
     },
     "origin": "Dlhé diely",
     "destination": "Riviéra",
@@ -1182,7 +1183,8 @@
         "bg": "#776AB4",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "33"
     },
     "origin": "Riviéra",
     "destination": "Dlhé diely",
@@ -2461,7 +2463,8 @@
         "bg": "#E51A4B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "40"
     },
     "origin": "Hlavná stanica",
     "destination": "Nové SND",
@@ -3849,7 +3852,8 @@
         "bg": "#E51A4B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "40"
     },
     "origin": "Čulenova",
     "destination": "Nové SND",
@@ -3933,7 +3937,8 @@
         "bg": "#E51A4B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "40"
     },
     "origin": "Hlavná stanica",
     "destination": "Karpatská",
@@ -4070,7 +4075,8 @@
         "bg": "#E51A4B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "40"
     },
     "origin": "Nové SND",
     "destination": "Hlavná stanica",
@@ -5451,7 +5457,8 @@
         "bg": "#E51A4B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "40"
     },
     "origin": "Karpatská",
     "destination": "Hlavná stanica",
@@ -5564,7 +5571,8 @@
         "bg": "#E51A4B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "40"
     },
     "origin": "Nové SND",
     "destination": "Čulenova",
@@ -5648,7 +5656,8 @@
         "bg": "#A65430",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "42"
     },
     "origin": "Červený most",
     "destination": "Cintorín Vrakuňa",
@@ -7302,7 +7311,8 @@
         "bg": "#A65430",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "42"
     },
     "origin": "Košická",
     "destination": "Cintorín Vrakuňa",
@@ -7603,7 +7613,8 @@
         "bg": "#A65430",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "42"
     },
     "origin": "Sokolská",
     "destination": "Cintorín Vrakuňa",
@@ -7964,7 +7975,8 @@
         "bg": "#A65430",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "42"
     },
     "origin": "Cintorín Vrakuňa",
     "destination": "Červený most",
@@ -9527,7 +9539,8 @@
         "bg": "#A65430",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "42"
     },
     "origin": "Cintorín Vrakuňa",
     "destination": "Miletičova",
@@ -9803,7 +9816,8 @@
         "bg": "#B94B94",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "44"
     },
     "origin": "Búdková",
     "destination": "Koliba",
@@ -10711,7 +10725,8 @@
         "bg": "#B94B94",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "44"
     },
     "origin": "Koliba",
     "destination": "Búdková",
@@ -11580,7 +11595,8 @@
         "bg": "#B94B94",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "44"
     },
     "origin": "Koliba",
     "destination": "Búdková",
@@ -11954,7 +11970,8 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "45"
     },
     "origin": "Patrónka",
     "destination": "Červený most",
@@ -12082,7 +12099,8 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "45"
     },
     "origin": "Červený most",
     "destination": "Nár. onkol. ústav",
@@ -12341,7 +12359,8 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "45"
     },
     "origin": "Tesco Lamač",
     "destination": "Nár. onkol. ústav",
@@ -12526,7 +12545,8 @@
         "bg": "#898989",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "45"
     },
     "origin": "Nár. onkol. ústav",
     "destination": "Červený most",
@@ -12785,7 +12805,8 @@
         "bg": "#AD8B00",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "47"
     },
     "origin": "Červený most",
     "destination": "Zimný štadión",
@@ -13736,7 +13757,8 @@
         "bg": "#AD8B00",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "47"
     },
     "origin": "Zimný štadión",
     "destination": "Červený most",
@@ -14687,7 +14709,8 @@
         "bg": "#AD8B00",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "47"
     },
     "origin": "Lovinského",
     "destination": "Červený most",
@@ -14812,7 +14835,8 @@
         "bg": "#AD8B00",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "47"
     },
     "origin": "Červený most",
     "destination": "Zimný štadión",
@@ -15257,7 +15281,8 @@
         "bg": "#D16C1A",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "49"
     },
     "origin": "NÚSCH",
     "destination": "Mliekarenská",
@@ -16037,7 +16062,8 @@
         "bg": "#D16C1A",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "49"
     },
     "origin": "Nár. onkol. ústav",
     "destination": "Mliekarenská",
@@ -16910,7 +16936,8 @@
         "bg": "#D16C1A",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "49"
     },
     "origin": "NÚSCH",
     "destination": "Trnavské mýto",
@@ -17125,7 +17152,8 @@
         "bg": "#D16C1A",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "49"
     },
     "origin": "Mliekarenská",
     "destination": "NÚSCH",
@@ -17864,7 +17892,8 @@
         "bg": "#D16C1A",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "49"
     },
     "origin": "Mliekarenská",
     "destination": "Nár. onkol. ústav",
@@ -18755,7 +18784,8 @@
         "bg": "#D16C1A",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "49"
     },
     "origin": "Trnavské mýto",
     "destination": "NÚSCH",
@@ -18997,7 +19027,8 @@
         "bg": "#D16C1A",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "49"
     },
     "origin": "Trnavské mýto",
     "destination": "Nár. onkol. ústav",
@@ -19267,7 +19298,8 @@
         "bg": "#D16C1A",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "49"
     },
     "origin": "Vlárska",
     "destination": "NÚSCH",
@@ -19345,7 +19377,8 @@
         "bg": "#D16C1A",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "49"
     },
     "origin": "Nár. onkol. ústav",
     "destination": "Trnavské mýto",
@@ -19591,7 +19624,8 @@
         "bg": "#D16C1A",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "49"
     },
     "origin": "Ružová dolina",
     "destination": "Mliekarenská",
@@ -19662,7 +19696,8 @@
         "bg": "#D16C1A",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "49"
     },
     "origin": "Mliekarenská",
     "destination": "Saleziáni",
@@ -19765,7 +19800,8 @@
         "bg": "#2A4493",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "60"
     },
     "origin": "Rádiová",
     "destination": "Rajská",
@@ -20639,7 +20675,8 @@
         "bg": "#2A4493",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "60"
     },
     "origin": "Rajská",
     "destination": "Rádiová",
@@ -21513,7 +21550,8 @@
         "bg": "#0E562C",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "64"
     },
     "origin": "Rádiová",
     "destination": "Valašská",
@@ -22460,7 +22498,8 @@
         "bg": "#0E562C",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "64"
     },
     "origin": "Valašská",
     "destination": "Rádiová",
@@ -23380,7 +23419,8 @@
         "bg": "#007DB3",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "71"
     },
     "origin": "Hlavná stanica",
     "destination": "Čiližská",
@@ -24838,7 +24878,8 @@
         "bg": "#007DB3",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "71"
     },
     "origin": "Pod stanicou",
     "destination": "Čiližská",
@@ -25312,7 +25353,8 @@
         "bg": "#007DB3",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "71"
     },
     "origin": "Čiližská",
     "destination": "Hlavná stanica",
@@ -26920,7 +26962,8 @@
         "bg": "#007DB3",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "71"
     },
     "origin": "Čiližská",
     "destination": "Karpatská",
@@ -27411,7 +27454,8 @@
         "bg": "#007DB3",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "71"
     },
     "origin": "Trnavské mýto",
     "destination": "Hlavná stanica",
@@ -27534,7 +27578,8 @@
         "bg": "#007DB3",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "71"
     },
     "origin": "Čiližská",
     "destination": "Saleziáni",
@@ -27900,7 +27945,8 @@
         "bg": "#007DB3",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "71"
     },
     "origin": "Hlavná stanica",
     "destination": "Trnavské mýto",
@@ -28032,7 +28078,8 @@
         "bg": "#899D1B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "72"
     },
     "origin": "Rajská",
     "destination": "Čiližská",
@@ -29566,7 +29613,8 @@
         "bg": "#899D1B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "72"
     },
     "origin": "29. augusta",
     "destination": "Čiližská",
@@ -29990,7 +30038,8 @@
         "bg": "#899D1B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "72"
     },
     "origin": "Čiližská",
     "destination": "Rajská",
@@ -31451,7 +31500,8 @@
         "bg": "#899D1B",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "72"
     },
     "origin": "Čiližská",
     "destination": "Autobusová stanica",
@@ -31901,7 +31951,8 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "N44"
     },
     "origin": "Koliba",
     "destination": "Hodžovo nám.",
@@ -32140,7 +32191,8 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "N44"
     },
     "origin": "Hodžovo nám.",
     "destination": "Koliba",
@@ -32365,7 +32417,8 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "N47"
     },
     "origin": "Valašská",
     "destination": "Hodžovo nám.",
@@ -32663,7 +32716,8 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "N47"
     },
     "origin": "Hodžovo nám.",
     "destination": "Depo Hroboňova",
@@ -32907,7 +32961,8 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "N47"
     },
     "origin": "Hodžovo nám.",
     "destination": "Valašská",
@@ -33205,7 +33260,8 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "N72"
     },
     "origin": "Čiližská",
     "destination": "Hodžovo nám.",
@@ -33654,7 +33710,8 @@
         "bg": "#2B2A29",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "N72"
     },
     "origin": "Hodžovo nám.",
     "destination": "Čiližská",

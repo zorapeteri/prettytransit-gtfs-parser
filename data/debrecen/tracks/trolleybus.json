@@ -8,7 +8,8 @@
         "bg": "#FE1413",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "3"
     },
     "origin": "Segner tér",
     "destination": "Kassai út",
@@ -677,7 +678,8 @@
         "bg": "#FE1413",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "3"
     },
     "origin": "Segner tér",
     "destination": "Köztemető, főkapu",
@@ -1471,7 +1473,8 @@
         "bg": "#FE1413",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "3"
     },
     "origin": "Kassai út",
     "destination": "Segner tér",
@@ -2084,7 +2087,8 @@
         "bg": "#FE1413",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "3"
     },
     "origin": "Köztemető, főkapu",
     "destination": "Segner tér",
@@ -2782,7 +2786,8 @@
         "bg": "#FF4141",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "4"
     },
     "origin": "Segner tér",
     "destination": "Segner tér",
@@ -3665,7 +3670,8 @@
         "bg": "#BF0403",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "5"
     },
     "origin": "Köztemető, főkapu",
     "destination": "Segner tér",
@@ -4554,7 +4560,8 @@
         "bg": "#BF0403",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "5"
     },
     "origin": "Segner tér",
     "destination": "Köztemető, főkapu",
@@ -5571,7 +5578,8 @@
         "bg": "#BF0403",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "5A"
     },
     "origin": "Segner tér",
     "destination": "Kassai út",
@@ -6314,7 +6322,8 @@
         "bg": "#BF0403",
         "fg": "#FFFFFF"
       },
-      "transportType": "trolleybus"
+      "transportType": "trolleybus",
+      "route_name": "5A"
     },
     "origin": "Kassai út",
     "destination": "Segner tér",
