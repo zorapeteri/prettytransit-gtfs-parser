@@ -1,0 +1,26 @@
+{
+  "bus": {
+    "name": "Bus",
+    "route_type": "3",
+    "colors": {
+      "bg": "#009EE3",
+      "fg": "#FFFFFF"
+    }
+  },
+  "trolleybus": {
+    "name": "Trolleybus",
+    "route_type": "11",
+    "colors": {
+      "bg": "#E41F18",
+      "fg": "#FFFFFF"
+    }
+  },
+  "tram": {
+    "name": "Tram",
+    "route_type": "0",
+    "colors": {
+      "bg": "#FFD800",
+      "fg": "#000000"
+    }
+  }
+}
