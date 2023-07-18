@@ -8,8 +8,7 @@
         "bg": "#F56200",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "1"
+      "transportType": "tram"
     },
     "origin": "Hlavná stanica",
     "destination": "Nám. Ľ. Štúra",
@@ -1609,8 +1608,7 @@
         "bg": "#F56200",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "1"
+      "transportType": "tram"
     },
     "origin": "Hlavná stanica",
     "destination": "Úrad vlády SR",
@@ -1778,8 +1776,7 @@
         "bg": "#F56200",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "1"
+      "transportType": "tram"
     },
     "origin": "Nám. Ľ. Štúra",
     "destination": "Hlavná stanica",
@@ -3444,8 +3441,7 @@
         "bg": "#F56200",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "1"
+      "transportType": "tram"
     },
     "origin": "STU",
     "destination": "Hlavná stanica",
@@ -3619,8 +3615,7 @@
         "bg": "#E31E24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "3"
+      "transportType": "tram"
     },
     "origin": "Komisárky",
     "destination": "Jungmannova",
@@ -5565,8 +5560,7 @@
         "bg": "#E31E24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "3"
+      "transportType": "tram"
     },
     "origin": "Komisárky",
     "destination": "Račianske mýto",
@@ -5947,8 +5941,7 @@
         "bg": "#E31E24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "3"
+      "transportType": "tram"
     },
     "origin": "Mariánska",
     "destination": "Jungmannova",
@@ -6164,8 +6157,7 @@
         "bg": "#E31E24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "3"
+      "transportType": "tram"
     },
     "origin": "Jungmannova",
     "destination": "Komisárky",
@@ -8017,8 +8009,7 @@
         "bg": "#E31E24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "3"
+      "transportType": "tram"
     },
     "origin": "Račianske mýto",
     "destination": "Komisárky",
@@ -8394,8 +8385,7 @@
         "bg": "#E31E24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "3"
+      "transportType": "tram"
     },
     "origin": "Centrum",
     "destination": "Komisárky",
@@ -8790,8 +8780,7 @@
         "bg": "#E31E24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "3"
+      "transportType": "tram"
     },
     "origin": "Komisárky",
     "destination": "Centrum",
@@ -9193,8 +9182,7 @@
         "bg": "#E31E24",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "3"
+      "transportType": "tram"
     },
     "origin": "Jungmannova",
     "destination": "Mariánska",
@@ -9418,8 +9406,7 @@
         "bg": "#5071B9",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "4"
+      "transportType": "tram"
     },
     "origin": "Krížna",
     "destination": "Stn. Nové Mesto",
@@ -9671,8 +9658,7 @@
         "bg": "#5071B9",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "4"
+      "transportType": "tram"
     },
     "origin": "Pri kríži",
     "destination": "Zlaté piesky",
@@ -11226,8 +11212,7 @@
         "bg": "#5071B9",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "4"
+      "transportType": "tram"
     },
     "origin": "Chatam Sófer",
     "destination": "Zlaté piesky",
@@ -11584,8 +11569,7 @@
         "bg": "#5071B9",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "4"
+      "transportType": "tram"
     },
     "origin": "Jurajov dvor",
     "destination": "Zlaté piesky",
@@ -11718,8 +11702,7 @@
         "bg": "#5071B9",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "4"
+      "transportType": "tram"
     },
     "origin": "Pri kríži",
     "destination": "Stn. Nové Mesto",
@@ -13117,8 +13100,7 @@
         "bg": "#5071B9",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "4"
+      "transportType": "tram"
     },
     "origin": "Pri kríži",
     "destination": "Mariánska",
@@ -13558,8 +13540,7 @@
         "bg": "#5071B9",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "4"
+      "transportType": "tram"
     },
     "origin": "Stn. Nové Mesto",
     "destination": "Pri kríži",
@@ -14892,8 +14873,7 @@
         "bg": "#5071B9",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "4"
+      "transportType": "tram"
     },
     "origin": "Zlaté piesky",
     "destination": "Pri kríži",
@@ -16431,8 +16411,7 @@
         "bg": "#5071B9",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "4"
+      "transportType": "tram"
     },
     "origin": "Mariánska",
     "destination": "Pri kríži",
@@ -16886,8 +16865,7 @@
         "bg": "#5071B9",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "4"
+      "transportType": "tram"
     },
     "origin": "Magnetová",
     "destination": "Pri kríži",
@@ -17502,8 +17480,7 @@
         "bg": "#5071B9",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "4"
+      "transportType": "tram"
     },
     "origin": "Pri kríži",
     "destination": "Magnetová",
@@ -18082,8 +18059,7 @@
         "bg": "#5071B9",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "4"
+      "transportType": "tram"
     },
     "origin": "Stn. Nové Mesto",
     "destination": "Krížna",
@@ -18298,8 +18274,7 @@
         "bg": "#5071B9",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "4"
+      "transportType": "tram"
     },
     "origin": "Chatam Sófer",
     "destination": "Stn. Nové Mesto",
@@ -18544,8 +18519,7 @@
         "bg": "#FFED00",
         "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "7"
+      "transportType": "tram"
     },
     "origin": "Stn. Vinohrady",
     "destination": "Hlavná stanica",
@@ -18938,8 +18912,7 @@
         "bg": "#FFED00",
         "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "7"
+      "transportType": "tram"
     },
     "origin": "Depo Krasňany",
     "destination": "Komisárky",
@@ -19237,8 +19210,7 @@
         "bg": "#FFED00",
         "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "7"
+      "transportType": "tram"
     },
     "origin": "Hlavná stanica",
     "destination": "Komisárky",
@@ -19751,8 +19723,7 @@
         "bg": "#FFED00",
         "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "7"
+      "transportType": "tram"
     },
     "origin": "Komisárky",
     "destination": "Hlavná stanica",
@@ -20331,8 +20302,7 @@
         "bg": "#FFED00",
         "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "7"
+      "transportType": "tram"
     },
     "origin": "Hlavná stanica",
     "destination": "Stn. Vinohrady",
@@ -20659,8 +20629,7 @@
         "bg": "#FFED00",
         "fg": "#000000"
       },
-      "transportType": "tram",
-      "route_name": "7"
+      "transportType": "tram"
     },
     "origin": "Hlavná stanica",
     "destination": "Stn. Vinohrady",
@@ -20978,8 +20947,7 @@
         "bg": "#849717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Krížna",
     "destination": "Astronomická",
@@ -21269,8 +21237,7 @@
         "bg": "#849717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Kútiky",
     "destination": "Astronomická",
@@ -23429,8 +23396,7 @@
         "bg": "#849717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Poštová",
     "destination": "Astronomická",
@@ -23748,8 +23714,7 @@
         "bg": "#849717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Astronomická",
     "destination": "Kútiky",
@@ -25941,8 +25906,7 @@
         "bg": "#849717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Trnavské mýto",
     "destination": "Kútiky",
@@ -26282,8 +26246,7 @@
         "bg": "#849717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Blumentál",
     "destination": "Kútiky",
@@ -26579,8 +26542,7 @@
         "bg": "#849717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Kútiky",
     "destination": "Blumentál",
@@ -26857,8 +26819,7 @@
         "bg": "#849717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Kútiky",
     "destination": "Krížna",
@@ -27156,8 +27117,7 @@
         "bg": "#849717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Astronomická",
     "destination": "Poštová",
@@ -27486,8 +27446,7 @@
         "bg": "#849717",
         "fg": "#FFFFFF"
       },
-      "transportType": "tram",
-      "route_name": "9"
+      "transportType": "tram"
     },
     "origin": "Astronomická",
     "destination": "Krížna",
