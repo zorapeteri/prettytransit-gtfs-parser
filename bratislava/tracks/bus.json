@@ -5,7 +5,7 @@
       "id": "20008",
       "name": "20",
       "colors": {
-        "bg": "#E7D3D3",
+        "bg": "#B2DBBF",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -380,7 +380,7 @@
       "id": "20008",
       "name": "20",
       "colors": {
-        "bg": "#E7D3D3",
+        "bg": "#B2DBBF",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -1250,7 +1250,7 @@
       "id": "20008",
       "name": "20",
       "colors": {
-        "bg": "#E7D3D3",
+        "bg": "#B2DBBF",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -1620,7 +1620,7 @@
       "id": "20008",
       "name": "20",
       "colors": {
-        "bg": "#E7D3D3",
+        "bg": "#B2DBBF",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -2545,7 +2545,7 @@
       "id": "20008",
       "name": "20",
       "colors": {
-        "bg": "#E7D3D3",
+        "bg": "#B2DBBF",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -6965,8 +6965,8 @@
       "id": "23006",
       "name": "23",
       "colors": {
-        "bg": "#031F4B",
-        "fg": "#FFFFFF"
+        "bg": "#A8E6CF",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -7446,8 +7446,8 @@
       "id": "23006",
       "name": "23",
       "colors": {
-        "bg": "#031F4B",
-        "fg": "#FFFFFF"
+        "bg": "#A8E6CF",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -7931,8 +7931,8 @@
       "id": "23006",
       "name": "23",
       "colors": {
-        "bg": "#031F4B",
-        "fg": "#FFFFFF"
+        "bg": "#A8E6CF",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -8185,8 +8185,8 @@
       "id": "23006",
       "name": "23",
       "colors": {
-        "bg": "#031F4B",
-        "fg": "#FFFFFF"
+        "bg": "#A8E6CF",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -8654,8 +8654,8 @@
       "id": "23006",
       "name": "23",
       "colors": {
-        "bg": "#031F4B",
-        "fg": "#FFFFFF"
+        "bg": "#A8E6CF",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -9119,8 +9119,8 @@
       "id": "25007",
       "name": "25",
       "colors": {
-        "bg": "#FF77AA",
-        "fg": "#000000"
+        "bg": "#008090",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -9374,8 +9374,8 @@
       "id": "25007",
       "name": "25",
       "colors": {
-        "bg": "#FF77AA",
-        "fg": "#000000"
+        "bg": "#008090",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -9581,8 +9581,8 @@
       "id": "25007",
       "name": "25",
       "colors": {
-        "bg": "#FF77AA",
-        "fg": "#000000"
+        "bg": "#008090",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -9788,8 +9788,8 @@
       "id": "25007",
       "name": "25",
       "colors": {
-        "bg": "#FF77AA",
-        "fg": "#000000"
+        "bg": "#008090",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -10043,7 +10043,7 @@
       "id": "26009",
       "name": "26",
       "colors": {
-        "bg": "#29B7CA",
+        "bg": "#5DD39E",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -10250,7 +10250,7 @@
       "id": "26009",
       "name": "26",
       "colors": {
-        "bg": "#29B7CA",
+        "bg": "#5DD39E",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -10505,7 +10505,7 @@
       "id": "26009",
       "name": "26",
       "colors": {
-        "bg": "#29B7CA",
+        "bg": "#5DD39E",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -10712,7 +10712,7 @@
       "id": "26009",
       "name": "26",
       "colors": {
-        "bg": "#29B7CA",
+        "bg": "#5DD39E",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -10967,8 +10967,8 @@
       "id": "29008",
       "name": "29",
       "colors": {
-        "bg": "#FED766",
-        "fg": "#000000"
+        "bg": "#01A0B0",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -12064,8 +12064,8 @@
       "id": "29008",
       "name": "29",
       "colors": {
-        "bg": "#FED766",
-        "fg": "#000000"
+        "bg": "#01A0B0",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -12687,8 +12687,8 @@
       "id": "29008",
       "name": "29",
       "colors": {
-        "bg": "#FED766",
-        "fg": "#000000"
+        "bg": "#01A0B0",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -13718,8 +13718,8 @@
       "id": "29008",
       "name": "29",
       "colors": {
-        "bg": "#FED766",
-        "fg": "#000000"
+        "bg": "#01A0B0",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -14378,8 +14378,8 @@
       "id": "29008",
       "name": "29",
       "colors": {
-        "bg": "#FED766",
-        "fg": "#000000"
+        "bg": "#01A0B0",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -15006,7 +15006,7 @@
       "id": "30006",
       "name": "30",
       "colors": {
-        "bg": "#DFC3C4",
+        "bg": "#FFB4A3",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -15843,7 +15843,7 @@
       "id": "30006",
       "name": "30",
       "colors": {
-        "bg": "#DFC3C4",
+        "bg": "#FFB4A3",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -18622,7 +18622,7 @@
       "id": "32005",
       "name": "32",
       "colors": {
-        "bg": "#B2DBBF",
+        "bg": "#FF928C",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -19427,7 +19427,7 @@
       "id": "32005",
       "name": "32",
       "colors": {
-        "bg": "#B2DBBF",
+        "bg": "#FF928C",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -20253,7 +20253,7 @@
       "id": "32005",
       "name": "32",
       "colors": {
-        "bg": "#B2DBBF",
+        "bg": "#FF928C",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -20452,8 +20452,8 @@
       "id": "35003",
       "name": "35",
       "colors": {
-        "bg": "#CC2A36",
-        "fg": "#FFFFFF"
+        "bg": "#FEC3A6",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -20762,8 +20762,8 @@
       "id": "35003",
       "name": "35",
       "colors": {
-        "bg": "#CC2A36",
-        "fg": "#FFFFFF"
+        "bg": "#FEC3A6",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -21072,7 +21072,7 @@
       "id": "36004",
       "name": "36",
       "colors": {
-        "bg": "#84C1FF",
+        "bg": "#FED766",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -21647,7 +21647,7 @@
       "id": "36004",
       "name": "36",
       "colors": {
-        "bg": "#84C1FF",
+        "bg": "#FED766",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -22240,7 +22240,7 @@
       "id": "37008",
       "name": "37",
       "colors": {
-        "bg": "#FDF498",
+        "bg": "#ADD6FF",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -23081,7 +23081,7 @@
       "id": "37008",
       "name": "37",
       "colors": {
-        "bg": "#FDF498",
+        "bg": "#ADD6FF",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -26024,7 +26024,7 @@
       "id": "41008",
       "name": "41",
       "colors": {
-        "bg": "#FFE066",
+        "bg": "#FF8C61",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -26582,7 +26582,7 @@
       "id": "41008",
       "name": "41",
       "colors": {
-        "bg": "#FFE066",
+        "bg": "#FF8C61",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -27172,8 +27172,8 @@
       "id": "43010",
       "name": "43",
       "colors": {
-        "bg": "#9DAFB7",
-        "fg": "#000000"
+        "bg": "#4B86B4",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -27610,8 +27610,8 @@
       "id": "43010",
       "name": "43",
       "colors": {
-        "bg": "#9DAFB7",
-        "fg": "#000000"
+        "bg": "#4B86B4",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -30879,8 +30879,8 @@
       "id": "51006",
       "name": "51",
       "colors": {
-        "bg": "#FFB4A3",
-        "fg": "#000000"
+        "bg": "#FF3377",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -31445,8 +31445,8 @@
       "id": "51006",
       "name": "51",
       "colors": {
-        "bg": "#FFB4A3",
-        "fg": "#000000"
+        "bg": "#FF3377",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -32011,8 +32011,8 @@
       "id": "51006",
       "name": "51",
       "colors": {
-        "bg": "#FFB4A3",
-        "fg": "#000000"
+        "bg": "#FF3377",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -32300,8 +32300,8 @@
       "id": "51006",
       "name": "51",
       "colors": {
-        "bg": "#FFB4A3",
-        "fg": "#000000"
+        "bg": "#FF3377",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -32589,8 +32589,8 @@
       "id": "52011",
       "name": "52",
       "colors": {
-        "bg": "#FFC8C1",
-        "fg": "#000000"
+        "bg": "#851E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -33017,8 +33017,8 @@
       "id": "52011",
       "name": "52",
       "colors": {
-        "bg": "#FFC8C1",
-        "fg": "#000000"
+        "bg": "#851E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -33518,8 +33518,8 @@
       "id": "52011",
       "name": "52",
       "colors": {
-        "bg": "#FFC8C1",
-        "fg": "#000000"
+        "bg": "#851E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -33894,8 +33894,8 @@
       "id": "52011",
       "name": "52",
       "colors": {
-        "bg": "#FFC8C1",
-        "fg": "#000000"
+        "bg": "#851E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -34299,8 +34299,8 @@
       "id": "52011",
       "name": "52",
       "colors": {
-        "bg": "#FFC8C1",
-        "fg": "#000000"
+        "bg": "#851E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -34775,8 +34775,8 @@
       "id": "52011",
       "name": "52",
       "colors": {
-        "bg": "#FFC8C1",
-        "fg": "#000000"
+        "bg": "#851E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -35300,7 +35300,7 @@
       "id": "53007",
       "name": "53",
       "colors": {
-        "bg": "#3DA4AB",
+        "bg": "#DCEDC1",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -35968,7 +35968,7 @@
       "id": "53007",
       "name": "53",
       "colors": {
-        "bg": "#3DA4AB",
+        "bg": "#DCEDC1",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -36148,7 +36148,7 @@
       "id": "53007",
       "name": "53",
       "colors": {
-        "bg": "#3DA4AB",
+        "bg": "#DCEDC1",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -36828,7 +36828,7 @@
       "id": "53007",
       "name": "53",
       "colors": {
-        "bg": "#3DA4AB",
+        "bg": "#DCEDC1",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -37065,8 +37065,8 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#025B97",
-        "fg": "#FFFFFF"
+        "bg": "#EAD2AC",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -37681,8 +37681,8 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#025B97",
-        "fg": "#FFFFFF"
+        "bg": "#EAD2AC",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -38227,8 +38227,8 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#025B97",
-        "fg": "#FFFFFF"
+        "bg": "#EAD2AC",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -38606,8 +38606,8 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#025B97",
-        "fg": "#FFFFFF"
+        "bg": "#EAD2AC",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -39000,8 +39000,8 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#025B97",
-        "fg": "#FFFFFF"
+        "bg": "#EAD2AC",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -39598,8 +39598,8 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#025B97",
-        "fg": "#FFFFFF"
+        "bg": "#EAD2AC",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -40131,8 +40131,8 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#025B97",
-        "fg": "#FFFFFF"
+        "bg": "#EAD2AC",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -40545,8 +40545,8 @@
       "id": "56009",
       "name": "56",
       "colors": {
-        "bg": "#025B97",
-        "fg": "#FFFFFF"
+        "bg": "#EAD2AC",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -40950,7 +40950,7 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#A8DADC",
+        "bg": "#B3CDE0",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -41262,7 +41262,7 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#A8DADC",
+        "bg": "#B3CDE0",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -41713,7 +41713,7 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#A8DADC",
+        "bg": "#B3CDE0",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -42025,7 +42025,7 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#A8DADC",
+        "bg": "#B3CDE0",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -42243,7 +42243,7 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#A8DADC",
+        "bg": "#B3CDE0",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -42456,7 +42456,7 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#A8DADC",
+        "bg": "#B3CDE0",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -42779,7 +42779,7 @@
       "id": "57005",
       "name": "57",
       "colors": {
-        "bg": "#A8DADC",
+        "bg": "#B3CDE0",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -42997,8 +42997,8 @@
       "id": "59003",
       "name": "59",
       "colors": {
-        "bg": "#7CC043",
-        "fg": "#000000"
+        "bg": "#FF5688",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -43474,8 +43474,8 @@
       "id": "59003",
       "name": "59",
       "colors": {
-        "bg": "#7CC043",
-        "fg": "#000000"
+        "bg": "#FF5688",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -43871,8 +43871,8 @@
       "id": "59003",
       "name": "59",
       "colors": {
-        "bg": "#7CC043",
-        "fg": "#000000"
+        "bg": "#FF5688",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -44308,8 +44308,8 @@
       "id": "59003",
       "name": "59",
       "colors": {
-        "bg": "#7CC043",
-        "fg": "#000000"
+        "bg": "#FF5688",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -44662,8 +44662,8 @@
       "id": "59003",
       "name": "59",
       "colors": {
-        "bg": "#7CC043",
-        "fg": "#000000"
+        "bg": "#FF5688",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -47532,8 +47532,8 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#985276",
-        "fg": "#FFFFFF"
+        "bg": "#F5CE61",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -48293,8 +48293,8 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#985276",
-        "fg": "#FFFFFF"
+        "bg": "#F5CE61",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -48751,8 +48751,8 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#985276",
-        "fg": "#FFFFFF"
+        "bg": "#F5CE61",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -48858,8 +48858,8 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#985276",
-        "fg": "#FFFFFF"
+        "bg": "#F5CE61",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -49548,8 +49548,8 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#985276",
-        "fg": "#FFFFFF"
+        "bg": "#F5CE61",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -49929,8 +49929,8 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#985276",
-        "fg": "#FFFFFF"
+        "bg": "#F5CE61",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -50426,8 +50426,8 @@
       "id": "63003",
       "name": "63",
       "colors": {
-        "bg": "#985276",
-        "fg": "#FFFFFF"
+        "bg": "#F5CE61",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -50793,7 +50793,7 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#FF5688",
+        "bg": "#FACAA7",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -51876,7 +51876,7 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#FF5688",
+        "bg": "#FACAA7",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -52312,7 +52312,7 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#FF5688",
+        "bg": "#FACAA7",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -52643,7 +52643,7 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#FF5688",
+        "bg": "#FACAA7",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -53784,7 +53784,7 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#FF5688",
+        "bg": "#FACAA7",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -54099,7 +54099,7 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#FF5688",
+        "bg": "#FACAA7",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -54550,7 +54550,7 @@
       "id": "65007",
       "name": "65",
       "colors": {
-        "bg": "#FF5688",
+        "bg": "#FACAA7",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -54968,8 +54968,8 @@
       "id": "66007",
       "name": "66",
       "colors": {
-        "bg": "#34A79C",
-        "fg": "#000000"
+        "bg": "#3DA4AB",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -55796,8 +55796,8 @@
       "id": "66007",
       "name": "66",
       "colors": {
-        "bg": "#34A79C",
-        "fg": "#000000"
+        "bg": "#3DA4AB",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -56014,8 +56014,8 @@
       "id": "66007",
       "name": "66",
       "colors": {
-        "bg": "#34A79C",
-        "fg": "#000000"
+        "bg": "#3DA4AB",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -56826,8 +56826,8 @@
       "id": "66007",
       "name": "66",
       "colors": {
-        "bg": "#34A79C",
-        "fg": "#000000"
+        "bg": "#3DA4AB",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -57030,8 +57030,8 @@
       "id": "66007",
       "name": "66",
       "colors": {
-        "bg": "#34A79C",
-        "fg": "#000000"
+        "bg": "#3DA4AB",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -57258,8 +57258,8 @@
       "id": "66007",
       "name": "66",
       "colors": {
-        "bg": "#34A79C",
-        "fg": "#000000"
+        "bg": "#3DA4AB",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -57502,7 +57502,7 @@
       "id": "67009",
       "name": "67",
       "colors": {
-        "bg": "#1E3557",
+        "bg": "#68B0AC",
         "fg": "#FFFFFF"
       },
       "transportType": "bus"
@@ -58240,7 +58240,7 @@
       "id": "67009",
       "name": "67",
       "colors": {
-        "bg": "#1E3557",
+        "bg": "#68B0AC",
         "fg": "#FFFFFF"
       },
       "transportType": "bus"
@@ -61692,7 +61692,7 @@
       "id": "69005",
       "name": "69",
       "colors": {
-        "bg": "#FACAA7",
+        "bg": "#FFE066",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -62008,7 +62008,7 @@
       "id": "69005",
       "name": "69",
       "colors": {
-        "bg": "#FACAA7",
+        "bg": "#FFE066",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -62388,7 +62388,7 @@
       "id": "69005",
       "name": "69",
       "colors": {
-        "bg": "#FACAA7",
+        "bg": "#FFE066",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -62736,7 +62736,7 @@
       "id": "70006",
       "name": "70",
       "colors": {
-        "bg": "#F0E4E4",
+        "bg": "#DFC3C4",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -63736,7 +63736,7 @@
       "id": "70006",
       "name": "70",
       "colors": {
-        "bg": "#F0E4E4",
+        "bg": "#DFC3C4",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -63951,7 +63951,7 @@
       "id": "70006",
       "name": "70",
       "colors": {
-        "bg": "#F0E4E4",
+        "bg": "#DFC3C4",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -64239,7 +64239,7 @@
       "id": "70006",
       "name": "70",
       "colors": {
-        "bg": "#F0E4E4",
+        "bg": "#DFC3C4",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -65223,7 +65223,7 @@
       "id": "70006",
       "name": "70",
       "colors": {
-        "bg": "#F0E4E4",
+        "bg": "#DFC3C4",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -65527,7 +65527,7 @@
       "id": "70006",
       "name": "70",
       "colors": {
-        "bg": "#F0E4E4",
+        "bg": "#DFC3C4",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -65747,7 +65747,7 @@
       "id": "74008",
       "name": "74",
       "colors": {
-        "bg": "#2AA8AB",
+        "bg": "#FFEFD7",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -66204,7 +66204,7 @@
       "id": "74008",
       "name": "74",
       "colors": {
-        "bg": "#2AA8AB",
+        "bg": "#FFEFD7",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -66366,7 +66366,7 @@
       "id": "74008",
       "name": "74",
       "colors": {
-        "bg": "#2AA8AB",
+        "bg": "#FFEFD7",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -66533,7 +66533,7 @@
       "id": "74008",
       "name": "74",
       "colors": {
-        "bg": "#2AA8AB",
+        "bg": "#FFEFD7",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -67017,7 +67017,7 @@
       "id": "74008",
       "name": "74",
       "colors": {
-        "bg": "#2AA8AB",
+        "bg": "#FFEFD7",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -67211,7 +67211,7 @@
       "id": "74008",
       "name": "74",
       "colors": {
-        "bg": "#2AA8AB",
+        "bg": "#FFEFD7",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -67378,7 +67378,7 @@
       "id": "75002",
       "name": "75",
       "colors": {
-        "bg": "#FF1654",
+        "bg": "#E7D3D3",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -68051,7 +68051,7 @@
       "id": "75002",
       "name": "75",
       "colors": {
-        "bg": "#FF1654",
+        "bg": "#E7D3D3",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -68249,7 +68249,7 @@
       "id": "75002",
       "name": "75",
       "colors": {
-        "bg": "#FF1654",
+        "bg": "#E7D3D3",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -68571,7 +68571,7 @@
       "id": "75002",
       "name": "75",
       "colors": {
-        "bg": "#FF1654",
+        "bg": "#E7D3D3",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -68773,7 +68773,7 @@
       "id": "75002",
       "name": "75",
       "colors": {
-        "bg": "#FF1654",
+        "bg": "#E7D3D3",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -69440,7 +69440,7 @@
       "id": "75002",
       "name": "75",
       "colors": {
-        "bg": "#FF1654",
+        "bg": "#E7D3D3",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -69746,8 +69746,8 @@
       "id": "77003",
       "name": "77",
       "colors": {
-        "bg": "#8874A3",
-        "fg": "#000000"
+        "bg": "#64A1F4",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -70001,8 +70001,8 @@
       "id": "77003",
       "name": "77",
       "colors": {
-        "bg": "#8874A3",
-        "fg": "#000000"
+        "bg": "#64A1F4",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -70288,8 +70288,8 @@
       "id": "77003",
       "name": "77",
       "colors": {
-        "bg": "#8874A3",
-        "fg": "#000000"
+        "bg": "#64A1F4",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -70543,8 +70543,8 @@
       "id": "77003",
       "name": "77",
       "colors": {
-        "bg": "#8874A3",
-        "fg": "#000000"
+        "bg": "#64A1F4",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -70830,8 +70830,8 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#FFEFD7",
-        "fg": "#000000"
+        "bg": "#009688",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -71642,8 +71642,8 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#FFEFD7",
-        "fg": "#000000"
+        "bg": "#009688",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -71979,8 +71979,8 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#FFEFD7",
-        "fg": "#000000"
+        "bg": "#009688",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -72557,8 +72557,8 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#FFEFD7",
-        "fg": "#000000"
+        "bg": "#009688",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -72789,8 +72789,8 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#FFEFD7",
-        "fg": "#000000"
+        "bg": "#009688",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -73117,8 +73117,8 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#FFEFD7",
-        "fg": "#000000"
+        "bg": "#009688",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -73913,8 +73913,8 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#FFEFD7",
-        "fg": "#000000"
+        "bg": "#009688",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -74505,8 +74505,8 @@
       "id": "78009",
       "name": "78",
       "colors": {
-        "bg": "#FFEFD7",
-        "fg": "#000000"
+        "bg": "#009688",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -74721,7 +74721,7 @@
       "id": "79004",
       "name": "79",
       "colors": {
-        "bg": "#B4838D",
+        "bg": "#FF99CC",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -74944,7 +74944,7 @@
       "id": "79004",
       "name": "79",
       "colors": {
-        "bg": "#B4838D",
+        "bg": "#FF99CC",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -84478,8 +84478,8 @@
       "id": "870046",
       "name": "87",
       "colors": {
-        "bg": "#F37737",
-        "fg": "#000000"
+        "bg": "#EF4035",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -85273,8 +85273,8 @@
       "id": "870046",
       "name": "87",
       "colors": {
-        "bg": "#F37737",
-        "fg": "#000000"
+        "bg": "#EF4035",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -86079,8 +86079,8 @@
       "id": "870046",
       "name": "87",
       "colors": {
-        "bg": "#F37737",
-        "fg": "#000000"
+        "bg": "#EF4035",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -86337,8 +86337,8 @@
       "id": "870046",
       "name": "87",
       "colors": {
-        "bg": "#F37737",
-        "fg": "#000000"
+        "bg": "#EF4035",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -88859,7 +88859,7 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#E2F0FF",
+        "bg": "#BDE783",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -89216,7 +89216,7 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#E2F0FF",
+        "bg": "#BDE783",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -89456,7 +89456,7 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#E2F0FF",
+        "bg": "#BDE783",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -89622,7 +89622,7 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#E2F0FF",
+        "bg": "#BDE783",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -90161,7 +90161,7 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#E2F0FF",
+        "bg": "#BDE783",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -90553,7 +90553,7 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#E2F0FF",
+        "bg": "#BDE783",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -91092,7 +91092,7 @@
       "id": "90993",
       "name": "90",
       "colors": {
-        "bg": "#E2F0FF",
+        "bg": "#BDE783",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -91234,8 +91234,8 @@
       "id": "91007",
       "name": "91",
       "colors": {
-        "bg": "#4B86B4",
-        "fg": "#000000"
+        "bg": "#4A91F2",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -92167,8 +92167,8 @@
       "id": "91007",
       "name": "91",
       "colors": {
-        "bg": "#4B86B4",
-        "fg": "#000000"
+        "bg": "#4A91F2",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -92545,8 +92545,8 @@
       "id": "91007",
       "name": "91",
       "colors": {
-        "bg": "#4B86B4",
-        "fg": "#000000"
+        "bg": "#4A91F2",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -92972,8 +92972,8 @@
       "id": "91007",
       "name": "91",
       "colors": {
-        "bg": "#4B86B4",
-        "fg": "#000000"
+        "bg": "#4A91F2",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -93880,8 +93880,8 @@
       "id": "92008",
       "name": "92",
       "colors": {
-        "bg": "#FF3377",
-        "fg": "#000000"
+        "bg": "#251E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -94439,8 +94439,8 @@
       "id": "92008",
       "name": "92",
       "colors": {
-        "bg": "#FF3377",
-        "fg": "#000000"
+        "bg": "#251E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -94950,8 +94950,8 @@
       "id": "92008",
       "name": "92",
       "colors": {
-        "bg": "#FF3377",
-        "fg": "#000000"
+        "bg": "#251E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -95509,8 +95509,8 @@
       "id": "92008",
       "name": "92",
       "colors": {
-        "bg": "#FF3377",
-        "fg": "#000000"
+        "bg": "#251E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -105677,8 +105677,8 @@
       "id": "96004",
       "name": "96",
       "colors": {
-        "bg": "#FF928C",
-        "fg": "#000000"
+        "bg": "#06AEDB",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -106514,8 +106514,8 @@
       "id": "96004",
       "name": "96",
       "colors": {
-        "bg": "#FF928C",
-        "fg": "#000000"
+        "bg": "#06AEDB",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -106719,8 +106719,8 @@
       "id": "96004",
       "name": "96",
       "colors": {
-        "bg": "#FF928C",
-        "fg": "#000000"
+        "bg": "#06AEDB",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -107496,8 +107496,8 @@
       "id": "96004",
       "name": "96",
       "colors": {
-        "bg": "#FF928C",
-        "fg": "#000000"
+        "bg": "#06AEDB",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -108056,8 +108056,8 @@
       "id": "96004",
       "name": "96",
       "colors": {
-        "bg": "#FF928C",
-        "fg": "#000000"
+        "bg": "#06AEDB",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -115999,7 +115999,7 @@
       "id": "123006",
       "name": "123",
       "colors": {
-        "bg": "#FE9C8F",
+        "bg": "#FE8A71",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -116528,7 +116528,7 @@
       "id": "123006",
       "name": "123",
       "colors": {
-        "bg": "#FE9C8F",
+        "bg": "#FE8A71",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -117064,8 +117064,8 @@
       "id": "130006",
       "name": "130",
       "colors": {
-        "bg": "#FEC3A6",
-        "fg": "#000000"
+        "bg": "#63ACE5",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -117418,8 +117418,8 @@
       "id": "130006",
       "name": "130",
       "colors": {
-        "bg": "#FEC3A6",
-        "fg": "#000000"
+        "bg": "#63ACE5",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -117740,8 +117740,8 @@
       "id": "139005",
       "name": "139",
       "colors": {
-        "bg": "#FF8C61",
-        "fg": "#000000"
+        "bg": "#7CC043",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -118177,8 +118177,8 @@
       "id": "139005",
       "name": "139",
       "colors": {
-        "bg": "#FF8C61",
-        "fg": "#000000"
+        "bg": "#7CC043",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -118646,7 +118646,7 @@
       "id": "144009",
       "name": "144",
       "colors": {
-        "bg": "#FF8B94",
+        "bg": "#F1F3BD",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -118788,7 +118788,7 @@
       "id": "144009",
       "name": "144",
       "colors": {
-        "bg": "#FF8B94",
+        "bg": "#F1F3BD",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -128035,8 +128035,8 @@
       "id": "421009",
       "name": "N21",
       "colors": {
-        "bg": "#50514F",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -128532,8 +128532,8 @@
       "id": "421009",
       "name": "N21",
       "colors": {
-        "bg": "#50514F",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -128728,8 +128728,8 @@
       "id": "421009",
       "name": "N21",
       "colors": {
-        "bg": "#50514F",
-        "fg": "#FFFFFF"
+        "bg": "#FDF498",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -129152,8 +129152,8 @@
       "id": "429006",
       "name": "N29",
       "colors": {
-        "bg": "#FFEEAD",
-        "fg": "#000000"
+        "bg": "#F37735",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -129617,8 +129617,8 @@
       "id": "429006",
       "name": "N29",
       "colors": {
-        "bg": "#FFEEAD",
-        "fg": "#000000"
+        "bg": "#F37735",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -130121,8 +130121,8 @@
       "id": "431009",
       "name": "N31",
       "colors": {
-        "bg": "#F1F3BD",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -130362,8 +130362,8 @@
       "id": "431009",
       "name": "N31",
       "colors": {
-        "bg": "#F1F3BD",
-        "fg": "#000000"
+        "bg": "#513B56",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -130610,8 +130610,8 @@
       "id": "433004",
       "name": "N33",
       "colors": {
-        "bg": "#4B7C59",
-        "fg": "#FFFFFF"
+        "bg": "#FFC426",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -130861,8 +130861,8 @@
       "id": "433004",
       "name": "N33",
       "colors": {
-        "bg": "#4B7C59",
-        "fg": "#FFFFFF"
+        "bg": "#FFC426",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -131326,8 +131326,8 @@
       "id": "433004",
       "name": "N33",
       "colors": {
-        "bg": "#4B7C59",
-        "fg": "#FFFFFF"
+        "bg": "#FFC426",
+        "fg": "#000000"
       },
       "transportType": "bus"
     },
@@ -131782,7 +131782,7 @@
       "id": "434009",
       "name": "N34",
       "colors": {
-        "bg": "#2A4D69",
+        "bg": "#457B9D",
         "fg": "#FFFFFF"
       },
       "transportType": "bus"
@@ -132277,7 +132277,7 @@
       "id": "434009",
       "name": "N34",
       "colors": {
-        "bg": "#2A4D69",
+        "bg": "#457B9D",
         "fg": "#FFFFFF"
       },
       "transportType": "bus"
@@ -132765,7 +132765,7 @@
       "id": "437008",
       "name": "N37",
       "colors": {
-        "bg": "#E5989B",
+        "bg": "#FF77AA",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -133186,7 +133186,7 @@
       "id": "437008",
       "name": "N37",
       "colors": {
-        "bg": "#E5989B",
+        "bg": "#FF77AA",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -133526,7 +133526,7 @@
       "id": "437008",
       "name": "N37",
       "colors": {
-        "bg": "#E5989B",
+        "bg": "#FF77AA",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -133866,7 +133866,7 @@
       "id": "437008",
       "name": "N37",
       "colors": {
-        "bg": "#E5989B",
+        "bg": "#FF77AA",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -134308,7 +134308,7 @@
       "id": "437008",
       "name": "N37",
       "colors": {
-        "bg": "#E5989B",
+        "bg": "#FF77AA",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -134789,7 +134789,7 @@
       "id": "437008",
       "name": "N37",
       "colors": {
-        "bg": "#E5989B",
+        "bg": "#FF77AA",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -135242,8 +135242,8 @@
       "id": "453007",
       "name": "N53",
       "colors": {
-        "bg": "#FE8A71",
-        "fg": "#000000"
+        "bg": "#3D1E6D",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -135730,8 +135730,8 @@
       "id": "453007",
       "name": "N53",
       "colors": {
-        "bg": "#FE8A71",
-        "fg": "#000000"
+        "bg": "#3D1E6D",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -136209,8 +136209,8 @@
       "id": "455005",
       "name": "N55",
       "colors": {
-        "bg": "#FFD3B6",
-        "fg": "#000000"
+        "bg": "#985276",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -136706,8 +136706,8 @@
       "id": "455005",
       "name": "N55",
       "colors": {
-        "bg": "#FFD3B6",
-        "fg": "#000000"
+        "bg": "#985276",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -137194,7 +137194,7 @@
       "id": "456009",
       "name": "N56",
       "colors": {
-        "bg": "#299D8F",
+        "bg": "#84D0C9",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -137517,7 +137517,7 @@
       "id": "456009",
       "name": "N56",
       "colors": {
-        "bg": "#299D8F",
+        "bg": "#84D0C9",
         "fg": "#000000"
       },
       "transportType": "bus"
@@ -137870,8 +137870,8 @@
       "id": "461007",
       "name": "N61",
       "colors": {
-        "bg": "#8FC0A9",
-        "fg": "#000000"
+        "bg": "#02B159",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },
@@ -138422,8 +138422,8 @@
       "id": "461007",
       "name": "N61",
       "colors": {
-        "bg": "#8FC0A9",
-        "fg": "#000000"
+        "bg": "#02B159",
+        "fg": "#FFFFFF"
       },
       "transportType": "bus"
     },

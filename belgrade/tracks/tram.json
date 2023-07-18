@@ -5,8 +5,8 @@
       "id": "00002",
       "name": "2",
       "colors": {
-        "bg": "#FFB4A3",
-        "fg": "#000000"
+        "bg": "#FE4A49",
+        "fg": "#FFFFFF"
       },
       "transportType": "tram"
     },
@@ -1193,8 +1193,8 @@
       "id": "00002",
       "name": "2",
       "colors": {
-        "bg": "#FFB4A3",
-        "fg": "#000000"
+        "bg": "#FE4A49",
+        "fg": "#FFFFFF"
       },
       "transportType": "tram"
     },
@@ -2421,7 +2421,7 @@
       "id": "00005",
       "name": "5",
       "colors": {
-        "bg": "#01A0B0",
+        "bg": "#FF928C",
         "fg": "#000000"
       },
       "transportType": "tram"
@@ -3612,7 +3612,7 @@
       "id": "00005",
       "name": "5",
       "colors": {
-        "bg": "#01A0B0",
+        "bg": "#FF928C",
         "fg": "#000000"
       },
       "transportType": "tram"
@@ -4818,8 +4818,8 @@
       "id": "00006",
       "name": "6",
       "colors": {
-        "bg": "#E7D3D3",
-        "fg": "#000000"
+        "bg": "#4282A4",
+        "fg": "#FFFFFF"
       },
       "transportType": "tram"
     },
@@ -5537,8 +5537,8 @@
       "id": "00006",
       "name": "6",
       "colors": {
-        "bg": "#E7D3D3",
-        "fg": "#000000"
+        "bg": "#4282A4",
+        "fg": "#FFFFFF"
       },
       "transportType": "tram"
     },
@@ -6247,8 +6247,8 @@
       "id": "00007",
       "name": "7",
       "colors": {
-        "bg": "#FE4A49",
-        "fg": "#000000"
+        "bg": "#251E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "tram"
     },
@@ -7999,8 +7999,8 @@
       "id": "00007",
       "name": "7",
       "colors": {
-        "bg": "#FE4A49",
-        "fg": "#000000"
+        "bg": "#251E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "tram"
     },
@@ -9759,7 +9759,7 @@
       "id": "00009",
       "name": "9",
       "colors": {
-        "bg": "#FF3377",
+        "bg": "#FF8C61",
         "fg": "#000000"
       },
       "transportType": "tram"
@@ -11593,7 +11593,7 @@
       "id": "00009",
       "name": "9",
       "colors": {
-        "bg": "#FF3377",
+        "bg": "#FF8C61",
         "fg": "#000000"
       },
       "transportType": "tram"
@@ -13436,8 +13436,8 @@
       "id": "00010",
       "name": "10",
       "colors": {
-        "bg": "#34A79C",
-        "fg": "#000000"
+        "bg": "#0792CF",
+        "fg": "#FFFFFF"
       },
       "transportType": "tram"
     },
@@ -14644,8 +14644,8 @@
       "id": "00010",
       "name": "10",
       "colors": {
-        "bg": "#34A79C",
-        "fg": "#000000"
+        "bg": "#0792CF",
+        "fg": "#FFFFFF"
       },
       "transportType": "tram"
     },
@@ -15876,7 +15876,7 @@
       "id": "00011",
       "name": "11",
       "colors": {
-        "bg": "#0E9AA7",
+        "bg": "#84D0C9",
         "fg": "#000000"
       },
       "transportType": "tram"
@@ -17161,7 +17161,7 @@
       "id": "00011",
       "name": "11",
       "colors": {
-        "bg": "#0E9AA7",
+        "bg": "#84D0C9",
         "fg": "#000000"
       },
       "transportType": "tram"
@@ -21033,8 +21033,8 @@
       "id": "10013",
       "name": "13",
       "colors": {
-        "bg": "#A8DADC",
-        "fg": "#000000"
+        "bg": "#651E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "tram"
     },
@@ -22390,8 +22390,8 @@
       "id": "10013",
       "name": "13",
       "colors": {
-        "bg": "#A8DADC",
-        "fg": "#000000"
+        "bg": "#651E3E",
+        "fg": "#FFFFFF"
       },
       "transportType": "tram"
     },
