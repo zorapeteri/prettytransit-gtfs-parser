@@ -1,8 +1,7 @@
-import colorContrast from 'color-contrast'
-
-export function getForegroundColor(bg: string) {
-  const black = colorContrast('#000000', bg)
-  const white = colorContrast('#FFFFFF', bg)
-
-  return black > white ? '#000000' : '#FFFFFF'
+export function getForegroundColor(hexcolor: string) {
+  var r = parseInt(hexcolor.substring(1, 3), 16)
+  var g = parseInt(hexcolor.substring(3, 5), 16)
+  var b = parseInt(hexcolor.substring(5, 7), 16)
+  var yiq = (r * 299 + g * 587 + b * 114) / 1000
+  return yiq >= 160 ? '#000000' : '#FFFFFF'
 }
