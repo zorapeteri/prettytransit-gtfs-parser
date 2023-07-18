@@ -5,6 +5,7 @@ export default [
   'vienna',
   'prague',
   'debrecen',
+  'szeged',
   'brighton',
   'potsdam',
   'szombathely',
