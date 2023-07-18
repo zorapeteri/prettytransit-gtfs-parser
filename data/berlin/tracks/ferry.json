@@ -5,8 +5,8 @@
       "id": "17429_1000",
       "name": "F10",
       "colors": {
-        "bg": "#84C1FF",
-        "fg": "#000000"
+        "bg": "#68B0AC",
+        "fg": "#FFFFFF"
       },
       "transportType": "ferry"
     },
@@ -185,8 +185,8 @@
       "id": "17429_1000",
       "name": "F10",
       "colors": {
-        "bg": "#84C1FF",
-        "fg": "#000000"
+        "bg": "#68B0AC",
+        "fg": "#FFFFFF"
       },
       "transportType": "ferry"
     },
@@ -364,8 +364,8 @@
       "id": "17430_1000",
       "name": "F11",
       "colors": {
-        "bg": "#64A1F4",
-        "fg": "#000000"
+        "bg": "#985276",
+        "fg": "#FFFFFF"
       },
       "transportType": "ferry"
     },
@@ -783,8 +783,8 @@
       "id": "17430_1000",
       "name": "F11",
       "colors": {
-        "bg": "#64A1F4",
-        "fg": "#000000"
+        "bg": "#985276",
+        "fg": "#FFFFFF"
       },
       "transportType": "ferry"
     },
@@ -1202,7 +1202,7 @@
       "id": "17431_1000",
       "name": "F12",
       "colors": {
-        "bg": "#E63A46",
+        "bg": "#BDEAEE",
         "fg": "#000000"
       },
       "transportType": "ferry"
@@ -1678,7 +1678,7 @@
       "id": "17431_1000",
       "name": "F12",
       "colors": {
-        "bg": "#E63A46",
+        "bg": "#BDEAEE",
         "fg": "#000000"
       },
       "transportType": "ferry"
@@ -2156,7 +2156,7 @@
       "id": "17432_1000",
       "name": "F21",
       "colors": {
-        "bg": "#F0E4E4",
+        "bg": "#76B4BD",
         "fg": "#000000"
       },
       "transportType": "ferry"
@@ -2350,7 +2350,7 @@
       "id": "17432_1000",
       "name": "F21",
       "colors": {
-        "bg": "#F0E4E4",
+        "bg": "#76B4BD",
         "fg": "#000000"
       },
       "transportType": "ferry"
@@ -2543,7 +2543,7 @@
       "id": "17433_1000",
       "name": "F23",
       "colors": {
-        "bg": "#03C39A",
+        "bg": "#F6ABB6",
         "fg": "#000000"
       },
       "transportType": "ferry"
@@ -2819,7 +2819,7 @@
       "id": "17433_1000",
       "name": "F23",
       "colors": {
-        "bg": "#03C39A",
+        "bg": "#F6ABB6",
         "fg": "#000000"
       },
       "transportType": "ferry"
